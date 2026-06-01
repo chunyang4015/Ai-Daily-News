@@ -1,0 +1,54 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import NewsCard from '../components/NewsCard.astro';
+import { getCollection } from 'astro:content';
+
+const allNews = await getCollection('news');
+const sorted = allNews.sort((a, b) => b.data.date.localeCompare(a.data.date));
+
+const todayData = sorted[0];
+const archiveDates = sorted.slice(1).map((item) => item.data.date);
+
+const today = new Date();
+const formattedDate = `${today.getFullYear()}.${String(today.getMonth() + 1).padStart(2, '0')}.${String(today.getDate()).padStart(2, '0')}`;
+const lastUpdate = todayData?.data.lastUpdate
+  ? new Date(todayData.data.lastUpdate).toLocaleString('zh-CN', {
+      year: 'numeric',
+      month: '2-digit',
+      day: '2-digit',
+      hour: '2-digit',
+      minute: '2-digit',
+      hour12: false,
+    })
+  : '';
+---
+
+<BaseLayout title={`AI 日报 — ${formattedDate}`}>
+  <div class="meta">
+    <span class="meta-count">今日 · {todayData?.data.stories.length ?? 0} 条资讯</span>
+    <span class="meta-update">更新于 {lastUpdate}</span>
+  </div>
+
+  <div class="news-list">
+    {todayData?.data.stories.map((story) => (
+      <NewsCard
+        id={story.id}
+        title={story.title}
+        titleCN={story.titleCN}
+        url={story.url}
+        source={story.source}
+        sourceIcon={story.sourceIcon}
+        pubDate={story.pubDate}
+        summary={story.summary}
+      />
+    ))}
+  </div>
+
+  {archiveDates.length > 0 && (
+    <nav class="archive-nav">
+      {archiveDates.map((date) => (
+        <a href={`/archive/${date}/`} class="archive-link">{date}</a>
+      ))}
+    </nav>
+  )}
+</BaseLayout>

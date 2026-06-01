@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import NewsCard from '../../components/NewsCard.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const allNews = await getCollection('news');
+  return allNews.map((entry) => ({
+    params: { date: entry.data.date },
+    props: { data: entry.data },
+  }));
+}
+
+const { data } = Astro.props;
+const { date } = Astro.params;
+
+const formattedDate = date!.replace(/-/g, '.');
+---
+
+<BaseLayout title={`AI 日报 — ${formattedDate}`}>
+  <div class="meta">
+    <span class="meta-count">{formattedDate} · {data.stories.length} 条资讯</span>
+    <a href="/" class="meta-update archive-link">← 返回今日</a>
+  </div>
+
+  <div class="news-list">
+    {data.stories.map((story: any) => (
+      <NewsCard
+        id={story.id}
+        title={story.title}
+        titleCN={story.titleCN}
+        url={story.url}
+        source={story.source}
+        sourceIcon={story.sourceIcon}
+        pubDate={story.pubDate}
+        summary={story.summary}
+      />
+    ))}
+  </div>
+</BaseLayout>

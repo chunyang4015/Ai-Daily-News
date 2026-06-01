@@ -1,0 +1,206 @@
+{
+  "date": "2026-05-22",
+  "lastUpdate": "2026-05-22T04:34:38.290Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "AI is just unauthorised plagiarism at a bigger scale",
+      "titleCN": "Hacker News 热议：AI 本质是大规模未经授权抄袭，引发开发者伦理争议",
+      "url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-05-21T13:38:12.000Z",
+      "summary": "HN 用户指出 AI 训练数据多来自未授权抓取，质疑其合法性与道德性。该观点挑战了主流 AI 公司的开发逻辑，引发关于数据版权与模型训练边界的激烈辩论。"
+    },
+    {
+      "id": 2,
+      "title": "Throwing AI-generated walls of text into conversations",
+      "titleCN": "AI 生成长篇大论刷屏对话？Hacker News 热议：警惕 AI 噪音污染",
+      "url": "https://noslopgrenade.com/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-05-21T09:31:15.000Z",
+      "summary": "HN 用户吐槽 AI 生成冗长文本干扰交流，呼吁限制 AI 回复长度。这一现象引发对对话式 AI 用户体验及信息密度的深度反思。"
+    },
+    {
+      "id": 3,
+      "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
+      "titleCN": "三星芯片员工狂揽34万美元奖金，AI 红利彻底引爆半导体行业",
+      "url": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-05-22T01:30:45.000Z",
+      "summary": "受益于 AI 芯片需求爆发，三星半导体员工平均获 34 万美元巨额奖金，凸显 AI 浪潮下半导体供应链的高额回报与行业热度。"
+    },
+    {
+      "id": 4,
+      "title": "Openai Cracks An 80 Year Math Belief",
+      "titleCN": "OpenAI 破解 80 年数学猜想，AI 辅助证明能力再获里程碑式突破",
+      "url": "https://www.therundown.ai/p/openai-cracks-an-80-year-math-belief",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-05-22T04:33:52.144Z",
+      "summary": "OpenAI 利用最新 AI 模型成功证明了一个困扰数学界 80 年的难题，展示了人工智能在复杂逻辑推理与科学发现中的颠覆性潜力。"
+    },
+    {
+      "id": 5,
+      "title": "Gemini Busy Agentic Day At Google I O",
+      "titleCN": "Google I/O 聚焦 Gemini 智能体，AI 自主行动能力成核心看点",
+      "url": "https://www.therundown.ai/p/gemini-busy-agentic-day-at-google-i-o",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-05-22T04:33:52.144Z",
+      "summary": "Google I/O 大会重点展示 Gemini 模型的 Agentic 能力，强调 AI 从对话转向自主执行复杂任务，引发对 AI 工作流变革的广泛关注。"
+    },
+    {
+      "id": 6,
+      "title": "Musk Openai Case Runs Out Of Time",
+      "titleCN": "马斯克诉 OpenAI 案因时效过期终止，AI 巨头法律博弈告一段落",
+      "url": "https://www.therundown.ai/p/musk-openai-case-runs-out-of-time",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-05-22T04:33:52.144Z",
+      "summary": "法院裁定马斯克对 OpenAI 的诉讼因超过法定时效而自动失效。这场关于 AI 非营利性质的长期法律拉锯战正式终结，OpenAI 得以继续其商业化路径。"
+    },
+    {
+      "id": 7,
+      "title": "Ai Anger Comes For Claude Monet",
+      "titleCN": "AI 愤怒攻击莫奈画作？The Rundown AI 揭露生成式 AI 的文化偏见与伦理危机",
+      "url": "https://www.therundown.ai/p/ai-anger-comes-for-claude-monet",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-05-22T04:33:52.144Z",
+      "summary": "The Rundown AI 报道 AI 生成工具对莫奈等经典艺术家的作品进行恶意篡改或排斥，引发关于算法偏见、版权保护及 AI 伦理的激烈讨论，警示技术滥用风险。"
+    },
+    {
+      "id": 8,
+      "title": "Openai Takes Codex Mobile",
+      "titleCN": "OpenAI 收购 Codex Mobile，AI 编程助手赛道再添重磅玩家",
+      "url": "https://www.therundown.ai/p/openai-takes-codex-mobile",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-05-22T04:33:52.144Z",
+      "summary": "OpenAI 正式收购 Codex Mobile，将其 AI 编程助手整合入生态。此举旨在强化开发者工具链，直接对标 Cursor 等竞品，加速 AI 辅助编程的商业化落地。"
+    },
+    {
+      "id": 9,
+      "title": "The Enterprise Shift Openai Saw Coming",
+      "titleCN": "OpenAI 预判成真：企业级 AI 转型加速，从实验走向核心业务",
+      "url": "https://www.therundown.ai/p/the-enterprise-shift-openai-saw-coming",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-05-22T04:33:52.144Z",
+      "summary": "OpenAI 指出企业正从 AI 实验转向大规模部署，重点解决集成与合规挑战。这一趋势标志着生成式 AI 正式进入企业核心工作流，重塑行业竞争格局。"
+    },
+    {
+      "id": 10,
+      "title": "AI-assisted engineers are burning out, is this fine?",
+      "titleCN": "AI 助工反噬工程师？Hacker News 热议：工具越智能， burnout 越严重",
+      "url": "https://evilmartians.com/chronicles/ai-assisted-engineers-are-burning-out-is-this-fine",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-05-21T20:10:34.000Z",
+      "summary": "HN 社区指出，AI 辅助编码并未减轻负担，反而因代码复杂度激增和审查压力导致工程师 burnout 加剧，引发对技术伦理的深刻反思。"
+    },
+    {
+      "id": 11,
+      "title": "Everything Google announced at I/O 2026: Gemini, Search, Android XR, & more",
+      "titleCN": "Google I/O 2026 重磅发布：Gemini 进化、Android XR 登场，搜索体验大改",
+      "url": "https://tldr.tech/tech/2026-05-22",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-05-22T04:33:49.138Z",
+      "summary": "Google 在 I/O 2026 大会公布 Gemini 模型迭代、Android XR 平台及搜索功能升级，旨在强化 AI 与硬件生态整合，应对 Apple Vision Pro 等竞争挑战。"
+    },
+    {
+      "id": 12,
+      "title": "Show HN: I Made a Claude Skill for Spec-Driven Development (SDD)",
+      "titleCN": "开发者打造 Claude 专属技能：Spec-Driven Development 落地，AI 编程范式再进化",
+      "url": "https://github.com/FredAntB/Spec-Driven-Development",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-05-21T12:49:07.000Z",
+      "summary": "该技能支持基于详细规格驱动的开发流程，将自然语言需求转化为结构化代码规范，提升 Claude 在复杂项目中的代码生成准确率与可维护性。"
+    },
+    {
+      "id": 13,
+      "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+      "titleCN": "Spotify 与环球音乐达成历史性协议，正式放行粉丝 AI 翻唱与混音",
+      "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-05-21T19:45:00.000Z",
+      "summary": "双方签署协议允许粉丝利用 AI 技术制作歌曲翻唱及混音作品，标志着流媒体平台与版权方在 AI 内容合规化上的重大突破，为粉丝创作开辟合法空间。"
+    },
+    {
+      "id": 14,
+      "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
+      "titleCN": "特朗普推迟 AI 安全行政令，称措辞成阻碍",
+      "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-05-21T17:30:45.000Z",
+      "summary": "特朗普以行政令语言表述存在歧义为由，暂缓发布 AI 安全指令。此举引发业界对监管落地时间及政策确定性的担忧，科技巨头需重新评估合规策略。"
+    },
+    {
+      "id": 15,
+      "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
+      "titleCN": "Spotify 引入 AI 问答与摘要功能，重塑播客交互体验",
+      "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-05-21T15:27:00.000Z",
+      "summary": "Spotify 新增 AI 驱动的播客问答及简报生成功能，允许用户通过自然语言交互快速定位内容，旨在提升长音频内容的信息获取效率与用户留存。"
+    },
+    {
+      "id": 16,
+      "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
+      "titleCN": "Tony Robbins 联手 Calm 前高管创办 The Path，主打更安全 AI 心理治疗",
+      "url": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-05-21T14:00:00.000Z",
+      "summary": "The Path 由知名教练 Tony Robbins 与 Calm 联合创始人创立，旨在通过 AI 提供更具安全性的心理治疗服务，填补市场空白。"
+    },
+    {
+      "id": 17,
+      "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
+      "titleCN": "Hark 获 7 亿美元 A 轮融资，打造神秘“通用”AI 界面挑战现有交互范式",
+      "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-05-21T14:00:00.000Z",
+      "summary": "Hark 宣布完成 7 亿美元 Series A 融资，致力于开发一种名为“通用”的 AI 界面，旨在打破应用壁垒，实现跨平台无缝交互，引发科技圈关注。"
+    },
+    {
+      "id": 18,
+      "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
+      "titleCN": "Google 强推 AI Agent 生态，消费者不买账引发战略质疑",
+      "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-05-21T13:52:23.000Z",
+      "summary": "Google 试图构建以 AI 代理为核心的消费级生态，但市场反馈冷淡。分析指出其面临用户接受度低、商业模式不清晰及竞品强势围剿等多重挑战，转型之路阻力重重。"
+    },
+    {
+      "id": 19,
+      "title": "First ever AI feature film premieres at the Cannes Film Festival",
+      "titleCN": "首部 AI 制作剧情长片亮相戛纳，电影业迎来颠覆性时刻",
+      "url": "https://www.cgmagonline.com/news/hell-grind-made-only-with-higgsfield-ai/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-05-22T04:14:37.000Z",
+      "summary": "首部完全由 AI 生成的剧情长片在戛纳电影节首映，引发关于创作伦理与艺术边界的激烈讨论，标志着生成式 AI 正式进军主流影视工业。"
+    },
+    {
+      "id": 20,
+      "title": "AI workflows: an industry optimising the wrong variables",
+      "titleCN": "AI 工作流优化误区：行业正跑偏关键变量",
+      "url": "https://adsurg.substack.com/p/navigating-ai-with-paper-maps",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-05-22T04:01:40.000Z",
+      "summary": "文章指出当前 AI 应用开发过度关注单一指标，忽视系统级效率与成本平衡，导致资源错配，呼吁重构优化目标。"
+    }
+  ]
+}

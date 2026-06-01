@@ -1,0 +1,206 @@
+{
+  "date": "2026-05-21",
+  "lastUpdate": "2026-05-21T12:09:16.206Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "titleCN": "OpenAI 模型推翻离散几何核心猜想，AI 辅助数学证明再获突破",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-05-20T19:05:30.000Z",
+      "summary": "OpenAI 最新模型成功证伪离散几何领域一个长期存在的核心猜想，展示了 AI 在复杂数学推理与发现反例方面的强大能力，引发学界对 AI 辅助科研模式的重新审视。"
+    },
+    {
+      "id": 2,
+      "title": "Anthropic is officially set to be profitable as of Q2 2026",
+      "titleCN": "Anthropic 官宣 2026 年 Q2 实现盈利，AI 行业竞争格局生变",
+      "url": "https://www.reddit.com/r/singularity/comments/1tj072c/anthropic_is_officially_set_to_be_profitable_as/",
+      "source": "Reddit",
+      "sourceIcon": "reddit",
+      "pubDate": "2026-05-20T21:47:25.000Z",
+      "summary": "Anthropic 宣布预计于 2026 年第二季度实现盈利，成为少数明确盈利路径的 AI 巨头，引发市场对 OpenAI 及 Google 盈利压力的关注。"
+    },
+    {
+      "id": 3,
+      "title": "OpenAI general purpose model had a breakthrough on famous 80 year old Erdos problem. “This marks the first time AI has autonomously solved a prominent open problem central to a field of mathematics”",
+      "titleCN": "OpenAI 模型自主破解 80 年数学难题，AI 首次独立解决核心开放问题",
+      "url": "https://www.reddit.com/r/singularity/comments/1tiwa59/openai_general_purpose_model_had_a_breakthrough/",
+      "source": "Reddit",
+      "sourceIcon": "reddit",
+      "pubDate": "2026-05-20T19:31:23.000Z",
+      "summary": "OpenAI 通用模型在 Erdos 问题上取得突破，首次实现 AI 自主解决数学领域的著名开放问题，标志着人工智能在数学推理领域的重大里程碑。"
+    },
+    {
+      "id": 4,
+      "title": "OAI researcher on Erdos problem: “This is the biggest deal in the history of AI so far. And it will look like a small deal at the end of the year.” (Buckle up)",
+      "titleCN": "OpenAI 研究员称解决埃尔德斯难题是 AI 史上最大突破，年底或成常态",
+      "url": "https://www.reddit.com/r/singularity/comments/1tj6tua/oai_researcher_on_erdos_problem_this_is_the/",
+      "source": "Reddit",
+      "sourceIcon": "reddit",
+      "pubDate": "2026-05-21T02:20:20.000Z",
+      "summary": "OpenAI 研究员在 Reddit 宣称解决埃尔德斯猜想是 AI 历史里程碑，并预言该技术年底将变得微不足道，引发社区对 AI 能力跃升的强烈关注与讨论。"
+    },
+    {
+      "id": 5,
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "titleCN": "OpenAI 模型推翻离散几何核心猜想，AI 证伪数学难题引热议",
+      "url": "https://www.reddit.com/r/artificial/comments/1tixhbv/an_openai_model_has_disproved_a_central/",
+      "source": "Reddit",
+      "sourceIcon": "reddit",
+      "pubDate": "2026-05-20T20:13:10.000Z",
+      "summary": "OpenAI 最新模型成功证伪离散几何领域一个核心猜想，展示 AI 在复杂数学推理中的突破能力，引发学界对 AI 辅助数学研究的重新评估。"
+    },
+    {
+      "id": 6,
+      "title": "Former Google CEO Eric Schmidt, Big Machine Records CEO Scott Borchetta &amp; Tavistock VP Gloria Caulfield were all booed at commencement speeches, as AI backlash is now hitting campus stages🇺🇸",
+      "titleCN": "AI 反噬校园：前 Google 掌门人 Schmidt 等高管毕业典礼遭起哄",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1tj4qqw/former_google_ceo_eric_schmidt_big_machine/",
+      "source": "Reddit",
+      "sourceIcon": "reddit",
+      "pubDate": "2026-05-21T00:49:46.000Z",
+      "summary": "前 Google CEO Schmidt、Big Machine 高管等因 AI 争议在毕业典礼上被嘘，反映公众对技术巨头的信任危机正蔓延至教育领域。"
+    },
+    {
+      "id": 7,
+      "title": "Anthropic is expanding to Colossus2. Will use GB200",
+      "titleCN": "Anthropic 豪赌 Colossus2：启用 GB200 集群，AI 算力军备竞赛再升级",
+      "url": "https://twitter.com/nottombrown/status/2057194829986300375",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-05-20T20:55:52.000Z",
+      "summary": "Anthropic 宣布 Colossus2 基础设施将采用 Nvidia GB200 芯片，旨在大幅提升 Claude 模型训练效率与规模，进一步巩固其在顶级 AI 厂商中的竞争地位。"
+    },
+    {
+      "id": 8,
+      "title": "Intuit to lay off over 3k employees to refocus on AI",
+      "titleCN": "Intuit 裁撤 3000 人全面转向 AI，传统软件业务遭遇断臂求生",
+      "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-05-21T00:36:01.000Z",
+      "summary": "Intuit 宣布大规模裁员以重构资源，将战略重心全面押注 AI 领域。此举标志着传统软件巨头在生成式 AI 浪潮下的激进转型，旨在通过技术重构提升核心竞争力。"
+    },
+    {
+      "id": 9,
+      "title": "A glimpse of Level 4? OpenAI model helps challenge an 80-year-old math assumption",
+      "titleCN": "OpenAI 模型挑战 80 年数学公理，Level 4 智能初现？",
+      "url": "https://www.reddit.com/r/singularity/comments/1tiw0vq/a_glimpse_of_level_4_openai_model_helps_challenge/",
+      "source": "Reddit",
+      "sourceIcon": "reddit",
+      "pubDate": "2026-05-20T19:22:42.000Z",
+      "summary": "OpenAI 最新模型成功质疑一项存在 80 年的数学假设，展现类人推理能力。这一突破引发学界对 AI 达到 Level 4 自主智能的重新评估与热议。"
+    },
+    {
+      "id": 10,
+      "title": "Google officially announces that ads will be included in AI Mode search results",
+      "titleCN": "Google AI Mode 搜索正式引入广告，商业化落地引发用户体验争议",
+      "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-05-21T09:49:46.000Z",
+      "summary": "Google 确认 AI 模式搜索结果将包含广告，此举标志着其 AI 搜索战略的重大商业化转折，旨在平衡技术投入与营收，但可能影响免费用户的搜索体验。"
+    },
+    {
+      "id": 11,
+      "title": "Formal Verification Gates for AI Coding Loops",
+      "titleCN": "AI 编程新范式：Formal Verification 引入验证门，重塑代码生成闭环",
+      "url": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-05-20T15:25:45.000Z",
+      "summary": "Hacker News 热议将形式化验证嵌入 AI 编码循环，通过数学证明确保代码正确性，解决大模型生成代码的可靠性痛点，提升工业级应用可信度。"
+    },
+    {
+      "id": 12,
+      "title": "OpenAI Is Preparing to File for an IPO Soon",
+      "titleCN": "OpenAI 拟启动 IPO 上市程序，AI 巨头正式进军资本市场",
+      "url": "https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-05-20T16:24:42.000Z",
+      "summary": "OpenAI 正筹备提交首次公开募股申请，标志着这家 AI 领军企业从非营利转向商业化运营的关键一步，引发业界对估值及竞争格局的关注。"
+    },
+    {
+      "id": 13,
+      "title": "Openai Cracks An 80 Year Math Belief",
+      "titleCN": "OpenAI 破解 80 年数学猜想，AI 证明人类难题能力再升级",
+      "url": "https://www.therundown.ai/p/openai-cracks-an-80-year-math-belief",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-05-21T12:08:33.471Z",
+      "summary": "OpenAI 利用最新 AI 模型成功证明了一个存在 80 年的数学猜想，展示了人工智能在复杂逻辑推理与数学证明领域的突破性进展，引发学界关注。"
+    },
+    {
+      "id": 14,
+      "title": "Gemini Busy Agentic Day At Google I O",
+      "titleCN": "Google I/O 聚焦 Gemini 智能体，AI 自主行动能力成核心看点",
+      "url": "https://www.therundown.ai/p/gemini-busy-agentic-day-at-google-i-o",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-05-21T12:08:33.471Z",
+      "summary": "Google I/O 大会重点展示 Gemini 在自主代理（Agentic）领域的最新进展，强调其多步任务执行与工具调用能力，旨在提升 AI 在实际工作流中的自动化水平。"
+    },
+    {
+      "id": 15,
+      "title": "Musk Openai Case Runs Out Of Time",
+      "titleCN": "马斯克诉 OpenAI 案因时效过期终止，AI 巨头法律纠纷画上句号",
+      "url": "https://www.therundown.ai/p/musk-openai-case-runs-out-of-time",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-05-21T12:08:33.471Z",
+      "summary": "法院裁定马斯克起诉 OpenAI 的诉讼因超过法定时效而无效。这场持续多年的法律拉锯战正式终结，OpenAI 的开源承诺争议暂告段落，行业监管焦点或转向其他领域。"
+    },
+    {
+      "id": 16,
+      "title": "Ai Anger Comes For Claude Monet",
+      "titleCN": "AI 愤怒攻击莫奈画作，生成模型引发版权与伦理争议",
+      "url": "https://www.therundown.ai/p/ai-anger-comes-for-claude-monet",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-05-21T12:08:33.471Z",
+      "summary": "AI 工具将莫奈名作扭曲为愤怒表情，暴露生成式 AI 在艺术理解与版权边界上的缺陷，引发艺术界对技术伦理的强烈质疑。"
+    },
+    {
+      "id": 17,
+      "title": "Openai Takes Codex Mobile",
+      "titleCN": "OpenAI 收购 Codex Mobile，强化移动端 AI 布局",
+      "url": "https://www.therundown.ai/p/openai-takes-codex-mobile",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-05-21T12:08:33.471Z",
+      "summary": "OpenAI 正式收购 Codex Mobile，旨在整合其移动端 AI 应用开发能力，进一步巩固在移动设备上的 AI 生态优势，加速 AI 技术向终端用户普及。"
+    },
+    {
+      "id": 18,
+      "title": "The Enterprise Shift Openai Saw Coming",
+      "titleCN": "OpenAI 预判成真：企业级 AI 转型加速，GPT-4 成商业落地主力",
+      "url": "https://www.therundown.ai/p/the-enterprise-shift-openai-saw-coming",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-05-21T12:08:33.471Z",
+      "summary": "OpenAI 此前预测的企业采用浪潮已全面爆发，GPT-4 凭借高可靠性成为大厂首选，推动 AI 从实验走向核心业务流，重塑行业竞争格局。"
+    },
+    {
+      "id": 19,
+      "title": "OpenAI Is Preparing to File for an IPO Very Soon",
+      "titleCN": "OpenAI 拟 imminent IPO 震撼业界，AI 巨头上市倒计时引发资本狂欢",
+      "url": "https://tldr.tech/tech/2026-05-21",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-05-21T12:08:31.921Z",
+      "summary": "据 TLDR AI 报道，OpenAI 正加速推进 IPO 进程，预计 soon 提交申请。此举标志着其从非营利转向商业化的关键一步，将彻底改变 AI 行业竞争格局。"
+    },
+    {
+      "id": 20,
+      "title": "Anthropic says it’s about to have its first profitable quarter",
+      "titleCN": "Anthropic 官宣即将实现首个盈利季度，AI 安全独角兽终迎商业化拐点",
+      "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-05-21T00:21:21.000Z",
+      "summary": "Anthropic 宣布预计本季度实现盈利，标志着其高算力成本下的商业化突破。此举缓解市场对 AI 初创公司烧钱速度的担忧，验证了 Claude 系列模型的商业可行性。"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+---
+import SourceBadge from './SourceBadge.astro';
+
+interface Props {
+  id: number;
+  title: string;
+  titleCN?: string;
+  url: string;
+  source: string;
+  sourceIcon: string;
+  pubDate: string;
+  summary: string;
+}
+
+const { id, title, titleCN, url, source, sourceIcon, pubDate, summary } = Astro.props;
+const displayTitle = titleCN || title;
+const date = new Date(pubDate);
+const timeStr = date.toLocaleDateString('zh-CN', {
+  month: '2-digit',
+  day: '2-digit',
+}) + ' ' + date.toLocaleTimeString('zh-CN', {
+  hour: '2-digit',
+  minute: '2-digit',
+  hour12: false,
+});
+---
+
+<a href={url} target="_blank" rel="noopener noreferrer" class="news-card">
+  <div class="news-card-header">
+    <span class="news-card-index">{String(id).padStart(2, '0')}</span>
+    <div class="news-card-body">
+      <p class="news-card-title">{displayTitle}</p>
+      <p class="news-card-summary">{summary}</p>
+      <p class="news-card-original">{title}</p>
+      <div class="news-card-footer">
+        <SourceBadge source={source} icon={sourceIcon} />
+        <span>{timeStr}</span>
+      </div>
+    </div>
+  </div>
+</a>

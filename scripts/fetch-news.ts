@@ -1,0 +1,433 @@
+import 'dotenv/config';
+import { writeFileSync, mkdirSync, existsSync } from 'node:fs';
+import { resolve, dirname } from 'node:path';
+import { fileURLToPath } from 'node:url';
+import OpenAI from 'openai';
+import Parser from 'rss-parser';
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const DATA_DIR = resolve(__dirname, '../src/data/news');
+
+interface Story {
+  id: number;
+  title: string;
+  titleCN: string;
+  url: string;
+  source: string;
+  sourceIcon: string;
+  pubDate: string;
+  summary: string;
+}
+
+interface RawItem {
+  title: string;
+  url: string;
+  pubDate: string;
+  score: number;
+  source?: string;
+  sourceIcon?: string;
+}
+
+interface DailyData {
+  date: string;
+  lastUpdate: string;
+  stories: Story[];
+}
+
+const AI_KEYWORDS =
+  /\b(AI|LLM|GPT|Claude|OpenAI|Gemini|DeepSeek|Anthropic|machine.?learning|deep.?learning|neural|transformer|AGI|Mistral|Llama|ChatGPT|Copilot|Sora|Midjourney|Stable.?Diffusion|AIGC|generative.?AI)\b/i;
+
+// ── Hacker News ──────────────────────────────────────────
+
+async function fetchHackerNews(): Promise<RawItem[]> {
+  try {
+    const res = await fetch('https://hacker-news.firebaseio.com/v0/topstories.json');
+    const ids: number[] = await res.json();
+
+    const items = await Promise.all(
+      ids.slice(0, 200).map(async (id) => {
+        try {
+          const r = await fetch(`https://hacker-news.firebaseio.com/v0/item/${id}.json`);
+          return r.json();
+        } catch {
+          return null;
+        }
+      }),
+    );
+
+    return items
+      .filter((item): item is { title: string; url: string; time: number; score: number } =>
+        item != null && item.title && item.url && AI_KEYWORDS.test(item.title))
+      .map((item) => ({
+        title: item.title,
+        url: item.url,
+        pubDate: new Date(item.time * 1000).toISOString(),
+        score: item.score || 0,
+      }));
+  } catch (err) {
+    console.error('Hacker News fetch failed:', (err as Error).message);
+    return [];
+  }
+}
+
+// ── The Rundown AI ────────────────────────────────────────
+
+function slugToTitle(slug: string): string {
+  return slug
+    .replace(/-/g, ' ')
+    .replace(/\b\w/g, (c) => c.toUpperCase());
+}
+
+async function fetchTheRundownAI(): Promise<RawItem[]> {
+  const all: RawItem[] = [];
+  try {
+    const res = await fetch('https://www.therundown.ai/sitemap.xml', {
+      signal: AbortSignal.timeout(15_000),
+    });
+    if (!res.ok) return [];
+    const xml = await res.text();
+    const urls = [...xml.matchAll(/<loc>(https:\/\/www\.therundown\.ai\/p\/([^<]+))<\/loc>/g)];
+
+    // Take latest 10 articles from sitemap, convert slug to title
+    const recent = urls.slice(0, 10);
+    const today = new Date();
+
+    for (const [, articleUrl, slug] of recent) {
+      const title = slugToTitle(slug);
+      if (AI_KEYWORDS.test(title)) {
+        all.push({ title, url: articleUrl, pubDate: today.toISOString(), score: 50 });
+      }
+    }
+  } catch (err) {
+    console.error('The Rundown AI fetch failed:', (err as Error).message);
+  }
+  return all;
+}
+
+// ── TLDR AI ───────────────────────────────────────────────
+
+async function fetchTLDR(): Promise<RawItem[]> {
+  const all: RawItem[] = [];
+  const today = new Date();
+
+  for (let offset = 0; offset < 3; offset++) {
+    const d = new Date(today.getTime() - offset * 86400_000);
+    const dateStr = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+    const pageUrl = `https://tldr.tech/tech/${dateStr}`;
+
+    try {
+      const res = await fetch(pageUrl, {
+        signal: AbortSignal.timeout(15_000),
+        headers: { 'User-Agent': 'Mozilla/5.0 (compatible; ai-daily-news/1.0)' },
+      });
+      if (!res.ok) continue;
+      const html = await res.text();
+
+      // TLDR puts titles in <h3> without links; skip section headers and sponsors
+      const h3Matches = html.matchAll(/<h3[^>]*>([\s\S]*?)<\/h3>/g);
+      for (const h3Match of h3Matches) {
+        const rawTitle = h3Match[1]
+          .replace(/<[^>]+>/g, '')
+          .replace(/&#x27;/g, "'")
+          .replace(/&amp;/g, '&')
+          .replace(/\s*\(?\d+\s*minute\s*read\)?\s*/gi, '')
+          .replace(/\s*\(Sponsor\)\s*/gi, '')
+          .replace(/\s*\(Website\)\s*/gi, '')
+          .trim();
+
+        if (rawTitle.length > 15 && AI_KEYWORDS.test(rawTitle)) {
+          all.push({ title: rawTitle, url: pageUrl, pubDate: d.toISOString(), score: 30 });
+        }
+      }
+    } catch (err) {
+      console.error(`TLDR ${dateStr} fetch failed:`, (err as Error).message);
+    }
+  }
+
+  return all;
+}
+
+// ── Generic RSS ──────────────────────────────────────────
+
+const RSS_FEEDS = [
+  { url: 'https://techcrunch.com/category/artificial-intelligence/feed/', name: 'TechCrunch' },
+  { url: 'https://hnrss.org/newest?q=AI', name: 'HN RSS' },
+  { url: 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml', name: 'The Verge' },
+  { url: 'https://venturebeat.com/category/ai/feed/', name: 'VentureBeat' },
+  { url: 'https://www.producthunt.com/feed', name: 'Product Hunt' },
+];
+
+async function fetchRSSFeeds(): Promise<RawItem[]> {
+  const parser = new Parser();
+  const all: RawItem[] = [];
+
+  for (const feed of RSS_FEEDS) {
+    try {
+      const parsed = await parser.parseURL(feed.url);
+      for (const item of parsed.items) {
+        if (item.link && AI_KEYWORDS.test(item.title || '')) {
+          all.push({
+            title: item.title || '',
+            url: item.link,
+            pubDate: item.isoDate || new Date().toISOString(),
+            score: 20,
+            source: feed.name,
+          });
+        }
+      }
+    } catch (err) {
+      console.error(`${feed.name} RSS fetch failed:`, (err as Error).message);
+    }
+  }
+
+  return all;
+}
+
+// ── Dedup ────────────────────────────────────────────────
+
+function dedup(items: RawItem[]): RawItem[] {
+  const seen = new Set<string>();
+  return items.filter((item) => {
+    const key = new URL(item.url).hostname + new URL(item.url).pathname;
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+}
+
+// Filter out stories older than maxAgeHours
+function filterByRecency(items: RawItem[], maxAgeHours: number): RawItem[] {
+  const cutoff = Date.now() - maxAgeHours * 3600_000;
+  return items.filter((item) => new Date(item.pubDate).getTime() >= cutoff);
+}
+
+// Pick top stories with source diversity: sort by score, then ensure no single source dominates
+function selectTopStories(items: RawItem[], total: number, maxPerSource: number): RawItem[] {
+  // Sort by score descending (HN score >> Rundown 50 >> TLDR 30 >> RSS 20)
+  const sorted = [...items].sort((a, b) => b.score - a.score);
+
+  const selected: RawItem[] = [];
+  const sourceCount = new Map<string, number>();
+
+  for (const item of sorted) {
+    if (selected.length >= total) break;
+    const src = item.source || item.sourceIcon || 'unknown';
+    const count = sourceCount.get(src) || 0;
+    if (count >= maxPerSource) continue;
+    selected.push(item);
+    sourceCount.set(src, count + 1);
+  }
+
+  return selected;
+}
+
+// ── AI Summary ───────────────────────────────────────────
+
+function createAIClient(): { client: OpenAI; model: string } {
+  const provider = process.env.AI_PROVIDER || 'omlx';
+
+  if (provider === 'omlx') {
+    return {
+      client: new OpenAI({
+        apiKey: 'omlx',
+        baseURL: process.env.OMLX_BASE_URL || 'http://localhost:8000/v1',
+        timeout: 120_000,
+      }),
+      model: process.env.OMLX_MODEL || 'gemma-4-26B-A4B-it-OptiQ-4bit',
+    };
+  }
+
+  return {
+    client: new OpenAI({
+      apiKey: process.env.DEEPSEEK_API_KEY,
+      baseURL: 'https://api.deepseek.com',
+    }),
+    model: 'deepseek-chat',
+  };
+}
+
+
+interface AIGenerated {
+  titleCN: string;
+  summary: string;
+}
+
+const SYSTEM_PROMPT = `你是一个资深科技媒体编辑，擅长写出有吸引力的 AI 新闻标题和摘要。
+
+用户会给你一条英文 AI 新闻标题和来源。你需要：
+
+1. 生成中文标题（不超过 40 字），要求：
+   - 必须包含关键人名或公司名（如 Karpathy、OpenAI、Google 等）
+   - 点出核心事件，突出影响或冲突
+   - 像科技媒体头条，有信息量和吸引力，不要平淡直译
+   - 好例子：「AI 大佬 Karpathy 宣布加入 Anthropic，OpenAI 联合创始人转投竞对引发行业震动」
+   - 坏例子：「开发者加入 Anthropic」
+
+2. 生成中文摘要（40-60 字），要求：
+   - 补充标题没说清的细节：具体能力、数据、行业影响
+   - 要有具体信息点，不要空泛概括
+   - 好例子：「Gemini 3.5 Flash 在推理能力上对标 Claude 和 GPT 最新版本，成本降低 3 倍，但部分评测显示实际运行费用反而上涨。」
+   - 坏例子：「Google 发布了新一代 AI 模型，性能有所提升。」
+
+严格按 JSON 格式输出，输出任何其他内容，title 与 summary 字段里面，不要在包含 JSON 格式数据：
+{"title":"中文标题","summary":"中文摘要"}`;
+
+function parseAIResponse(raw: string, fallbackTitle: string): AIGenerated {
+  const cleaned = raw.replace(/```json\s*/g, '').replace(/```\s*/g, '').trim();
+
+  const tryParse = (text: string): AIGenerated | null => {
+    try {
+      const parsed = JSON.parse(text);
+      if (parsed.title && parsed.summary) {
+        return { titleCN: parsed.title, summary: parsed.summary };
+      }
+      // Handle {"content": "{\"title\":...,\"summary\":...}"} envelope
+      if (parsed.content && typeof parsed.content === 'string') {
+        return tryParse(parsed.content);
+      }
+    } catch { /* fall through */ }
+    return null;
+  };
+
+  // Direct parse
+  const direct = tryParse(cleaned);
+  if (direct) return direct;
+
+  // Extract JSON from surrounding text
+  const match = cleaned.match(/\{[\s\S]*"title"[\s\S]*"summary"[\s\S]*\}/);
+  if (match) {
+    const extracted = tryParse(match[0]);
+    if (extracted) return extracted;
+  }
+
+  return { titleCN: fallbackTitle, summary: cleaned };
+}
+
+async function callOmlx(baseURL: string, model: string, title: string, source: string): Promise<string> {
+  const res = await fetch(`${baseURL}/chat/completions`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    signal: AbortSignal.timeout(120_000),
+    body: JSON.stringify({
+      model,
+      messages: [
+        { role: 'system', content: SYSTEM_PROMPT },
+        { role: 'user', content: `标题：${title}\n来源：${source}` },
+      ],
+      max_tokens: 300,
+      temperature: 0.3,
+      chat_template_kwargs: { enable_thinking: false },
+    }),
+  });
+
+  if (!res.ok) {
+    throw new Error(`oMLX responded with ${res.status}`);
+  }
+
+  const data = await res.json() as { choices: { message: { content: string } }[] };
+  return data.choices[0]?.message?.content?.trim() || '';
+}
+
+async function generateSummary(
+  client: OpenAI,
+  title: string,
+  source: string,
+  model: string,
+  isOmlx: boolean,
+): Promise<AIGenerated> {
+  try {
+    let content: string;
+
+    if (isOmlx) {
+      const baseURL = process.env.OMLX_BASE_URL || 'http://localhost:8000/v1';
+      content = await callOmlx(baseURL, model, title, source);
+    } else {
+      const response = await client.chat.completions.create({
+        model,
+        messages: [
+          { role: 'system', content: SYSTEM_PROMPT },
+          { role: 'user', content: `标题：${title}\n来源：${source}` },
+        ],
+        max_tokens: 300,
+        temperature: 0.3,
+      });
+      content = response.choices[0]?.message?.content?.trim() || '';
+    }
+
+    return parseAIResponse(content, title);
+  } catch (err) {
+    console.error(`Summary generation failed for "${title}":`, (err as Error).message);
+    return { titleCN: title, summary: title };
+  }
+}
+
+// ── Main ─────────────────────────────────────────────────
+
+async function main() {
+  console.log('Fetching AI news...');
+
+  const [hnItems, rundownItems, tldrItems, rssItems] = await Promise.all([
+    fetchHackerNews().catch((err) => { console.error('HN failed:', err.message); return []; }),
+    fetchTheRundownAI().catch((err) => { console.error('The Rundown AI failed:', err.message); return []; }),
+    fetchTLDR().catch((err) => { console.error('TLDR failed:', err.message); return []; }),
+    fetchRSSFeeds().catch((err) => { console.error('RSS failed:', err.message); return []; }),
+  ]);
+
+  console.log(`Raw items: HN=${hnItems.length}, Rundown=${rundownItems.length}, TLDR=${tldrItems.length}, RSS=${rssItems.length}`);
+
+  const merged = [
+    ...hnItems.map((i) => ({ ...i, source: 'Hacker News', sourceIcon: 'hn' })),
+    ...rundownItems.map((i) => ({ ...i, source: 'The Rundown AI', sourceIcon: 'rundown' })),
+    ...tldrItems.map((i) => ({ ...i, source: 'TLDR AI', sourceIcon: 'tldr' })),
+    ...rssItems.map((i) => ({ ...i, source: i.source || 'RSS', sourceIcon: 'rss' })),
+  ];
+
+  const unique = dedup(merged);
+  const recent = filterByRecency(unique, 24);
+  const topStories = selectTopStories(recent, 20, 6);
+  console.log(`Top 20 stories selected (from ${unique.length} unique, ${recent.length} within 24h, source-capped at 6)`);
+
+  const { client, model } = createAIClient();
+  const provider = process.env.AI_PROVIDER || 'omlx';
+  const isOmlx = provider === 'omlx';
+
+  console.log(`Using AI provider: ${provider}, model: ${model}`);
+
+  const stories: Story[] = [];
+  for (let i = 0; i < topStories.length; i++) {
+    const item = topStories[i];
+    console.log(`[${i + 1}/${topStories.length}] Summarizing: ${item.title.slice(0, 60)}...`);
+    const { titleCN, summary } = await generateSummary(client, item.title, item.source, model, isOmlx);
+    stories.push({
+      id: i + 1,
+      title: item.title,
+      titleCN,
+      url: item.url,
+      source: item.source,
+      sourceIcon: item.sourceIcon,
+      pubDate: item.pubDate,
+      summary,
+    });
+  }
+
+  const today = new Date().toISOString().slice(0, 10);
+  const data: DailyData = {
+    date: today,
+    lastUpdate: new Date().toISOString(),
+    stories,
+  };
+
+  if (!existsSync(DATA_DIR)) {
+    mkdirSync(DATA_DIR, { recursive: true });
+  }
+
+  const outPath = resolve(DATA_DIR, `${today}.json`);
+  writeFileSync(outPath, JSON.stringify(data, null, 2), 'utf-8');
+  console.log(`\nDone! Written ${stories.length} stories to ${outPath}`);
+  process.exit(0);
+}
+
+main().catch((err) => {
+  console.error('Fatal error:', err);
+  process.exit(1);
+});

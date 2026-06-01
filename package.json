@@ -1,0 +1,25 @@
+{
+  "name": "ai-daily-news",
+  "type": "module",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "fetch-news": "tsx scripts/fetch-news.ts"
+  },
+  "dependencies": {
+    "@astrojs/rss": "^4.0.18",
+    "astro": "^6.3.3",
+    "dotenv": "^17.4.2",
+    "openai": "^6.38.0",
+    "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.22.1"
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "date": "2026-06-01",
+  "lastUpdate": "2026-06-01T03:58:50.328Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "The solution might be cancelling my AI subscription",
+      "titleCN": "Hacker News 热议：AI 订阅费太贵？开发者正考虑通过“退订”来对抗 AI 订阅泡沫",
+      "url": "https://thoughts.hmmz.org/2026-05-31.html",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-05-31T14:23:30.000Z",
+      "summary": "针对当前 AI 工具订阅费用高昂且边际效用递减的问题，开发者社区开始反思订阅模式的合理性，探讨在工具同质化背景下，用户流失可能引发的行业定价危机。"
+    },
+    {
+      "id": 2,
+      "title": "Odysseus – self-hosted AI workspace",
+      "titleCN": "开源 AI 生产力工具 Odysseus 发布：打造完全自主掌控的本地化 AI 工作空间",
+      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-05-31T15:50:34.000Z",
+      "summary": "Odysseus 旨在为开发者提供自托管的 AI 工作环境，通过本地部署实现数据隐私与算力自主，打破对闭源云端 AI 服务的依赖。"
+    },
+    {
+      "id": 3,
+      "title": "The Speed of Prototyping in the Age of AI",
+      "titleCN": "AI 时代重塑开发范式：原型构建速度迎来指数级跃迁",
+      "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-05-31T16:37:34.000Z",
+      "summary": "随着大模型辅助编程能力的提升，开发者从构思到产品原型的周期大幅缩短，这种效率革命正在改变软件工程的传统开发节奏与成本结构。"
+    },
+    {
+      "id": 4,
+      "title": "ChatGPT for Google Sheets exfiltrates workbooks",
+      "titleCN": "安全警报：ChatGPT for Google Sheets 插件被曝存在数据泄露风险，用户工作簿面临外泄威胁",
+      "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-05-31T20:35:38.000Z",
+      "summary": "Hacker News 爆料显示，一款流行的 ChatGPT Google Sheets 插件存在严重安全漏洞，可能导致用户的敏感工作簿数据被非法提取，引发了开发者对 AI 辅助工具数据隐私性的高度担忧。"
+    },
+    {
+      "id": 5,
+      "title": "Anthropic Just Eclipsed Openai",
+      "titleCN": "Anthropic 强势超越 OpenAI？行业风向标发生剧变，Claude 性能表现引发广泛讨论",
+      "url": "https://www.therundown.ai/p/anthropic-just-eclipsed-openai",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-01T03:57:48.923Z",
+      "summary": "随着 Anthropic 最新模型在多项关键基准测试中展现出超越 GPT 系列的潜力，业界开始质疑 OpenAI 的领先地位，这场大模型巅峰对决正进入白热化阶段。"
+    },
+    {
+      "id": 6,
+      "title": "Exclusive Demis Hassabis On Agi Curing Diseases With Ai",
+      "titleCN": "Google DeepMind CEO Demis Hassabis 专访：AGI 将成为治愈疾病的终极武器",
+      "url": "https://www.therundown.ai/p/exclusive-demis-hassabis-on-agi-curing-diseases-with-ai",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-01T03:57:48.923Z",
+      "summary": "Demis Hassabis 在采访中透露，通用人工智能（AGI）将通过模拟生物过程和加速药物研发，彻底改变医疗领域，实现从预测疾病到精准治愈的跨越式突破。"
+    },
+    {
+      "id": 7,
+      "title": "The Pope Just Weighed In On Ai",
+      "titleCN": "教皇方济各就 AI 伦理发表重要讲话，呼吁关注人工智能对人类尊严与社会公平的影响",
+      "url": "https://www.therundown.ai/p/the-pope-just-weighed-in-on-ai",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-01T03:57:48.923Z",
+      "summary": "教皇方济其在最新表态中强调，AI 的发展必须遵循伦理准则，警惕算法偏见与技术滥用，并呼吁全球开发者确保人工智能服务于人类福祉而非加剧社会不平等。"
+    },
+    {
+      "id": 8,
+      "title": "Google Tops Openai Math Breakthrough 9 To 1",
+      "titleCN": "数学推理能力实现碾压！Google 在 OpenAI 领先的数学突破评测中以 9:1 完胜",
+      "url": "https://www.therundown.ai/p/google-tops-openai-math-breakthrough-9-to-1",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-01T03:57:48.923Z",
+      "summary": "在最新的数学逻辑能力测评中，Google 的模型表现极其出色，以 9 比 1 的压倒性优势击败了 OpenAI 的同类产品，标志着大模型在复杂逻辑推理领域格局发生重大变化。"
+    },
+    {
+      "id": 9,
+      "title": "Exclusive Interview Sundar Pichai On Ai Flip Phone Moment",
+      "titleCN": "Google CEO Sundar Pichai 专访：预言 AI 将迎来类似“翻盖手机”的爆发式变革时刻",
+      "url": "https://www.therundown.ai/p/exclusive-interview-sundar-pichai-on-ai-flip-phone-moment",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-01T03:57:48.923Z",
+      "summary": "Sundar Pichai 在最新采访中探讨了 AI 硬件的未来，暗示 AI 技术将像智能手机取代翻盖机一样，彻底重塑个人移动设备形态与交互逻辑。"
+    },
+    {
+      "id": 10,
+      "title": "Openai Cracks An 80 Year Math Belief",
+      "titleCN": "OpenAI 挑战数学界 80 年传统认知，其最新模型在复杂逻辑推理上实现重大突破",
+      "url": "https://www.therundown.ai/p/openai-cracks-an-80-year-math-belief",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-01T03:57:48.923Z",
+      "summary": "OpenAI 通过强化学习技术在数学逻辑推理领域取得进展，打破了长期以来对数学证明与计算能力的固有认知，展现出超越传统算法的逻辑演进能力。"
+    },
+    {
+      "id": 11,
+      "title": "Talk Is Cheap: The Operational Impact of LLM Use",
+      "titleCN": "别只谈论 AI 幻觉：深度解析大模型落地对企业运营带来的真实冲击",
+      "url": "https://unessays.substack.com/p/talk-is-cheap",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-05-31T16:37:47.000Z",
+      "summary": "Hacker News 热议文章指出，LLM 的实际应用不仅是技术挑战，更会通过改变工作流、增加监控成本及数据一致性风险，对企业底层运营逻辑产生深远影响。"
+    },
+    {
+      "id": 12,
+      "title": "Remove all LLM generated commits before people get hurt by this nonsense",
+      "titleCN": "Hacker News 开发者热议：呼吁彻底清除 LLM 生成的提交记录，防止 AI 垃圾代码污染项目",
+      "url": "https://github.com/RsyncProject/rsync/issues/934",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-05-31T15:44:30.000Z",
+      "summary": "开发者在 Hacker News 发起警告，认为大量由大模型生成的 Commit 记录正导致代码库质量下降，若不及时清理，低质量的代码逻辑将引发严重的工程维护灾难。"
+    },
+    {
+      "id": 13,
+      "title": "Claude Opus 4.8: “a modest but tangible improvement”",
+      "titleCN": "Anthropic 发布 Claude Opus 4.8，官方称其为“小幅但显著”的性能迭代",
+      "url": "https://tldr.tech/tech/2026-06-01",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-06-01T03:57:45.835Z",
+      "summary": "Anthropic 推出 Claude Opus 4.8 版本，虽然定位为渐进式更新，但在逻辑推理与指令遵循能力上实现了实质性提升，旨在维持其在顶级大模型市场的竞争力。"
+    },
+    {
+      "id": 14,
+      "title": "Making sense of the debate over AI psychosis",
+      "titleCN": "科技媒体深度解析：AI “精神错乱”现象引发争议，大模型幻觉是否正演变为认知危机？",
+      "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-05-31T15:30:00.000Z",
+      "summary": "TechCrunch 深入探讨了 AI 领域近期热议的“AI 精神错乱”现象，分析了模型逻辑崩溃与幻觉问题的本质，并评估了这种不可控性对行业安全与应用落地带来的深远影响。"
+    },
+    {
+      "id": 15,
+      "title": "Ask HN: How do you solve AI's confused deputy problem?",
+      "titleCN": "HN 开发者热议：如何解决 AI 领域的“混淆代理”安全漏洞？",
+      "url": "https://news.ycombinator.com/item?id=48352369",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-01T03:40:23.000Z",
+      "summary": "在 Hacker News 社区，开发者正深入探讨 AI 代理（Agent）在执行指令时，因权限过度分配而导致的“混淆代理”问题，这可能引发未经授权的数据访问或系统越权风险。"
+    },
+    {
+      "id": 16,
+      "title": "Peter Thiel warns AI is threat to technical roles more than to creative thinkers",
+      "titleCN": "硅谷教父 Peter Thiel 警告：AI 对技术岗位的冲击将远超创意从业者",
+      "url": "https://fortune.com/article/peter-thiel-ai-skills-creative-thinking-technical/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-01T03:27:02.000Z",
+      "summary": "PayPal 创始人 Peter Thiel 指出，AI 正在重塑就业市场，其对编程等技术性岗位的替代风险高于创意领域，这一观点引发了关于技术人员职业前景的深度讨论。"
+    },
+    {
+      "id": 17,
+      "title": "Instagram exploit allows you to use Meta AI to reset passwords to accounts",
+      "titleCN": "Instagram 曝出严重漏洞：黑客可利用 Meta AI 绕过安全机制重置账户密码",
+      "url": "https://xcancel.com/DarkWebInformer/status/2061253599758315527",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-01T03:21:23.000Z",
+      "summary": "研究人员发现 Instagram 存在安全漏洞，攻击者可通过诱导 Meta AI 执行特定指令，非法获取重置密码的权限，直接威胁用户社交账号的安全。"
+    },
+    {
+      "id": 18,
+      "title": "Smart Rename – renames image file downloads in real time using local AI",
+      "titleCN": "开源新工具 Smart Rename 发布：利用本地 AI 实现图片下载实时重命名",
+      "url": "https://github.com/chudweiser/smart-rename",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-01T02:41:25.000Z",
+      "summary": "该工具通过在本地运行轻量化 AI 模型，能够实时识别下载图片的视觉内容并自动生成描述性文件名，在保护隐私的同时极大提升了文件管理效率。"
+    },
+    {
+      "id": 19,
+      "title": "PewDiePie launches AI workspace built on top of OpenCode [video]",
+      "titleCN": "顶级网红 PewDiePie 跨界 AI 赛道，推出基于 OpenCode 构建的全新 AI 工作空间",
+      "url": "https://www.youtube.com/watch?v=rAzT5lcezPs",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-01T02:35:54.000Z",
+      "summary": "知名 YouTube 博主 PewDiePie 正式发布其 AI 工作空间产品，该工具深度集成 OpenCode 技术，旨在为创作者提供更高效的 AI 辅助工作流。"
+    },
+    {
+      "id": 20,
+      "title": "How bosses should talk about AI",
+      "titleCN": "AI 浪潮下的管理难题：管理者应如何与员工沟通 AI 转型，避免引发职业焦虑",
+      "url": "https://www.economist.com/business/2026/05/28/how-should-bosses-talk-about-ai",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-01T01:49:25.000Z",
+      "summary": "面对 AI 技术对岗位的冲击，企业领导者需建立透明的沟通机制，通过明确转型路径而非单纯强调效率，来缓解员工对失业的恐惧并推动组织变革。"
+    }
+  ]
+}

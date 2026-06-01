@@ -1,0 +1,206 @@
+{
+  "date": "2026-05-20",
+  "lastUpdate": "2026-05-20T04:35:50.134Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "I’ve joined Anthropic",
+      "titleCN": "AI 教父 Karpathy 官宣加盟 Anthropic，OpenAI 前核心成员转投竞对引发震动",
+      "url": "https://twitter.com/karpathy/status/2056753169888334312",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-05-19T15:07:45.000Z",
+      "summary": "Alex Karpathy 正式加入 Anthropic，其加入被视为对 OpenAI 的重大挑战。作为 AI 领域知名开发者，他的动向引发行业对 Anthropic 技术实力及未来格局的广泛关注。"
+    },
+    {
+      "id": 2,
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "titleCN": "马斯克败诉Sam Altman及OpenAI，AI巨头内部权力斗争暂告段落",
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-05-18T17:38:22.000Z",
+      "summary": "法院裁定马斯克对OpenAI及Altman的诉讼缺乏法律依据，驳回其指控。此举终结了围绕OpenAI非营利性质的法律争议，巩固了Altman的领导地位及公司商业化路径。"
+    },
+    {
+      "id": 3,
+      "title": "Behold, Gemini 3.5 Flash!",
+      "titleCN": "Google 发布 Gemini 3.5 Flash，号称推理对标 Claude 与 GPT",
+      "url": "https://www.reddit.com/r/singularity/comments/1thtxs8/behold_gemini_35_flash/",
+      "source": "Reddit",
+      "sourceIcon": "reddit",
+      "pubDate": "2026-05-19T17:29:27.000Z",
+      "summary": "Google 推出 Gemini 3.5 Flash，宣称在推理能力上可匹敌 Claude 和 GPT 最新版本，同时成本降低 3 倍，引发社区对实际性价比的讨论。"
+    },
+    {
+      "id": 4,
+      "title": "Karpathy is a founding member of OpenAI and now joining Anthropic. I wonder why",
+      "titleCN": "OpenAI 联合创始人 Karpathy 转投 Anthropic，引发行业震动",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1thq8ag/karpathy_is_a_founding_member_of_openai_and_now/",
+      "source": "Reddit",
+      "sourceIcon": "reddit",
+      "pubDate": "2026-05-19T15:23:22.000Z",
+      "summary": "AI 先驱 Andrej Karpathy 从 OpenAI 离职并加入 Anthropic，这一人事变动引发外界对其动机及两家巨头竞争格局的广泛猜测。"
+    },
+    {
+      "id": 5,
+      "title": "Gemini 3.5 Flash",
+      "titleCN": "Google 发布 Gemini 3.5 Flash，推理性能对标竞品，成本争议引热议",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-05-19T17:43:45.000Z",
+      "summary": "Gemini 3.5 Flash 在推理能力上对标 Claude 和 GPT 最新版本，成本降低 3 倍，但部分评测显示实际运行费用反而上涨。"
+    },
+    {
+      "id": 6,
+      "title": "“AI vs Creativity” from ‘GTA’ (TakeTwo) CEO",
+      "titleCN": "TakeTwo CEO直言AI威胁创意：GTA开发模式引行业反思",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1ti5gpx/ai_vs_creativity_from_gta_taketwo_ceo/",
+      "source": "Reddit",
+      "sourceIcon": "reddit",
+      "pubDate": "2026-05-20T00:26:28.000Z",
+      "summary": "TakeTwo CEO在Reddit回应“AI与创意”争议，指出AI生成内容可能冲击游戏叙事深度，强调人工创作在3A大作中的不可替代性。"
+    },
+    {
+      "id": 7,
+      "title": "Anthropic acquires Stainless",
+      "titleCN": "Anthropic 收购 AI 工具商 Stainless，强化开发者生态布局",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-05-18T17:01:21.000Z",
+      "summary": "Anthropic 正式收购代码生成工具 Stainless，旨在提升 Claude 在开发者工作流中的集成度，通过优化编程体验巩固其在 AI 领域的竞争优势。"
+    },
+    {
+      "id": 8,
+      "title": "Gemini 3.5 flash costs 3 times more than the previous version and 30x more than gemini 1.5 flash.",
+      "titleCN": "Gemini 3.5 Flash 定价暴涨 30 倍，成本争议引发开发者不满",
+      "url": "https://www.reddit.com/r/singularity/comments/1thuct8/gemini_35_flash_costs_3_times_more_than_the/",
+      "source": "Reddit",
+      "sourceIcon": "reddit",
+      "pubDate": "2026-05-19T17:43:18.000Z",
+      "summary": "Gemini 3.5 Flash 定价较前代高 3 倍，较 1.5 版本高出 30 倍，高昂成本引发社区对性价比的质疑与讨论。"
+    },
+    {
+      "id": 9,
+      "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+      "titleCN": "GitHub 项目用 Git 技巧终结 AI 机器人垃圾评论，开发者妙招引热议",
+      "url": "https://archestra.ai/blog/only-responsible-ai",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-05-18T15:24:19.000Z",
+      "summary": "作者利用 Git 的 --author 参数精准定位并清理 AI 生成的垃圾评论，无需复杂工具即可高效维护仓库秩序，该方案在 Hacker News 引发开发者对自动化治理的讨论。"
+    },
+    {
+      "id": 10,
+      "title": "“AI vs Creativity” from a pro-AI greedy corpo",
+      "titleCN": "Reddit 热议：AI 与创造力之争，被指为贪婪科技公司的洗白话术",
+      "url": "https://www.reddit.com/r/artificial/comments/1ti5pq7/ai_vs_creativity_from_a_proai_greedy_corpo/",
+      "source": "Reddit",
+      "sourceIcon": "reddit",
+      "pubDate": "2026-05-20T00:37:19.000Z",
+      "summary": "Reddit 用户揭露所谓“AI 提升创造力”论调，实为科技公司推卸责任、加速替代创意工作者的商业策略，引发行业对伦理与垄断的深层反思。"
+    },
+    {
+      "id": 11,
+      "title": "AI eats the world (Spring 26) [pdf]",
+      "titleCN": "AI 吞噬世界？Hacker News 热议 2026 春 AI 全景预测",
+      "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-05-18T12:49:28.000Z",
+      "summary": "Hacker News 热帖探讨 2026 年春季 AI 发展态势，聚焦技术落地与行业颠覆，引发开发者对 AI 全面渗透现实世界的深度讨论。"
+    },
+    {
+      "id": 12,
+      "title": "A tool I built to generate 3D objects with functional, articulated parts. It's on github, and is mostly LLM-agnostic.",
+      "titleCN": "开发者开源3D生成工具，支持功能化关节部件，兼容主流大模型",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1thucyj/a_tool_i_built_to_generate_3d_objects_with/",
+      "source": "Reddit",
+      "sourceIcon": "reddit",
+      "pubDate": "2026-05-19T17:43:27.000Z",
+      "summary": "该工具可生成含活动关节的3D模型，核心优势在于LLM无关架构，支持接入多种大语言模型，为3D内容创作提供灵活且低门槛的技术方案。"
+    },
+    {
+      "id": 13,
+      "title": "Musk Openai Case Runs Out Of Time",
+      "titleCN": "马斯克诉 OpenAI 案因时效过期终止，AI 开源之争暂告段落",
+      "url": "https://www.therundown.ai/p/musk-openai-case-runs-out-of-time",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-05-20T04:35:04.073Z",
+      "summary": "法院裁定马斯克对 OpenAI 的诉讼因超过法定时效而失效，标志着这场关于 AI 开源承诺与商业利益冲突的法律纠纷正式结束。"
+    },
+    {
+      "id": 14,
+      "title": "Ai Anger Comes For Claude Monet",
+      "titleCN": "AI 愤怒攻击莫奈画作？The Rundown AI 揭露生成式 AI 的文化偏见争议",
+      "url": "https://www.therundown.ai/p/ai-anger-comes-for-claude-monet",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-05-20T04:35:04.073Z",
+      "summary": "The Rundown AI 报道 AI 系统对莫奈等经典艺术作品的负面生成倾向，引发关于算法文化偏见与创作伦理的激烈讨论，凸显技术背后的价值观缺失。"
+    },
+    {
+      "id": 15,
+      "title": "Openai Takes Codex Mobile",
+      "titleCN": "OpenAI 收购 Codex Mobile，AI 编程助手赛道再掀并购狂潮",
+      "url": "https://www.therundown.ai/p/openai-takes-codex-mobile",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-05-20T04:35:04.073Z",
+      "summary": "OpenAI 正式收购 AI 编程工具 Codex Mobile，旨在强化开发者生态与代码生成能力。此举被视为 OpenAI 巩固 AI 开发工具市场主导地位的关键战略，直接加剧了与 GitHub Copilot 等竞品的竞争。"
+    },
+    {
+      "id": 16,
+      "title": "The Enterprise Shift Openai Saw Coming",
+      "titleCN": "OpenAI 预判成真：企业级 AI 应用爆发，重塑商业落地格局",
+      "url": "https://www.therundown.ai/p/the-enterprise-shift-openai-saw-coming",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-05-20T04:35:04.073Z",
+      "summary": "OpenAI 指出企业正加速从实验转向大规模部署，这一“企业级转向”标志着 AI 从技术演示走向核心业务流，引发行业对落地路径的重新评估。"
+    },
+    {
+      "id": 17,
+      "title": "Android Enters Its Gemini Intelligence Era",
+      "titleCN": "Android 正式迈入 Gemini 智能时代，Google 重塑移动端 AI 体验",
+      "url": "https://www.therundown.ai/p/android-enters-its-gemini-intelligence-era",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-05-20T04:35:04.073Z",
+      "summary": "Google 宣布将 Gemini 深度集成至 Android 系统，通过原生 AI 能力重构手机交互逻辑，标志着移动端进入生成式 AI 新阶段。"
+    },
+    {
+      "id": 18,
+      "title": "Mira Murati Tml Upends How Humans Work With Ai",
+      "titleCN": "OpenAI前CTO Mira Murati新创公司Tml，重塑人机协作范式",
+      "url": "https://www.therundown.ai/p/mira-murati-tml-upends-how-humans-work-with-ai",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-05-20T04:35:04.073Z",
+      "summary": "Mira Murati创立Tml，旨在解决AI集成痛点，通过创新工具链改变开发者与AI的交互方式，引发行业对下一代人机协作模式的关注。"
+    },
+    {
+      "id": 19,
+      "title": "A browser CLI for your AI Agents",
+      "titleCN": "TLDR AI 推出 AI Agent 浏览器 CLI，重塑开发者交互范式",
+      "url": "https://tldr.tech/tech/2026-05-20",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-05-20T04:34:59.737Z",
+      "summary": "该工具允许开发者通过命令行直接操控浏览器执行 AI 代理任务，实现自动化操作，显著提升开发效率与交互灵活性。"
+    },
+    {
+      "id": 20,
+      "title": "Plaid x OpenAI bring personalized financial guidance to ChatGPT",
+      "titleCN": "Plaid 携手 OpenAI 为 ChatGPT 注入个性化金融指导，重塑用户理财体验",
+      "url": "https://tldr.tech/tech/2026-05-19",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-05-19T04:34:59.737Z",
+      "summary": "Plaid 与 OpenAI 合作，利用 Plaid 的银行数据连接能力，使 ChatGPT 能基于用户真实财务数据提供定制化建议，推动 AI 在个人理财领域的落地应用。"
+    }
+  ]
+}
