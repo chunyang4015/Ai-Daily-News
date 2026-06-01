@@ -20,6 +20,7 @@
     "rss-parser": "^3.13.0"
   },
   "devDependencies": {
-    "tsx": "^4.22.1"
+    "tsx": "^4.22.1",
+    "wrangler": "^4.95.0"
   }
 }
