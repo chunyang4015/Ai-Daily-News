@@ -22,6 +22,12 @@ jobs:
 
       - run: pnpm build
 
+      - name: Create Cloudflare Pages project (skip if exists)
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          command: pages project create ai-daily-news --production-branch=main || true
+
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/wrangler-action@v3
         with:
