@@ -1,0 +1,206 @@
+{
+  "date": "2026-06-02",
+  "lastUpdate": "2026-06-02T01:07:10.186Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Anthropic confidentially submits draft S-1 to the SEC",
+      "titleCN": "AI 独角兽 Anthropic 秘密提交 IPO 招股书，估值或刷新行业纪录",
+      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-01T16:00:40.000Z",
+      "summary": "Anthropic 已向美国 SEC 秘密提交 S-1 文件，标志着这家 Claude 模型开发商正加速推进上市进程，或将成为 AI 领域最重要的 IPO 事件之一。"
+    },
+    {
+      "id": 2,
+      "title": "AI Agent Guidelines for CS336 at Stanford",
+      "titleCN": "斯坦福大学 CS336 课程发布 AI Agent 开发指南，定义智能体构建新标准",
+      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-01T16:41:49.000Z",
+      "summary": "斯坦福大学公开 CS336 课程关于 AI Agent 的开发指南，涵盖从规划、记忆到工具使用的核心框架，为开发者构建自主智能体提供了系统性的学术与工程实践参考。"
+    },
+    {
+      "id": 3,
+      "title": "DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms",
+      "titleCN": "流量激增！DuckDuckGo 强化“反 AI”搜索体验，力保隐私用户免受 AI 干扰",
+      "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-01T16:33:59.000Z",
+      "summary": "随着用户对 AI 生成内容日益不满，DuckDuckGo 正在优化其非 AI 搜索入口，通过简化访问流程来应对流量爆发，旨在为用户提供更纯净、无广告干扰且保护隐私的搜索环境。"
+    },
+    {
+      "id": 4,
+      "title": "Florida sues OpenAI and Sam Altman over AI risks",
+      "titleCN": "佛罗里达州起诉 OpenAI 及 Sam Altman，指控其 AI 技术存在严重安全风险",
+      "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-01T16:02:04.000Z",
+      "summary": "佛罗里达州政府正式对 OpenAI 及其 CEO Sam Altman 发起诉讼，指控其开发的 AI 模型可能引发社会安全风险，此举或将引发针对 AI 开发商责任界定的法律风暴。"
+    },
+    {
+      "id": 5,
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "titleCN": "OpenAI 核心模型与 Codex 正式登陆 AWS，云巨头联手加速 AI 应用落地",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-01T21:50:02.000Z",
+      "summary": "OpenAI 的前沿模型及 Codex 代码模型现已集成至 AWS 平台，开发者可直接通过 Amazon Bedrock 调用，标志着 OpenAI 生态与主流云基础设施的深度融合。"
+    },
+    {
+      "id": 6,
+      "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
+      "titleCN": "Alphabet 豪掷 800 亿美元融资，大规模扩张 AI 基础设施与算力储备",
+      "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-01T20:55:15.000Z",
+      "summary": "谷歌母公司 Alphabet 宣布通过 800 亿美元股权融资，旨在应对激烈的 AI 军备竞赛，重点投入数据中心建设与高性能算力集群，以强化其在生成式 AI 领域的底层技术护城河。"
+    },
+    {
+      "id": 7,
+      "title": "Ai Next Dataset Is Your Apartment",
+      "titleCN": "AI 训练数据枯竭？《The Rundown AI》警告：你的私人生活正沦为下一代 AI 的训练集",
+      "url": "https://www.therundown.ai/p/ai-next-dataset-is-your-apartment",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-02T01:06:05.260Z",
+      "summary": "随着高质量文本数据耗尽，AI 模型正转向抓取用户私人生活数据。这意味着你的社交动态、智能家居记录甚至私人空间信息，都可能成为训练下一代大模型的“燃料”。"
+    },
+    {
+      "id": 8,
+      "title": "Anthropic Just Eclipsed Openai",
+      "titleCN": "Anthropic 强势超越 OpenAI？行业风向标发生剧变，Claude 性能表现引发广泛讨论",
+      "url": "https://www.therundown.ai/p/anthropic-just-eclipsed-openai",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-02T01:06:05.260Z",
+      "summary": "随着 Anthropic 最新模型在多项核心基准测试中表现优异，其在逻辑推理与代码能力上已展现出超越 OpenAI 的势头，引发了开发者社区对行业格局重塑的激烈讨论。"
+    },
+    {
+      "id": 9,
+      "title": "Exclusive Demis Hassabis On Agi Curing Diseases With Ai",
+      "titleCN": "Google DeepMind CEO Demis Hassabis 专访：AGI 将成为攻克人类疾病的终极利器",
+      "url": "https://www.therundown.ai/p/exclusive-demis-hassabis-on-agi-curing-diseases-with-ai",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-02T01:06:05.260Z",
+      "summary": "Demis Hassabis 在最新访谈中揭示了 AGI 的愿景，强调通过 AI 模拟生物过程与加速药物研发，人类将迎来彻底治愈复杂疾病的新时代。"
+    },
+    {
+      "id": 10,
+      "title": "The Pope Just Weighed In On Ai",
+      "titleCN": "教皇方济各就 AI 伦理发声，呼吁建立全球监管机制以防范技术风险",
+      "url": "https://www.therundown.ai/p/the-pope-just-weighed-in-on-ai",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-02T01:06:05.260Z",
+      "summary": "教皇方济其在最新讲话中强调，AI 的发展必须遵循伦理准则，并呼吁各国政府共同制定监管框架，以确保人工智能技术造福人类而非加剧社会不平等。"
+    },
+    {
+      "id": 11,
+      "title": "Google Tops Openai Math Breakthrough 9 To 1",
+      "titleCN": "数学推理能力实现逆袭！Google 在 OpenAI 领先的数学突破测试中以 9:1 完胜",
+      "url": "https://www.therundown.ai/p/google-tops-openai-math-breakthrough-9-to-1",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-02T01:06:05.260Z",
+      "summary": "在最新的数学逻辑基准测试中，Google 的模型表现出极强的推理优势，以 9 比 1 的压倒性胜率击败 OpenAI，标志着大模型在复杂逻辑计算领域的竞争格局发生重大变化。"
+    },
+    {
+      "id": 12,
+      "title": "Exclusive Interview Sundar Pichai On Ai Flip Phone Moment",
+      "titleCN": "Google CEO Sundar Pichai 专访：AI 将迎来类似“智能手机”的爆发式拐点",
+      "url": "https://www.therundown.ai/p/exclusive-interview-sundar-pichai-on-ai-flip-phone-moment",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-02T01:06:05.260Z",
+      "summary": "Sundar Pichai 在采访中预言 AI 将重塑硬件形态，并将其比作智能手机诞生时刻，暗示 Google 正致力于将大模型能力深度集成至移动端设备。"
+    },
+    {
+      "id": 13,
+      "title": "New screenshots of upcoming Copilot Super App",
+      "titleCN": "微软 Copilot 即将转型“超级应用”：新截图流出，或将重塑 AI 助手交互形态",
+      "url": "https://tldr.tech/tech/2026-06-02",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-06-02T01:06:02.163Z",
+      "summary": "根据最新曝光的截图显示，微软正计划将 Copilot 打造为集成多功能的超级应用，通过更深度的系统级交互与插件生态，试图在移动端与桌面端构建全能的 AI 操作系统入口。"
+    },
+    {
+      "id": 14,
+      "title": "Alphabet plans to raise $80B to pay for AI buildout",
+      "titleCN": "Alphabet 计划融资 800 亿美元疯狂砸向 AI 建设，Google 试图通过巨额资本战重夺算力高地",
+      "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-01T22:55:09.000Z",
+      "summary": "Alphabet 拟通过大规模融资筹集 800 亿美元，用于扩建 AI 数据中心及采购高性能芯片，旨在应对来自 OpenAI 与微软在基础设施层面的激烈竞争。"
+    },
+    {
+      "id": 15,
+      "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+      "titleCN": "英伟达剑指 2000 亿美元 CPU 市场，联手微软、戴尔、惠普打造 AI Agent PC",
+      "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-01T21:35:00.000Z",
+      "summary": "英伟达正试图通过与微软、戴尔及惠普合作，利用 AI Agent PC 架构重塑硬件生态，旨在通过 AI 算力优势挑战传统 CPU 巨头的市场地位。"
+    },
+    {
+      "id": 16,
+      "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+      "titleCN": "佛罗里达州起诉 OpenAI 及 Sam Altman，首例因 AI 诱发暴力事件引发的法律诉讼落地",
+      "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-01T20:03:40.000Z",
+      "summary": "佛罗里达州政府针对 OpenAI 及其 CEO Sam Altman 发起诉讼，指控其 AI 模型在生成内容时存在安全缺陷，并直接诱发了多起暴力犯罪事件，这标志着 AI 责任归属法律战的开端。"
+    },
+    {
+      "id": 17,
+      "title": "Anthropic files to go public",
+      "titleCN": "AI 独角兽 Anthropic 提交上市申请，估值飙升或将重塑 AI 赛道资本格局",
+      "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-01T16:36:55.000Z",
+      "summary": "Anthropic 正式向监管机构提交 IPO 文件，这家以 Claude 模型闻名的 AI 巨头正寻求通过上市筹集巨额资金，以应对与 OpenAI 及 Google 的激烈算力与人才竞争。"
+    },
+    {
+      "id": 18,
+      "title": "This AI weather startup is out-forecasting government agencies",
+      "titleCN": "AI 气象初创公司挑战权威，预测精度已超越政府官方机构",
+      "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-01T16:00:00.000Z",
+      "summary": "这家 AI 气象初创公司利用深度学习模型重塑天气预报领域，其预测精度与响应速度已在多项关键指标上超越传统政府气象部门，引发行业对传统气象预测范式的重新思考。"
+    },
+    {
+      "id": 19,
+      "title": "Chinese firm developing AI to predict dissent, leaked documents show",
+      "titleCN": "泄露文件揭露：中国公司正研发 AI 系统用于预测社会异见与不满情绪",
+      "url": "https://www.nytimes.com/2026/06/01/us/politics/china-ai-predicting-dissent.html",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-02T00:59:46.000Z",
+      "summary": "据泄露文档显示，相关中国科技公司正开发专门的 AI 模型，旨在通过分析数据预测潜在的社会动荡与异见行为，引发了外界对技术被用于社会监控与管控的广泛担忧。"
+    },
+    {
+      "id": 20,
+      "title": "aweskills: Let Your AI Agent Manage skills for You",
+      "titleCN": "新项目 aweskills 推出 AI Agent 技能管理框架，旨在实现自动化任务调度",
+      "url": "https://aweskill.webioinfo.top/articles/let-your-ai-agent-manage-aweskill-for-you/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-02T00:56:22.000Z",
+      "summary": "aweskills 致力于让 AI Agent 能够自主管理和调用各类技能，通过模块化设计简化复杂任务流，为构建具备高度自主性的智能体提供底层能力支撑。"
+    }
+  ]
+}
