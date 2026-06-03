@@ -1,0 +1,206 @@
+{
+  "date": "2026-06-03",
+  "lastUpdate": "2026-06-03T08:01:32.747Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
+      "titleCN": "硬件设计工具 Flux.ai 向 Adafruit 发出律师函，潜在版权或专利纠纷引发关注",
+      "url": "https://blog.adafruit.com/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-02T10:00:56.000Z",
+      "summary": "Flux.ai 委托 Fenwick 律师事务所向硬件开发平台 Adafruit 发送律师函，此举或涉及电路设计工具的知识产权争议，可能影响硬件开发者社区的工具使用生态。"
+    },
+    {
+      "id": 2,
+      "title": "Trump signs downsized AI order after weeks of reversals",
+      "titleCN": "特朗普签署缩减版 AI 行政令，历经数周政策反复后最终定调",
+      "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-02T16:40:16.000Z",
+      "summary": "在经历数周政策立场反复后，特朗普最终签署了规模缩减的 AI 行政命令，这一变动反映了白宫在 AI 监管与技术发展速度之间的权衡与博弈。"
+    },
+    {
+      "id": 3,
+      "title": "AI outperforms law professors in Stanford Law study",
+      "titleCN": "斯坦福法学院研究：AI 在法律专业测试中表现超越法学教授",
+      "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-02T23:43:12.000Z",
+      "summary": "斯坦福大学最新研究显示，AI 模型在法律推理与案例分析中的表现已优于资深法学教授，这可能彻底重塑法律行业的执业模式与人才需求。"
+    },
+    {
+      "id": 4,
+      "title": "Bringing Up DeepSeek-V4-Flash on AMD MI300X",
+      "titleCN": "DeepSeek-V4-Flash 成功适配 AMD MI300X，国产大模型在非 NVIDIA 硬件上的算力突破",
+      "url": "https://fergusfinn.com/blog/deepseek-v4-flash-mi300x/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-02T17:52:48.000Z",
+      "summary": "开发者成功在 AMD MI300X 加速器上部署 DeepSeek-V4-Flash 模型，这一进展标志着国产顶尖大模型正加速摆脱对 NVIDIA 芯片的单一依赖，为 AI 算力多元化提供新路径。"
+    },
+    {
+      "id": 5,
+      "title": "GitHub Copilot App",
+      "titleCN": "GitHub Copilot 推出独立桌面 App，旨在将 AI 编程助手深度集成至本地开发工作流",
+      "url": "https://github.com/features/preview/github-app",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-02T17:58:55.000Z",
+      "summary": "GitHub 推出 Copilot 桌面应用，支持在 IDE 之外直接与 AI 交互，通过更紧密的系统集成提升代码编写效率，标志着 AI 编程工具正从插件向全平台生态演进。"
+    },
+    {
+      "id": 6,
+      "title": "Microsoft announces Scout, an autonomous AI agent built on OpenClaw",
+      "titleCN": "微软发布自主 AI 智能体 Scout，基于 OpenClaw 架构构建，开启 Agentic AI 新阶段",
+      "url": "https://www.computerworld.com/article/4180103/microsoft-unveils-scout-an-autonomous-ai-agent-built-on-openclaw.html",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-02T18:19:27.000Z",
+      "summary": "微软推出基于 OpenClaw 框架的全新自主 AI 智能体 Scout，旨在通过高度自动化的任务执行能力，实现从简单对话向复杂工作流自动化的跨越。"
+    },
+    {
+      "id": 7,
+      "title": "Nvidia Corners The Ai Agent Stack",
+      "titleCN": "英伟达正通过全栈布局垄断 AI Agent 产业链，试图定义智能体时代新标准",
+      "url": "https://www.therundown.ai/p/nvidia-corners-the-ai-agent-stack",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-03T08:00:16.562Z",
+      "summary": "英伟达正从底层算力延伸至软件框架，通过构建完整的 AI Agent 技术栈，试图在智能体生态中占据核心地位，构建难以撼动的行业护城河。"
+    },
+    {
+      "id": 8,
+      "title": "Ai Next Dataset Is Your Apartment",
+      "titleCN": "AI 训练数据枯竭？《The Rundown AI》警告：你的私人生活正成为下一波 AI 数据集",
+      "url": "https://www.therundown.ai/p/ai-next-dataset-is-your-apartment",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-03T08:00:16.562Z",
+      "summary": "随着高质量文本数据耗尽，AI 模型正转向抓取用户私人生活数据。报道指出，智能家居、个人社交记录及生活轨迹正成为大模型训练的新矿脉，引发隐私边界讨论。"
+    },
+    {
+      "id": 9,
+      "title": "Anthropic Just Eclipsed Openai",
+      "titleCN": "Anthropic 强势超越 OpenAI？行业风向标发生巨变，Claude 正在重塑 AI 竞争格局",
+      "url": "https://www.therundown.ai/p/anthropic-just-eclipsed-openai",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-03T08:00:16.562Z",
+      "summary": "随着 Anthropic 在模型性能与用户体验上的持续突破，其最新进展被指已在多项核心指标上超越 OpenAI，引发了生成式 AI 领域权力中心的重新洗牌。"
+    },
+    {
+      "id": 10,
+      "title": "Exclusive Demis Hassabis On Agi Curing Diseases With Ai",
+      "titleCN": "Google DeepMind CEO Demis Hassabis 展望 AGI 未来：AI 将成为攻克人类疾病的终极武器",
+      "url": "https://www.therundown.ai/p/exclusive-demis-hassabis-on-agi-curing-diseases-with-ai",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-03T08:00:16.562Z",
+      "summary": "Demis Hassabis 在专访中透露，随着 AGI 技术的演进，AI 将在生物医学领域实现突破，通过模拟复杂生物过程来加速药物研发并彻底改变疾病治疗模式。"
+    },
+    {
+      "id": 11,
+      "title": "The Pope Just Weighed In On Ai",
+      "titleCN": "教皇方济各就 AI 伦理发表重要讲话，呼吁技术发展必须遵循人类道德准则",
+      "url": "https://www.therundown.ai/p/the-pope-just-weighed-in-on-ai",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-03T08:00:16.562Z",
+      "summary": "教皇方济其最新就人工智能领域发声，强调在推动 AI 技术创新的同时，必须建立严格的伦理框架，以确保算法决策不违背人类尊严并防止技术滥用。"
+    },
+    {
+      "id": 12,
+      "title": "Google Tops Openai Math Breakthrough 9 To 1",
+      "titleCN": "数学推理能力实现碾压！Google 在 OpenAI 领先的数学评测中以 9:1 优势完胜",
+      "url": "https://www.therundown.ai/p/google-tops-openai-math-breakthrough-9-to-1",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-03T08:00:16.562Z",
+      "summary": "在最新的数学逻辑突破性测试中，Google 的模型表现极其强劲，以 9 比 1 的压倒性比分击败 OpenAI，彻底扭转了此前 OpenAI 在逻辑推理领域的领先地位。"
+    },
+    {
+      "id": 13,
+      "title": "Anthropic Filed a Confidential Draft IPO Registration",
+      "titleCN": "AI 独角兽 Anthropic 秘密提交 IPO 招股书，或将开启大模型厂商上市潮",
+      "url": "https://tldr.tech/tech/2026-06-03",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-06-03T08:00:14.819Z",
+      "summary": "Anthropic 已向监管机构提交保密版 IPO 注册草案，这家由前 OpenAI 高管创立的竞争对手正加速资本化进程，旨在为下一代 AI 模型研发筹集巨额资金。"
+    },
+    {
+      "id": 14,
+      "title": "Uber caps employee AI spending after blowing through budget in 4 months",
+      "titleCN": "Uber 预算超支严重，宣布限制员工 AI 支出以应对 4 个月内耗尽预算的危机",
+      "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-02T19:11:48.000Z",
+      "summary": "由于 AI 研发投入远超预期，Uber 在短短 4 个月内便耗尽了既定预算，被迫采取限制措施，反映出大厂在 AI 算力与研发成本控制上的巨大压力。"
+    },
+    {
+      "id": 15,
+      "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+      "titleCN": "微软发布开发者新工具：仅需文本描述即可自动化生成 AI 行为测试场景",
+      "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-02T19:02:21.000Z",
+      "summary": "微软推出全新开发工具，允许开发者通过自然语言描述直接构建 AI 行为测试，旨在通过自动化模拟复杂交互，提升大模型在实际应用中的鲁棒性与安全性。"
+    },
+    {
+      "id": 16,
+      "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
+      "titleCN": "好莱坞传奇导演马丁·斯科塞斯拥抱 AI，跨界成为最新“AI 配音”代表引发争议",
+      "url": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-02T18:16:53.000Z",
+      "summary": "著名导演马丁·斯科塞斯加入 AI 语音技术应用阵营，这一看似矛盾的跨界举动，再次引发了电影工业界关于生成式 AI 是否会侵蚀艺术原创性的激烈讨论。"
+    },
+    {
+      "id": 17,
+      "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
+      "titleCN": "Google 推出 AI 诈骗防御新功能，利用实时检测技术打击 Deepfake 语音冒充骗局",
+      "url": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-02T18:00:00.000Z",
+      "summary": "针对日益猖獗的 AI 深度伪造诈骗，Google 正式上线通话检测功能，旨在通过识别语音合成特征，实时拦截冒充亲友或机构的 AI 伪造电话，保护用户资金安全。"
+    },
+    {
+      "id": 18,
+      "title": "Microsoft offers devs a better way to control AI agent behavior",
+      "titleCN": "微软推出开发者新工具，旨在精准掌控 AI Agent 行为逻辑",
+      "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-02T18:00:00.000Z",
+      "summary": "微软通过新功能为开发者提供更细粒度的控制权，解决 AI 智能体在复杂任务中行为不可控的痛点，助力构建更稳定、可预测的自动化工作流。"
+    },
+    {
+      "id": 19,
+      "title": "Trump signs narrower executive order on AI oversight after industry objections ",
+      "titleCN": "受行业反对影响，特朗普签署缩减版 AI 监管行政令，试图平衡安全与创新",
+      "url": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-02T16:23:08.000Z",
+      "summary": "特朗普在行业压力下调整了 AI 监管策略，新签署的行政令在监管范围上进行了收缩，旨在降低企业合规成本，避免过度监管阻碍美国 AI 技术的全球竞争力。"
+    },
+    {
+      "id": 20,
+      "title": "AI Engineers aren't safe from being replaced by AI",
+      "titleCN": "AI 工程师也难逃被替代命运？行业专家警示 AI 自动化将重塑开发范式",
+      "url": "https://dmanco.dev/2025/08/17/fear-not-even-ai-engineers-will-be-replaced-by-ai.html",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-03T07:27:20.000Z",
+      "summary": "随着 AI 编程工具从代码补全进化到自主构建应用，传统 AI 工程师的岗位边界正面临冲击，行业正从“编写代码”转向“架构设计与提示词工程”。"
+    }
+  ]
+}
