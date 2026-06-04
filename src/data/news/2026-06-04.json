@@ -1,0 +1,206 @@
+{
+  "date": "2026-06-04",
+  "lastUpdate": "2026-06-04T00:21:09.616Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
+      "titleCN": "DDR5 内存价格暴涨：32GB 飙升至 375 美元，AI 算力荒持续冲击 PC 装机市场",
+      "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-03T12:43:43.000Z",
+      "summary": "受 AI 硬件需求激增影响，高性能 DDR5 内存供应持续紧缺，导致装机成本大幅上升，DIY 玩家面临严重的硬件溢价压力。"
+    },
+    {
+      "id": 2,
+      "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+      "titleCN": "Uber 内部 AI 使用额度设上限：每月 1500 美元限制为 AI 工具定价提供新思路",
+      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-03T12:25:14.000Z",
+      "summary": "Uber 针对员工 AI 工具使用设定每月 1500 美元的成本上限，这一举措引发行业讨论，为企业级 AI 软件如何平衡用户体验与高昂算力成本提供了定价参考。"
+    },
+    {
+      "id": 3,
+      "title": "Mathematicians issue warning as AI rapidly gains ground",
+      "titleCN": "数学家集体发出警告：AI 在数学领域进展神速，或将颠覆传统研究范式",
+      "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-03T10:05:48.000Z",
+      "summary": "随着 AI 在解决复杂数学难题上展现出惊人潜力，数学界专家担忧其快速迭代可能冲击传统逻辑证明体系，并对学术研究的严谨性提出潜在风险预警。"
+    },
+    {
+      "id": 4,
+      "title": "U of T researchers demonstrate AI worm could target any online device",
+      "titleCN": "多伦多大学研究人员证实：AI 蠕虫病毒已具备跨设备攻击能力，任何联网设备均面临威胁",
+      "url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-03T03:47:21.000Z",
+      "summary": "多伦多大学最新研究展示了 AI 蠕虫如何利用自主学习能力实现跨平台渗透，能够针对任何联网设备进行自动化攻击，引发了网络安全界对 AI 自主恶意软件扩散风险的高度警惕。"
+    },
+    {
+      "id": 5,
+      "title": "Microsoft Paves Its Own Ai Way At Build",
+      "titleCN": "微软 Build 大会展示 AI 战略野心：不再单纯依赖 OpenAI，构建自主 AI 生态版图",
+      "url": "https://www.therundown.ai/p/microsoft-paves-its-own-ai-way-at-build",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-04T00:20:06.260Z",
+      "summary": "微软在 Build 大会上通过 Copilot+ PC 与全新开发者工具，展示了从底层架构到应用层的全栈 AI 能力，旨在建立独立于 OpenAI 的闭环生态。"
+    },
+    {
+      "id": 6,
+      "title": "Nvidia Corners The Ai Agent Stack",
+      "titleCN": "英伟达正全面布局 AI Agent 全栈生态，试图通过底层架构垄断智能体市场",
+      "url": "https://www.therundown.ai/p/nvidia-corners-the-ai-agent-stack",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-04T00:20:06.260Z",
+      "summary": "英伟达正通过整合算力、软件框架与开发工具，构建覆盖 AI Agent 从模型推理到任务执行的完整技术栈，意图在下一波智能体浪潮中确立绝对统治地位。"
+    },
+    {
+      "id": 7,
+      "title": "Ai Next Dataset Is Your Apartment",
+      "titleCN": "AI 训练进入“物理世界”时代：下一代数据集或将覆盖你的公寓生活",
+      "url": "https://www.therundown.ai/p/ai-next-dataset-is-your-apartment",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-04T00:20:06.260Z",
+      "summary": "随着合成数据趋于饱和，AI 训练正转向多模态物理数据，通过捕捉家庭环境、空间布局及日常行为，构建更具真实感和交互能力的具身智能模型。"
+    },
+    {
+      "id": 8,
+      "title": "Anthropic Just Eclipsed Openai",
+      "titleCN": "Anthropic 强势超越 OpenAI？行业风向标发生巨变，Claude 性能表现引发广泛讨论",
+      "url": "https://www.therundown.ai/p/anthropic-just-eclipsed-openai",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-04T00:20:06.260Z",
+      "summary": "随着 Anthropic 最新模型在多项关键评测中展现出超越 OpenAI 的能力，AI 领域竞争格局正面临重塑，开发者与企业正加速向 Claude 生态转移。"
+    },
+    {
+      "id": 9,
+      "title": "Exclusive Demis Hassabis On Agi Curing Diseases With Ai",
+      "titleCN": "Google DeepMind CEO Demis Hassabis 专访：AGI 将成为攻克人类疾病的终极武器",
+      "url": "https://www.therundown.ai/p/exclusive-demis-hassabis-on-agi-curing-diseases-with-ai",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-04T00:20:06.260Z",
+      "summary": "Demis Hassabis 在采访中透露，通用人工智能（AGI）将通过模拟生物过程和加速药物研发，彻底改变医疗领域，实现从预测疾病到精准治愈的跨越。"
+    },
+    {
+      "id": 10,
+      "title": "The Pope Just Weighed In On Ai",
+      "titleCN": "教皇方济各就 AI 伦理发表重要讲话，呼吁建立全球监管机制以防止技术失控",
+      "url": "https://www.therundown.ai/p/the-pope-just-weighed-in-on-ai",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-04T00:20:06.260Z",
+      "summary": "教皇方济其在最新表态中强调，人工智能的发展必须以人为本，并呼吁国际社会共同制定伦理准则，以应对算法偏见及技术对人类尊严可能造成的威胁。"
+    },
+    {
+      "id": 11,
+      "title": "Claude Opus 4.8: “a modest but tangible improvement”",
+      "titleCN": "Anthropic 发布 Claude Opus 4.8，官方称其为“小幅但显著”的性能迭代",
+      "url": "https://tldr.tech/tech/2026-06-04",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-06-04T00:20:05.011Z",
+      "summary": "Anthropic 推出 Claude Opus 4.8 版本，旨在通过优化模型架构实现性能的稳步提升，尽管改进幅度被定义为“适度”，但仍将在逻辑推理与响应效率上带来实质性优化。"
+    },
+    {
+      "id": 12,
+      "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
+      "titleCN": "开源项目 Mnemo 亮相：基于 Rust 与 SQLite 构建本地优先 AI 记忆层，赋予 LLM 长期记忆能力",
+      "url": "https://github.com/zaydmulani09/mnemo",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-03T20:32:10.000Z",
+      "summary": "Mnemo 利用 Rust 和 petgraph 构建了一个高性能的本地记忆层，通过 SQLite 实现数据持久化，旨在为各类大模型提供低延迟、隐私安全的长期上下文存储方案。"
+    },
+    {
+      "id": 13,
+      "title": "Goldman Sachs CEO says markets in 'greed' mode as AI companies seek billions",
+      "titleCN": "高盛 CEO 警告市场陷入“贪婪”模式：AI 巨头正疯狂寻求数百亿美元融资",
+      "url": "https://www.cnbc.com/2026/06/02/goldman-ceo-david-solomon-greed-mode-ai-firms-ipos.html",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-03T12:08:41.000Z",
+      "summary": "高盛首席执行官指出，随着 AI 初创公司不断寻求巨额资本扩张，市场情绪已过度转向贪婪，投资者需警惕 AI 泡沫化风险及资本过度涌入带来的市场波动。"
+    },
+    {
+      "id": 14,
+      "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+      "titleCN": "Alphabet 狂揽 850 亿美元巨资注资 Google AI，规模创纪录释放强劲增长信号",
+      "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-03T19:38:32.000Z",
+      "summary": "Alphabet 计划通过高达 850 亿美元的融资规模为 Google AI 业务注入强心针，这不仅体现了资本市场对谷歌大模型布局的信心，也预示着其在 AI 基础设施竞赛中将发起更大规模的投入。"
+    },
+    {
+      "id": 15,
+      "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+      "titleCN": "Google 发布奇葩命名 AI 工具 Dreambeans，能将现实生活瞬间转化为卡通动画",
+      "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-03T19:07:42.000Z",
+      "summary": "Google 推出名为 Dreambeans 的全新 AI 工具，通过先进的图像生成技术，用户只需上传素材即可实现生活场景的卡通化，展现了 Google 在创意生成领域的最新尝试。"
+    },
+    {
+      "id": 16,
+      "title": "Amazon will show AI product images when you search for some reason",
+      "titleCN": "亚马逊搜索引入 AI 生成产品图，试图通过视觉增强提升转化率",
+      "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-03T15:50:26.000Z",
+      "summary": "亚马逊计划在搜索结果中展示由 AI 生成的产品图像，旨在通过更具吸引力的视觉效果优化购物体验，但此举也引发了关于图像真实性与消费者信任的争议。"
+    },
+    {
+      "id": 17,
+      "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
+      "titleCN": "高盛与 Meta 前高管联手创业，旨在填补被主流忽视的语音 AI 市场空白",
+      "url": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-03T15:00:00.000Z",
+      "summary": "这两位前金融与科技巨头创始人正利用其行业背景，开发针对特定细分领域的语音 AI 技术，试图在通用大模型之外开辟全新的垂直市场机遇。"
+    },
+    {
+      "id": 18,
+      "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
+      "titleCN": "新规落地！媒体出版商将获权拒绝 AI 搜索抓取，版权保护迎来转折点",
+      "url": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-03T14:58:33.000Z",
+      "summary": "随着最新监管政策的出台，新闻出版商将获得拒绝 AI 搜索引擎抓取内容的权利，此举旨在缓解媒体与 AI 巨头间的版权冲突，重塑 AI 训练数据获取规则。"
+    },
+    {
+      "id": 19,
+      "title": "Meta’s AI agent for WhatsApp Business is now available globally",
+      "titleCN": "Meta 宣布 WhatsApp Business AI 智能体全球上线，重塑企业自动化服务生态",
+      "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-03T13:40:00.000Z",
+      "summary": "Meta 正式向全球商家推出 WhatsApp AI 智能体，旨在通过生成式 AI 自动化处理客户咨询、订单管理及营销任务，大幅降低中小企业运营成本并提升转化率。"
+    },
+    {
+      "id": 20,
+      "title": "Broadcom Slides After AI Chip Outlook Disappoints Investors",
+      "titleCN": "博通 AI 芯片前景不及预期，股价应声下跌引发投资者担忧",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-03/broadcom-outlook-disappoints-investors-seeking-ai-fueled-blowout",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-04T00:01:50.000Z",
+      "summary": "受 AI 芯片业务增长预期未达市场高标准影响，博通股价出现明显下滑，投资者正重新评估其在 AI 基础设施供应链中的增长潜力。"
+    }
+  ]
+}

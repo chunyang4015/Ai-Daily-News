@@ -272,14 +272,22 @@ const SYSTEM_PROMPT = `你是一个资深科技媒体编辑，擅长写出有吸
 严格按 JSON 格式输出，输出任何其他内容，title 与 summary 字段里面，不要在包含 JSON 格式数据：
 {"title":"中文标题","summary":"中文摘要"}`;
 
-function parseAIResponse(raw: string, fallbackTitle: string): AIGenerated {
+function containsChinese(text: string): boolean {
+  return /[一-鿿]/.test(text);
+}
+
+function parseAIResponse(raw: string): AIGenerated | null {
   const cleaned = raw.replace(/```json\s*/g, '').replace(/```\s*/g, '').trim();
 
   const tryParse = (text: string): AIGenerated | null => {
     try {
       const parsed = JSON.parse(text);
       if (parsed.title && parsed.summary) {
-        return { titleCN: parsed.title, summary: parsed.summary };
+        const result = { titleCN: parsed.title, summary: parsed.summary };
+        // Validate: both fields must contain Chinese characters
+        if (containsChinese(result.titleCN) && containsChinese(result.summary)) {
+          return result;
+        }
       }
       // Handle {"content": "{\"title\":...,\"summary\":...}"} envelope
       if (parsed.content && typeof parsed.content === 'string') {
@@ -300,7 +308,7 @@ function parseAIResponse(raw: string, fallbackTitle: string): AIGenerated {
     if (extracted) return extracted;
   }
 
-  return { titleCN: fallbackTitle, summary: cleaned };
+  return null;
 }
 
 async function callOmlx(baseURL: string, model: string, title: string, source: string): Promise<string> {
@@ -328,37 +336,46 @@ async function callOmlx(baseURL: string, model: string, title: string, source: s
   return data.choices[0]?.message?.content?.trim() || '';
 }
 
+const MAX_RETRIES = 2;
+
 async function generateSummary(
   client: OpenAI,
   title: string,
   source: string,
   model: string,
   isOmlx: boolean,
-): Promise<AIGenerated> {
-  try {
-    let content: string;
+): Promise<AIGenerated | null> {
+  for (let attempt = 0; attempt <= MAX_RETRIES; attempt++) {
+    try {
+      let content: string;
 
-    if (isOmlx) {
-      const baseURL = process.env.OMLX_BASE_URL || 'http://localhost:8000/v1';
-      content = await callOmlx(baseURL, model, title, source);
-    } else {
-      const response = await client.chat.completions.create({
-        model,
-        messages: [
-          { role: 'system', content: SYSTEM_PROMPT },
-          { role: 'user', content: `标题：${title}\n来源：${source}` },
-        ],
-        max_tokens: 300,
-        temperature: 0.3,
-      });
-      content = response.choices[0]?.message?.content?.trim() || '';
+      if (isOmlx) {
+        const baseURL = process.env.OMLX_BASE_URL || 'http://localhost:8000/v1';
+        content = await callOmlx(baseURL, model, title, source);
+      } else {
+        const response = await client.chat.completions.create({
+          model,
+          messages: [
+            { role: 'system', content: SYSTEM_PROMPT },
+            { role: 'user', content: `标题：${title}\n来源：${source}` },
+          ],
+          max_tokens: 300,
+          temperature: 0.3,
+        });
+        content = response.choices[0]?.message?.content?.trim() || '';
+      }
+
+      const result = parseAIResponse(content);
+      if (result) return result;
+
+      console.warn(`Attempt ${attempt + 1}: parsed result has no Chinese content for "${title.slice(0, 50)}"`);
+    } catch (err) {
+      console.error(`Attempt ${attempt + 1} failed for "${title.slice(0, 50)}":`, (err as Error).message);
     }
-
-    return parseAIResponse(content, title);
-  } catch (err) {
-    console.error(`Summary generation failed for "${title}":`, (err as Error).message);
-    return { titleCN: title, summary: title };
   }
+
+  console.error(`All ${MAX_RETRIES + 1} attempts failed for "${title.slice(0, 50)}", skipping.`);
+  return null;
 }
 
 // ── Main ─────────────────────────────────────────────────
@@ -384,8 +401,9 @@ async function main() {
 
   const unique = dedup(merged);
   const recent = filterByRecency(unique, 24);
-  const topStories = selectTopStories(recent, 20, 6);
-  console.log(`Top 20 stories selected (from ${unique.length} unique, ${recent.length} within 24h, source-capped at 6)`);
+  const TARGET_COUNT = 20;
+  const candidates = selectTopStories(recent, 30, 6);
+  console.log(`${candidates.length} candidates selected (from ${unique.length} unique, ${recent.length} within 24h, source-capped at 6)`);
 
   const { client, model } = createAIClient();
   const provider = process.env.AI_PROVIDER || 'omlx';
@@ -394,19 +412,20 @@ async function main() {
   console.log(`Using AI provider: ${provider}, model: ${model}`);
 
   const stories: Story[] = [];
-  for (let i = 0; i < topStories.length; i++) {
-    const item = topStories[i];
-    console.log(`[${i + 1}/${topStories.length}] Summarizing: ${item.title.slice(0, 60)}...`);
-    const { titleCN, summary } = await generateSummary(client, item.title, item.source, model, isOmlx);
+  for (let i = 0; i < candidates.length && stories.length < TARGET_COUNT; i++) {
+    const item = candidates[i];
+    console.log(`[${stories.length + 1}→${TARGET_COUNT}] [${i + 1}/${candidates.length}] Summarizing: ${item.title.slice(0, 60)}...`);
+    const result = await generateSummary(client, item.title, item.source, model, isOmlx);
+    if (!result) continue;
     stories.push({
-      id: i + 1,
+      id: stories.length + 1,
       title: item.title,
-      titleCN,
+      titleCN: result.titleCN,
       url: item.url,
       source: item.source,
       sourceIcon: item.sourceIcon,
       pubDate: item.pubDate,
-      summary,
+      summary: result.summary,
     });
   }
 
@@ -423,7 +442,7 @@ async function main() {
 
   const outPath = resolve(DATA_DIR, `${today}.json`);
   writeFileSync(outPath, JSON.stringify(data, null, 2), 'utf-8');
-  console.log(`\nDone! Written ${stories.length} stories to ${outPath}`);
+  console.log(`\nDone! Written ${stories.length} stories to ${outPath}${stories.length < TARGET_COUNT ? ` (target was ${TARGET_COUNT})` : ''}`);
   process.exit(0);
 }
 
