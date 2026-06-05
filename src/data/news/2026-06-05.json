@@ -1,0 +1,206 @@
+{
+  "date": "2026-06-05",
+  "lastUpdate": "2026-06-05T01:12:43.891Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+      "titleCN": "AI 迈向“自我进化”：探讨 AI 递归自我改进的技术进展与潜在风险",
+      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-04T16:20:17.000Z",
+      "summary": "随着 AI 算法开始具备编写代码与优化自身架构的能力，递归自我改进正从理论走向现实，这可能引发智能爆炸，但也为系统失控带来了前所未有的挑战。"
+    },
+    {
+      "id": 2,
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "titleCN": "Anthropic 发布开源 AI 漏洞挖掘框架，利用大模型自动化提升网络安全防御能力",
+      "url": "https://github.com/anthropics/defending-code-reference-harness",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-04T20:11:20.000Z",
+      "summary": "Anthropic 推出全新开源框架，旨在通过 AI 驱动自动化漏洞发现流程，帮助开发者在代码部署前识别安全风险，标志着大模型在网络安全攻防领域的深度应用。"
+    },
+    {
+      "id": 3,
+      "title": "Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud",
+      "titleCN": "告别本地开发！Boxes.dev 推出云端开发环境，支持在云端直接运行 Claude Code 与 Codex",
+      "url": "https://boxes.dev",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-04T14:38:35.000Z",
+      "summary": "Boxes.dev 旨在通过云端化工作流取代传统的 localhost 开发模式，开发者可直接在云端调用 Claude Code 等 AI 编程工具，显著提升 AI 辅助编程的响应速度与环境一致性。"
+    },
+    {
+      "id": 4,
+      "title": "NSA using Anthropic's Mythos for cyber attacks",
+      "titleCN": "黑客社区爆料：美国国家安全局（NSA）疑似利用 Anthropic 的 Mythos 模型发起网络攻击",
+      "url": "https://www.ft.com/content/d02d91b3-2636-454e-9442-dc7e69f51815",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-04T20:33:02.000Z",
+      "summary": "据 Hacker News 消息，NSA 被指利用 Anthropic 开发的 Mythos 模型进行网络攻击活动，这一发现引发了业界对顶级 AI 模型被军事及情报机构用于自动化网络攻防的深度担忧。"
+    },
+    {
+      "id": 5,
+      "title": "AI, Ashby Engineering, and the future",
+      "titleCN": "Hacker News 热议：Ashby 工程团队深度解析 AI 如何重塑软件开发未来",
+      "url": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-04T14:48:44.000Z",
+      "summary": "开发者社区聚焦 Ashby 工程实践，探讨 AI 辅助编程对工程效率的深层影响，并讨论在自动化浪潮下，软件工程师的核心竞争力将如何演变。"
+    },
+    {
+      "id": 6,
+      "title": "Ideogram And Reve Rethink How Ai Images Get Made",
+      "titleCN": "Ideogram 联手 Reve 重新定义 AI 绘图工作流，试图打破图像生成的技术壁垒",
+      "url": "https://www.therundown.ai/p/ideogram-and-reve-rethink-how-ai-images-get-made",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-05T01:11:35.081Z",
+      "summary": "Ideogram 通过与 Reve 的深度协作，正从单一的模型生成转向更具交互性的创作流程，旨在解决 AI 图像在构图控制与设计逻辑上的痛点。"
+    },
+    {
+      "id": 7,
+      "title": "Microsoft Paves Its Own Ai Way At Build",
+      "titleCN": "微软 Build 大会展示 AI 战略蓝图：不再单纯依赖 OpenAI，开启自主生态新篇章",
+      "url": "https://www.therundown.ai/p/microsoft-paves-its-own-ai-way-at-build",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-05T01:11:35.081Z",
+      "summary": "微软在 Build 大会上通过 Copilot+ PC 与全新 AI 开发工具，展示了其构建端到端 AI 生态的野心，旨在降低对单一模型供应商的依赖并强化软硬件协同。"
+    },
+    {
+      "id": 8,
+      "title": "Nvidia Corners The Ai Agent Stack",
+      "titleCN": "英伟达（Nvidia）全面布局 AI Agent 全栈生态，意图掌控智能体时代的核心技术底座",
+      "url": "https://www.therundown.ai/p/nvidia-corners-the-ai-agent-stack",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-05T01:11:35.081Z",
+      "summary": "英伟达正通过整合算力、框架与中间件，构建覆盖 AI Agent 开发全流程的生态闭环，旨在从底层硬件到上层应用层实现对智能体技术栈的全面统治。"
+    },
+    {
+      "id": 9,
+      "title": "Ai Next Dataset Is Your Apartment",
+      "titleCN": "AI 训练数据枯竭？《The Rundown AI》警告：你的私人生活正成为下一代大模型的数据源",
+      "url": "https://www.therundown.ai/p/ai-next-dataset-is-your-apartment",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-05T01:11:35.081Z",
+      "summary": "随着高质量文本数据耗尽，AI 模型正转向利用视频、图像及个人生活场景进行训练，这意味着用户的日常行为与私人空间正面临被大规模数据化的风险。"
+    },
+    {
+      "id": 10,
+      "title": "Anthropic Just Eclipsed Openai",
+      "titleCN": "Anthropic 强势超越 OpenAI？行业风向标发生剧变，Claude 性能表现引发广泛讨论",
+      "url": "https://www.therundown.ai/p/anthropic-just-eclipsed-openai",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-05T01:11:35.081Z",
+      "summary": "随着 Anthropic 在模型推理与逻辑能力上的持续进化，其最新表现已在多项关键指标上对标甚至超越 OpenAI，引发了 AI 领域关于技术领先地位的激烈争论。"
+    },
+    {
+      "id": 11,
+      "title": "Exclusive Demis Hassabis On Agi Curing Diseases With Ai",
+      "titleCN": "Google DeepMind CEO Demis Hassabis 独家专访：预言 AGI 将彻底颠覆医疗，实现疾病治愈新纪元",
+      "url": "https://www.therundown.ai/p/exclusive-demis-hassabis-on-agi-curing-diseases-with-ai",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-05T01:11:35.081Z",
+      "summary": "Demis Hassabis 在采访中指出，通用人工智能（AGI）将通过模拟生物过程和加速药物研发，从根本上解决人类疾病难题，重塑全球医疗体系。"
+    },
+    {
+      "id": 12,
+      "title": "Airlines Uses AI to Fake Empathy Rather Than Fix Problems: Passenger Sent Prompt",
+      "titleCN": "航空公司被曝利用 AI 伪造“共情”安抚乘客，被指通过话术掩盖服务漏洞而非解决问题",
+      "url": "https://viewfromthewing.com/airlines-are-using-ai-to-manufacture-empathy-instead-of-solving-problems-one-passenger-was-sent-the-prompt-by-mistake/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-04T17:39:59.000Z",
+      "summary": "据 Hacker News 报道，航空公司正利用 AI 生成看似体贴的回复来应对投诉，这种“伪造共情”的行为被指旨在降低投诉率，而非真正修复系统性服务问题或解决乘客诉求。"
+    },
+    {
+      "id": 13,
+      "title": "OpenAI makes its next hardware move with Opal Electronics",
+      "titleCN": "OpenAI 进军硬件领域：宣布与 Opal Electronics 展开合作，布局 AI 硬件新赛道",
+      "url": "https://tldr.tech/tech/2026-06-05",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-06-05T01:11:33.807Z",
+      "summary": "OpenAI 正通过与 Opal Electronics 的合作推进其硬件战略，旨在将大模型能力深度整合进物理设备，标志着其从纯软件巨头向软硬一体化生态的战略转型。"
+    },
+    {
+      "id": 14,
+      "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+      "titleCN": "Anthropic 首席执行官回应 IPO 前质疑：无视 AI 投资回报率疑虑，坚定看好行业前景",
+      "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-04T22:43:26.000Z",
+      "summary": "面对市场对 AI 变现能力的普遍担忧，Anthropic 联合创始人 Daniela Amodei 在公司上市前夕公开表态，力证 AI 技术长期价值，试图在资本市场动荡期稳固投资者信心。"
+    },
+    {
+      "id": 15,
+      "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+      "titleCN": "Airbnb CEO Brian Chesky 计划成立全新 AI 实验室，试图通过生成式 AI 重塑旅游体验",
+      "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-04T22:29:50.000Z",
+      "summary": "Airbnb 创始人 Brian Chesky 宣布将组建专门的 AI 实验室，旨在利用生成式技术优化房客与房东的交互流程，并探索 AI 驱动的全新旅行规划模式。"
+    },
+    {
+      "id": 16,
+      "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+      "titleCN": "StrictlyVC 洛杉矶峰会开幕：国防科技与 AI 成为融资风口，资本正加速涌向硬核领域",
+      "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-04T21:30:00.000Z",
+      "summary": "TechCrunch 报道，6 月 18 日 StrictlyVC 峰会聚焦国防科技与 AI 的深度融合，展示了当前风险投资如何从纯软件转向具备战略意义的硬科技赛道。"
+    },
+    {
+      "id": 17,
+      "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+      "titleCN": "苹果批准 Poke 入驻 Messages for Business，首个 AI Agent 正式落地苹果生态",
+      "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-04T19:20:58.000Z",
+      "summary": "苹果通过 Messages for Business 平台正式引入 Poke，将其作为首个获批的 AI 智能体，标志着苹果在企业级 AI 交互与自动化服务领域迈出关键一步。"
+    },
+    {
+      "id": 18,
+      "title": "Meta rolls out a new AI creator assistant on Facebook",
+      "titleCN": "Meta 推出 Facebook AI 创作者助手，利用生成式 AI 赋能内容生产与互动",
+      "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-04T16:32:48.000Z",
+      "summary": "Meta 正式在 Facebook 平台上线全新 AI 助手，旨在通过自动化创意工具帮助创作者快速生成文案、回复评论并优化内容策略，进一步强化其社交生态的 AI 驱动能力。"
+    },
+    {
+      "id": 19,
+      "title": "Jo – Secure Programming for the AI Era",
+      "titleCN": "AI 时代编程新范式：Jo 语言发布，旨在为大模型驱动的开发提供原生安全保障",
+      "url": "https://jo-lang.org/blog/2026-06-04-introducing-jo.html",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-05T00:56:04.000Z",
+      "summary": "针对 AI 自动生成代码带来的安全风险，新语言 Jo 通过底层架构设计实现内存安全与逻辑校验，试图在 AI 编程时代构建更可靠的代码执行环境。"
+    },
+    {
+      "id": 20,
+      "title": "Show HN: Bonsai –- Using agentic AI / browser / memory to replace ChatGPT",
+      "titleCN": "开源新项目 Bonsai 亮相：利用 Agentic AI 与浏览器记忆技术，试图取代 ChatGPT 交互模式",
+      "url": "https://drive.google.com/drive/folders/1YUQ3tmcBSLEyBKLi5JdJgmod9mqXFTgl",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-05T00:51:07.000Z",
+      "summary": "Bonsai 通过结合智能体架构与浏览器记忆功能，实现自动化网页操作与上下文感知，旨在从单纯的对话框转向更具主动性的 AI 代理体验。"
+    }
+  ]
+}
