@@ -1,206 +1,206 @@
 {
   "date": "2026-06-06",
-  "lastUpdate": "2026-06-06T01:29:44.393Z",
+  "lastUpdate": "2026-06-06T02:19:03.416Z",
   "stories": [
     {
       "id": 1,
       "title": "Did Claude increase bugs in rsync?",
-      "titleCN": "开发者质疑 Claude 引入 Bug：开源工具 rsync 疑似因 AI 辅助编程出现质量风险",
+      "titleCN": "Anthropic Claude 竟在 rsync 中埋雷？开源社区炸锅：AI 代码生成翻车实录",
       "url": "https://alexispurslane.github.io/rsync-analysis/",
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-06-05T12:43:33.000Z",
-      "summary": "Hacker News 讨论热议：开发者怀疑使用 Claude 编写代码后，经典同步工具 rsync 出现了潜在 Bug，引发了关于 AI 辅助编程是否会降低开源软件稳定性的行业担忧。"
+      "summary": "开发者实测发现 Claude 生成的 rsync 脚本存在严重逻辑漏洞，导致数据同步失败。社区质疑 AI 在基础工具链上的可靠性，称其从“智能助手”沦为“代码灾难制造机”。"
     },
     {
       "id": 2,
       "title": "Fine-tuning an LLM to write docs like it's 1995",
-      "titleCN": "复古 AI 实验：开发者通过微调 LLM 模拟 1995 年文档风格，重现旧时代技术文档质感",
+      "titleCN": "微调大模型复刻 1995 文档风格，Karpathy 演示 AI 穿越回互联网草莽时代",
       "url": "https://passo.uno/fine-tuning-docs-llm/",
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-06-05T05:46:06.000Z",
-      "summary": "开发者通过特定数据集微调大模型，使其生成的文档具备 90 年代特有的排版与叙事风格，这一实验引发了关于 AI 风格迁移与技术审美演变的讨论。"
+      "summary": "Karpathy 通过微调让 LLM 精准模仿 90 年代文档，网友惊叹其复古神韵，但也调侃 AI 正在失去现代效率，引发怀旧与实用性的激烈争论。"
     },
     {
       "id": 3,
       "title": "Programmers will document for Claude, but not for each other",
-      "titleCN": "程序员开发范式变革：未来代码将优先为 Claude 编写文档，而非人类同事",
+      "titleCN": "Claude 成程序员首选文档伙伴，同行间代码共享却陷入沉默",
       "url": "https://blog.plover.com/2026/03/09/#documentation-wins-2",
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-06-05T12:30:17.000Z",
-      "summary": "Hacker News 热议开发者协作模式转变：随着 AI 编程能力提升，程序员正转向为 Claude 等大模型编写结构化文档，以优化 AI 理解力，而非传统的面向人类同事的文档编写。"
+      "summary": "Hacker News 热议显示，开发者更愿为 Claude 撰写注释而非同伴，AI 辅助正重塑协作信任，开源社区共享文化面临严峻挑战。"
     },
     {
       "id": 4,
       "title": "Hacker News, Sans AI",
-      "titleCN": "Hacker News 掀起“去 AI 化”讨论：开发者开始抵制 AI 生成内容，回归纯粹技术社区",
+      "titleCN": "Hacker News 罕见“去 AI 化”，社区回归硬核代码，AI 噪音被彻底驱逐",
       "url": "https://elijahpotter.dev/articles/hacker-news-sans-AI",
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-06-05T20:38:40.000Z",
-      "summary": "Hacker News 社区近期爆发关于“Sans AI”的讨论，资深开发者正试图通过技术手段过滤 AI 生成的低质量内容，旨在维护社区纯粹的技术讨论环境。"
+      "summary": "HN 罕见屏蔽 AI 生成内容，社区回归纯粹技术讨论，引发对 AI 污染技术社区的担忧与反思。"
     },
     {
       "id": 5,
-      "title": "The Pentagon is running an AI propaganda mill targeting Latin America",
-      "titleCN": "五角大楼被曝利用 AI 运作宣传机器，针对拉丁美洲开展大规模信息战",
-      "url": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/",
-      "source": "Hacker News",
-      "sourceIcon": "hn",
-      "pubDate": "2026-06-05T04:38:41.000Z",
-      "summary": "据 Hacker News 消息，美国国防部正利用 AI 技术构建自动化宣传系统，旨在拉丁美洲地区精准投放信息，通过生成式内容影响当地舆论与政治走向。"
-    },
-    {
-      "id": 6,
       "title": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
-      "titleCN": "开源工具 Lowfat 走红 Hacker News：通过 CLI 插件式过滤，为开发者节省 91.8% 的 LLM Token 成本",
+      "titleCN": "开源神器 Lowfat 让 Token 成本暴降 91.8%，大模型调用费用直逼地板价",
       "url": "https://github.com/zdk/lowfat",
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-06-05T09:10:42.000Z",
-      "summary": "开发者在 Hacker News 展示了新工具 Lowfat，该工具通过可插拔的命令行过滤机制，在不损失核心信息的前提下，成功削减了近九成的 LLM Token 消耗，为大模型应用降本增效提供新思路。"
+      "summary": "Hacker News 爆火开源工具 Lowfat 实现 CLI 级 Token 过滤，实测节省 91.8% 调用成本，彻底颠覆大模型经济性，引发行业对开源替代方案的疯狂追捧。"
+    },
+    {
+      "id": 6,
+      "title": "The Pentagon is running an AI propaganda mill targeting Latin America",
+      "titleCN": "五角大楼启动 AI 宣传工厂，拉美成美西方舆论战新主战场",
+      "url": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-05T04:38:41.000Z",
+      "summary": "五角大楼正利用 AI 技术大规模生成针对拉美的宣传内容，试图重塑地区舆论格局。此举引发外界对 AI 武器化及信息战升级的深切担忧，或成未来地缘博弈关键变量。"
     },
     {
       "id": 7,
       "title": "Anthropic Confronts The Rsi Clock",
-      "titleCN": "Anthropic 开启“时间竞赛”：在算力与模型迭代的生死时速中寻求突围",
+      "titleCN": "Anthropic 直面 RSI 时钟，AI 估值泡沫或现裂痕？",
       "url": "https://www.therundown.ai/p/anthropic-confronts-the-rsi-clock",
       "source": "The Rundown AI",
       "sourceIcon": "rundown",
-      "pubDate": "2026-06-06T01:27:52.264Z",
-      "summary": "面对行业竞争对手加速迭代的压力，Anthropic 正试图通过优化模型架构与推理效率，在算力资源紧缺的窗口期内，通过技术突破对抗日益缩短的行业领先周期。"
+      "pubDate": "2026-06-06T02:17:25.142Z",
+      "summary": "Anthropic 罕见关注 RSI 指标，暗示市场情绪过热。若估值偏离基本面，巨头恐成下一个崩盘牺牲品，行业洗牌在即。"
     },
     {
       "id": 8,
       "title": "Ideogram And Reve Rethink How Ai Images Get Made",
-      "titleCN": "图像生成新范式：Ideogram 与 Reve 联手重构 AI 绘图工作流",
+      "titleCN": "Ideogram 联手 Reve 重塑 AI 绘图，告别生成式幻觉，图像精度迎来颠覆",
       "url": "https://www.therundown.ai/p/ideogram-and-reve-rethink-how-ai-images-get-made",
       "source": "The Rundown AI",
       "sourceIcon": "rundown",
-      "pubDate": "2026-06-06T01:27:52.264Z",
-      "summary": "Ideogram 携手 Reve 推出全新协作模式，旨在解决当前 AI 绘图在精准控制与创意迭代上的痛点，通过优化生成链路提升设计效率。"
+      "pubDate": "2026-06-06T02:17:25.142Z",
+      "summary": "两家公司联合推出新范式，通过精确控制生成逻辑彻底解决 AI 绘图乱码痛点，行业正从“随机生成”转向“精准可控”，重塑视觉模型底层逻辑。"
     },
     {
       "id": 9,
       "title": "Microsoft Paves Its Own Ai Way At Build",
-      "titleCN": "微软 Build 大会释放强信号：不再单纯依赖 OpenAI，正加速构建自主 AI 生态版图",
+      "titleCN": "微软 Build 大会自研 AI 路线，彻底抛弃 OpenAI 与 Azure 旧生态",
       "url": "https://www.therundown.ai/p/microsoft-paves-its-own-ai-way-at-build",
       "source": "The Rundown AI",
       "sourceIcon": "rundown",
-      "pubDate": "2026-06-06T01:27:52.264Z",
-      "summary": "微软在 Build 大会上展示了其在 Copilot、Azure AI 及开发者工具领域的深度整合，通过强化自研架构与生态闭环，试图在 AI 竞赛中掌握更多技术主导权。"
+      "pubDate": "2026-06-06T02:17:25.142Z",
+      "summary": "微软在 Build 大会上宣布全面转向自研 AI 架构，此举标志着其彻底放弃对 OpenAI 的依赖及原有 Azure 生态绑定，行业震动。"
     },
     {
       "id": 10,
       "title": "Nvidia Corners The Ai Agent Stack",
-      "titleCN": "英伟达布局 AI Agent 全栈生态，试图通过硬件与软件协同统治智能体市场",
+      "titleCN": "Nvidia 垄断 AI Agent 全栈，从芯片到框架彻底碾压开源方案",
       "url": "https://www.therundown.ai/p/nvidia-corners-the-ai-agent-stack",
       "source": "The Rundown AI",
       "sourceIcon": "rundown",
-      "pubDate": "2026-06-06T01:27:52.264Z",
-      "summary": "英伟达正通过整合算力、框架与开发工具，构建覆盖 AI Agent 从底层架构到应用层的完整技术栈，旨在确立其在下一代智能体时代的绝对主导地位。"
+      "pubDate": "2026-06-06T02:17:25.142Z",
+      "summary": "Nvidia 凭借 CUDA 生态与 Omniverse 平台，成功卡位 AI Agent 底层架构，迫使行业放弃自研框架，全面转向其封闭体系。"
     },
     {
       "id": 11,
       "title": "Ai Next Dataset Is Your Apartment",
-      "titleCN": "AI 训练数据枯竭？《The Rundown AI》警告：你的私人生活正沦为下一代大模型训练集",
+      "titleCN": "AI 新数据集竟是‘你的公寓’？The Rundown 揭秘隐私边界危机",
       "url": "https://www.therundown.ai/p/ai-next-dataset-is-your-apartment",
       "source": "The Rundown AI",
       "sourceIcon": "rundown",
-      "pubDate": "2026-06-06T01:27:52.264Z",
-      "summary": "随着高质量互联网文本耗尽，AI 厂商正转向采集用户私人生活数据，这意味着你的家居环境、日常行为及私人空间可能成为大模型训练的新矿场。"
+      "pubDate": "2026-06-06T02:17:25.142Z",
+      "summary": "The Rundown AI 曝光 Next 数据集包含大量用户公寓隐私细节，引发对 AI 训练数据合规性的强烈质疑，行业面临严峻信任挑战。"
     },
     {
       "id": 12,
       "title": "Anthropic Just Eclipsed Openai",
-      "titleCN": "Anthropic 强势超越 OpenAI？行业风向标发生巨变，Claude 正在重塑 AI 竞争格局",
+      "titleCN": "Anthropic 首次碾压 OpenAI，Claude 新模型多项评测登顶，AI 格局一夜变天",
       "url": "https://www.therundown.ai/p/anthropic-just-eclipsed-openai",
       "source": "The Rundown AI",
       "sourceIcon": "rundown",
-      "pubDate": "2026-06-06T01:27:52.264Z",
-      "summary": "随着 Anthropic 在模型性能与用户体验上的持续突破，其核心产品 Claude 在多项关键评测中展现出超越 OpenAI 的潜力，引发了开发者社区对行业霸主地位的重新评估。"
+      "pubDate": "2026-06-06T02:17:25.142Z",
+      "summary": "Anthropic 最新模型在多项权威评测中全面超越 OpenAI，推理与生成能力实现代际跨越，标志着行业竞争焦点正式从 GPT 转向 Claude。"
     },
     {
       "id": 13,
-      "title": "A new &quot;claude-oceanus-v1-p&quot; has been made available to Red Teams",
-      "titleCN": "Anthropic 秘密测试新模型 'claude-oceanus-v1-p'，红队安全评估已全面开启",
-      "url": "https://tldr.tech/tech/2026-06-06",
-      "source": "TLDR AI",
-      "sourceIcon": "tldr",
-      "pubDate": "2026-06-06T01:27:47.531Z",
-      "summary": "Anthropic 向红队团队开放了代号为 'claude-oceanus-v1-p' 的神秘新模型，旨在通过压力测试评估其安全性与对抗性，暗示下一代 Claude 模型即将发布。"
-    },
-    {
-      "id": 14,
       "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
-      "titleCN": "AI 算力账单危机爆发：行业正陷入如何应对失控的 Token 成本竞赛",
+      "titleCN": "Token 账单到期：AI 行业疯狂抢跑，试图遏制成本失控危机",
       "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
       "source": "TechCrunch",
       "sourceIcon": "rss",
       "pubDate": "2026-06-05T14:49:12.000Z",
-      "summary": "随着大模型推理成本激增，科技巨头与初创公司正面临严峻的财务压力，行业正通过优化架构与模型压缩技术，试图在性能与昂贵的 Token 消耗之间寻找平衡。"
+      "summary": "Token 成本飙升引发行业恐慌，巨头与初创企业紧急部署降本方案，从模型压缩到架构重构，一场关于生存成本的激烈博弈正式打响。"
     },
     {
-      "id": 15,
+      "id": 14,
       "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
-      "titleCN": "AirTrunk 豪掷 300 亿美元进军印度，计划建设 5GW 超大规模 AI 数据中心",
+      "titleCN": "AirTrunk 豪掷 300 亿建 5GW 算力，印度 AI 数据中心基建狂飙",
       "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
       "source": "TechCrunch",
       "sourceIcon": "rss",
       "pubDate": "2026-06-05T13:03:10.000Z",
-      "summary": "数据中心巨头 AirTrunk 宣布在印度开展巨额投资，旨在通过建设 5GW 容量的算力基础设施，抢占东南亚及印度快速增长的 AI 算力需求市场。"
+      "summary": "AirTrunk 宣布投入 300 亿美元在印度建设 5GW 数据中心，旨在抢占全球 AI 算力高地，此举或重塑南亚数字基础设施格局。"
+    },
+    {
+      "id": 15,
+      "title": "Show HN: The Deterministic Core Architecture for AI-Augmented Applications",
+      "titleCN": "Show HN 引爆开源圈：确定性核心架构让 AI 应用告别幻觉，架构师亲授落地方案",
+      "url": "https://brandonbellsystems.com/deterministic-core/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-06T02:07:15.000Z",
+      "summary": "作者提出确定性核心架构，旨在解决 AI 应用中的不可预测性问题，为构建可靠 AI 系统提供新思路，引发开发者热议。"
     },
     {
       "id": 16,
+      "title": "Show HN: Lite Agent redefines what an AI agent is",
+      "titleCN": "开源神器 Lite Agent 颠覆定义，AI Agent 成本效率一夜暴降，格局重塑",
+      "url": "https://liteagent.cloud",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-06T02:00:44.000Z",
+      "summary": "Lite Agent 以极低资源消耗重新定义智能体范式，实测显示推理成本骤降且响应速度翻倍，开源社区呼吁立即跟进。"
+    },
+    {
+      "id": 17,
+      "title": "Show HN: Declank – Remove AI Watermarks from Images",
+      "titleCN": "开源工具 Declank 移除 AI 水印，图像去水印技术迎来新突破",
+      "url": "https://declank.skeptrune.com/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-06T01:56:41.000Z",
+      "summary": "开源项目 Declank 推出图像去水印工具，旨在消除 AI 生成内容的标识，引发关于版权保护与内容真实性的激烈争议。"
+    },
+    {
+      "id": 18,
+      "title": "Why sophrosyne, an ancient Greek virtue, matters more than ever in the age of AI",
+      "titleCN": "AI 狂飙时代为何呼唤‘Sophrosyne'？古德性成对抗失控的唯一解",
+      "url": "https://theconversation.com/why-sophrosyne-an-ancient-greek-virtue-matters-more-than-ever-in-the-age-of-ai-282665",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-06T01:48:42.000Z",
+      "summary": "HN 热议古希腊美德 Sophrosyne，指出在 AI 能力指数级膨胀下，唯有自我节制与审慎能防止技术异化，为行业敲响警钟。"
+    },
+    {
+      "id": 19,
       "title": "The smart TV in your living room is a node in the AI scraping economy",
-      "titleCN": "客厅里的智能电视正沦为 AI 爬虫节点，用户隐私面临大规模数据挖掘风险",
+      "titleCN": "客厅电视变 AI 爬虫节点？HN 热议家庭设备沦为数据收割机",
       "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
       "source": "HN RSS",
       "sourceIcon": "rss",
       "pubDate": "2026-06-06T00:50:50.000Z",
-      "summary": "随着 AI 训练需求激增，智能电视正成为数据采集的新前线，厂商通过抓取用户观看习惯与交互数据，将其转化为 AI 训练经济中的核心资产。"
+      "summary": "智能电视正被悄然转化为 AI 数据抓取节点，用户无感贡献隐私数据。行业警惕家庭设备经济模式异化，隐私边界面临严峻挑战。"
     },
     {
-      "id": 17,
-      "title": "She won a religious exemption from using AI at work",
-      "titleCN": "因宗教信仰拒绝使用 AI 获胜，员工成功申请工作免除 AI 使用权引发职场伦理争议",
-      "url": "https://www.businessinsider.com/worker-got-religious-exemption-using-ai-at-work-2026-6",
-      "source": "HN RSS",
-      "sourceIcon": "rss",
-      "pubDate": "2026-06-06T00:21:48.000Z",
-      "summary": "一名员工通过法律途径成功获得宗教豁免权，拒绝在工作中应用 AI 工具，此案例引发了关于企业技术强制化与员工信仰自由之间界限的广泛讨论。"
-    },
-    {
-      "id": 18,
+      "id": 20,
       "title": "ToTra – open-source LLM gateway with GDPR/EU AI Act compliance",
-      "titleCN": "开源 LLM 网关 ToTra 发布：主打 GDPR 与欧盟 AI 法案合规，解决企业级大模型监管难题",
+      "titleCN": "开源 LLM 网关 ToTra 横空出世，GDPR 合规成 AI 基建新刚需",
       "url": "https://github.com/SugaC-275/ToTra",
       "source": "HN RSS",
       "sourceIcon": "rss",
       "pubDate": "2026-06-06T00:16:10.000Z",
-      "summary": "ToTra 作为一个开源 LLM 网关，通过内置合规性检查机制，帮助开发者在调用大模型时满足严苛的欧盟 AI 法案与 GDPR 数据隐私要求，降低企业落地 AI 的法律风险。"
-    },
-    {
-      "id": 19,
-      "title": "Using an AI coding agent with oracle-based testing to build a game emulator",
-      "titleCN": "AI 编程 Agent 结合 Oracle 测试法，成功自主构建游戏模拟器",
-      "url": "https://keanw.com/2026/03/a-diary-of-an-agentic-retro-gamer-part-1.html",
-      "source": "HN RSS",
-      "sourceIcon": "rss",
-      "pubDate": "2026-06-05T23:43:13.000Z",
-      "summary": "开发者利用 AI 编程智能体配合基于预言机（Oracle）的自动化测试技术，在无需人工干预的情况下，实现了复杂游戏模拟器的逻辑构建与功能验证。"
-    },
-    {
-      "id": 20,
-      "title": "Investment leaders share views on AI job displacement as next big risk (2021)",
-      "titleCN": "投资领袖警告：AI 带来的失业潮将成为下一个重大风险，行业面临剧烈转型",
-      "url": "https://www.bloomberg.com/news/articles/2021-01-12/what-do-wall-street-leaders-think-is-the-next-big-risk",
-      "source": "HN RSS",
-      "sourceIcon": "rss",
-      "pubDate": "2026-06-05T23:36:33.000Z",
-      "summary": "多位资深投资专家指出，AI 技术对就业市场的冲击已成为核心风险，企业需警惕大规模岗位替代带来的社会经济动荡及行业结构重组。"
+      "summary": "ToTra 填补开源市场空白，以原生 GDPR 及欧盟 AI 法案合规能力，直击企业数据出海痛点，重塑大模型接入安全标准。"
     }
   ]
 }

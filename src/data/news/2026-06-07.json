@@ -1,0 +1,206 @@
+{
+  "date": "2026-06-07",
+  "lastUpdate": "2026-06-07T03:24:54.098Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "titleCN": "标普 500 拒 SpaceX 并封杀 OpenAI 与 Anthropic，AI 巨头集体出局",
+      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-06T04:38:36.000Z",
+      "summary": "标普 500 指数罕见将 SpaceX、OpenAI 及 Anthropic 拒之门外，三大 AI 与航天巨头同时缺席，引发市场对其估值逻辑与行业边界的深度质疑。"
+    },
+    {
+      "id": 2,
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "titleCN": "Meta 确认数千 Instagram 账号遭黑客利用 AI 聊天机器人入侵，安全防线告急",
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-06T18:35:27.000Z",
+      "summary": "黑客滥用 Meta AI 聊天机器人漏洞批量盗号，数千 Instagram 用户中招。此次事件暴露大模型应用层严重安全隐患，Meta 紧急响应但用户信任受损，行业面临严峻合规挑战。"
+    },
+    {
+      "id": 3,
+      "title": "Police in England and Wales told to halt AI use in court statements",
+      "titleCN": "英威两地法院紧急叫停 AI 生成陈述，司法公正面临空前信任危机",
+      "url": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-06T15:35:49.000Z",
+      "summary": "英威警方被令立即禁止在法庭陈述中使用 AI 工具，此举直指司法诚信底线，引发法律界对技术滥用与程序正义的激烈担忧。"
+    },
+    {
+      "id": 4,
+      "title": "US House lawmakers release draft bill to prohibit state AI rules",
+      "titleCN": "众议院草案叫停州级 AI 立法，联邦收权引发科技界担忧",
+      "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-06T13:40:22.000Z",
+      "summary": "美国众议院议员发布草案拟禁止各州制定 AI 规则，旨在统一监管标准。此举可能终结地方创新差异，但被业界批评为过度干预，恐抑制技术多样性。"
+    },
+    {
+      "id": 5,
+      "title": "Meta Keeps Delaying the Release of Its New AI Model to Developers",
+      "titleCN": "Meta 新模型发布无限期延期，开发者社区集体抗议，AI 信任危机加剧",
+      "url": "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-06T12:15:59.000Z",
+      "summary": "Meta 再次推迟新模型开放，引发开发者不满，社区质疑其技术成熟度与透明度，行业担忧大厂垄断节奏。"
+    },
+    {
+      "id": 6,
+      "title": "Anthropic Confronts The Rsi Clock",
+      "titleCN": "Anthropic 直面 RSI 时钟：AI 估值泡沫破裂前夜，巨头们如何自救？",
+      "url": "https://www.therundown.ai/p/anthropic-confronts-the-rsi-clock",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-07T03:23:30.886Z",
+      "summary": "市场担忧 Anthropic 估值过高，RSI 指标发出危险信号。若泡沫破裂，行业洗牌将加速，中小玩家恐遭淘汰。"
+    },
+    {
+      "id": 7,
+      "title": "Ideogram And Reve Rethink How Ai Images Get Made",
+      "titleCN": "Ideogram 联手 Reve 重塑 AI 绘图，告别传统生成逻辑，行业迎来颠覆",
+      "url": "https://www.therundown.ai/p/ideogram-and-reve-rethink-how-ai-images-get-made",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-07T03:23:30.886Z",
+      "summary": "两家巨头联手重构 AI 图像生成底层逻辑，试图打破现有范式。此举若成功，将彻底改写 Midjourney 等工具的游戏规则，引发新一轮技术洗牌。"
+    },
+    {
+      "id": 8,
+      "title": "Microsoft Paves Its Own Ai Way At Build",
+      "titleCN": "微软 Build 大会自研 AI 路线大曝光，彻底抛弃 OpenAI 依赖，独立造梦时代开启",
+      "url": "https://www.therundown.ai/p/microsoft-paves-its-own-ai-way-at-build",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-07T03:23:30.886Z",
+      "summary": "微软在 Build 大会宣布全面转向自研 AI 架构，不再依赖外部供应商。此举标志着其彻底切断与 OpenAI 的绑定，试图通过内部技术栈重塑行业格局，引发市场对微软独立生态能否成功的激烈讨论。"
+    },
+    {
+      "id": 9,
+      "title": "Nvidia Corners The Ai Agent Stack",
+      "titleCN": "Nvidia 垄断 AI Agent 全栈，从芯片到软件彻底封杀开源路线",
+      "url": "https://www.therundown.ai/p/nvidia-corners-the-ai-agent-stack",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-07T03:23:30.886Z",
+      "summary": "Nvidia 凭借 CUDA 生态与 Omniverse 平台，构建从底层算力到上层应用的完整闭环，迫使开发者放弃开源方案，行业洗牌加剧。"
+    },
+    {
+      "id": 10,
+      "title": "Ai Next Dataset Is Your Apartment",
+      "titleCN": "AI 数据变“公寓”？Next 数据集拟人化，开发者直呼炸裂",
+      "url": "https://www.therundown.ai/p/ai-next-dataset-is-your-apartment",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-07T03:23:30.886Z",
+      "summary": "Next 数据集将 AI 训练数据重构为“公寓”场景，拟人化交互引发热议，开发者称此举彻底颠覆传统指令微调范式。"
+    },
+    {
+      "id": 11,
+      "title": "Anthropic Just Eclipsed Openai",
+      "titleCN": "Anthropic 首次碾压 OpenAI，Claude 新模型多项评测登顶，AI 格局一夜变天",
+      "url": "https://www.therundown.ai/p/anthropic-just-eclipsed-openai",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-07T03:23:30.886Z",
+      "summary": "Anthropic 最新模型在多项权威评测中全面超越 OpenAI，推理能力与效率实现双重突破，标志着行业竞争重心正式转移。"
+    },
+    {
+      "id": 12,
+      "title": "A new &quot;claude-oceanus-v1-p&quot; has been made available to Red Teams",
+      "titleCN": "Anthropic 放出 Claude 新变种，Red Team 率先试水，安全攻防再升级",
+      "url": "https://tldr.tech/tech/2026-06-07",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-06-07T03:23:29.747Z",
+      "summary": "Anthropic 向红队开放 Claude-oceanus-v1-p 测试版，旨在强化模型安全性。此举标志着 AI 安全从被动防御转向主动对抗，行业期待其能否有效抵御最新越狱攻击。"
+    },
+    {
+      "id": 13,
+      "title": "AI Can't Care",
+      "titleCN": "AI 彻底无法共情？Hacker News 热议：机器再强也读不懂人类心",
+      "url": "https://www.mooreds.com/wordpress/archives/3737",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-06T11:46:43.000Z",
+      "summary": "技术狂飙下 AI 情感短板暴露，Hacker News 社区炸裂讨论：无论模型多强，缺乏真实关怀注定无法真正理解人类。"
+    },
+    {
+      "id": 14,
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "titleCN": "OpenAI 紧急上线 Lockdown 模式，严防提示注入攻击窃取敏感数据",
+      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-06T20:32:24.000Z",
+      "summary": "OpenAI 推出 Lockdown 模式，通过隔离敏感数据阻断提示注入攻击。此举虽提升安全性，但可能增加企业部署成本，引发行业对隐私保护与可用性的新博弈。"
+    },
+    {
+      "id": 15,
+      "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+      "titleCN": "白宫 AI 顾问 Sriram Krishnan 离职，白宫 AI 战略层突发变天",
+      "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-06T17:42:15.000Z",
+      "summary": "白宫首席 AI 顾问 Sriram Krishnan 正式卸任，这一人事变动引发外界对白宫 AI 政策连续性及未来战略方向的广泛猜测与担忧。"
+    },
+    {
+      "id": 16,
+      "title": "The Trump administration might take an equity stake in OpenAI",
+      "titleCN": "特朗普政府欲入股 OpenAI？白宫拟以股权换 AI 主导权，科技巨头面临新变局",
+      "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-06T16:17:21.000Z",
+      "summary": "特朗普团队提议政府持有 OpenAI 股份，意图换取对这家大模型公司的控制权。此举若落地，将彻底改变美国 AI 监管格局，引发开源社区与资本市场的激烈博弈。"
+    },
+    {
+      "id": 17,
+      "title": "Ask HN: Where do you get the latest updates about AI?",
+      "titleCN": "HN 社区热议：AI 变天太快，哪里能获取最新硬核情报？",
+      "url": "https://news.ycombinator.com/item?id=48430864",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-07T01:24:55.000Z",
+      "summary": "开发者在 HN 求助追踪 AI 前沿动态，社区推荐 GitHub Trending、Hugging Face 及顶级论文库，强调需警惕营销噪音，回归技术本质。"
+    },
+    {
+      "id": 18,
+      "title": "When Can Amazon Block an Agentic AI Service?–Amazon vs. Perplexity",
+      "titleCN": "亚马逊剑指 Perplexity：AI 代理服务何时会被封杀？巨头博弈升级",
+      "url": "https://blog.ericgoldman.org/archives/2026/06/when-can-amazon-block-an-agentic-ai-service-amazon-v-perplexity-guest-blog-post.htm",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-07T01:17:47.000Z",
+      "summary": "亚马逊质疑 Perplexity 等 AI 代理服务存在滥用风险，双方围绕监管边界与平台责任展开激烈交锋，行业担忧巨头垄断将扼杀创新生态。"
+    },
+    {
+      "id": 19,
+      "title": "AI Criticism",
+      "titleCN": "AI 批评声浪高涨，开源社区集体质疑大模型过度炒作与泡沫风险",
+      "url": "https://dennisforbes.ca/blog/microblog/2026/06/on_ai_criticism/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-07T00:57:01.000Z",
+      "summary": "HN 社区爆发激烈讨论，开发者直指当前 AI 叙事脱离实际，呼吁回归技术本质，警惕资本裹挟下的行业盲目扩张。"
+    },
+    {
+      "id": 20,
+      "title": "Show HN: Persist – an AI agent that follows up accrued channels till they reply",
+      "titleCN": "Show HN 惊现 AI 跟进神器：Persist 自动追踪未回复渠道，效率碾压人工",
+      "url": "https://persist.chat",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-07T00:35:01.000Z",
+      "summary": "开源项目 Persist 打造 AI Agent 自动跟进未回复渠道，彻底解决人工跟进痛点，效率提升显著，开发者直呼内行。"
+    }
+  ]
+}
