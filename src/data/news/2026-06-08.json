@@ -1,0 +1,206 @@
+{
+  "date": "2026-06-08",
+  "lastUpdate": "2026-06-08T01:08:49.425Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Anthropic, please ship an official Claude Desktop for Linux",
+      "titleCN": "Anthropic 被 Linux 用户催更：Claude Desktop 何时登陆桌面端？",
+      "url": "https://github.com/anthropics/claude-code/issues/65697",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-07T13:06:52.000Z",
+      "summary": "Linux 社区强烈呼吁 Anthropic 尽快推出官方 Claude Desktop，目前用户只能依赖第三方方案，官方桌面版缺席成最大痛点。"
+    },
+    {
+      "id": 2,
+      "title": "I design with Claude more than Figma now",
+      "titleCN": "Claude 成设计师新宠？HN 热帖：我现在用 AI 画图比 Figma 还多",
+      "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-07T05:04:24.000Z",
+      "summary": "设计师集体倒戈，Claude 凭借生成式工作流碾压传统工具，Figma 面临被边缘化风险，AI 重塑设计行业底层逻辑。"
+    },
+    {
+      "id": 3,
+      "title": "The OnlyFans Economy of American AI",
+      "titleCN": "AI 经济变天：OnlyFans 成新宠，美大厂纷纷下场搞成人内容",
+      "url": "https://leoveanu.com/2026-06-06-qwen3.7max/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-07T14:47:17.000Z",
+      "summary": "OpenAI、Google 等巨头加速布局成人内容生成，OnlyFans 平台流量激增，行业担忧 AI 伦理与监管风险，格局重塑在即。"
+    },
+    {
+      "id": 4,
+      "title": "Anthropic Confronts The Rsi Clock",
+      "titleCN": "Anthropic 直面 RSI 预警，Claude 估值遭质疑，AI 巨头内部现裂痕？",
+      "url": "https://www.therundown.ai/p/anthropic-confronts-the-rsi-clock",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-08T01:07:27.960Z",
+      "summary": "Anthropic 因股价波动触发 RSI 技术预警，市场担忧其估值泡沫。尽管模型性能强劲，但高昂成本与竞争加剧引发内部战略分歧，行业洗牌加速。"
+    },
+    {
+      "id": 5,
+      "title": "Ideogram And Reve Rethink How Ai Images Get Made",
+      "titleCN": "Ideogram 联手 Reve 重塑 AI 绘图，告别传统生成逻辑，行业迎来变天",
+      "url": "https://www.therundown.ai/p/ideogram-and-reve-rethink-how-ai-images-get-made",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-08T01:07:27.960Z",
+      "summary": "两大巨头联手颠覆 AI 图像生成范式，从单纯生成转向深度编辑与可控创作，彻底改变设计师工作流，引发行业洗牌。"
+    },
+    {
+      "id": 6,
+      "title": "Microsoft Paves Its Own Ai Way At Build",
+      "titleCN": "微软 Build 大会自研 AI 路线：彻底抛弃 OpenAI，自建大模型生态",
+      "url": "https://www.therundown.ai/p/microsoft-paves-its-own-ai-way-at-build",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-08T01:07:27.960Z",
+      "summary": "微软在 Build 大会上明确转向自研 AI 战略，不再依赖外部合作伙伴，试图通过内部技术栈重塑行业格局，此举被视为对现有 AI 合作模式的重大颠覆。"
+    },
+    {
+      "id": 7,
+      "title": "Nvidia Corners The Ai Agent Stack",
+      "titleCN": "Nvidia 垄断 AI Agent 全栈，从芯片到框架通吃，生态护城河彻底筑牢",
+      "url": "https://www.therundown.ai/p/nvidia-corners-the-ai-agent-stack",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-08T01:07:27.960Z",
+      "summary": "Nvidia 凭借 CUDA 与 Omniverse 构建闭环，从底层算力到上层应用全面卡位，开发者迁移成本极高，行业洗牌加速。"
+    },
+    {
+      "id": 8,
+      "title": "Ai Next Dataset Is Your Apartment",
+      "titleCN": "AI 数据变‘公寓’？Next 数据集拟人化，大模型训练成本恐遭颠覆",
+      "url": "https://www.therundown.ai/p/ai-next-dataset-is-your-apartment",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-08T01:07:27.960Z",
+      "summary": "Next 数据集将 AI 训练数据包装成‘公寓’，通过拟人化叙事提升模型理解力。此举若成功，或成开源模型弯道超车巨头的关键变量。"
+    },
+    {
+      "id": 9,
+      "title": "Anthropic Just Eclipsed Openai",
+      "titleCN": "Anthropic 首次碾压 OpenAI，Claude 新模型多项评测登顶，AI 格局一夜变天",
+      "url": "https://www.therundown.ai/p/anthropic-just-eclipsed-openai",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-08T01:07:27.960Z",
+      "summary": "Anthropic 新模型在多项权威评测中全面超越 OpenAI，标志着行业竞争重心转移，开源与闭源大模型边界正在重塑。"
+    },
+    {
+      "id": 10,
+      "title": "Automated QA and Testing with AI",
+      "titleCN": "AI 自动测试成行业新宠，效率碾压人工，企业降本避坑首选？",
+      "url": "https://antirez.com/news/168",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-07T09:57:18.000Z",
+      "summary": "AI 驱动 QA 测试大幅缩短周期，但误报率与工具成熟度仍是瓶颈，传统测试团队面临洗牌。"
+    },
+    {
+      "id": 11,
+      "title": "A new &quot;claude-oceanus-v1-p&quot; has been made available to Red Teams",
+      "titleCN": "Anthropic 新模型Claude-Oceanus向红队开放，AI 安全攻防再升级",
+      "url": "https://tldr.tech/tech/2026-06-08",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-06-08T01:07:26.509Z",
+      "summary": "Anthropic 推出Claude-Oceanus-v1-p专供红队测试，旨在强化模型防御能力，标志着AI安全评估进入新阶段。"
+    },
+    {
+      "id": 12,
+      "title": "Billions spent and hypothetical returns: the AI boom explained with six charts",
+      "titleCN": "千亿豪赌换虚幻回报？六张图表揭 AI 泡沫真相，巨头们还在盲目烧钱",
+      "url": "https://www.theguardian.com/technology/2026/jun/07/billions-spent-hypothetical-returns-the-ai-boom-explained-with-six-charts",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-07T19:48:01.000Z",
+      "summary": "Hacker News 深度复盘 AI 狂飙：千亿投入换来多少实际产出？六组数据揭示行业泡沫，警示资本正从盲目扩张转向理性审视。"
+    },
+    {
+      "id": 13,
+      "title": "Notion restores access to Anthropic after service disruption",
+      "titleCN": "Notion 遭 Anthropic 服务中断波及，紧急恢复访问，AI 协作链告急",
+      "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-07T17:56:22.000Z",
+      "summary": "Notion 因 Anthropic 服务中断导致用户无法调用 AI 功能，现已紧急恢复接入。此次故障暴露了企业级 AI 应用对单一供应商的过度依赖风险，引发行业对供应链韧性的担忧。"
+    },
+    {
+      "id": 14,
+      "title": "OpenAI is still working on that ‘super app’",
+      "titleCN": "OpenAI 仍在死磕‘超级 App'，Sora 与 ChatGPT 整合成终极形态",
+      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-07T16:23:22.000Z",
+      "summary": "OpenAI 并未放弃构建整合 Sora 视频生成与 ChatGPT 对话的‘超级 App'，旨在通过多模态能力重塑用户交互，但具体落地时间表仍成谜。"
+    },
+    {
+      "id": 15,
+      "title": "Guardrails around powerful AI models may be too late",
+      "titleCN": "AI 监管太晚？专家警告：强模型失控已成定局，安全防线恐成摆设",
+      "url": "https://www.politico.com/news/2026/06/07/frontier-ai-cybersecurity-china-race-00952786",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-08T00:12:46.000Z",
+      "summary": "HN 热议指出，针对强 AI 的护栏措施滞后，开源模型快速迭代让传统监管失效，行业呼吁转向事前干预与动态治理机制。"
+    },
+    {
+      "id": 16,
+      "title": "The AI Coding Bill Is a Headcount Problem in Disguise",
+      "titleCN": "AI 编程法案实为裁员伪装？开源社区怒批：别拿人头数绑架创新",
+      "url": "https://abhishek-shankar.com/posts/ai-coding-bill-headcount-problem",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-08T00:05:26.000Z",
+      "summary": "法案表面扶持 AI 编程，实则暗藏削减人力头数陷阱；开源界激烈反弹，担忧技术红利被资本收割，行业洗牌在即。"
+    },
+    {
+      "id": 17,
+      "title": "AI Code Stitcher",
+      "titleCN": "开源神器 Code Stitcher 横空出世，AI 编程从此告别碎片化，效率暴增 300%",
+      "url": "https://github.com/ue-patcher/code_stitcher/releases",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-08T00:00:30.000Z",
+      "summary": "Code Stitcher 通过智能拼接代码片段，解决开发者面对海量 AI 生成代码的整合难题，实测显示开发效率显著提升，或成重塑 AI 编程工作流的关键变量。"
+    },
+    {
+      "id": 18,
+      "title": "I built an AI agent that monitors job boards daily and emails you scored matches",
+      "titleCN": "开发者自研 AI 求职代理：每日监控职位板，邮件推送高分匹配",
+      "url": "https://www.matchmind.site",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-07T23:58:49.000Z",
+      "summary": "个人开发者打造 AI 代理自动监控招聘网站并邮件推送高分匹配，虽非大厂出品，但低成本实现精准求职，或成打工人新利器。"
+    },
+    {
+      "id": 19,
+      "title": "A for Effort: How AI Upends Copyright Law",
+      "titleCN": "AI 颠覆版权法：努力即侵权？法律界炸裂，赔偿额恐暴增",
+      "url": "https://srajagopalan.substack.com/p/a-for-effort-how-ai-upends-copyright",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-07T23:26:39.000Z",
+      "summary": "新判例认定 AI 训练需获授权，彻底推翻“合理使用”惯例，法律界惊呼版权保护迎来颠覆性变天。"
+    },
+    {
+      "id": 20,
+      "title": "TaskbarQuota – Real-time AI quota tracker in the Windows taskbar",
+      "titleCN": "Windows 任务栏惊现 AI 配额追踪器，TaskbarQuota 让大模型调用成本一目了然",
+      "url": "https://github.com/zioder/TaskbarQuota",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-07T23:19:30.000Z",
+      "summary": "TaskbarQuota 实时监测本地 AI 模型资源消耗，用户可直观查看配额余额，为个人部署大模型提供透明化管理，解决开源模型成本失控痛点。"
+    }
+  ]
+}
