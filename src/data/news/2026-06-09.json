@@ -1,0 +1,206 @@
+{
+  "date": "2026-06-09",
+  "lastUpdate": "2026-06-09T00:54:20.131Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+      "titleCN": "DeepSeek V4 Pro 精度碾压 GPT-5.5 Pro，开源模型终结闭源神话？",
+      "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-08T01:39:30.000Z",
+      "summary": "DeepSeek V4 Pro 在精度指标上首次超越 GPT-5.5 Pro，引发行业震动。开源阵营以低成本实现高性能，彻底动摇大模型付费壁垒，AI 格局迎来颠覆性洗牌。"
+    },
+    {
+      "id": 2,
+      "title": "Siri AI",
+      "titleCN": "Siri 全面 AI 化，苹果重塑语音交互格局，旧版功能遭淘汰",
+      "url": "https://www.apple.com/apple-intelligence/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-08T18:17:53.000Z",
+      "summary": "苹果宣布 Siri 全面接入生成式 AI，语音助手将具备自主规划与深度推理能力，传统关键词匹配模式正式终结，行业迎来新一轮交互革命。"
+    },
+    {
+      "id": 3,
+      "title": "AI is slowing down",
+      "titleCN": "AI 发展突然踩刹车？Hacker News 热议：热潮背后是隐忧还是拐点？",
+      "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-08T15:46:37.000Z",
+      "summary": "社区热议 AI 增速放缓，质疑算力瓶颈与泡沫破裂，但专家指代际突破在即，行业正从盲目扩张转向务实落地。"
+    },
+    {
+      "id": 4,
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "titleCN": "Apple 竟用 Google 模型？新 AI 架构引爆行业地震，开源格局彻底变天",
+      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-08T19:14:47.000Z",
+      "summary": "Apple 宣布新 AI 架构核心基于 Google Gemini，此举引发巨大争议。业内质疑其战略意图，认为此举可能重塑大模型生态，但具体技术细节与长期影响仍需观察。"
+    },
+    {
+      "id": 5,
+      "title": "OpenAI Submits S-1 Draft to SEC",
+      "titleCN": "OpenAI 正式向 SEC 提交 S-1 招股书，IPO 进程加速引爆资本圈",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-08T21:22:43.000Z",
+      "summary": "OpenAI 递交 S-1 草案标志着其上市计划进入实质阶段，此举将彻底改变全球 AI 行业融资格局，引发市场对估值与监管的激烈博弈。"
+    },
+    {
+      "id": 6,
+      "title": "Apple Core AI Framework",
+      "titleCN": "苹果 Core AI 框架横空出世，开源生态迎颠覆性变革，大模型部署成本或暴降",
+      "url": "https://developer.apple.com/documentation/coreai/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-08T18:47:38.000Z",
+      "summary": "苹果推出 Core AI 框架，旨在统一 iOS 端 AI 体验并降低开发门槛。此举若落地，将彻底打破闭源壁垒，推动端侧大模型普及，重塑移动 AI 竞争格局。"
+    },
+    {
+      "id": 7,
+      "title": "Washington Wants A Piece Of Openai",
+      "titleCN": "白宫欲分羹 OpenAI，施压巨头交出更多 AI 红利，科技博弈升级",
+      "url": "https://www.therundown.ai/p/washington-wants-a-piece-of-openai",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-09T00:52:57.210Z",
+      "summary": "华盛顿政府正强势介入，要求 OpenAI 分享更多 AI 发展成果。此举引发业界担忧，恐加剧监管不确定性，重塑美国大模型竞争格局。"
+    },
+    {
+      "id": 8,
+      "title": "Anthropic Confronts The Rsi Clock",
+      "titleCN": "Anthropic 直面 RSI 时钟：AI 估值泡沫是否即将破裂？",
+      "url": "https://www.therundown.ai/p/anthropic-confronts-the-rsi-clock",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-09T00:52:57.210Z",
+      "summary": "Anthropic 罕见公开关注 RSI 指标，暗示行业估值可能见顶。此举引发市场对 AI 资本寒冬的担忧，或预示新一轮洗牌将至。"
+    },
+    {
+      "id": 9,
+      "title": "Ideogram And Reve Rethink How Ai Images Get Made",
+      "titleCN": "Ideogram 联手 Reve 颠覆 AI 绘图，新范式让图像生成彻底变天",
+      "url": "https://www.therundown.ai/p/ideogram-and-reve-rethink-how-ai-images-get-made",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-09T00:52:57.210Z",
+      "summary": "两大巨头联手重构 AI 图像生成底层逻辑，从单纯生成转向可控创作，行业洗牌加速，传统绘图工具面临生存危机。"
+    },
+    {
+      "id": 10,
+      "title": "Microsoft Paves Its Own Ai Way At Build",
+      "titleCN": "微软 Build 大会甩开开源路线，自研 AI 基建全面碾压，彻底变天",
+      "url": "https://www.therundown.ai/p/microsoft-paves-its-own-ai-way-at-build",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-09T00:52:57.210Z",
+      "summary": "微软拒绝依赖开源生态，在 Build 大会上展示全栈自研 AI 架构，从芯片到模型实现垂直整合，意图彻底重塑行业竞争格局。"
+    },
+    {
+      "id": 11,
+      "title": "Nvidia Corners The Ai Agent Stack",
+      "titleCN": "Nvidia 垄断 AI Agent 全栈，从芯片到框架通吃，生态护城河彻底炸裂",
+      "url": "https://www.therundown.ai/p/nvidia-corners-the-ai-agent-stack",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-09T00:52:57.210Z",
+      "summary": "Nvidia 凭借 CUDA 与 Omniverse 构建的完整工具链，成功卡位 AI Agent 核心层。行业分析指出，这种从底层算力到上层框架的垂直整合，正让其他厂商在 Agent 赛道面临被边缘化的巨大风险。"
+    },
+    {
+      "id": 12,
+      "title": "Ai Next Dataset Is Your Apartment",
+      "titleCN": "AI Next 数据集变公寓？开源社区炸裂，大模型训练成本恐被颠覆",
+      "url": "https://www.therundown.ai/p/ai-next-dataset-is-your-apartment",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-09T00:52:57.210Z",
+      "summary": "The Rundown AI 披露 AI Next 数据集将训练环境拟人化为“公寓”，引发社区对数据隐私与训练伦理的激烈争议，或成行业洗牌前兆。"
+    },
+    {
+      "id": 13,
+      "title": "Anthropic/OpenAI may be spending more than $1,000 for every $100 you pay them",
+      "titleCN": "Anthropic/OpenAI 被曝每收 100 元竟花超 1000 元，AI 巨头成本黑洞曝光",
+      "url": "https://tldr.tech/tech/2026-06-09",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-06-09T00:52:54.957Z",
+      "summary": "内部数据揭示两大巨头运营效率存疑，每收取 100 美元用户费用背后需消耗超 1000 美元算力成本，引发行业对定价策略与盈利模式的深度质疑。"
+    },
+    {
+      "id": 14,
+      "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+      "titleCN": "OpenAI 拟 IPO 之际，Sam Altman 旗下眼扫公司竟裁员，资本寒冬下 AI 巨头亦难逃阵痛",
+      "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-08T22:41:45.000Z",
+      "summary": "OpenAI 冲刺上市之际，其创始人 Sam Altman 的初创公司却传出裁员消息。这折射出 AI 行业从狂热扩张转向理性收缩，即便身处风口，资本寒冬下巨头亦难逃阵痛。"
+    },
+    {
+      "id": 15,
+      "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+      "titleCN": "苹果 WWDC 演示变真？2.5 亿美元虚假广告和解后，AI 秀肌肉终于落地",
+      "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-08T22:39:57.000Z",
+      "summary": "苹果因夸大 AI 能力被罚 2.5 亿美元，如今 WWDC 演示更务实。行业质疑：巨额罚款是否倒逼其从营销噱头转向真实技术交付？"
+    },
+    {
+      "id": 16,
+      "title": "OpenAI files confidentially for IPO, following Anthropic",
+      "titleCN": "OpenAI 秘密递交 IPO 文件，紧随 Anthropic 之后，AI 巨头上市潮加速",
+      "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-08T21:29:57.000Z",
+      "summary": "OpenAI 正式开启上市进程，紧接 Anthropic 脚步。此举标志着 AI 融资寒冬结束，资本重新回流，行业洗牌进入资本化新阶段。"
+    },
+    {
+      "id": 17,
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+      "titleCN": "WWDC 2026 变天：Siri 全面 AI 化，iOS 27 颠覆体验，苹果野心炸裂",
+      "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-08T19:41:32.000Z",
+      "summary": "苹果在 WWDC 2026 重磅发布 iOS 27 与深度 AI 化 Siri，宣称重塑人机交互。业内关注其能否在隐私与性能间平衡，但实测数据尚未出炉，市场对其颠覆性存疑。"
+    },
+    {
+      "id": 18,
+      "title": "Apple will let you build workflows using AI in its new Shortcuts app",
+      "titleCN": "Apple 开放 AI 工作流：Shortcuts 变身低代码平台，开发者能否弯道超车？",
+      "url": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-08T18:45:12.000Z",
+      "summary": "苹果新 Shortcuts 支持 AI 工作流构建，虽未公布具体模型细节，但此举或重塑 iOS 自动化生态，引发开发者对低代码门槛降低的期待与对隐私边界的担忧。"
+    },
+    {
+      "id": 19,
+      "title": "Apple’s Photos app is getting new AI editing features",
+      "titleCN": "Apple Photos 接入 AI 修图神器，一键消除路人，体验碾压竞品",
+      "url": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-08T18:36:04.000Z",
+      "summary": "Apple Photos 新增 AI 编辑功能，支持智能消除路人及物体，操作便捷度大幅提升，或成 iOS 端最强修图工具。"
+    },
+    {
+      "id": 20,
+      "title": "Faith, Dignity, and Human Flourishing: Hearing God's Voice in an Age of AI [video]",
+      "titleCN": "神学家警告：AI 时代人类尊严面临崩塌，信仰能否守住最后防线？",
+      "url": "https://www.youtube.com/watch?v=Ts5Z64A0Vv4",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-09T00:32:14.000Z",
+      "summary": "演讲直指 AI 技术对人性与尊严的侵蚀，呼吁在算法洪流中重拾神圣声音，引发科技伦理界关于人类主体性的激烈反思。"
+    }
+  ]
+}
