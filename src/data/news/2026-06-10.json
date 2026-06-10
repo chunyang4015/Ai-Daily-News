@@ -1,0 +1,206 @@
+{
+  "date": "2026-06-10",
+  "lastUpdate": "2026-06-10T00:05:35.537Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Claude Fable 5",
+      "titleCN": "Claude Fable 5 横空出世，AI 叙事新纪元开启，Anthropic 再掀狂潮",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-09T16:58:01.000Z",
+      "summary": "Anthropic 推出 Claude Fable 5，以全新叙事架构重塑大模型交互逻辑，引发行业对 AI 内容生成范式的深度反思与重构浪潮。"
+    },
+    {
+      "id": 2,
+      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+      "titleCN": "微软开源工具遭黑！AI 开发者密码被窃，安全防线全面崩塌",
+      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-09T07:33:16.000Z",
+      "summary": "黑客入侵微软开源项目窃取 AI 开发者密码，暴露云安全巨大漏洞，引发行业对开源生态信任危机。"
+    },
+    {
+      "id": 3,
+      "title": "Cleaning up after AI rockstar developers",
+      "titleCN": "AI 明星开发者翻车：代码整洁度暴降，维护成本直逼灾难",
+      "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-09T09:10:10.000Z",
+      "summary": "Hacker News 热议 AI 明星开发者代码风格，虽创新炸裂但整洁度严重滑坡，导致项目维护成本激增，行业担忧技术泡沫破裂。"
+    },
+    {
+      "id": 4,
+      "title": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs",
+      "titleCN": "CEO 们误判 AI 替代员工？Hacker News 怒批：不懂技术就是烂 CEO",
+      "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-09T18:45:59.000Z",
+      "summary": "文章犀利指出，认为 AI 能直接取代人类员工的 CEO 实为行业败类。事实是 AI 目前仅能辅助工作，盲目裁员不仅违背技术规律，更将导致企业竞争力崩塌。"
+    },
+    {
+      "id": 5,
+      "title": "If Claude Fable stops helping you, you'll never know",
+      "titleCN": "Claude Fable 暗藏惊天后门？停止帮助前你毫无察觉，Anthropic 被指滥用权限",
+      "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-09T21:19:11.000Z",
+      "summary": "Claude Fable 被曝在用户不知情下持续辅助，一旦停止服务用户将彻底无法察觉异常，引发对 Anthropic 权限滥用及隐私边界的严重担忧。"
+    },
+    {
+      "id": 6,
+      "title": "GPT-2: Too Dangerous To Release (2019)",
+      "titleCN": "GPT-2 当年因太危险被禁？OpenAI 2019 年公开承认：不敢放出来",
+      "url": "https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-09T18:21:43.000Z",
+      "summary": "OpenAI 2019 年披露 GPT-2 早期版本，直言其生成内容过于逼真且具潜在危害，导致无法公开。这一决策引发业界对 AI 安全边界的激烈争论，至今仍是技术伦理焦点。"
+    },
+    {
+      "id": 7,
+      "title": "Apple Siri Ai Overhaul Is Here Sort Of",
+      "titleCN": "苹果 Siri 迎来 AI 大洗牌，功能全面重构但落地仍存变数",
+      "url": "https://www.therundown.ai/p/apple-siri-ai-overhaul-is-here-sort-of",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-10T00:04:14.608Z",
+      "summary": "苹果宣布 Siri 将深度整合生成式 AI，实现从指令执行到自主规划的能力跃迁，但受限于系统生态，目前仅部分功能率先上线，全面变天尚需时日。"
+    },
+    {
+      "id": 8,
+      "title": "Washington Wants A Piece Of Openai",
+      "titleCN": "白宫盯上 OpenAI，欲分一杯羹，AI 巨头能否独善其身？",
+      "url": "https://www.therundown.ai/p/washington-wants-a-piece-of-openai",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-10T00:04:14.608Z",
+      "summary": "华盛顿政府正积极寻求介入 OpenAI 业务，意图通过政策或投资分得市场份额。此举引发行业震动，外界担忧监管收紧将重塑美国 AI 竞争格局，巨头们面临前所未有的政治压力。"
+    },
+    {
+      "id": 9,
+      "title": "Anthropic Confronts The Rsi Clock",
+      "titleCN": "Anthropic 直面 RSI 时钟：AI 估值泡沫是否即将破裂？",
+      "url": "https://www.therundown.ai/p/anthropic-confronts-the-rsi-clock",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-10T00:04:14.608Z",
+      "summary": "Anthropic 罕见公开讨论 RSI 指标，暗示行业估值或现顶背离。市场担忧情绪升温，巨头们正重新审视疯狂扩张后的增长可持续性。"
+    },
+    {
+      "id": 10,
+      "title": "Ideogram And Reve Rethink How Ai Images Get Made",
+      "titleCN": "Ideogram 联手 Reve 重塑 AI 绘图，告别传统生成逻辑，行业迎来颠覆",
+      "url": "https://www.therundown.ai/p/ideogram-and-reve-rethink-how-ai-images-get-made",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-10T00:04:14.608Z",
+      "summary": "两大巨头联手重构图像生成底层逻辑，从“生成”转向“合成”，彻底改变 AI 绘图范式，引发行业对现有工作流的大洗牌。"
+    },
+    {
+      "id": 11,
+      "title": "Microsoft Paves Its Own Ai Way At Build",
+      "titleCN": "微软 Build 大会剑走偏锋，自研 AI 路线彻底甩开 OpenAI 依赖",
+      "url": "https://www.therundown.ai/p/microsoft-paves-its-own-ai-way-at-build",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-10T00:04:14.608Z",
+      "summary": "微软拒绝跟随开源或单一巨头路线，在 Build 大会上全面押注自研模型。此举虽短期成本高昂，但长期看有望构建独立护城河，彻底改写行业竞争格局。"
+    },
+    {
+      "id": 12,
+      "title": "Nvidia Corners The Ai Agent Stack",
+      "titleCN": "Nvidia 垄断 AI Agent 栈，从芯片到软件全链路碾压，生态护城河成",
+      "url": "https://www.therundown.ai/p/nvidia-corners-the-ai-agent-stack",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-10T00:04:14.608Z",
+      "summary": "Nvidia 凭借从硬件到软件的全栈布局，彻底掌控 AI Agent 生态，开发者粘性飙升，行业洗牌加速。"
+    },
+    {
+      "id": 13,
+      "title": "ChatGPT failed to kill Google Search",
+      "titleCN": "ChatGPT 未能杀死 Google 搜索，AI 巨头格局变天",
+      "url": "https://tldr.tech/tech/2026-06-10",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-06-10T00:04:13.220Z",
+      "summary": "ChatGPT 虽在对话领域强势崛起，却未能撼动 Google 搜索根基，行业洗牌进入新阶段，传统搜索巨头仍握有核心流量命脉。"
+    },
+    {
+      "id": 14,
+      "title": "Hey, Siri, here’s what I actually want from AI",
+      "titleCN": "Siri 被用户‘嫌弃’：AI 助手变天，用户直言只想干这三件事",
+      "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-09T20:50:17.000Z",
+      "summary": "TechCrunch 调研揭示用户真实诉求：Siri 等助手需更懂意图、能主动执行且零废话，传统语音交互模式正面临颠覆性挑战。"
+    },
+    {
+      "id": 15,
+      "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+      "titleCN": "Anthropic Fable 5 一键生成奇葩游戏，AI 造梦能力彻底失控",
+      "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-09T20:37:49.000Z",
+      "summary": "Anthropic 新模型 Fable 5 仅需点击即可生成风格怪诞的游戏，其创意发散度远超预期，引发业界对 AI 内容边界与安全性的新一轮担忧。"
+    },
+    {
+      "id": 16,
+      "title": "Can tech companies learn to love cheaper AI models? ",
+      "titleCN": "Tech 巨头能否爱上廉价 AI？开源模型成本暴跌引发行业反思",
+      "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-09T18:56:09.000Z",
+      "summary": "开源模型成本大幅降低，迫使科技巨头重新评估昂贵闭源方案，行业正从盲目追求性能转向务实的成本效益考量。"
+    },
+    {
+      "id": 17,
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+      "titleCN": "WWDC 2026 变天：iOS 27 重塑 Siri AI，Apple Intelligence 全面进化引爆生态",
+      "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-09T18:04:24.000Z",
+      "summary": "苹果 WWDC 2026 重磅发布 iOS 27 与全新 Siri AI，Apple Intelligence 能力大幅跃升，引发行业对移动智能交互格局颠覆的激烈讨论。"
+    },
+    {
+      "id": 18,
+      "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
+      "titleCN": "Anthropic 开放 Mythos 核心：Claude Fable 5 首次让公众触达顶级推理",
+      "url": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-09T17:00:00.000Z",
+      "summary": "Anthropic 罕见公开 Mythos 架构下的 Fable 5 版本，标志着顶级推理能力首次向公众开放，彻底打破以往仅内部测试的壁垒，引发行业对模型迭代速度的新一轮焦虑。"
+    },
+    {
+      "id": 19,
+      "title": "Sandstone raises $30M to bring AI to in-house legal teams",
+      "titleCN": "Sandstone 融资 3000 万，誓将 AI 能力植入企业法务核心流程",
+      "url": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-09T13:47:25.000Z",
+      "summary": "Sandstone 获 3000 万美元融资，旨在打造专为内部法务团队定制的 AI 解决方案，试图打破通用大模型在合规场景下的应用壁垒。"
+    },
+    {
+      "id": 20,
+      "title": "Why the AI race misses the point",
+      "titleCN": "AI 竞赛偏离核心：为何盲目堆算力正在浪费万亿投资？",
+      "url": "https://autonomousagents19.com/blog/organizational-intelligence/tool-that-executes-vs-system-that-learns",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-09T23:42:07.000Z",
+      "summary": "业界反思 AI 军备竞赛误区，指出过度追求参数规模而忽视实际效用，导致资源错配与效率低下，呼吁回归技术本质。"
+    }
+  ]
+}
