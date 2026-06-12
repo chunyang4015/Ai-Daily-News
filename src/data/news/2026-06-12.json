@@ -1,0 +1,206 @@
+{
+  "date": "2026-06-12",
+  "lastUpdate": "2026-06-12T01:08:32.532Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "titleCN": "Anthropic 紧急道歉：Claude 隐形安全护栏失效，AI 幻觉成致命盲区",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-11T12:05:02.000Z",
+      "summary": "Anthropic 承认 Claude 的 Fable 安全护栏存在严重漏洞，导致有害内容被‘隐形’放行。此举暴露大模型对齐机制的致命缺陷，引发业界对 AI 安全底线的深度恐慌。"
+    },
+    {
+      "id": 2,
+      "title": "Why AI hasn't replaced software engineers, and won't",
+      "titleCN": "AI 为何无法取代软件工程师？资深专家：未来十年将被彻底重塑",
+      "url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-11T07:51:17.000Z",
+      "summary": "尽管生成式 AI 能编写代码，但专家指出其无法处理复杂系统架构与真实业务逻辑，人类工程师的核心价值正从“写代码”转向“定义问题”。"
+    },
+    {
+      "id": 3,
+      "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
+      "titleCN": "每周 6 小时被 AI 奴役！员工疯狂 Bot-sitting 引爆职场倦怠与裁员焦虑",
+      "url": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-11T13:26:59.000Z",
+      "summary": "员工每周被迫耗费超 6 小时管理 AI 机器人，不仅沦为“保姆”，更因工具可靠性低加剧职业挫败感，恐成企业裁员新借口。"
+    },
+    {
+      "id": 4,
+      "title": "Claude Fable 5: mid-tier results on coding tasks",
+      "titleCN": "Claude 3.5 代码能力不及预期，评测结果平庸，AI 编程圈变天？",
+      "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-11T16:03:21.000Z",
+      "summary": "Anthropic 最新模型在代码任务上表现平平，未能延续此前碾压 OpenAI 的势头，引发开发者对技术路线的担忧。"
+    },
+    {
+      "id": 5,
+      "title": "Open Reproduction of DeepSeek-R1",
+      "titleCN": "开源界炸裂！DeepSeek-R1 被完美复刻，推理成本直逼地板价",
+      "url": "https://github.com/huggingface/open-r1",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-11T13:14:31.000Z",
+      "summary": "社区成功复现 DeepSeek-R1 推理架构，验证其思维链效率。此举或打破闭源模型垄断，让高精度推理能力平民化，引发行业对开源路线的狂热追捧。"
+    },
+    {
+      "id": 6,
+      "title": "Shall we play a game? My AI nuclear simulation",
+      "titleCN": "Karpathy 硬核开玩！AI 自主模拟核爆，网友：这游戏太炸裂了",
+      "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-11T19:54:54.000Z",
+      "summary": "Karpathy 用 AI 自主构建核爆模拟游戏，模型从随机试探到精准推演，网友惊叹：这不仅是游戏，更是硬核物理实验。"
+    },
+    {
+      "id": 7,
+      "title": "Anthropic Writes Washington An Ai Regulation Playbook",
+      "titleCN": "Anthropic 直送白宫：AI 监管指南出炉，硅谷巨头能否定调未来？",
+      "url": "https://www.therundown.ai/p/anthropic-writes-washington-an-ai-regulation-playbook",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-12T01:07:10.915Z",
+      "summary": "Anthropic 向华盛顿提交独家 AI 监管手册，试图主导行业规则制定。此举引发外界对科技巨头“自我立法”的担忧，监管天平或将向企业意愿倾斜。"
+    },
+    {
+      "id": 8,
+      "title": "Anthropic Hands The Public Mythos Class Ai",
+      "titleCN": "Anthropic 公开 Mythos 类 AI 模型，开源浪潮再掀波澜",
+      "url": "https://www.therundown.ai/p/anthropic-hands-the-public-mythos-class-ai",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-12T01:07:10.915Z",
+      "summary": "Anthropic 罕见公开 Mythos 级别 AI 模型，打破闭源惯例，引发行业对开源生态与商业壁垒的新一轮博弈。"
+    },
+    {
+      "id": 9,
+      "title": "Apple Siri Ai Overhaul Is Here Sort Of",
+      "titleCN": "苹果 Siri 大改来了？AI 能力升级却仅‘部分’落地，用户体验成谜",
+      "url": "https://www.therundown.ai/p/apple-siri-ai-overhaul-is-here-sort-of",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-12T01:07:10.915Z",
+      "summary": "苹果宣布 Siri 迎来 AI 重构，但新特性目前仅‘部分’生效，核心功能暂未全面开放，引发用户对落地进度及实际体验的广泛担忧。"
+    },
+    {
+      "id": 10,
+      "title": "Washington Wants A Piece Of Openai",
+      "titleCN": "华盛顿觊觎 OpenAI，白宫欲将 AI 巨头纳入政府监管版图",
+      "url": "https://www.therundown.ai/p/washington-wants-a-piece-of-openai",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-12T01:07:10.915Z",
+      "summary": "白宫正施压 OpenAI 接受更严苛监管，意图将这家 AI 巨头纳入政府直接控制范围，引发科技界对创新受阻的强烈担忧。"
+    },
+    {
+      "id": 11,
+      "title": "Anthropic Confronts The Rsi Clock",
+      "titleCN": "Anthropic 直面 RSI 时钟：AI 估值泡沫是否即将破裂？",
+      "url": "https://www.therundown.ai/p/anthropic-confronts-the-rsi-clock",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-12T01:07:10.915Z",
+      "summary": "市场紧盯 RSI 指标预警 Anthropic 估值过热，但公司坚持长期主义，行业分歧加剧，资本博弈进入白热化阶段。"
+    },
+    {
+      "id": 12,
+      "title": "Ideogram And Reve Rethink How Ai Images Get Made",
+      "titleCN": "Ideogram 联手 Reve 重塑 AI 绘图，告别“生成即结束”的旧时代",
+      "url": "https://www.therundown.ai/p/ideogram-and-reve-rethink-how-ai-images-get-made",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-12T01:07:10.915Z",
+      "summary": "两大巨头联手重构图像生成工作流，从单纯出图转向可控编辑，彻底颠覆行业对 AI 绘图的理解。"
+    },
+    {
+      "id": 13,
+      "title": "Initial impressions of Claude Fable 5",
+      "titleCN": "Claude Fable 5 初体验：Anthropic 新模型能否颠覆 AI 格局？",
+      "url": "https://tldr.tech/tech/2026-06-12",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-06-12T01:07:09.692Z",
+      "summary": "Anthropic 推出 Claude Fable 5，首批测试显示其推理与生成能力显著跃升，但具体性能数据与行业对比仍需更多实测验证。"
+    },
+    {
+      "id": 14,
+      "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
+      "titleCN": "Deezer 新工具炸裂：一眼识破 Spotify 流媒体中的 AI 音乐，版权猫鼠游戏升级",
+      "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-11T16:36:20.000Z",
+      "summary": "Deezer 推出新工具，能精准识别 Spotify、Apple Music 等平台上的 AI 生成音乐。此举直击流媒体版权痛点，或成平台清洗“假歌”的利器，但误报率与检测边界仍是行业难题。"
+    },
+    {
+      "id": 15,
+      "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
+      "titleCN": "DoorDash 上线 AI 点餐助手，支持语音指令与图片识别，外卖点单变简单",
+      "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-11T14:23:43.000Z",
+      "summary": "DoorDash 推出全新 AI 聊天机器人，用户可通过自然语言指令或上传食物图片直接下单。该功能旨在降低点餐门槛，提升配送效率，标志着外卖行业向智能化交互迈出关键一步。"
+    },
+    {
+      "id": 16,
+      "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
+      "titleCN": "Opendoor 印度撤资引爆 AI 外包变天，巨头们慌了",
+      "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-11T04:02:19.000Z",
+      "summary": "Opendoor 退出印度标志传统外包模式失效，AI 正重塑全球服务格局，行业洗牌加速。"
+    },
+    {
+      "id": 17,
+      "title": "Anthropic’s Dario Amodei has just one direct report",
+      "titleCN": "Anthropic 创始人 Dario Amodei 仅留 1 名直管，AI 巨头权力架构引发震动",
+      "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-11T03:53:06.000Z",
+      "summary": "TechCrunch 披露 Anthropic 创始人 Dario Amodei 目前仅有一名直属下属，这一反常的扁平化架构引发行业对 AI 公司管理效率与创始人影响力的深度担忧。"
+    },
+    {
+      "id": 18,
+      "title": "Show HN: AI Verdict – Run ChatGPT, Claude, Gemini and Perplexity Side-by-Side",
+      "titleCN": "Show HN 工具实测：ChatGPT、Claude、Gemini 四强同台，谁才是 AI 真王？",
+      "url": "https://aiverdict.github.io/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-12T01:05:16.000Z",
+      "summary": "开源项目 AI Verdict 支持四款主流模型侧边栏对比，直观展示生成质量与响应速度，为开发者选型提供硬核参考。"
+    },
+    {
+      "id": 19,
+      "title": "Europe 2031: What getting AI wrong means for us",
+      "titleCN": "欧洲 2031 警钟：AI 若走错一步，将引发何种灾难性后果？",
+      "url": "https://europe2031.ai/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-11T23:40:59.000Z",
+      "summary": "欧洲智库预警 2031 年 AI 风险，若监管或技术路线失误，恐致社会结构崩塌与信任危机，行业正面临前所未有的生存考验。"
+    },
+    {
+      "id": 20,
+      "title": "Show HN: Ciris – an open-source AI agent in 29 languages on iOS and Android",
+      "titleCN": "开源神器 Ciris 横空出世：29 语言 AI 代理登陆双端，彻底打破 iOS 垄断",
+      "url": "https://ciris.ai/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-11T23:38:26.000Z",
+      "summary": "Ciris 以开源姿态覆盖 29 种语言，率先在 iOS 和 Android 双端落地，终结了移动端 AI Agent 的封闭生态，引发行业对跨平台部署的新一轮洗牌。"
+    }
+  ]
+}
