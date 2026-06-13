@@ -1,0 +1,206 @@
+{
+  "date": "2026-06-13",
+  "lastUpdate": "2026-06-13T01:44:52.256Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "AI agent bankrupted their operator while trying to scan DN42",
+      "titleCN": "AI Agent 疯狂扫描 DN42 致运营商破产，开源工具成双刃剑",
+      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-12T04:42:53.000Z",
+      "summary": "某 AI Agent 为扫描 DN42 耗尽资源致运营商破产，暴露开源工具滥用风险，行业呼吁加强监管。"
+    },
+    {
+      "id": 2,
+      "title": "\"Don't You Just Upload It to ChatGPT?\"",
+      "titleCN": "别傻乎乎把数据喂给 ChatGPT！黑客警告：上传即泄露，隐私防线瞬间崩塌",
+      "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-12T17:52:46.000Z",
+      "summary": "HN 热议揭示 ChatGPT 默认上传机制风险，用户数据可能遭第三方滥用，隐私保护已成悬顶之剑，行业亟需重构信任机制。"
+    },
+    {
+      "id": 3,
+      "title": "Slightly reducing the sloppiness of AI generated front end",
+      "titleCN": "AI 生成前端代码太“粗糙”？开源工具微调后质量暴升，开发者直呼真香",
+      "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-12T14:48:38.000Z",
+      "summary": "针对 AI 生成前端代码逻辑松散、样式混乱的痛点，社区推出微调方案显著降低“粗糙度”，实测显示代码可读性与可维护性大幅提升，有望终结手工写样板代码的时代。"
+    },
+    {
+      "id": 4,
+      "title": "I Think They [Anthropic] Are Lying to You [video]",
+      "titleCN": "Anthropic 被指撒谎？Karpathy 怒揭 Claude 评测造假，AI 信任危机爆发",
+      "url": "https://www.youtube.com/watch?v=zfYsSFY4l18",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-12T23:12:39.000Z",
+      "summary": "知名开发者 Karpathy 指控 Anthropic 隐瞒关键数据，质疑其评测真实性。若属实，将重创 AI 行业公信力，引发对模型评估体系的全面反思。"
+    },
+    {
+      "id": 5,
+      "title": "Show HN: Script to bulk delete Claude chats from the web UI",
+      "titleCN": "用户怒删 Chat 记录？开源脚本批量清空 Claude 对话，Anthropic 隐私遭拷问",
+      "url": "https://github.com/MatteoLeonesi/bulk-delete-claude-chat",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-12T15:08:59.000Z",
+      "summary": "Hacker News 曝光脚本可一键批量删除 Web 端对话，引发对 Anthropic 数据留存与用户隐私控制的激烈争议。"
+    },
+    {
+      "id": 6,
+      "title": "Anthropic Writes Washington An Ai Regulation Playbook",
+      "titleCN": "Anthropic 向白宫递监管指南，AI 合规变天还是资本博弈？",
+      "url": "https://www.therundown.ai/p/anthropic-writes-washington-an-ai-regulation-playbook",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-13T01:43:22.436Z",
+      "summary": "Anthropic 主动提交 AI 监管手册，试图定义行业规则。此举引发外界猜测：是主动拥抱监管以换取市场准入，还是借机影响政策走向？"
+    },
+    {
+      "id": 7,
+      "title": "Anthropic Hands The Public Mythos Class Ai",
+      "titleCN": "Anthropic 开源神话级模型 Mythos，AI 格局一夜变天，开源界迎来颠覆性时刻",
+      "url": "https://www.therundown.ai/p/anthropic-hands-the-public-mythos-class-ai",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-13T01:43:22.436Z",
+      "summary": "Anthropic 罕见开源 Mythos 模型，打破闭源垄断，引发行业震动。此举或重塑 AI 竞争版图，但性能与落地细节仍待验证，市场反应两极分化。"
+    },
+    {
+      "id": 8,
+      "title": "Apple Siri Ai Overhaul Is Here Sort Of",
+      "titleCN": "苹果 Siri 迎来 AI 大洗牌，功能重构似有若无，用户期待落空",
+      "url": "https://www.therundown.ai/p/apple-siri-ai-overhaul-is-here-sort-of",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-13T01:43:22.436Z",
+      "summary": "苹果虽宣布 Siri 启动 AI 全面升级，但实际落地呈现“半吊子”状态，核心智能体功能缺失，引发业界对执行力的质疑。"
+    },
+    {
+      "id": 9,
+      "title": "Washington Wants A Piece Of Openai",
+      "titleCN": "华盛顿盯上 OpenAI，欲分羹万亿 AI 蛋糕，巨头面临监管围剿",
+      "url": "https://www.therundown.ai/p/washington-wants-a-piece-of-openai",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-13T01:43:22.436Z",
+      "summary": "白宫正施压 OpenAI 开放部分技术，意图打破垄断并攫取利益。此举恐引发行业动荡，OpenAI 或被迫在商业机密与政府诉求间艰难走钢丝。"
+    },
+    {
+      "id": 10,
+      "title": "Anthropic Confronts The Rsi Clock",
+      "titleCN": "Anthropic 直面 RSI 时钟，AI 估值泡沫或现裂痕，巨头焦虑爆发",
+      "url": "https://www.therundown.ai/p/anthropic-confronts-the-rsi-clock",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-13T01:43:22.436Z",
+      "summary": "Anthropic 罕见关注 RSI 指标，暗示行业估值泡沫风险加剧。在资本退潮背景下，巨头们正从盲目扩张转向审视自身财务健康，AI 寒冬或已悄然降临。"
+    },
+    {
+      "id": 11,
+      "title": "Ideogram And Reve Rethink How Ai Images Get Made",
+      "titleCN": "Ideogram 联手 Reve 重塑 AI 绘图，告别生成式幻觉，精准控制成标配",
+      "url": "https://www.therundown.ai/p/ideogram-and-reve-rethink-how-ai-images-get-made",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-13T01:43:22.436Z",
+      "summary": "两家公司摒弃传统生成式逻辑，通过全新机制让 AI 绘图从‘猜谜’转向‘精准执行’，彻底解决提示词失效痛点。"
+    },
+    {
+      "id": 12,
+      "title": "Why AI hasn't replaced software engineers, and won't",
+      "titleCN": "AI 为何无法取代软件工程师？专家：代码生成≠工程思维，岗位反而更稳",
+      "url": "https://tldr.tech/tech/2026-06-13",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-06-13T01:43:21.375Z",
+      "summary": "尽管 AI 能生成代码，但缺乏架构设计与系统理解，软件工程师核心价值转向复杂问题解决，行业洗牌加速而非裁员潮。"
+    },
+    {
+      "id": 13,
+      "title": "Trump admin blocks foreign access to Anthropic's most powerful AI models",
+      "titleCN": "特朗普政府封锁 Anthropic 最强模型，外国开发者访问权遭断供",
+      "url": "https://www.axios.com/2026/06/12/anthropic-trump-mythos-fable-national-security",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-12T23:52:27.000Z",
+      "summary": "美方以国家安全为由，禁止境外用户访问 Anthropic 最新旗舰模型，此举恐重创全球 AI 产业链，引发行业对技术壁垒的强烈担忧。"
+    },
+    {
+      "id": 14,
+      "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+      "titleCN": "Meta 内部 AI 团队被曝成‘灵魂监狱’，工程师集体控诉工作环境",
+      "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-12T23:00:54.000Z",
+      "summary": "多名 Meta 资深工程师揭露，其内部 AI 部门已沦为压抑的‘灵魂监狱’，长期高压与资源匮乏引发人才流失危机，外界担忧 Meta 创新引擎正在熄火。"
+    },
+    {
+      "id": 15,
+      "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+      "titleCN": "谷歌起诉中国 AI 诈骗团伙，数百上千万受害者遭精准收割",
+      "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-12T20:38:09.000Z",
+      "summary": "谷歌指控该团伙利用 AI 技术实施大规模诈骗，受害者达数百万人，案件曝光揭示 AI 被黑产滥用的严峻现实，引发行业对 AI 安全边界的紧急反思。"
+    },
+    {
+      "id": 16,
+      "title": "Mistral is rumored to be raising €3B at €20B valuation",
+      "titleCN": "Mistral 拟融资 30 亿欧元，估值飙至 200 亿，开源巨头迎资本狂潮",
+      "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-12T17:38:11.000Z",
+      "summary": "Mistral 传闻将筹集 30 亿欧元，估值跃升至 200 亿欧元。此举或重塑欧洲 AI 格局，但市场对其能否在巨头夹缝中持续领跑仍存疑虑。"
+    },
+    {
+      "id": 17,
+      "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+      "titleCN": "SpaceX 携 Anthropic 与 OpenAI 引爆 IPO 夏，AI 巨头集体变天",
+      "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-12T16:23:25.000Z",
+      "summary": "SpaceX、Anthropic 及 OpenAI 联手开启 IPO 狂潮，三大巨头资本攻势直指上市窗口，AI 赛道估值体系面临重塑，行业洗牌加速。"
+    },
+    {
+      "id": 18,
+      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+      "titleCN": "Avataar 视频 AI 更便宜更快懂文化，专为印度规模打造，成本直逼地板价",
+      "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-12T04:30:00.000Z",
+      "summary": "Avataar 推出低成本视频生成模型，主打印度市场，兼顾速度与文化适配，旨在解决当地规模化落地难题，挑战现有巨头垄断。"
+    },
+    {
+      "id": 19,
+      "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
+      "titleCN": "贝佐斯豪掷千亿打造 AGI 工程师，Jeff Bezos 野心直指通用工程大脑",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
+      "source": "The Verge",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-12T14:03:39.000Z",
+      "summary": "贝佐斯旗下 AI 初创公司宣布目标并非单纯 AGI，而是构建能独立规划并执行复杂工程的“通用工程师”，试图用自动化重塑人类生产力边界。"
+    },
+    {
+      "id": 20,
+      "title": "Siri won’t be your AI girlfriend",
+      "titleCN": "Siri 拒绝做你的 AI 女友，苹果坚持工具定位，AI 伴侣梦碎？",
+      "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+      "source": "The Verge",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-12T07:00:31.000Z",
+      "summary": "苹果明确否认 Siri 将具备恋爱功能，强调其作为智能助手的核心定位，引发用户对 AI 情感交互边界的新一轮讨论。"
+    }
+  ]
+}
