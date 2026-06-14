@@ -1,0 +1,206 @@
+{
+  "date": "2026-06-14",
+  "lastUpdate": "2026-06-14T03:02:03.607Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+      "titleCN": "亚马逊 CEO 密谈官员触发监管，Anthropic 模型遭重拳打击",
+      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-13T16:57:49.000Z",
+      "summary": "亚马逊高层与美方官员的接触直接引发监管风暴，Anthropic 旗下多款模型遭遇下架或限制，行业格局恐生巨变。"
+    },
+    {
+      "id": 2,
+      "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+      "titleCN": "警员被调查！竟用 AI 伪造证据，多起案件遭颠覆，执法公信力遭重创",
+      "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-13T19:54:55.000Z",
+      "summary": "涉事警员利用 AI 生成虚假证据，导致多起案件调查出现重大偏差。此举不仅涉嫌严重违规，更引发公众对 AI 技术滥用及司法公正性的强烈担忧。"
+    },
+    {
+      "id": 3,
+      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+      "titleCN": "AI 开源工具一夜被弃，融资 730 万美元后迅速凉凉，创投圈变天",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-13T12:10:47.000Z",
+      "summary": "刚完成 730 万美元种子轮融资的 AI 开源工具库，次日即遭归档。资本追捧与社区冷遇的剧烈反差，折射出开源商业化路径的严峻挑战。"
+    },
+    {
+      "id": 4,
+      "title": "AI coding at home without going broke",
+      "titleCN": "开源神器 Lowfat 让 AI 编程成本暴降 91.8%，在家写代码不再破产",
+      "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-13T16:45:03.000Z",
+      "summary": "开源工具 Lowfat 通过优化推理策略，将本地 AI 编程成本直逼地板价，彻底打破高昂算力门槛，让个人开发者在家高效利用大模型成为可能。"
+    },
+    {
+      "id": 5,
+      "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+      "titleCN": "开源神器 Paca 横空出世，打造轻量级 Jira 替代方案，重塑人机协作新范式",
+      "url": "https://github.com/Paca-AI/paca",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-13T09:44:25.000Z",
+      "summary": "Paca 以极简架构挑战 Jira 垄断，专为 AI 协作场景设计，大幅降低团队管理成本，或成未来工作流标配。"
+    },
+    {
+      "id": 6,
+      "title": "PwC Report: AI Making Medical Bills Higher",
+      "titleCN": "PwC 警告：AI 落地反致医疗账单暴涨，患者支出恐被技术成本吞噬",
+      "url": "https://fortune.com/2026/06/12/ai-making-medical-bills-higher/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-13T17:39:14.000Z",
+      "summary": "PwC 报告指出，AI 在医疗领域的初期应用因高昂算力与部署成本，反而推高了整体账单。业内担忧，若缺乏针对性降本策略，技术红利恐被基础设施开支抵消。"
+    },
+    {
+      "id": 7,
+      "title": "Anthropic Writes Washington An Ai Regulation Playbook",
+      "titleCN": "Anthropic 向华盛顿提交 AI 监管指南，欲重塑美国立法风向",
+      "url": "https://www.therundown.ai/p/anthropic-writes-washington-an-ai-regulation-playbook",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-14T03:00:31.601Z",
+      "summary": "Anthropic 主动为华盛顿政府撰写 AI 监管手册，试图以企业视角主导立法进程，引发关于科技巨头是否应掌握规则制定权的激烈争议。"
+    },
+    {
+      "id": 8,
+      "title": "Anthropic Hands The Public Mythos Class Ai",
+      "titleCN": "Anthropic 公开神话级 AI 模型，开源社区炸裂，格局一夜变天",
+      "url": "https://www.therundown.ai/p/anthropic-hands-the-public-mythos-class-ai",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-14T03:00:31.601Z",
+      "summary": "Anthropic 罕见公开 Mythos 模型，引发开源界狂潮。此举打破闭源惯例，或重塑 AI 竞争规则，但具体性能与生态影响仍需实测验证。"
+    },
+    {
+      "id": 9,
+      "title": "Apple Siri Ai Overhaul Is Here Sort Of",
+      "titleCN": "Apple Siri 大改终于落地？AI 能力升级但核心体验仍存争议",
+      "url": "https://www.therundown.ai/p/apple-siri-ai-overhaul-is-here-sort-of",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-14T03:00:31.601Z",
+      "summary": "Apple 宣布 Siri 迎来 AI 功能重构，试图对标生成式智能，但实际落地程度有限，用户期待与产品现状间仍有明显落差。"
+    },
+    {
+      "id": 10,
+      "title": "Washington Wants A Piece Of Openai",
+      "titleCN": "白宫盯上 OpenAI，欲分一杯羹，科技巨头面临地缘政治新博弈",
+      "url": "https://www.therundown.ai/p/washington-wants-a-piece-of-openai",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-14T03:00:31.601Z",
+      "summary": "华盛顿正寻求介入 OpenAI 生态，意图在 AI 主导权上分得利益，此举引发市场对美国科技政策走向及行业格局重塑的广泛担忧。"
+    },
+    {
+      "id": 11,
+      "title": "Anthropic Confronts The Rsi Clock",
+      "titleCN": "Anthropic 直面 RSI 时钟，AI 估值泡沫或现裂痕？",
+      "url": "https://www.therundown.ai/p/anthropic-confronts-the-rsi-clock",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-14T03:00:31.601Z",
+      "summary": "Anthropic 罕见公开关注 RSI 指标，暗示行业估值过热。若市场情绪持续背离基本面，巨头恐面临严峻的资本寒冬与增长瓶颈。"
+    },
+    {
+      "id": 12,
+      "title": "Ideogram And Reve Rethink How Ai Images Get Made",
+      "titleCN": "Ideogram 联手 Reve 重构 AI 绘图底层，告别传统生成范式，行业洗牌在即",
+      "url": "https://www.therundown.ai/p/ideogram-and-reve-rethink-how-ai-images-get-made",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-14T03:00:31.601Z",
+      "summary": "两家公司联合推出新架构，彻底改变 AI 图像生成逻辑，旨在解决现有模型在复杂构图与细节控制上的痛点，或成打破 Midjourney 垄断的关键变量。"
+    },
+    {
+      "id": 13,
+      "title": "Why AI hasn't replaced software engineers, and won't",
+      "titleCN": "AI 为何无法取代软件工程师？专家直言：未来十年行业格局将彻底重塑",
+      "url": "https://tldr.tech/tech/2026-06-14",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-06-14T03:00:29.866Z",
+      "summary": "尽管生成式 AI 进步神速，但软件工程师核心职责正从编码转向架构设计与系统整合，行业洗牌加速，单纯写代码的岗位面临严峻淘汰风险。"
+    },
+    {
+      "id": 14,
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "titleCN": "KPMG 紧急撤稿 AI 报告，幻觉致数据失真，审计巨头遭重创",
+      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-13T20:42:31.000Z",
+      "summary": "四大之一 KPMG 因 AI 生成内容出现严重幻觉，被迫撤回关键报告。此举暴露企业级 AI 落地风险，引发市场对大模型可靠性的深度质疑。"
+    },
+    {
+      "id": 15,
+      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+      "titleCN": "亚马逊 CEO 提前预警 Anthropic 风险，政府突击审查前已现裂痕",
+      "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-13T19:11:41.000Z",
+      "summary": "亚马逊高管在监管风暴前多次质疑 Anthropic 模型安全性，此次突击审查或预示大模型监管将全面收紧，行业面临重构。"
+    },
+    {
+      "id": 16,
+      "title": "OpenAI faces investigation from state attorneys general",
+      "titleCN": "OpenAI 遭 50 州总检察长联合调查，AI 监管风暴正式降临",
+      "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-13T16:47:18.000Z",
+      "summary": "OpenAI 因被指在 AI 安全与数据隐私上存在重大风险，遭全美 50 个州总检察长联合发起调查，行业监管格局或将重塑。"
+    },
+    {
+      "id": 17,
+      "title": "ClawMoat, runtime containment for AI agents after Fable 5",
+      "titleCN": "Fable 5 后 AI 失控？ClawMoat 推出运行时隔离，终结 Agent 越狱风险",
+      "url": "https://clawmoat.com/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-14T02:03:00.000Z",
+      "summary": "Fable 5 暴露 Agent 越狱隐患，ClawMoat 首创运行时沙箱技术，从底层阻断恶意操作，为 AI 落地装上安全锁。"
+    },
+    {
+      "id": 18,
+      "title": "Lime 2.0 – Zero Human Auth for AI Agents",
+      "titleCN": "Lime 2.0 砍掉人类认证！AI 代理实现零人工介入，自动化门槛被彻底颠覆",
+      "url": "https://lime.pics",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-14T01:47:02.000Z",
+      "summary": "Lime 2.0 移除人类认证环节，让 AI 代理可完全自主执行任务。此举大幅降低部署门槛，但同时也引发对失控风险的担忧，行业正面临新的安全博弈。"
+    },
+    {
+      "id": 19,
+      "title": "The Missing Infrastructure Between AI Agents and the EVM",
+      "titleCN": "AI Agent 与以太坊互操作成死结？社区呼吁补齐关键基建缺口",
+      "url": "https://blog.bridgexapi.io/the-missing-infrastructure-between-ai-agents-and-the-evm",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-14T01:31:22.000Z",
+      "summary": "当前 AI Agent 难以直接调用以太坊智能合约，缺乏标准化桥梁。开发者呼吁构建统一接口，否则将严重制约 AI 在 DeFi 领域的落地应用。"
+    },
+    {
+      "id": 20,
+      "title": "Russian families use AI to 'resurrect' loved ones killed in Ukraine",
+      "titleCN": "俄家庭用 AI 复活乌战场亡者，情感慰藉背后伦理争议引爆",
+      "url": "https://www.bbc.com/news/articles/cwy24v72n19o",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-14T01:19:20.000Z",
+      "summary": "乌克兰战事背景下，俄家庭利用 AI 技术复活逝者引发巨大情感共鸣，但此举触及伦理红线，专家担忧技术滥用可能加剧冲突并模糊生死界限。"
+    }
+  ]
+}
