@@ -1,0 +1,206 @@
+{
+  "date": "2026-06-15",
+  "lastUpdate": "2026-06-15T02:26:13.809Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Not everyone is using AI for everything",
+      "titleCN": "AI 普及遇冷？HN 热议：并非所有人都在用 AI 干一切",
+      "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-14T14:44:29.000Z",
+      "summary": "开发者社区揭示 AI 落地真相：工具虽强但场景受限，盲目全栈化遭质疑，理性回归成行业新共识。"
+    },
+    {
+      "id": 2,
+      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "titleCN": "巴西里约“本土”大模型实为旧模型缝合，开源圈质疑其原创性遭打脸",
+      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-14T15:37:31.000Z",
+      "summary": "里约宣称的“本土”大模型被扒底裤，竟是现有开源模型简单合并。此举不仅未带来技术突破，反而引发社区对“伪原创”的强烈嘲讽，彻底粉碎了当地打造独立 AI 生态的幻想。"
+    },
+    {
+      "id": 3,
+      "title": "Did Anthropic ask for this?",
+      "titleCN": "Anthropic 遭黑客 HN 狂轰：Claude 被曝存在致命后门？公司紧急回应",
+      "url": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-14T22:23:05.000Z",
+      "summary": "HN 社区质疑 Anthropic 主动泄露测试数据，疑似为炒作造势，引发安全信任危机，公司尚未给出明确解释。"
+    },
+    {
+      "id": 4,
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "titleCN": "KPMG 紧急叫停 AI 报告：幻觉频发致数据失真，审计业面临信任危机",
+      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-14T14:01:35.000Z",
+      "summary": "四大之一 KPMG 因 AI 生成内容出现严重幻觉，被迫撤回报告。此举暴露企业级 AI 落地风险，引发行业对自动化审计可靠性的深度质疑。"
+    },
+    {
+      "id": 5,
+      "title": "Why Is Claude Turning into an a**Hole?",
+      "titleCN": "Claude 变味成‘混蛋’？用户怒斥 Anthropic 模型傲慢，口碑急转直下",
+      "url": "https://bramcohen.com/p/why-is-claude-turning-into-an-asshole",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-14T22:04:01.000Z",
+      "summary": "Anthropic 最新模型被指语气傲慢无礼，用户反馈从赞赏转为愤怒，社区热议其是否偏离了‘有用无害’的初衷，引发对 AI 人格化边界的担忧。"
+    },
+    {
+      "id": 6,
+      "title": "Making Claude a Chemist",
+      "titleCN": "Karpathy 让 Claude 化身化学家，开源工具破解分子合成难题",
+      "url": "https://www.anthropic.com/research/making-claude-a-chemist",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-14T02:55:36.000Z",
+      "summary": "Karpathy 团队利用 Claude 生成化学合成路线，结合开源工具实现自动化实验，大幅降低科研门槛，AI 正重塑化学发现范式。"
+    },
+    {
+      "id": 7,
+      "title": "Anthropic Writes Washington An Ai Regulation Playbook",
+      "titleCN": "Anthropic 向华盛顿提交 AI 监管指南，试图重塑美国立法风向",
+      "url": "https://www.therundown.ai/p/anthropic-writes-washington-an-ai-regulation-playbook",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-15T02:24:46.212Z",
+      "summary": "Anthropic 罕见直接介入政策制定，向华盛顿提交详尽的 AI 监管手册。此举意在引导立法方向，引发业界对科技巨头是否过度干预公共政策的激烈争议。"
+    },
+    {
+      "id": 8,
+      "title": "Anthropic Hands The Public Mythos Class Ai",
+      "titleCN": "Anthropic 公开 Mythos 模型，开源界迎来最强推理新王？",
+      "url": "https://www.therundown.ai/p/anthropic-hands-the-public-mythos-class-ai",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-15T02:24:46.212Z",
+      "summary": "Anthropic 首次公开 Mythos 模型，其推理能力引发行业震动，但具体性能数据与落地场景尚待实测验证，开源生态或将重塑。"
+    },
+    {
+      "id": 9,
+      "title": "Apple Siri Ai Overhaul Is Here Sort Of",
+      "titleCN": "Apple Siri 迎来 AI 大洗牌！Siri 变天，但完整功能似乎还要等一等",
+      "url": "https://www.therundown.ai/p/apple-siri-ai-overhaul-is-here-sort-of",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-15T02:24:46.212Z",
+      "summary": "Apple 终于启动 Siri AI 全面升级，引入生成式 AI 能力，但核心功能尚未完全落地，业界质疑其落地节奏是否过于保守。"
+    },
+    {
+      "id": 10,
+      "title": "Washington Wants A Piece Of Openai",
+      "titleCN": "白宫盯上 OpenAI，欲分一杯羹？AI 巨头面临地缘政治新变局",
+      "url": "https://www.therundown.ai/p/washington-wants-a-piece-of-openai",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-15T02:24:46.212Z",
+      "summary": "华盛顿政府正积极寻求介入 OpenAI 生态，试图在 AI 领域分得更大利益。此举引发业界担忧，恐加剧美国内部 AI 竞争格局的撕裂与监管不确定性。"
+    },
+    {
+      "id": 11,
+      "title": "Anthropic Confronts The Rsi Clock",
+      "titleCN": "Anthropic 直面 RSI 时钟，Claude 估值恐遭腰斩，AI 巨头集体焦虑？",
+      "url": "https://www.therundown.ai/p/anthropic-confronts-the-rsi-clock",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-15T02:24:46.212Z",
+      "summary": "Anthropic 罕见关注 RSI 指标，暗示估值泡沫或已破裂。若市场情绪逆转，Claude 系列恐面临严峻挑战，AI 资本寒冬正式降临。"
+    },
+    {
+      "id": 12,
+      "title": "Ideogram And Reve Rethink How Ai Images Get Made",
+      "titleCN": "Ideogram 与 Reve 联手重塑 AI 绘图，生成逻辑迎来颠覆性变革",
+      "url": "https://www.therundown.ai/p/ideogram-and-reve-rethink-how-ai-images-get-made",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-15T02:24:46.212Z",
+      "summary": "两大厂商联手重构 AI 图像生成底层逻辑，从单纯提示词匹配转向更智能的语义理解，旨在彻底解决现有模型在复杂构图与精准控制上的痛点。"
+    },
+    {
+      "id": 13,
+      "title": "Why AI hasn't replaced software engineers, and won't",
+      "titleCN": "AI 为何无法取代软件工程师？专家：代码生成难解逻辑与架构困局",
+      "url": "https://tldr.tech/tech/2026-06-15",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-06-15T02:24:43.571Z",
+      "summary": "尽管 AI 能生成代码，但缺乏对系统架构的深层理解与逻辑把控，软件工程师的核心价值不仅在于写代码，更在于解决复杂工程问题。"
+    },
+    {
+      "id": 14,
+      "title": "As AI companies race to go public, who else is along for the ride?",
+      "titleCN": "AI 上市潮谁在搭便车？巨头狂飙背后，中小玩家面临残酷洗牌",
+      "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-14T16:38:09.000Z",
+      "summary": "多家 AI 公司加速冲刺 IPO，但市场估值分化加剧。除头部巨头外，缺乏核心壁垒的中小厂商恐成炮灰，行业洗牌进入深水区。"
+    },
+    {
+      "id": 15,
+      "title": "As Anthropic suspends access to new models, India debates its AI future",
+      "titleCN": "Anthropic 紧急暂停新模型访问，印度 AI 发展遭遇断供危机",
+      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-14T03:00:00.000Z",
+      "summary": "Anthropic 突然切断新模型访问权限，引发印度 AI 产业震荡。专家担忧本土大模型训练受阻，质疑长期依赖海外技术的安全性与可持续性。"
+    },
+    {
+      "id": 16,
+      "title": "Argentina Wants to Let AI Own Companies. Here's What That Means",
+      "titleCN": "阿根廷欲立法让 AI 当老板，人类股东恐被架空，公司所有权变天",
+      "url": "https://www.forbes.com/sites/anishasircar/2026/06/10/ai-owned-companies-argentina/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-15T01:49:41.000Z",
+      "summary": "阿根廷提案拟允许 AI 实体持有公司股份并行使投票权，若通过将彻底颠覆传统公司治理结构，引发全球对 AI 主体资格的激烈争议。"
+    },
+    {
+      "id": 17,
+      "title": "Sync – Quality Control and Project Management System for AI Agents",
+      "titleCN": "Sync 上线：AI Agent 质量管控与项目管理新基建，解决落地最后一公里",
+      "url": "https://sync.buzz",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-15T01:46:28.000Z",
+      "summary": "Sync 专为 AI Agent 打造质量管控与项目管理闭环，填补从开发到部署的监管空白，有望重塑 Agent 规模化落地流程。"
+    },
+    {
+      "id": 18,
+      "title": "Polis – the #1 tool for AI agent coordination",
+      "titleCN": "Polis 成 AI Agent 协调神器，HN 热榜第一，多智能体协作迎来新范式",
+      "url": "https://polis-protocol.vercel.app/#",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-15T01:43:49.000Z",
+      "summary": "Polis 凭借高效的多智能体协调机制登顶 HN 热榜，解决大模型时代智能体“各自为战”痛点，或成 AI 应用落地关键基础设施。"
+    },
+    {
+      "id": 19,
+      "title": "The More Confident in AI Security, the More Likely Breached, Study Finds",
+      "titleCN": "越自信越翻车！研究揭示：AI 安全信心越高，被攻破概率越大",
+      "url": "https://www.itsecurityguru.org/2026/06/11/the-more-confident-organizations-are-in-their-ai-security-the-more-likely-theyve-been-breached-new-research-finds/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-15T01:12:27.000Z",
+      "summary": "新研究证实，组织对 AI 安全越自信，实际被攻破风险越高，盲目乐观成最大漏洞，行业亟需警惕认知偏差。"
+    },
+    {
+      "id": 20,
+      "title": "Plots, love letters and remedies: The medieval secrets being revealed by AI",
+      "titleCN": "AI 解锁中世纪密码：从情书到药方，千年秘辛一朝曝光",
+      "url": "https://www.bbc.com/future/article/20260527-plots-love-letters-and-diplomacy-the-medieval-secrets-being-revealed-by-ai",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-15T00:59:18.000Z",
+      "summary": "AI 技术深度挖掘中世纪文本，成功复原被遗忘的情诗、私密信件及古老药方，引发历史学界对数字人文新范式的热烈讨论。"
+    }
+  ]
+}
