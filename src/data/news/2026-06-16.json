@@ -1,0 +1,206 @@
+{
+  "date": "2026-06-16",
+  "lastUpdate": "2026-06-16T06:57:21.976Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "My Homelab AI Dev Platform",
+      "titleCN": "个人实验室 AI 开发平台上线，开源力量能否颠覆商业巨头垄断？",
+      "url": "https://rsgm.dev/post/ai-dev-platform/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-15T15:09:40.000Z",
+      "summary": "Hacker News 热议个人开发者自研 AI 平台，低成本构建私有模型能力引发关注，开源生态正重塑行业格局。"
+    },
+    {
+      "id": 2,
+      "title": "Anthropic's Safety Superpower",
+      "titleCN": "Anthropic 靠安全护城河碾压对手？Claude 3.7 实测成行业最大变数",
+      "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-15T10:06:35.000Z",
+      "summary": "Anthropic 将安全能力转化为核心壁垒，Claude 3.7 在复杂任务中展现惊人稳定性，但高昂成本与激进的安全策略引发业界对实用性的深度质疑。"
+    },
+    {
+      "id": 3,
+      "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
+      "titleCN": "拒绝 AI 加持！开发者手写 C++ 光线追踪器，硬核性能碾压现成方案",
+      "url": "https://github.com/themartiano/luz",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-15T09:34:10.000Z",
+      "summary": "开发者从零手写 C++ 光线追踪器，拒绝 AI 辅助，实测性能表现惊艳，引发社区对传统编程与 AI 生成代码的深度讨论。"
+    },
+    {
+      "id": 4,
+      "title": "Can Europe train a frontier AI model on the compute it owns?",
+      "titleCN": "欧洲能否靠自有算力训练前沿大模型？Hacker News 热议算力自主权",
+      "url": "https://github.com/sammysltd/euromesh",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-15T13:31:09.000Z",
+      "summary": "欧洲正试图摆脱对美亚算力依赖，利用本土资源训练前沿 AI，但硬件缺口与成本压力引发行业对技术独立性的深度质疑。"
+    },
+    {
+      "id": 5,
+      "title": "Claude Corps",
+      "titleCN": "Anthropic 开源 Claude Corps：让 AI 团队自主协作，彻底颠覆大模型开发模式",
+      "url": "https://www.anthropic.com/news/claude-corps",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-15T17:41:24.000Z",
+      "summary": "Anthropic 开源首个 AI 代理团队 Claude Corps，实现多智能体自主协作与代码生成。此举或重塑大模型开发范式，但落地效果与长期安全性仍待业界验证。"
+    },
+    {
+      "id": 6,
+      "title": "Show HN: Veterinarian turned founder, AI lawn diagnosis",
+      "titleCN": "兽医转行 AI 创始人上线草坪诊断工具，用大模型秒判病害",
+      "url": "https://grassdx.com/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-15T17:56:00.000Z",
+      "summary": "兽医跨界创业推出 AI 草坪诊断工具，用户只需上传照片即可快速识别病害。该工具利用大模型技术，为家庭园艺提供专业级诊断服务，引发行业关注。"
+    },
+    {
+      "id": 7,
+      "title": "Anthropic Pulls Mythos Fable After U S Order",
+      "titleCN": "Anthropic 紧急下架 Mythos Fable，美政府订单成压垮骆驼最后一根稻草",
+      "url": "https://www.therundown.ai/p/anthropic-pulls-mythos-fable-after-u-s-order",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-16T06:55:54.904Z",
+      "summary": "Anthropic 因美国监管压力紧急撤回 Mythos Fable 模型，此举暴露开源大模型商业化落地仍面临严峻合规壁垒，行业洗牌加速。"
+    },
+    {
+      "id": 8,
+      "title": "Anthropic Writes Washington An Ai Regulation Playbook",
+      "titleCN": "Anthropic 直送白宫监管指南，AI 立法风向恐被这家小厂彻底改写",
+      "url": "https://www.therundown.ai/p/anthropic-writes-washington-an-ai-regulation-playbook",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-16T06:55:54.904Z",
+      "summary": "Anthropic 罕见直接向华盛顿提交 AI 监管手册，试图以自身安全标准为行业定调。此举若获采纳，将重塑全球 AI 治理格局，引发巨头对规则主导权的激烈博弈。"
+    },
+    {
+      "id": 9,
+      "title": "Anthropic Hands The Public Mythos Class Ai",
+      "titleCN": "Anthropic 公开 Mythos 模型，开源社区能否终结闭源垄断？",
+      "url": "https://www.therundown.ai/p/anthropic-hands-the-public-mythos-class-ai",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-16T06:55:54.904Z",
+      "summary": "Anthropic 罕见公开 Mythos 模型，打破行业保密惯例。此举若获采纳，将重塑 AI 研发格局，但具体技术细节与落地时间表仍待揭晓。"
+    },
+    {
+      "id": 10,
+      "title": "Apple Siri Ai Overhaul Is Here Sort Of",
+      "titleCN": "苹果 Siri 大改来了？AI 功能虽上线但体验仍存硬伤，用户直呼‘翻车’",
+      "url": "https://www.therundown.ai/p/apple-siri-ai-overhaul-is-here-sort-of",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-16T06:55:54.904Z",
+      "summary": "苹果宣布 Siri 迎来 AI 升级，新增生成式能力，但实测显示响应迟缓且功能受限，业界质疑其‘半吊子’落地策略，恐难撼动竞品地位。"
+    },
+    {
+      "id": 11,
+      "title": "Washington Wants A Piece Of Openai",
+      "titleCN": "华盛顿觊觎 OpenAI 资产，政府施压欲分羹万亿 AI 蛋糕，巨头能否独善其身？",
+      "url": "https://www.therundown.ai/p/washington-wants-a-piece-of-openai",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-16T06:55:54.904Z",
+      "summary": "白宫正积极游说国会，试图通过立法或收购手段介入 OpenAI，意图瓜分其估值与算力。此举引发市场对 AI 私有化监管的担忧，科技巨头面临前所未有的政治博弈。"
+    },
+    {
+      "id": 12,
+      "title": "Anthropic Confronts The Rsi Clock",
+      "titleCN": "Anthropic 直面 RSI 时钟，AI 估值泡沫是否即将破裂？",
+      "url": "https://www.therundown.ai/p/anthropic-confronts-the-rsi-clock",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-16T06:55:54.904Z",
+      "summary": "面对市场狂热，Anthropic 罕见关注 RSI 指标，暗示行业估值或现回调风险，引发对 AI 资本泡沫的新一轮担忧。"
+    },
+    {
+      "id": 13,
+      "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
+      "titleCN": "Trump 行政令逼停 Anthropic 两大模型，Fable 与 Mythos 紧急关停",
+      "url": "https://tldr.tech/tech/2026-06-16",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-06-16T06:55:52.381Z",
+      "summary": "受特朗普政府指令影响，Anthropic 被迫关停 Fable 与 Mythos 模型，引发行业对 AI 监管收紧的担忧，未来开源与闭源模型竞争格局恐生变数。"
+    },
+    {
+      "id": 14,
+      "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+      "titleCN": "美国政府禁 Anthropic 模型？TechCrunch 揭秘：从未针对 AI 越狱",
+      "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-15T21:50:21.000Z",
+      "summary": "美政府禁令实为限制特定商业实体，与 AI 越狱无关。此举暴露监管逻辑错位，恐误伤合规企业，引发行业对政策精准度的质疑。"
+    },
+    {
+      "id": 15,
+      "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+      "titleCN": "Meta 新推 Facebook AI 模式，全网数据喂大模型，隐私边界再被撕开",
+      "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-15T18:30:58.000Z",
+      "summary": "Meta 在 Facebook 上线全新 AI 模式，直接调用平台公开信息生成回复。此举虽提升响应速度，但引发用户对数据滥用及隐私泄露的强烈担忧，行业监管压力骤增。"
+    },
+    {
+      "id": 16,
+      "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
+      "titleCN": "安全专家联名抗议：美禁 Anthropic 最强模型，称 AI 监管将彻底变天",
+      "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-15T15:29:51.000Z",
+      "summary": "数十名顶尖安全专家联名反对美国政府禁止 Anthropic 最强模型，警告此举将严重削弱行业安全标准，引发对监管合理性的激烈争议。"
+    },
+    {
+      "id": 17,
+      "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
+      "titleCN": "Salesforce 豪掷 36 亿美金收购 Fin，AI 客服赛道迎巨头洗牌",
+      "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-15T14:34:45.000Z",
+      "summary": "Salesforce 以 36 亿美元天价吞并 Fin，意图补齐 AI 客服短板。此举标志着 Salesforce 在生成式 AI 领域的激进扩张，或彻底重塑企业级 AI 服务格局。"
+    },
+    {
+      "id": 18,
+      "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
+      "titleCN": "Sarvam 融资 2.34 亿成印度新独角兽，HCLTech 领投重塑 AI 格局",
+      "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-15T13:46:08.000Z",
+      "summary": "Sarvam 获 HCLTech 领投 2.34 亿美元，正式跻身印度独角兽行列，标志着本土 AI 算力基建迎来爆发式增长，行业洗牌加速。"
+    },
+    {
+      "id": 19,
+      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+      "titleCN": "AI 员工时代来临！NewCore 豪掷 6600 万，为智能体注入独特身份",
+      "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-15T13:00:00.000Z",
+      "summary": "NewCore 融资 6600 万美元，旨在解决 AI 员工身份缺失难题。通过赋予智能体唯一标识，推动其从工具向独立员工角色转变，重塑人机协作新范式。"
+    },
+    {
+      "id": 20,
+      "title": "Microsoft turns to Amazon for help with GitHub's AI-driven capacity issues",
+      "titleCN": "GitHub 遇算力瓶颈，微软紧急求助亚马逊 AWS 救场",
+      "url": "https://www.businessinsider.com/microsoft-github-amazon-ai-cloud-capacity-2026-6",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-16T06:09:43.000Z",
+      "summary": "GitHub Copilot 因 AI 推理需求激增导致服务受阻，微软被迫向 AWS 寻求紧急扩容支持，凸显开源生态对云厂商算力的深度依赖。"
+    }
+  ]
+}
