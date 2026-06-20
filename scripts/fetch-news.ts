@@ -237,6 +237,17 @@ function createAIClient(): { client: OpenAI; model: string } {
     };
   }
 
+  if (provider === 'agnes') {
+    return {
+      client: new OpenAI({
+        apiKey: process.env.AGNES_API_KEY,
+        baseURL: process.env.AGNES_BASE_URL || 'https://apihub.agnes-ai.com/v1',
+        timeout: 120_000,
+      }),
+      model: process.env.AGNES_MODEL || 'agnes-1.5-flash',
+    };
+  }
+
   return {
     client: new OpenAI({
       apiKey: process.env.DEEPSEEK_API_KEY,
