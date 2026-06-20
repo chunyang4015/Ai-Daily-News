@@ -12,6 +12,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
 
       - uses: pnpm/action-setup@v4
 
@@ -27,19 +29,6 @@ jobs:
         env:
           AI_PROVIDER: agnes
           AGNES_API_KEY: ${{ secrets.AGNES_API_KEY }}
-
-      - name: Commit news data
-        run: |
-          git config --local user.name "chunyang"
-          git config --local user.email "chunyang@users.noreply.github.com"
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/chunyang4015/Ai-Daily-News.git
-          git add src/data/news/*.json
-          if git diff --cached --quiet; then
-            echo "No news data changes, skipping commit."
-          else
-            git commit -m "add news $(date +%Y-%m-%d) data"
-            git push origin main
-          fi
 
       - run: pnpm build
 
