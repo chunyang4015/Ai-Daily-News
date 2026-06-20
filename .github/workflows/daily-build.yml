@@ -32,6 +32,7 @@ jobs:
         run: |
           git config --local user.name "chunyang"
           git config --local user.email "chunyang@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/chunyang4015/Ai-Daily-News.git
           git add src/data/news/*.json
           if git diff --cached --quiet; then
             echo "No news data changes, skipping commit."
