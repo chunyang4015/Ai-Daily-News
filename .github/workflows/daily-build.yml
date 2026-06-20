@@ -37,7 +37,7 @@ jobs:
             echo "No news data changes, skipping commit."
           else
             git commit -m "add news $(date +%Y-%m-%d) data"
-            git push
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/chunyang4015/Ai-Daily-News.git main
           fi
 
       - run: pnpm build
