@@ -1,0 +1,206 @@
+{
+  "date": "2026-06-22",
+  "lastUpdate": "2026-06-21T22:03:01.754Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Identity verification on Claude",
+      "titleCN": "Anthropic 强制 Claude 身份验证，AI 接入门槛骤升，隐私争议引爆社区",
+      "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-21T12:44:13.000Z",
+      "summary": "Anthropic 宣布 Claude 启用身份验证，旨在遏制滥用并提升安全性。此举虽强化合规，却引发开发者对隐私泄露及访问壁垒的强烈担忧，社区舆论两极分化。"
+    },
+    {
+      "id": 2,
+      "title": "When I reject AI code even if it works",
+      "titleCN": "Karpathy 拒用能跑通的 AI 代码，开源界炸锅：完美主义还是技术傲慢？",
+      "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-21T00:58:13.000Z",
+      "summary": "前特斯拉 AI 总监 Karpathy 公开表示即使 AI 生成的代码能正常运行也会拒绝接受，引发社区关于开发者自主性与 AI 辅助边界的热议。"
+    },
+    {
+      "id": 3,
+      "title": "Building reliable agentic AI systems",
+      "titleCN": "Karpathy 揭秘 Agentic AI：构建可靠智能体的终极指南",
+      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-21T04:28:39.000Z",
+      "summary": "前特斯拉 AI 总监 Karpathy 发文详解如何打造可靠的 Agentic AI 系统，涵盖架构设计与实践要点，为开发者提供从理论到落地的关键参考。"
+    },
+    {
+      "id": 4,
+      "title": "The 100k whys of AI",
+      "titleCN": "AI 界 10 万次追问：Hacker News 热议背后，是技术狂欢还是认知危机？",
+      "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-21T05:45:21.000Z",
+      "summary": "HN 用户围绕 AI 提出十万个“为什么”，折射出开发者对黑盒模型的深层焦虑。这不仅是技术探讨，更是行业对可解释性与信任机制的迫切呼唤。"
+    },
+    {
+      "id": 5,
+      "title": "Don’t use AI to write things that you present as your own work",
+      "titleCN": "Karpathy 警告：别把 AI 生成的内容伪装成原创，否则后果自负",
+      "url": "https://www.satisfice.com/blog/archives/488148",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-21T04:50:46.000Z",
+      "summary": "前特斯拉 AI 总监 Karpathy 发文警示，严禁将 AI 产出冒充个人原创成果。此举旨在维护学术与职业诚信，避免引发信任危机。"
+    },
+    {
+      "id": 6,
+      "title": "Step Into Midjourney S Spa For A Body Scan",
+      "titleCN": "Midjourney 跨界搞事？推出 AI 身体扫描服务，隐私边界再引争议",
+      "url": "https://www.therundown.ai/p/step-into-midjourney-s-spa-for-a-body-scan",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-21T22:00:26.164Z",
+      "summary": "Midjourney 推出名为 'S Spa' 的身体扫描功能，引发用户对 AI 生成私密影像的伦理担忧。此举虽拓展应用场景，但也触碰了数据安全红线，行业监管或迎新一轮审视。"
+    },
+    {
+      "id": 7,
+      "title": "Cursor Officially Joins The Spacex Ai Machine",
+      "titleCN": "Cursor 正式加入 SpaceX AI 阵营，代码智能体再迎巨头背书",
+      "url": "https://www.therundown.ai/p/cursor-officially-joins-the-spacex-ai-machine",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-21T22:00:26.164Z",
+      "summary": "Cursor 宣布与 SpaceX AI 达成合作，将深度集成于其工程体系。这一动作不仅彰显 Cursor 在开发者工具领域的统治力，更预示 AI 编程助手正加速渗透至硬核科技核心业务。"
+    },
+    {
+      "id": 8,
+      "title": "Anthropic Pulls Mythos Fable After U S Order",
+      "titleCN": "Anthropic 紧急下架 Mythos Fable，迫于美国行政令压力",
+      "url": "https://www.therundown.ai/p/anthropic-pulls-mythos-fable-after-u-s-order",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-21T22:00:26.164Z",
+      "summary": "Anthropic 突然撤回 Mythos Fable 项目，直接响应美国政府指令。此举凸显地缘政治对 AI 研发的强力干预，企业合规风险陡增。"
+    },
+    {
+      "id": 9,
+      "title": "Anthropic Writes Washington An Ai Regulation Playbook",
+      "titleCN": "Anthropic 向华盛顿递交 AI 监管蓝图，试图重塑全球科技治理规则",
+      "url": "https://www.therundown.ai/p/anthropic-writes-washington-an-ai-regulation-playbook",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-21T22:00:26.164Z",
+      "summary": "Anthropic 发布政策建议文件，为美国国会提供 AI 安全监管框架。此举意在通过主动引导立法，确立行业标准，在合规竞争中抢占道德高地并影响未来监管走向。"
+    },
+    {
+      "id": 10,
+      "title": "Anthropic Hands The Public Mythos Class Ai",
+      "titleCN": "Anthropic 公开 Mythos 类 AI，彻底打破公众认知，重塑行业格局",
+      "url": "https://www.therundown.ai/p/anthropic-hands-the-public-mythos-class-ai",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-21T22:00:26.164Z",
+      "summary": "Anthropic 发布 Mythos 类 AI 系统，旨在纠正公众对人工智能的错误想象。此举不仅展示了技术突破，更引发业界对 AI 伦理与认知的深度反思，标志着人机关系进入新阶段。"
+    },
+    {
+      "id": 11,
+      "title": "Apple Siri Ai Overhaul Is Here Sort Of",
+      "titleCN": "苹果Siri AI大改终于来了？实测发现只是换了层皮",
+      "url": "https://www.therundown.ai/p/apple-siri-ai-overhaul-is-here-sort-of",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-21T22:00:26.164Z",
+      "summary": "苹果宣布Siri迎来重大AI升级，但用户实测发现核心体验变化有限，更多是界面与交互的微调，被指缺乏实质性突破，引发科技圈热议。"
+    },
+    {
+      "id": 12,
+      "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
+      "titleCN": "特朗普政府施压，Anthropic紧急下架Fable、Mythos模型",
+      "url": "https://tldr.tech/tech/2026-06-22",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-06-21T22:00:25.607Z",
+      "summary": "据TLDR AI报道，Anthropic应特朗普政府指令，突然关闭Fable与Mythos两款模型。此举凸显政治力量对AI行业的直接干预，引发业界对合规风险的担忧。"
+    },
+    {
+      "id": 13,
+      "title": "AI Under Trump's Control: Can France Still Avoid Digital Dependence?",
+      "titleCN": "特朗普掌控AI？法国拒当数字附庸，硬刚美国霸权",
+      "url": "https://thenewassociationwebmasters.blogspot.com/2026/06/ai-under-american-control-can-france.html",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-21T13:51:31.000Z",
+      "summary": "美法AI博弈升级，法国担忧在特朗普治下丧失技术主权，正加速构建独立数字生态以摆脱对美依赖，全球AI格局面临洗牌。"
+    },
+    {
+      "id": 14,
+      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+      "titleCN": "特朗普政府重拳围剿 Anthropic，AI 格局生变，谁将坐收渔利？",
+      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-21T15:28:17.000Z",
+      "summary": "美国政策转向对 Anthropic 形成强力压制，行业竞争逻辑重塑。随着监管大棒落下，市场焦点转向潜在受益者，OpenAI 或成最大赢家，AI 权力版图面临剧烈洗牌。"
+    },
+    {
+      "id": 15,
+      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "titleCN": "iOS 27 彻底告别 Siri？苹果推出实用 AI 功能，iPhone 体验迎来洗牌",
+      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-21T14:40:28.000Z",
+      "summary": "TechCrunch 曝光 iOS 27 将引入多项超越 Siri 的实用 AI 特性，旨在解决语音助手痛点。这一变革标志着苹果正试图重塑移动端交互逻辑，iPhone 智能化体验或将迎来重大转折。"
+    },
+    {
+      "id": 16,
+      "title": "MsgMaster – an AI that turns your chaotic inbox into a prioritized workflow",
+      "titleCN": "告别邮箱混乱！MsgMaster 让 AI 接管收件箱，工作流优先级重塑",
+      "url": "https://msgmaster.ca/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-21T21:23:05.000Z",
+      "summary": "MsgMaster 利用 AI 智能梳理杂乱邮件，自动划分优先级并转化为高效工作流，彻底终结收件箱焦虑，让信息处理回归核心任务。"
+    },
+    {
+      "id": 17,
+      "title": "Securing the Future of AI Agents",
+      "titleCN": "AI Agent 安全成焦点：Karpathy 呼吁重塑未来，开源社区热议信任危机",
+      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-21T21:10:24.000Z",
+      "summary": "前特斯拉 AI 总监 Karpathy 发文强调 AI Agent 安全性至关重要，引发 HN 用户关于自主代理潜在风险与监管缺失的深度讨论，行业安全标准面临重构。"
+    },
+    {
+      "id": 18,
+      "title": "Conduit – Self-hosted Bitcoin Lightning payments for AI agents",
+      "titleCN": "Karpathy新作Conduit：让AI代理自托管比特币闪电支付，Web3+AI再迎变天",
+      "url": "https://github.com/Jake1848/conduit",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-21T20:48:15.000Z",
+      "summary": "前Tesla AI总监Karpathy发布Conduit，赋能AI代理自主执行比特币闪电网络支付。这一突破将去中心化金融引入Agent生态，引发社区对自动化经济闭环的热议。"
+    },
+    {
+      "id": 19,
+      "title": "AuraText – a Windows overlay that brings AI into any text field URL",
+      "titleCN": "Karpathy 新作 AuraText 炸裂上线！Windows 全局 AI 覆盖，任何输入框秒变智能助手",
+      "url": "https://auratxt.com/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-21T20:47:18.000Z",
+      "summary": "前特斯拉 AI 总监 Karpathy 推出 AuraText，实现 Windows 全局文本覆盖。无需切换应用，任意输入框即可调用 AI，彻底打破软件边界，重塑人机交互体验。"
+    },
+    {
+      "id": 20,
+      "title": "AMD Mini PCs for AI Applications: A Comprehensive 2026 Review",
+      "titleCN": "AMD 2026迷你PC全面评测：AI应用性能大洗牌",
+      "url": "https://old.reddit.com/r/AIProgrammingHardware/comments/1uc0ckg/amd_mini_pcs_for_ai_applications_a_comprehensive/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-21T20:29:42.000Z",
+      "summary": "AMD发布2026迷你PC深度评测，聚焦AI应用性能表现。评测涵盖多款机型在推理任务中的实际表现，揭示硬件配置对AI算力的关键影响，为开发者提供选型参考。"
+    }
+  ]
+}
