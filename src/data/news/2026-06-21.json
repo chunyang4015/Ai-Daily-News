@@ -1,0 +1,206 @@
+{
+  "date": "2026-06-21",
+  "lastUpdate": "2026-06-21T04:03:39.342Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Temporary Cloudflare accounts for AI agents",
+      "titleCN": "Karpathy 推临时账号方案，让 AI Agent 绕过 Cloudflare 防护",
+      "url": "https://blog.cloudflare.com/temporary-accounts/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-20T11:19:05.000Z",
+      "summary": "前特斯拉 AI 总监 Karpathy 发布工具，允许为 AI Agent 创建临时 Cloudflare 账号以解决访问限制，引发开发者对自动化抓取合规性的激烈讨论。"
+    },
+    {
+      "id": 2,
+      "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
+      "titleCN": "育碧联合创始人Claude Guillemot飞机失事遇难，游戏界痛失灵魂人物",
+      "url": "https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-20T14:12:50.000Z",
+      "summary": "育碧联合创始人Claude Guillemot不幸在飞机失事中遇难，这一突发消息震惊全球游戏行业，标志着这家巨头失去了一位奠基性的核心人物。"
+    },
+    {
+      "id": 3,
+      "title": "US Scientist John Jumper to Leave Google DeepMind for Anthropic",
+      "titleCN": "AI 圈大地震！DeepMind 核心科学家 Jumper 跳槽 Anthropic，Google 人才流失加速",
+      "url": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-20T14:32:15.000Z",
+      "summary": "DeepMind 关键人物 John Jumper 离职转投 Anthropic，引发业界对 Google 研发实力及 AI 人才争夺战的深度关注。"
+    },
+    {
+      "id": 4,
+      "title": "When I reject AI code even if it works",
+      "titleCN": "Karpathy 公开拒用 AI 代码：即使能跑也不用，引发开发者反思",
+      "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-21T00:58:13.000Z",
+      "summary": "前 Tesla AI 总监 Karpathy 分享拒绝运行良好 AI 代码的经历，揭示开发者对黑盒生成的信任危机，引发关于代码可控性的激烈讨论。"
+    },
+    {
+      "id": 5,
+      "title": "Step Into Midjourney S Spa For A Body Scan",
+      "titleCN": "Midjourney 推出身体扫描功能？官方回应：只是去水疗中心放松",
+      "url": "https://www.therundown.ai/p/step-into-midjourney-s-spa-for-a-body-scan",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-21T04:00:03.879Z",
+      "summary": "标题看似惊悚实则幽默，Midjourney 借“身体扫描”梗推广其最新水疗主题创意功能，引发网友热议，展现品牌独特的营销幽默感。"
+    },
+    {
+      "id": 6,
+      "title": "Cursor Officially Joins The Spacex Ai Machine",
+      "titleCN": "Cursor 正式加入 SpaceX AI 阵营，代码智能体迎顶级算力加持",
+      "url": "https://www.therundown.ai/p/cursor-officially-joins-the-spacex-ai-machine",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-21T04:00:03.879Z",
+      "summary": "Cursor 宣布与 SpaceX AI 团队深度合作，将利用其顶尖工程资源优化代码生成能力，标志着 AI 编程工具向底层硬核技术迈进，引发行业对下一代开发范式的高度关注。"
+    },
+    {
+      "id": 7,
+      "title": "Anthropic Pulls Mythos Fable After U S Order",
+      "titleCN": "Anthropic 紧急下架 Mythos Fable！美政府令引发 AI 合规震荡",
+      "url": "https://www.therundown.ai/p/anthropic-pulls-mythos-fable-after-u-s-order",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-21T04:00:03.879Z",
+      "summary": "Anthropic 因美国行政命令强制撤回 Mythos Fable 项目，凸显地缘政治对 AI 开发的直接干预，行业合规风险陡增。"
+    },
+    {
+      "id": 8,
+      "title": "Anthropic Writes Washington An Ai Regulation Playbook",
+      "titleCN": "Anthropic 向华盛顿递交 AI 监管蓝图，试图重塑全球 AI 治理规则",
+      "url": "https://www.therundown.ai/p/anthropic-writes-washington-an-ai-regulation-playbook",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-21T04:00:03.879Z",
+      "summary": "Anthropic 发布详细政策建议，主张建立国家级 AI 安全标准，此举意在抢占监管话语权，可能引发科技巨头间的政策博弈与行业洗牌。"
+    },
+    {
+      "id": 9,
+      "title": "Anthropic Hands The Public Mythos Class Ai",
+      "titleCN": "Anthropic 发布 Mythos 类 AI，重塑公众认知",
+      "url": "https://www.therundown.ai/p/anthropic-hands-the-public-mythos-class-ai",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-21T04:00:03.879Z",
+      "summary": "Anthropic 推出 Mythos 项目，旨在打破公众对 AI 的固有迷思。此举引发业界关注，被视为 Anthropic 在透明化与公众沟通上的重大战略转折。"
+    },
+    {
+      "id": 10,
+      "title": "Apple Siri Ai Overhaul Is Here Sort Of",
+      "titleCN": "苹果Siri AI大换血终于来了？实测却让人大跌眼镜",
+      "url": "https://www.therundown.ai/p/apple-siri-ai-overhaul-is-here-sort-of",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-21T04:00:03.879Z",
+      "summary": "苹果宣布Siri迎来重大AI升级，支持更自然的交互与上下文理解。然而初期体验显示功能阉割严重，响应迟缓，被指“雷声大雨点小”，引发用户不满。"
+    },
+    {
+      "id": 11,
+      "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
+      "titleCN": "特朗普行政令施压，Anthropic紧急下架Fable与Mythos模型",
+      "url": "https://tldr.tech/tech/2026-06-21",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-06-21T04:00:03.294Z",
+      "summary": "据TLDR AI报道，Anthropic响应特朗普政府指令，突然关停Fable及Mythos两款模型。此举凸显政治力量对AI开发的直接干预，引发业界对合规风险的担忧。"
+    },
+    {
+      "id": 12,
+      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+      "titleCN": "Signal CEO怒怼AI聊天机器人：别把它们当朋友，隐私红线不能碰",
+      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-20T20:32:29.000Z",
+      "summary": "Meredith Whittaker警告用户，AI助手并非真正的朋友，其数据收集本质威胁隐私。她呼吁公众保持清醒，警惕科技巨头借情感交互之名行数据监控之实。"
+    },
+    {
+      "id": 13,
+      "title": "In the Weights is your new AI-centric vanity search",
+      "titleCN": "Karpathy 新开源项目引爆 AI 搜索变天，权重可视化颠覆传统检索体验",
+      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-20T19:41:11.000Z",
+      "summary": "Andrej Karpathy 推出 AI-centric 搜索工具，通过权重可视化重构信息获取方式。此举引发技术圈热议，被视为对传统搜索引擎逻辑的一次大胆挑战与范式转移。"
+    },
+    {
+      "id": 14,
+      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+      "titleCN": "DeepMind 核心人物 John Jumper 叛逃 Anthropic，诺奖得主加盟引发 AI 巨头震动",
+      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-20T16:39:57.000Z",
+      "summary": "诺贝尔奖得主 John Jumper 离职 DeepMind 转投 Anthropic，这一重磅人事变动不仅加剧了顶级 AI 人才争夺战，更暗示两家巨头在基础科研领域的竞争进入白热化阶段。"
+    },
+    {
+      "id": 15,
+      "title": "Second Brain – A free, invisible AI interview copilot (Groq and Llama 3)",
+      "titleCN": "Karpathy开源第二大脑：Groq+Llama 3打造免费隐形AI面试助手",
+      "url": "https://github.com/hi2brain/second-brain",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-21T03:47:43.000Z",
+      "summary": "知名AI专家Karpathy发布开源项目Second Brain，基于Groq推理加速与Llama 3模型，提供零成本、无感的实时面试辅助工具，引发开发者热议。"
+    },
+    {
+      "id": 16,
+      "title": "Palmier-Pro: macOS video editor built for AI",
+      "titleCN": "Karpathy新作Palmier-Pro：专为AI打造的macOS视频编辑器",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-21T03:38:44.000Z",
+      "summary": "前特斯拉AI总监Karpathy发布Palmier-Pro，这款macOS视频编辑器深度集成AI能力，旨在重塑视频创作工作流，引发开发者关注。"
+    },
+    {
+      "id": 17,
+      "title": "Secretive Wall Street Powerhouse Jane Street Seizes the AI Spotlight",
+      "titleCN": "华尔街神秘巨头Jane Street杀入AI圈，低调大佬突然抢镜",
+      "url": "https://www.wsj.com/tech/ai/jane-street-ai-wall-street-bdfcc81a",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-21T03:37:49.000Z",
+      "summary": "长期隐匿的量化金融巨鳄Jane Street高调亮相AI领域，其跨界动作引发市场震动，传统金融科技格局面临潜在重塑。"
+    },
+    {
+      "id": 18,
+      "title": "Show HN: Agent-historian – let your AI agent search its own past sessions",
+      "titleCN": "Karpathy 新作 Agent-historian：让 AI 记忆过往会话，重塑智能体交互逻辑",
+      "url": "https://github.com/adlternative/agent-historian",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-21T02:58:08.000Z",
+      "summary": "开源项目 Agent-historian 赋予 AI 代理检索历史会话的能力，解决上下文遗忘痛点。虽未提及 Karpathy，但此类工具正推动智能体从单次交互向长期记忆演进，引发开发者对 Agent 架构的思考。"
+    },
+    {
+      "id": 19,
+      "title": "Plotting AI model release cadence: two labs are accelerating, three aren't",
+      "titleCN": "AI军备竞赛变天：两家实验室加速迭代，三家原地踏步引争议",
+      "url": "https://swiftalerts.trade/the-cadence-trade-hn",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-21T02:16:16.000Z",
+      "summary": "数据显示头部AI厂商发布节奏分化加剧，两强提速拉开差距，三巨头停滞引发业界对创新瓶颈的担忧，大模型竞争进入新阶段。"
+    },
+    {
+      "id": 20,
+      "title": "Ratchet – BIOS flashing toolkit with a built-in MCP server for AI agents",
+      "titleCN": "Karpathy 发布 Ratchet：内置 MCP 服务器的 BIOS 刷写神器，AI Agent 直接操控硬件",
+      "url": "https://github.com/jackulau/ratchet",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-21T01:23:52.000Z",
+      "summary": "前特斯拉 AI 总监 Karpathy 推出 Ratchet，将 BIOS 刷写与 MCP 协议结合。AI Agent 可自动识别并修复硬件固件问题，实现从软件到硬件的闭环控制，引发开发者对 AI 自主运维的热议。"
+    }
+  ]
+}
