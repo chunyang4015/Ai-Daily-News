@@ -7,6 +7,7 @@ on:
   schedule:
     - cron: '0 22 * * *'  # UTC 22:00 = Beijing 06:00, daily fetch + build + deploy
     - cron: '0 0 * * *'   # UTC 00:00 = Beijing 08:00, daily fetch + build + deploy
+    - cron: '10 02 * * *' # UTC 02:10 = Beijing 10:10, daily fetch + build + deploy
 
 jobs:
   build-and-deploy:
