@@ -1,6 +1,3 @@
 name = "ai-daily-news-worker"
 main = "worker.ts"
 compatibility_date = "2026-06-20"
-
-[triggers]
-crons = ["20 3 * * *"]

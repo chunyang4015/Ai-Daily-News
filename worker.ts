@@ -1,6 +1,6 @@
 /**
  * Cloudflare Worker: cron-triggered news fetcher.
- * Runs at 06:00 and 08:00 Beijing time daily.
+ * Can be triggered by HTTP POST or by cron scheduled event.
  * Fetches AI news from multiple sources, generates Chinese summaries via Agnes AI,
  * writes data to GitHub, then triggers a Cloudflare Pages rebuild.
  */
@@ -405,70 +405,105 @@ async function triggerPagesDeploy(projectName: string): Promise<void> {
   console.log('Triggered Cloudflare Pages rebuild');
 }
 
-// ── Main ──────────────────────────────────────────────────
+// ── Main logic (shared by HTTP and cron) ──────────────────
+
+async function runFetch(): Promise<Response> {
+  const today = new Date().toISOString().slice(0, 10);
+
+  console.log('News fetch triggered');
+  console.log('Fetching AI news...');
+  const [hnItems, rundownItems, tldrItems, rssItems] = await Promise.all([
+    fetchHackerNews(),
+    fetchTheRundownAI(),
+    fetchTLDR(),
+    fetchRSSFeeds(),
+  ]);
+
+  console.log(`Raw items: HN=${hnItems.length}, Rundown=${rundownItems.length}, TLDR=${tldrItems.length}, RSS=${rssItems.length}`);
+
+  const merged: RawItem[] = [
+    ...hnItems.map((i) => ({ ...i, source: 'Hacker News', sourceIcon: 'hn' })),
+    ...rundownItems.map((i) => ({ ...i, source: 'The Rundown AI', sourceIcon: 'rundown' })),
+    ...tldrItems.map((i) => ({ ...i, source: 'TLDR AI', sourceIcon: 'tldr' })),
+    ...rssItems.map((i) => ({ ...i, source: i.source || 'RSS', sourceIcon: 'rss' })),
+  ];
+
+  const unique = dedup(merged);
+  const recent = filterByRecency(unique, MAX_AGE_HOURS);
+  const candidates = selectTopStories(recent, 30, 6);
+  console.log(`${candidates.length} candidates selected (from ${unique.length} unique, ${recent.length} within ${MAX_AGE_HOURS}h, source-capped at 6)`);
+
+  // Generate summaries
+  const stories: Story[] = [];
+  for (let i = 0; i < candidates.length && stories.length < TARGET_COUNT; i++) {
+    const item = candidates[i];
+    console.log(`[${stories.length + 1}→${TARGET_COUNT}] [${i + 1}/${candidates.length}] Summarizing: ${item.title.slice(0, 60)}...`);
+    const result = await callAgnesAI(item.title, item.source);
+    if (!result) continue;
+    stories.push({
+      id: stories.length + 1,
+      title: item.title,
+      titleCN: result.titleCN,
+      url: item.url,
+      source: item.source,
+      sourceIcon: item.sourceIcon,
+      pubDate: item.pubDate,
+      summary: result.summary,
+    });
+  }
+
+  const data: DailyData = {
+    date: today,
+    lastUpdate: new Date().toISOString(),
+    stories,
+  };
+
+  console.log(`Generated ${stories.length} stories for ${today}`);
+
+  // Write to GitHub
+  await writeDataToGitHub(data);
+
+  // Trigger Cloudflare Pages rebuild
+  await triggerPagesDeploy('ai-daily-news');
+
+  console.log('Done!');
+
+  return new Response(JSON.stringify({
+    date: today,
+    stories: stories.length,
+    target: TARGET_COUNT,
+    success: stories.length > 0,
+  }), {
+    headers: { 'Content-Type': 'application/json' },
+  });
+}
+
+// ── Handlers ──────────────────────────────────────────────
 
 export default {
-  async scheduled(controller: ScheduledController): Promise<void> {
-    console.log('News fetch triggered by cron');
-
-    const today = new Date().toISOString().slice(0, 10);
-
-    // Fetch all sources in parallel
-    console.log('Fetching AI news...');
-    const [hnItems, rundownItems, tldrItems, rssItems] = await Promise.all([
-      fetchHackerNews(),
-      fetchTheRundownAI(),
-      fetchTLDR(),
-      fetchRSSFeeds(),
-    ]);
-
-    console.log(`Raw items: HN=${hnItems.length}, Rundown=${rundownItems.length}, TLDR=${tldrItems.length}, RSS=${rssItems.length}`);
-
-    const merged: RawItem[] = [
-      ...hnItems.map((i) => ({ ...i, source: 'Hacker News', sourceIcon: 'hn' })),
-      ...rundownItems.map((i) => ({ ...i, source: 'The Rundown AI', sourceIcon: 'rundown' })),
-      ...tldrItems.map((i) => ({ ...i, source: 'TLDR AI', sourceIcon: 'tldr' })),
-      ...rssItems.map((i) => ({ ...i, source: i.source || 'RSS', sourceIcon: 'rss' })),
-    ];
-
-    const unique = dedup(merged);
-    const recent = filterByRecency(unique, MAX_AGE_HOURS);
-    const candidates = selectTopStories(recent, 30, 6);
-    console.log(`${candidates.length} candidates selected (from ${unique.length} unique, ${recent.length} within ${MAX_AGE_HOURS}h, source-capped at 6)`);
-
-    // Generate summaries
-    const stories: Story[] = [];
-    for (let i = 0; i < candidates.length && stories.length < TARGET_COUNT; i++) {
-      const item = candidates[i];
-      console.log(`[${stories.length + 1}→${TARGET_COUNT}] [${i + 1}/${candidates.length}] Summarizing: ${item.title.slice(0, 60)}...`);
-      const result = await callAgnesAI(item.title, item.source);
-      if (!result) continue;
-      stories.push({
-        id: stories.length + 1,
-        title: item.title,
-        titleCN: result.titleCN,
-        url: item.url,
-        source: item.source,
-        sourceIcon: item.sourceIcon,
-        pubDate: item.pubDate,
-        summary: result.summary,
-      });
+  // HTTP endpoint: POST to trigger fetch
+  async fetch(request: Request): Promise<Response> {
+    if (request.method !== 'POST') {
+      return new Response('Method not allowed. Send POST to trigger news fetch.', { status: 405 });
     }
 
-    const data: DailyData = {
-      date: today,
-      lastUpdate: new Date().toISOString(),
-      stories,
-    };
+    try {
+      return await runFetch();
+    } catch (err) {
+      console.error('Fetch failed:', err);
+      return new Response(JSON.stringify({ error: (err as Error).message }), {
+        status: 500,
+        headers: { 'Content-Type': 'application/json' },
+      });
+    }
+  },
 
-    console.log(`Generated ${stories.length} stories for ${today}`);
-
-    // Write to GitHub
-    await writeDataToGitHub(data);
-
-    // Trigger Cloudflare Pages rebuild
-    await triggerPagesDeploy('ai-daily-news');
-
-    console.log('Done!');
+  // Cron trigger (for Cloudflare cron)
+  async scheduled(controller: ScheduledController): Promise<void> {
+    try {
+      await runFetch();
+    } catch (err) {
+      console.error('Cron fetch failed:', err);
+    }
   },
 };
