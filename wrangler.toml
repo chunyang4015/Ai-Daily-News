@@ -1,2 +1,5 @@
 name = "ai-daily-news"
 pages_build_output_dir = "dist"
+
+[triggers]
+crons = ["0 6 * * *", "0 8 * * *"]
