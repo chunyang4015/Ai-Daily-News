@@ -2,8 +2,8 @@ name: Daily News Build
 
 on:
   schedule:
-    # UTC 22:00 = Beijing 06:00 daily
-    - cron: '0 22 * * *'
+    # TEMP TEST: UTC 04:10 = Beijing 12:10 — revert to '0 22 * * *' (Beijing 06:00) after verifying
+    - cron: '10 04 * * *'
   workflow_dispatch:
   push:
     branches: [main]
