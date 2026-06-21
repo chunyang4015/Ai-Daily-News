@@ -445,7 +445,10 @@ async function main() {
     });
   }
 
-  const today = new Date().toISOString().slice(0, 10);
+  // Local date so CI (TZ=Asia/Shanghai) groups news by Beijing day;
+  // toISOString() is always UTC and would tag Beijing-morning news as "yesterday".
+  const now = new Date();
+  const today = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`;
   const data: DailyData = {
     date: today,
     lastUpdate: new Date().toISOString(),
