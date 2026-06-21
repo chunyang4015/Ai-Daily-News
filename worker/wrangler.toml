@@ -1,0 +1,9 @@
+name = "ai-daily-news-trigger"
+main = "worker.ts"
+compatibility_date = "2026-06-21"
+
+# UTC 22:00 = Beijing 06:00 daily.
+# Cloudflare Cron Triggers fire on schedule, unlike GitHub Actions schedules
+# (which were delayed / never fired for this repo).
+[triggers]
+crons = ["0 22 * * *"]

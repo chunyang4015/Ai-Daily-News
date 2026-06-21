@@ -1,9 +1,9 @@
 name: Daily News Build
 
 on:
-  schedule:
-    # TEMP TEST: UTC 04:34 = Beijing 12:34 — revert to '0 22 * * *' (Beijing 06:00) after verifying
-    - cron: '34 04 * * *'
+  # Triggered by the Cloudflare Worker cron (see worker/wrangler.toml), or
+  # manually from the Actions UI. GitHub Actions schedules proved unreliable
+  # (never fired), so the timer lives in Cloudflare instead.
   workflow_dispatch:
   push:
     branches: [main]
