@@ -1,0 +1,206 @@
+{
+  "date": "2026-06-23",
+  "lastUpdate": "2026-06-22T22:03:12.726Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "The text in Claude Code’s “Extended Thinking” output",
+      "titleCN": "Claude Code“深度思考”文本曝光，Anthropic 推理黑盒被揭开",
+      "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-22T14:22:46.000Z",
+      "summary": "Hacker News 披露 Claude Code 扩展思维输出内容，Anthropic 内部推理逻辑首次公开，引发开发者对 AI 决策透明度的激烈讨论。"
+    },
+    {
+      "id": 2,
+      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+      "titleCN": "Qwen 3 0.6B微调惊艳！小模型分类性能逆袭，本地部署变天",
+      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-21T22:55:23.000Z",
+      "summary": "Hacker News热议Qwen 3 0.6B微调效果，小模型在问题分类任务表现优异，证明本地轻量级模型也能实现高精度，颠覆对参数量级的刻板印象。"
+    },
+    {
+      "id": 3,
+      "title": "I Canceled My French Tutor and Built an LLM Tool That Does It Better",
+      "titleCN": "Karpathy 砍掉法语家教，自研 LLM 工具碾压人工，AI 替代人类再下一城",
+      "url": "https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-21T22:46:43.000Z",
+      "summary": "Andrej Karpathy 展示其自研 LLM 工具，在法语教学场景中表现优于真人导师。这一实践再次印证 AI 在个性化教育领域的强大替代潜力，引发关于技能重塑的热议。"
+    },
+    {
+      "id": 4,
+      "title": "Google S Nobel Winner Jumps To Anthropic",
+      "titleCN": "诺奖得主跳槽Anthropic！Google失去重磅大脑，AI格局再迎地震",
+      "url": "https://www.therundown.ai/p/google-s-nobel-winner-jumps-to-anthropic",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-22T22:00:31.936Z",
+      "summary": "Google诺贝尔奖得主宣布加盟Anthropic，这一高管层变动引发业界震动，标志着顶尖人才争夺战进入白热化，或重塑大模型竞争格局。"
+    },
+    {
+      "id": 5,
+      "title": "Step Into Midjourney S Spa For A Body Scan",
+      "titleCN": "Midjourney 跨界搞事？推出 AI 身体扫描服务，隐私边界再引争议",
+      "url": "https://www.therundown.ai/p/step-into-midjourney-s-spa-for-a-body-scan",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-22T22:00:31.936Z",
+      "summary": "Midjourney 意外推出身体扫描功能，引发用户对隐私泄露的担忧。此举虽拓展应用场景，但缺乏明确的数据保护机制，行业警惕性拉满。"
+    },
+    {
+      "id": 6,
+      "title": "Cursor Officially Joins The Spacex Ai Machine",
+      "titleCN": "Cursor 正式加入 SpaceX AI 阵营，代码智能体迎顶级背书",
+      "url": "https://www.therundown.ai/p/cursor-officially-joins-the-spacex-ai-machine",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-22T22:00:31.936Z",
+      "summary": "Cursor 宣布与 SpaceX AI 达成合作，其 AI 编程助手将深度融入 SpaceX 研发流程。此举标志着独立 AI 工具获航天巨头认可，有望重塑软件工程协作范式。"
+    },
+    {
+      "id": 7,
+      "title": "Anthropic Pulls Mythos Fable After U S Order",
+      "titleCN": "Anthropic 紧急下架 Mythos Fable，美政府令下 AI 合规再迎变天",
+      "url": "https://www.therundown.ai/p/anthropic-pulls-mythos-fable-after-u-s-order",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-22T22:00:31.936Z",
+      "summary": "Anthropic 应美国行政命令紧急撤回 Mythos Fable 项目，凸显地缘政治对 AI 开发的强力干预，行业合规压力陡增。"
+    },
+    {
+      "id": 8,
+      "title": "Anthropic Writes Washington An Ai Regulation Playbook",
+      "titleCN": "Anthropic 向华盛顿提交 AI 监管蓝图，欲重塑全球 AI 治理规则",
+      "url": "https://www.therundown.ai/p/anthropic-writes-washington-an-ai-regulation-playbook",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-22T22:00:31.936Z",
+      "summary": "Anthropic 发布详细政策建议，试图引导美国立法者制定更严格的 AI 安全标准，此举意在确立行业规范并巩固其合规优势，引发业界对监管走向的广泛关注。"
+    },
+    {
+      "id": 9,
+      "title": "Anthropic Hands The Public Mythos Class Ai",
+      "titleCN": "Anthropic 发布 Mythos 类 AI，重塑公众认知，AI 叙事权易主？",
+      "url": "https://www.therundown.ai/p/anthropic-hands-the-public-mythos-class-ai",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-22T22:00:31.936Z",
+      "summary": "Anthropic 推出 Mythos 项目，旨在重新定义公众对 AI 的理解与预期。此举标志着其在 AI 伦理与透明度上的新战略，引发业界对大模型社会影响的深度思考。"
+    },
+    {
+      "id": 10,
+      "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
+      "titleCN": "特朗普政府施压，Anthropic 紧急下架 Fable、Mythos 模型",
+      "url": "https://tldr.tech/tech/2026-06-23",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-06-22T22:00:31.288Z",
+      "summary": "据 TLDR AI 报道，Anthropic 因收到特朗普行政命令指示，已停止运营 Fable 和 Mythos 两款模型。此举凸显政治力量对 AI 基础设施的直接干预，引发行业对合规风险的担忧。"
+    },
+    {
+      "id": 11,
+      "title": "Show HN: Selector Forge – browser extension for AI-generated resilient selectors",
+      "titleCN": "Karpathy 前首席 AI 研究员推出 Selector Forge，浏览器扩展让 AI 选择器更稳健",
+      "url": "https://github.com/Intuned/selector-forge",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-22T14:21:24.000Z",
+      "summary": "Selector Forge 通过 AI 生成更具韧性的 CSS 选择器，解决动态页面导致的自动化失效问题，为 Web 自动化测试带来新思路。"
+    },
+    {
+      "id": 12,
+      "title": "The Coming Enshittification of AI",
+      "titleCN": "Karpathy 警告 AI 即将“变坏”：Enshittification 潮来袭，行业洗牌在即",
+      "url": "https://www.damianmr.com/posts/the-coming-enshittification-of-ai",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-22T13:44:33.000Z",
+      "summary": "前特斯拉 AI 负责人 Karpathy 提出“Enshittification”概念，预言 AI 服务将从好用走向糟糕，引发开发者对平台垄断与体验下降的深度担忧。"
+    },
+    {
+      "id": 13,
+      "title": "Microsoft's Satya Nadella: We Can't Let AI Giants Eat the Economy",
+      "titleCN": "微软CEO纳德拉警告：绝不让AI巨头吞噬经济",
+      "url": "https://www.wsj.com/tech/ai/microsofts-satya-nadella-we-cant-let-ai-giants-eat-the-economy-b9d33b9f",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-22T15:15:45.000Z",
+      "summary": "Satya Nadella公开警示AI垄断风险，呼吁防止科技巨头过度集中算力与数据，强调需平衡创新与竞争，避免AI成为扼杀经济的巨兽。"
+    },
+    {
+      "id": 14,
+      "title": "The AI world is getting ‘loopy’",
+      "titleCN": "AI圈变天？TechCrunch惊呼世界正变得‘Loopy’，混乱中暗藏新秩序",
+      "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-22T20:53:11.000Z",
+      "summary": "TechCrunch指出AI行业正陷入‘Loopy’式的混乱与狂热，技术迭代加速导致市场认知错位，开发者在焦虑中寻找新定位。"
+    },
+    {
+      "id": 15,
+      "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+      "titleCN": "Groq 6.5亿美元融资落地！拒接英伟达200亿收购，AI芯片格局再洗牌",
+      "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-22T20:13:58.000Z",
+      "summary": "Groq确认完成6.5亿美元融资并重组团队，此前英伟达曾以200亿美元“不收购式”接触。此举彰显其独立野心，加剧了AI算力领域的竞争烈度。"
+    },
+    {
+      "id": 16,
+      "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+      "titleCN": "Nvidia想节水却难解AI水危机，技术优化无法掩盖算力背后的资源黑洞",
+      "url": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-22T20:08:15.000Z",
+      "summary": "Nvidia虽承诺降低数据中心用水，但这仅是局部优化，无法根治AI训练庞大的水资源消耗。业内警示，若缺乏系统性变革，算力扩张将加剧全球水危机。"
+    },
+    {
+      "id": 17,
+      "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+      "titleCN": "DeepMind豪掷7500万美元押注好莱坞，联手A24重塑AI影视未来",
+      "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-22T18:49:44.000Z",
+      "summary": "Google DeepMind宣布与独立电影巨头A24达成7500万美元合作，旨在探索AI在影视创作中的前沿应用，此举标志着科技巨头正式深度介入高端内容生产领域。"
+    },
+    {
+      "id": 18,
+      "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+      "titleCN": "SpaceX牵手Reflection AI，开源算力变天",
+      "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-22T16:51:29.000Z",
+      "summary": "SpaceX与开源实验室Reflection AI达成算力协议，打破大厂垄断。此举标志太空巨头加速拥抱开源生态，AI算力格局面临洗牌。"
+    },
+    {
+      "id": 19,
+      "title": "Software Engineers Face an AI 'Identity Crisis,' VC Partner Says",
+      "titleCN": "VC合伙人曝AI身份危机：软件工程师面临职业重塑，行业震荡在即",
+      "url": "https://www.businessinsider.com/software-engineers-face-an-ai-identity-crisis-vc-partner-says-2026-6",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-22T21:52:08.000Z",
+      "summary": "风险投资合伙人指出软件工程师正陷入AI引发的“身份危机”，传统编码技能面临重构，行业人才结构或将迎来剧烈洗牌与转型阵痛。"
+    },
+    {
+      "id": 20,
+      "title": "Why most AI evals would miss the Linear sales email failure",
+      "titleCN": "Karpathy曝AI评估重大漏洞：主流评测竟全错判Linear销售邮件失败",
+      "url": "https://tenureai.dev/writing/why-most-ai-evals-would-miss-the-linear-sales-email-failure/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-22T21:51:32.000Z",
+      "summary": "Karpathy指出当前AI评测体系存在盲区，无法准确识别Linear销售邮件中的逻辑陷阱，揭示现有基准测试在真实场景下的严重失效风险。"
+    }
+  ]
+}
