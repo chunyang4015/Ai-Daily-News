@@ -1,0 +1,206 @@
+{
+  "date": "2026-06-24",
+  "lastUpdate": "2026-06-23T22:03:02.208Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Mistral OCR 4",
+      "titleCN": "Mistral 发布 OCR 4，开源视觉解析能力再升级，挑战商业巨头",
+      "url": "https://mistral.ai/news/ocr-4/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-23T14:03:19.000Z",
+      "summary": "Mistral AI 推出新一代 OCR 模型，在文档解析精度上显著超越前代，为开发者提供高效开源方案，加剧了视觉理解领域的竞争烈度。"
+    },
+    {
+      "id": 2,
+      "title": "OpenAI DayBreak – GPT-5.5-Cyber",
+      "titleCN": "OpenAI 发布 GPT-5.5-Cyber？DayBreak 活动疑云：是技术突破还是营销噱头",
+      "url": "https://openai.com/index/daybreak-securing-the-world/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-23T01:36:08.000Z",
+      "summary": "OpenAI 在 DayBreak 活动中提及 GPT-5.5-Cyber，引发社区热议。鉴于此前传闻与官方口径不一，业内质疑其是否为未公开模型的预热，或是单纯的营销包装，真实性存疑。"
+    },
+    {
+      "id": 3,
+      "title": "Claude Tag",
+      "titleCN": "Anthropic 推出 Claude Tag，开发者直呼：终于不用手动解析 JSON 了！",
+      "url": "https://www.anthropic.com/news/introducing-claude-tag",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-23T17:09:18.000Z",
+      "summary": "Anthropic 发布 Claude Tag 规范，强制模型结构化输出，彻底终结“幻觉”乱码时代。开发者反馈解析成功率飙升，API 调用效率迎来质变。"
+    },
+    {
+      "id": 4,
+      "title": "AI's Affordability Crisis",
+      "titleCN": "AI  affordability 危机爆发？Hacker News 热议算力成本失控",
+      "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-23T15:11:17.000Z",
+      "summary": "HN 社区聚焦 AI 应用落地面临的成本困境，高昂的推理费用正成为阻碍技术普及的最大拦路虎，开发者呼吁行业重新审视定价策略。"
+    },
+    {
+      "id": 5,
+      "title": "AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black & 15% Asian",
+      "titleCN": "AI招聘工具种族歧视曝光：黑人拒录率高达26%，算法偏见引发信任危机",
+      "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-23T18:56:19.000Z",
+      "summary": "研究显示AI招聘系统存在严重种族偏见，黑人群体被拒率飙升至26%，亚裔为15%。算法系统性排斥少数族裔，企业合规风险陡增。"
+    },
+    {
+      "id": 6,
+      "title": "The Low-Tech AI of Elden Ring",
+      "titleCN": "《艾尔登法环》AI 竟靠低科技？黑客揭秘：非深度学习也能打造硬核 NPC",
+      "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-23T11:40:50.000Z",
+      "summary": "该研究摒弃复杂神经网络，利用传统算法实现高智能 NPC 行为树，证明低算力下 AI 亦可具备深度交互能力，引发对游戏 AI 技术路线的重新思考。"
+    },
+    {
+      "id": 7,
+      "title": "Google S Nobel Winner Jumps To Anthropic",
+      "titleCN": "诺奖得主跳槽Anthropic，Google AI 核心阵容再遭重创",
+      "url": "https://www.therundown.ai/p/google-s-nobel-winner-jumps-to-anthropic",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-23T22:00:28.738Z",
+      "summary": "Google 聘请的诺贝尔奖得主宣布转投 Anthropic，此举加剧了硅谷顶尖人才争夺战，凸显大厂在留住核心科研力量上的困境。"
+    },
+    {
+      "id": 8,
+      "title": "Step Into Midjourney S Spa For A Body Scan",
+      "titleCN": "Midjourney 推出 S 级身体扫描功能，AI 图像生成再掀隐私争议",
+      "url": "https://www.therundown.ai/p/step-into-midjourney-s-spa-for-a-body-scan",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-23T22:00:28.738Z",
+      "summary": "Midjourney 上线 S Spa 身体扫描功能，引发用户对生物特征数据滥用的担忧。此举虽拓展了生成边界，但也让平台陷入伦理与合规的双重漩涡。"
+    },
+    {
+      "id": 9,
+      "title": "Cursor Officially Joins The Spacex Ai Machine",
+      "titleCN": "Cursor 正式加入 SpaceX AI 阵营，代码生产力迎史诗级重构",
+      "url": "https://www.therundown.ai/p/cursor-officially-joins-the-spacex-ai-machine",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-23T22:00:28.738Z",
+      "summary": "Cursor 团队并入 SpaceX AI 部门，标志着 AI 编程工具从独立赛道转向航天巨头核心基础设施，行业格局面临剧烈洗牌。"
+    },
+    {
+      "id": 10,
+      "title": "Anthropic Pulls Mythos Fable After U S Order",
+      "titleCN": "美国一纸令下 Anthropic 紧急下架 Mythos Fable，AI 合规再迎变天",
+      "url": "https://www.therundown.ai/p/anthropic-pulls-mythos-fable-after-u-s-order",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-23T22:00:28.738Z",
+      "summary": "Anthropic 因应美国行政命令强制撤回 Mythos Fable 项目，凸显地缘政治对 AI 开发的直接干预，行业合规风险陡增。"
+    },
+    {
+      "id": 11,
+      "title": "Anthropic Writes Washington An Ai Regulation Playbook",
+      "titleCN": "Anthropic 向华盛顿递交 AI 监管蓝图，重塑全球合规话语权",
+      "url": "https://www.therundown.ai/p/anthropic-writes-washington-an-ai-regulation-playbook",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-23T22:00:28.738Z",
+      "summary": "Anthropic 发布详细政策建议，试图主导美国 AI 监管框架。此举不仅彰显其技术自信，更意在通过规则制定构建竞争壁垒，引发业界对科技巨头政治影响力的热议。"
+    },
+    {
+      "id": 12,
+      "title": "Anthropic Hands The Public Mythos Class Ai",
+      "titleCN": "Anthropic 发布 Mythos 类人 AI，彻底颠覆公众对智能的认知边界",
+      "url": "https://www.therundown.ai/p/anthropic-hands-the-public-mythos-class-ai",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-23T22:00:28.738Z",
+      "summary": "Anthropic 推出 Mythos 模型，以拟人化交互能力打破传统 AI 局限，引发业界对通用人工智能形态的重新审视与激烈讨论。"
+    },
+    {
+      "id": 13,
+      "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
+      "titleCN": "特朗普行政令施压，Anthropic紧急下架Fable、Mythos模型",
+      "url": "https://tldr.tech/tech/2026-06-24",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-06-23T22:00:28.134Z",
+      "summary": "据TLDR AI报道，Anthropic遵从特朗普政府指令，突然关闭旗下Fable与Mythos模型服务。此举凸显政策对AI企业的直接干预，引发行业对合规风险的担忧。"
+    },
+    {
+      "id": 14,
+      "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+      "titleCN": "Anthropic Claude 接入 Slack，AI 助手正悄悄‘偷听’你的公司机密",
+      "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-23T17:00:00.000Z",
+      "summary": "Anthropic 推出 Claude Tag，能随 Slack 对话学习企业语境。这种深度嵌入工作流的模式虽提升效率，但也引发员工对隐私泄露和数据安全的强烈担忧。"
+    },
+    {
+      "id": 15,
+      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+      "titleCN": "AI面试颠覆传统招聘？Fika Jobs融资400万美元打造视频优先平台",
+      "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-23T13:00:00.000Z",
+      "summary": "Fika Jobs获400万美元融资，推出AI代理视频面试平台。此举直击招聘效率痛点，以视频交互重塑候选人筛选流程，引发行业对自动化HR工具的新一轮关注。"
+    },
+    {
+      "id": 16,
+      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+      "titleCN": "2026 AI 裁员潮爆发：科技巨头加速换血，AI 成裁员主因",
+      "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-23T01:27:55.000Z",
+      "summary": "TechCrunch 盘点 2026 年大规模裁员名单，多家科技巨头明确将 AI 自动化列为削减人力成本的核心驱动力，行业洗牌加剧。"
+    },
+    {
+      "id": 17,
+      "title": "OpenAI launches new initiative to help find and patch open source bugs",
+      "titleCN": "OpenAI 出手修补开源漏洞，这一举动要改写 AI 安全规则？",
+      "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-23T00:11:31.000Z",
+      "summary": "OpenAI 发起新倡议协助发现并修复开源代码漏洞，旨在提升底层安全性。此举虽显担当，但也引发业界对其是否借机扩大技术影响力的猜测。"
+    },
+    {
+      "id": 18,
+      "title": "Ask HN: Why do AI video platforms keep generating foreign language text",
+      "titleCN": "AI视频平台集体翻车？生成外文乱码引热议，技术瓶颈再曝光",
+      "url": "https://news.ycombinator.com/item?id=48651941",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-23T21:48:34.000Z",
+      "summary": "Hacker News用户吐槽AI视频工具频繁生成不可读的外文文本，暴露出当前多模态模型在语言渲染上的严重缺陷，引发行业对生成稳定性的深度质疑。"
+    },
+    {
+      "id": 19,
+      "title": "Lobu: Build AI teammates that watch and act",
+      "titleCN": "AI队友能看能动？Lobu让Agent从‘只读’变‘实操’，交互逻辑彻底洗牌",
+      "url": "https://lobu.ai/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-23T21:11:28.000Z",
+      "summary": "Lobu推出新型AI队友，具备视觉感知与行动执行能力，打破传统Agent仅能文本交互局限，为自动化工作流带来颠覆性变革。"
+    },
+    {
+      "id": 20,
+      "title": "No AI Co-Authors. A Manifesto",
+      "titleCN": "Karpathy 发布 AI 写作宣言：严禁 AI 合著，捍卫人类创作底线",
+      "url": "https://no-ai-coauthors.dev",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-23T21:09:25.000Z",
+      "summary": "前特斯拉 AI 总监 Karpathy 公开声明拒绝 AI 辅助写作，引发关于技术伦理与创作自主权的激烈讨论，凸显顶尖专家对 AI 介入核心工作的警惕。"
+    }
+  ]
+}
