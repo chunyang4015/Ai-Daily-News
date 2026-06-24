@@ -1,0 +1,206 @@
+{
+  "date": "2026-06-25",
+  "lastUpdate": "2026-06-24T22:03:46.344Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "titleCN": "OpenAI 自研芯片首秀！联手 Broadcom 打造专属算力，AI 军备竞赛再升级",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-24T17:47:00.000Z",
+      "summary": "OpenAI 发布首款定制芯片，由 Broadcom 代工制造。此举标志着巨头从单纯采购转向垂直整合，旨在突破算力瓶颈并优化推理成本，重塑 AI 基础设施格局。"
+    },
+    {
+      "id": 2,
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "titleCN": "Karpathy 新作 RubyLLM 横空出世，一键打通各大 AI 厂商",
+      "url": "https://rubyllm.com/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-24T14:41:41.000Z",
+      "summary": "前特斯拉 AI 总监 Karpathy 发布 RubyLLM 框架，统一接口兼容主流大模型，旨在降低多模型集成门槛，引发开发者对 Ruby 复兴的热议。"
+    },
+    {
+      "id": 3,
+      "title": "For Most of the World, Open-Source AI Is the Only Way Forward",
+      "titleCN": "Karpathy断言：对全球而言，闭源AI已死，开源才是唯一出路",
+      "url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-24T14:50:22.000Z",
+      "summary": "AI先驱Karpathy直言闭源模式难以为继，开源模型正以透明度和可定制性碾压巨头垄断，重塑全球AI开发范式。"
+    },
+    {
+      "id": 4,
+      "title": "NSA lost access to Mythos amid Anthropic dispute",
+      "titleCN": "NSA因与Anthropic纠纷丢失Mythos访问权，AI安全合作现裂痕",
+      "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-24T11:45:47.000Z",
+      "summary": "NSA承认在与合作伙伴Anthropic的争议中失去对Mythos系统的访问权限，暴露出政府机构与私营AI巨头间数据安全协作的脆弱性，引发业界对关键基础设施管控权的担忧。"
+    },
+    {
+      "id": 5,
+      "title": "Computer use in Gemini 3.5 Flash",
+      "titleCN": "Gemini 3.5 Flash 支持 Computer Use，AI 直接操控电脑引发热议",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-24T17:21:34.000Z",
+      "summary": "Google 在 Gemini 3.5 Flash 中引入 Computer Use 功能，允许 AI 直接操作桌面应用。这一突破虽提升自动化效率，但也引发关于系统安全与权限控制的广泛担忧。"
+    },
+    {
+      "id": 6,
+      "title": "Big AI labs are hiring philosophers",
+      "titleCN": "AI大厂疯抢哲学家！Anthropic、OpenAI招哲学博士，重塑AI伦理底线",
+      "url": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-24T16:40:13.000Z",
+      "summary": "头部AI实验室密集招募哲学背景人才，试图从根源解决对齐难题。此举标志行业从纯技术竞赛转向价值观治理，引发关于AI安全边界的深度讨论。"
+    },
+    {
+      "id": 7,
+      "title": "Meet Your New Slack Coworker Claude",
+      "titleCN": "Anthropic Claude 正式入驻 Slack，AI 协作变天",
+      "url": "https://www.therundown.ai/p/meet-your-new-slack-coworker-claude",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-24T22:00:58.111Z",
+      "summary": "Anthropic 推出 Slack 集成，Claude 化身同事实时协作。此举标志 AI 深度嵌入工作流，重塑人机协同模式，引发行业对效率革命的关注。"
+    },
+    {
+      "id": 8,
+      "title": "Google S Nobel Winner Jumps To Anthropic",
+      "titleCN": "诺奖得主转投Anthropic！Google留不住顶尖大脑，AI格局再迎地震",
+      "url": "https://www.therundown.ai/p/google-s-nobel-winner-jumps-to-anthropic",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-24T22:00:58.111Z",
+      "summary": "Google诺贝尔奖得主跳槽Anthropic，凸显大厂人才争夺白热化。此举不仅削弱Google核心科研力量，更暗示Anthropic在学术资源与影响力上正快速逼近OpenAI。"
+    },
+    {
+      "id": 9,
+      "title": "Step Into Midjourney S Spa For A Body Scan",
+      "titleCN": "Midjourney 跨界搞事？推出 AI 身体扫描服务，隐私边界再引争议",
+      "url": "https://www.therundown.ai/p/step-into-midjourney-s-spa-for-a-body-scan",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-24T22:00:58.111Z",
+      "summary": "Midjourney 推出名为 'S Spa' 的身体扫描功能，引发用户对 AI 处理敏感生物数据的隐私担忧，行业对生成式 AI 伦理边界讨论加剧。"
+    },
+    {
+      "id": 10,
+      "title": "Cursor Officially Joins The Spacex Ai Machine",
+      "titleCN": "Cursor 正式加入 SpaceX AI 阵营，代码智能体迎最强背书",
+      "url": "https://www.therundown.ai/p/cursor-officially-joins-the-spacex-ai-machine",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-24T22:00:58.111Z",
+      "summary": "Cursor 宣布与 SpaceX AI 团队深度整合，标志着独立 AI 编程工具向巨头生态靠拢。此举或重塑开发者工作流，引发行业对工具链垄断的新一轮关注。"
+    },
+    {
+      "id": 11,
+      "title": "Anthropic Pulls Mythos Fable After U S Order",
+      "titleCN": "Anthropic 紧急下架 Mythos Fable！美政府施压，AI 合规再迎变天",
+      "url": "https://www.therundown.ai/p/anthropic-pulls-mythos-fable-after-u-s-order",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-24T22:00:58.111Z",
+      "summary": "Anthropic 因美国行政命令紧急撤回 Mythos Fable 项目，凸显地缘政治对 AI 研发的强力干预，行业合规风险陡增。"
+    },
+    {
+      "id": 12,
+      "title": "Anthropic Writes Washington An Ai Regulation Playbook",
+      "titleCN": "Anthropic 向华盛顿递交 AI 监管蓝图，欲重塑全球科技治理规则",
+      "url": "https://www.therundown.ai/p/anthropic-writes-washington-an-ai-regulation-playbook",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-24T22:00:58.111Z",
+      "summary": "Anthropic 发布详细政策建议，试图引导美国立法者制定更严格的 AI 安全标准，此举意在抢占行业道德高地，可能引发科技巨头间的监管博弈。"
+    },
+    {
+      "id": 13,
+      "title": "Mistral OCR 4: SOTA OCR for Document Intelligence",
+      "titleCN": "Mistral发布OCR 4：刷新文档智能SOTA，开源OCR迎来性能变天",
+      "url": "https://tldr.tech/tech/2026-06-25",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-06-24T22:00:57.618Z",
+      "summary": "Mistral推出OCR 4模型，在文档智能领域达到当前最优水平(SOTA)。该模型显著提升复杂文档解析精度，为开源生态注入强劲动力，有望重塑行业技术格局。"
+    },
+    {
+      "id": 14,
+      "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+      "titleCN": "AI 未能取代工程师？新数据揭示其竟是最抗跌职业",
+      "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-24T21:56:41.000Z",
+      "summary": "此前预言 AI 将淘汰工程岗位，但最新数据显示工程师反而最具韧性，彻底颠覆了技术替代焦虑，重塑职场安全感。"
+    },
+    {
+      "id": 15,
+      "title": "AI researchers continue to leave Google for its rivals",
+      "titleCN": "Google AI 人才流失加剧：研究员持续跳槽竞品，巨头护城河遭侵蚀",
+      "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-24T21:42:07.000Z",
+      "summary": "TechCrunch 报道指出，Google 核心 AI 研究人员正加速流向竞争对手。这一趋势不仅削弱了 Google 的研发实力，更折射出科技巨头间人才争夺战的白热化，行业格局面临重塑。"
+    },
+    {
+      "id": 16,
+      "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+      "titleCN": "员工滥用AI预算？大厂紧急封堵小任务刷单，AI消费乱象引关注",
+      "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-24T20:09:45.000Z",
+      "summary": "企业发现员工借AI执行琐碎工作导致账单激增，正紧急出台限制措施。这一现象暴露出当前AI成本管控的盲区，迫使科技公司重新审视内部治理策略。"
+    },
+    {
+      "id": 17,
+      "title": "Facebook rolls out an AI companion app for creators",
+      "titleCN": "Meta 推出 AI 伴侣 App，创作者生态迎重大变天",
+      "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-24T17:16:24.000Z",
+      "summary": "Facebook 正式向创作者推出专属 AI 伴侣应用，旨在通过智能化工具重塑内容创作流程。此举标志着 Meta 在 AI 辅助创作领域加速布局，引发行业对创作者经济未来形态的激烈讨论。"
+    },
+    {
+      "id": 18,
+      "title": "Figma adds code layers, support for animations, more AI features in new update",
+      "titleCN": "Figma 重磅更新：代码层与动画支持上线，AI 功能再升级",
+      "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-24T16:15:00.000Z",
+      "summary": "Figma 新增代码层及动画支持，强化 AI 辅助设计能力。此次更新旨在打通设计与开发壁垒，提升协作效率，引发开发者与设计社区广泛关注。"
+    },
+    {
+      "id": 19,
+      "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+      "titleCN": "MoEngage押注百万AI代理，营销界迎大变天",
+      "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-23T23:30:00.000Z",
+      "summary": "印度营销巨头MoEngage提出激进构想：未来营销将由数百万个AI Agent协同完成。此举旨在颠覆传统自动化流程，重塑人机协作边界，引发行业对营销范式转移的深度思考。"
+    },
+    {
+      "id": 20,
+      "title": "OmniHai: A Java framework for all major AI providers",
+      "titleCN": "Karpathy 新作 OmniHai：Java 统一接入主流 AI，打破大厂壁垒",
+      "url": "https://omnihai.org/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-24T21:49:12.000Z",
+      "summary": "前特斯拉 AI 总监 Karpathy 发布 OmniHai，旨在为 Java 生态提供统一接口对接各大主流 AI 提供商，降低集成复杂度，引发开发者对跨平台调用的关注。"
+    }
+  ]
+}
