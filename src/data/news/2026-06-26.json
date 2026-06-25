@@ -1,0 +1,206 @@
+{
+  "date": "2026-06-26",
+  "lastUpdate": "2026-06-25T22:03:36.741Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
+      "titleCN": "福特AI翻车被迫召回“老法师”质检员，自动驾驶神话破灭？",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-25T14:58:50.000Z",
+      "summary": "因AI检测频频出错，福特不得不重新雇佣经验丰富的“灰胡子”人工质检员。这一倒退举措暴露了当前工业AI在复杂场景下的可靠性短板，引发行业对自动化替代人工的深刻反思。"
+    },
+    {
+      "id": 2,
+      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "titleCN": "Karpathy 开源 OpenKnowledge，剑指 Notion/Obsidian，AI 笔记工具迎洗牌",
+      "url": "https://github.com/inkeep/open-knowledge",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-25T16:04:46.000Z",
+      "summary": "前特斯拉 AI 总监 Karpathy 推出开源 AI 原生笔记工具 OpenKnowledge，试图颠覆 Notion 与 Obsidian 市场。该工具强调以 AI 为核心重构知识管理，引发社区广泛关注。"
+    },
+    {
+      "id": 3,
+      "title": "Political bias in AI: Where the AI models stand",
+      "titleCN": "AI政治偏见大起底：谁更中立？评测结果引发轩然大波",
+      "url": "https://trakkr.ai/bias",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-25T13:08:31.000Z",
+      "summary": "最新研究揭示主流AI模型存在显著政治倾向，不同模型在自由派与保守派议题上表现迥异，引发关于算法中立性的激烈争论。"
+    },
+    {
+      "id": 4,
+      "title": "Openai Spicy New Custom Ai Chip",
+      "titleCN": "OpenAI 自研芯片炸裂登场！代号 Spicy，算力对决 Nvidia",
+      "url": "https://www.therundown.ai/p/openai-spicy-new-custom-ai-chip",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-25T22:00:54.841Z",
+      "summary": "OpenAI 发布自研定制 AI 芯片 Spicy，旨在降低训练成本并摆脱对 Nvidia 依赖。此举标志着巨头加速硬件垂直整合，AI 算力格局面临重塑。"
+    },
+    {
+      "id": 5,
+      "title": "Meet Your New Slack Coworker Claude",
+      "titleCN": "Anthropic Claude 正式入驻 Slack，AI 协作迎来新变天",
+      "url": "https://www.therundown.ai/p/meet-your-new-slack-coworker-claude",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-25T22:00:54.841Z",
+      "summary": "Anthropic 推出 Slack 集成，Claude 化身同事实时协作。此举加速 AI 融入工作流，但隐私与权限管理仍是行业关注焦点。"
+    },
+    {
+      "id": 6,
+      "title": "Google S Nobel Winner Jumps To Anthropic",
+      "titleCN": "诺奖得主跳槽Anthropic，Google AI 核心阵容遭重创",
+      "url": "https://www.therundown.ai/p/google-s-nobel-winner-jumps-to-anthropic",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-25T22:00:54.841Z",
+      "summary": "Google 诺贝尔奖得主突转投 Anthropic，引发业界对 Google AI 人才流失及竞争格局重塑的强烈关注，技术壁垒面临挑战。"
+    },
+    {
+      "id": 7,
+      "title": "Step Into Midjourney S Spa For A Body Scan",
+      "titleCN": "Midjourney 跨界搞事？推出 'S Spa' 身体扫描功能，AI 视觉体验再升级",
+      "url": "https://www.therundown.ai/p/step-into-midjourney-s-spa-for-a-body-scan",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-25T22:00:54.841Z",
+      "summary": "Midjourney 推出名为 'S Spa' 的新功能，主打身体扫描与视觉呈现。此举引发关注，标志着其在图像生成领域持续拓展应用场景，探索更具沉浸感的 AI 交互体验。"
+    },
+    {
+      "id": 8,
+      "title": "Cursor Officially Joins The Spacex Ai Machine",
+      "titleCN": "Cursor 正式加入 SpaceX AI 阵营，AI 编程工具巨头跨界硬核航天",
+      "url": "https://www.therundown.ai/p/cursor-officially-joins-the-spacex-ai-machine",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-25T22:00:54.841Z",
+      "summary": "Cursor 团队并入 SpaceX AI 部门，标志着通用编程助手向垂直领域深度渗透。这一动作暗示 AI 正在重塑底层研发流程，引发业界对技术融合边界的重新审视。"
+    },
+    {
+      "id": 9,
+      "title": "Anthropic Pulls Mythos Fable After U S Order",
+      "titleCN": "Anthropic 紧急下架 Mythos Fable，迫于美政府施压，AI 合规再迎变天",
+      "url": "https://www.therundown.ai/p/anthropic-pulls-mythos-fable-after-u-s-order",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-25T22:00:54.841Z",
+      "summary": "Anthropic 因美国行政命令紧急撤回 Mythos Fable 项目，凸显地缘政治对 AI 研发的强力干预，行业合规风险陡增，开发者需警惕政策不确定性。"
+    },
+    {
+      "id": 10,
+      "title": "What I'm Finding About LLM Code Style and Token Costs",
+      "titleCN": "Karpathy 揭秘：LLM 代码风格竟成 Token 成本杀手，优化空间惊人",
+      "url": "https://www.jimmont.com/llm-style-token-costs",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-25T00:52:40.000Z",
+      "summary": "前特斯拉 AI 总监 Karpathy 深入分析发现，代码风格显著影响 LLM 推理成本。不同写法导致 Token 消耗差异巨大，为开发者提供了通过规范编码降低算力的新视角。"
+    },
+    {
+      "id": 11,
+      "title": "Introducing Computer Use on Gemini 3.5 Flash",
+      "titleCN": "Google Gemini 3.5 Flash 首发 Computer Use，AI 操控电脑变天",
+      "url": "https://tldr.tech/tech/2026-06-26",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-06-25T22:00:54.392Z",
+      "summary": "Google 在 Gemini 3.5 Flash 中引入 Computer Use 功能，赋予大模型直接操作 GUI 的能力。此举标志着 AI 从被动响应转向主动执行，有望重塑人机交互范式，引发行业对自动化工作流的激烈关注。"
+    },
+    {
+      "id": 12,
+      "title": "OpenAI Leans Toward Waiting Until Next Year for IPO",
+      "titleCN": "IPO计划推迟至明年？OpenAI资本运作生变，估值逻辑面临重塑",
+      "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-25T20:36:05.000Z",
+      "summary": "OpenAI内部倾向将IPO延至明年，暗示其盈利模式或监管合规仍存变数。这一延迟可能引发市场对AI巨头商业化进度的重新评估，投资者情绪趋于谨慎。"
+    },
+    {
+      "id": 13,
+      "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+      "titleCN": "Patronus AI 狂揽 5000 万美元，打造 AI 智能体压力测试‘数字世界’",
+      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-25T20:19:25.000Z",
+      "summary": "Patronus AI 获 5000 万美元融资，旨在构建虚拟环境以全面压力测试 AI 智能体。此举直击当前 Agent 可靠性痛点，有望重塑 AI 安全评估标准。"
+    },
+    {
+      "id": 14,
+      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+      "titleCN": "ChatGPT 霸权松动？Anthropic Claude 付费用户激增，AI 市场格局生变",
+      "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-25T17:38:27.000Z",
+      "summary": "Anthropic 报告称 Claude 在付费消费者市场快速抢占份额，直接挑战 OpenAI 主导地位，标志着 AI 应用层竞争进入白热化阶段。"
+    },
+    {
+      "id": 15,
+      "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+      "titleCN": "豪掷23亿美元！General Intuition押注游戏训练AI，现实应用变天",
+      "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-25T16:55:00.000Z",
+      "summary": "General Intuition融资23亿美元，坚信电子游戏是训练AI智能体的最佳沙盒。此举旨在通过虚拟环境加速AI在现实世界的落地能力，重塑行业格局。"
+    },
+    {
+      "id": 16,
+      "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+      "titleCN": "前Databricks AI掌门人放话：要让AI能耗暴降1000倍",
+      "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-25T16:48:11.000Z",
+      "summary": "Databricks前AI负责人提出激进愿景，旨在通过技术革新将人工智能算力功耗压缩千倍，若成真将彻底重塑行业成本结构，引发广泛关注。"
+    },
+    {
+      "id": 17,
+      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+      "titleCN": "a16z 豪掷 1500 万美元押注 Netris，AI 基础设施洗牌加速",
+      "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-25T14:55:38.000Z",
+      "summary": "a16z 领投 Netris 1500 万美元 A 轮融资，旨在解决 AI 算力部署痛点，助力新兴 AI 云服务商快速上线，重塑底层基建格局。"
+    },
+    {
+      "id": 18,
+      "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+      "titleCN": "亚马逊豪掷130亿美元加码印度AI基建，全球算力版图再洗牌",
+      "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-25T12:00:38.000Z",
+      "summary": "亚马逊宣布在印度追加130亿美元投资AI基础设施，旨在巩固其在南亚市场的云服务主导地位，此举被视为对微软、谷歌等竞争对手的重大战略反击。"
+    },
+    {
+      "id": 19,
+      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+      "titleCN": "2026裁员潮：AI成雇主甩人借口，科技圈加速洗牌",
+      "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-25T21:55:14.000Z",
+      "summary": "HN汇总2026年大规模裁员名单，多家企业明确将AI自动化列为裁员主因。技术替代加速，职场焦虑加剧，行业格局面临深度重构。"
+    },
+    {
+      "id": 20,
+      "title": "The State of the AI Economy",
+      "titleCN": "AI经济变天？HN热帖揭示算力泡沫与盈利困局，巨头洗牌在即",
+      "url": "https://intelligence.exponentialview.co/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-25T21:43:47.000Z",
+      "summary": "HN热议AI经济现状，指出算力投入激增但盈利模式模糊，巨头面临估值泡沫破裂风险，行业正从疯狂扩张转向理性审视。"
+    }
+  ]
+}
