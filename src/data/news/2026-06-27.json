@@ -1,0 +1,206 @@
+{
+  "date": "2026-06-27",
+  "lastUpdate": "2026-06-26T22:03:20.158Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "titleCN": "OpenAI 发布 GPT-5.6 Sol 预览版，下一代模型架构曝光",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-26T17:06:55.000Z",
+      "summary": "OpenAI 正式公开 GPT-5.6 Sol 预览版，标志着其下一代模型架构进入视野。此举引发社区对性能突破及行业竞争格局变化的热烈讨论。"
+    },
+    {
+      "id": 2,
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "titleCN": "GPT-5.6 访问权由美国政府裁定，AI 监管再掀波澜",
+      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-26T18:23:14.000Z",
+      "summary": "美国政府将直接决定谁可使用 GPT-5.6，这一举措标志着 AI 技术进入强监管时代，引发关于技术垄断与安全控制的激烈讨论。"
+    },
+    {
+      "id": 3,
+      "title": "What happened after 2k people tried to hack my AI assistant",
+      "titleCN": "2000人围攻AI助手，Karpathy实测翻车还是封神？",
+      "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-26T02:29:23.000Z",
+      "summary": "Karpathy邀请2000名黑客测试其AI助手，结果暴露出严重安全漏洞与逻辑缺陷，引发开源社区对AI助手落地可行性的激烈争论。"
+    },
+    {
+      "id": 4,
+      "title": "AI children's books, body horror edition",
+      "titleCN": "AI绘本变恐怖故事？网友惊呼：这哪是童书，简直是心理阴影",
+      "url": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-26T01:15:14.000Z",
+      "summary": "AI生成的儿童绘本意外呈现身体恐怖元素，引发社区热议。技术失控背后的伦理争议升级，家长与开发者陷入两难。"
+    },
+    {
+      "id": 5,
+      "title": "US Govt to individually approve who gets GPT 5.6",
+      "titleCN": "GPT 5.6 获美国特批：政府将逐人审批访问权限，AI 监管再升级",
+      "url": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-26T06:24:39.000Z",
+      "summary": "美国政府对 OpenAI 最新旗舰模型实施严格管控，拟对 GPT 5.6 实行“一人一议”的单独审批制，标志着 AI 安全审查进入精细化阶段，引发业界对创新受限的担忧。"
+    },
+    {
+      "id": 6,
+      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+      "titleCN": "Cursor/Codex内置智能路由，告别多模型切换，AI编程体验彻底洗牌",
+      "url": "https://github.com/workweave/router",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-26T16:40:11.000Z",
+      "summary": "该功能允许在Claude、Codex及Cursor中直接进行模型智能路由，无需手动切换。这一集成大幅简化了工作流，标志着IDE内模型调度进入自动化新时代，效率与体验双重升级。"
+    },
+    {
+      "id": 7,
+      "title": "White House Reins In Openai Gpt 5 6",
+      "titleCN": "白宫紧急叫停GPT-5？OpenAI遭遇监管重压，AI发展节奏被迫急刹车",
+      "url": "https://www.therundown.ai/p/white-house-reins-in-openai-gpt-5-6",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-26T22:00:54.168Z",
+      "summary": "据The Rundown AI报道，白宫介入限制OpenAI GPT-5发布节奏，引发业界对AI监管收紧的担忧，OpenAI面临合规压力，技术迭代或因此放缓。"
+    },
+    {
+      "id": 8,
+      "title": "Openai Spicy New Custom Ai Chip",
+      "titleCN": "OpenAI 自研芯片炸裂登场！定制硬件加速推理，算力竞争再掀波澜",
+      "url": "https://www.therundown.ai/p/openai-spicy-new-custom-ai-chip",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-26T22:00:54.168Z",
+      "summary": "OpenAI 推出首款定制 AI 芯片，旨在优化推理效率并降低延迟。此举标志着其从单纯依赖 NVIDIA 转向垂直整合，引发业界对算力供应链重构的深度关注。"
+    },
+    {
+      "id": 9,
+      "title": "Meet Your New Slack Coworker Claude",
+      "titleCN": "Anthropic Claude 化身 Slack 同事，AI 协作进入实时对话时代",
+      "url": "https://www.therundown.ai/p/meet-your-new-slack-coworker-claude",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-26T22:00:54.168Z",
+      "summary": "Anthropic 推出 Slack 集成，Claude 直接嵌入工作流。AI 不再只是聊天框，而是能参与频道讨论的“同事”，重塑人机协作边界。"
+    },
+    {
+      "id": 10,
+      "title": "Google S Nobel Winner Jumps To Anthropic",
+      "titleCN": "诺奖得主跳槽Anthropic，Google AI 核心层遭重创，格局生变",
+      "url": "https://www.therundown.ai/p/google-s-nobel-winner-jumps-to-anthropic",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-26T22:00:54.168Z",
+      "summary": "Google 聘请的诺贝尔奖得主突然转投 Anthropic，此举不仅削弱 Google 在基础科研上的优势，更向市场释放强烈信号，AI 人才争夺战进入白热化阶段。"
+    },
+    {
+      "id": 11,
+      "title": "Step Into Midjourney S Spa For A Body Scan",
+      "titleCN": "Midjourney 推出 AI 身体扫描功能，S Spa 体验引爆视觉革命",
+      "url": "https://www.therundown.ai/p/step-into-midjourney-s-spa-for-a-body-scan",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-26T22:00:54.168Z",
+      "summary": "Midjourney 发布 S Spa 身体扫描工具，以高精度 AI 生成技术重塑数字人体表现，引发关于隐私与伦理的激烈讨论，AI 图像领域迎来新变局。"
+    },
+    {
+      "id": 12,
+      "title": "Cursor Officially Joins The Spacex Ai Machine",
+      "titleCN": "Cursor 正式加入 SpaceX AI 阵营，代码效率革命引发行业地震",
+      "url": "https://www.therundown.ai/p/cursor-officially-joins-the-spacex-ai-machine",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-26T22:00:54.168Z",
+      "summary": "Cursor 团队并入 SpaceX AI 部门，标志 AI 编程工具进入底层算力深水区。此举或重塑开发范式，引发业界对独立 AI 创业公司生存空间的深度担忧。"
+    },
+    {
+      "id": 13,
+      "title": "Introducing Computer Use on Gemini 3.5 Flash",
+      "titleCN": "Google Gemini 3.5 Flash 支持电脑操控，AI Agent 能力再升级",
+      "url": "https://tldr.tech/tech/2026-06-27",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-06-26T22:00:53.216Z",
+      "summary": "Google 发布 Gemini 3.5 Flash，新增 Computer Use 功能，使模型能直接操作桌面应用。此举标志着 AI Agent 向通用自动化迈出关键一步，引发业界对自主智能体落地应用的关注。"
+    },
+    {
+      "id": 14,
+      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+      "titleCN": "OpenAI 应政府要求紧急限流 GPT-5.6，称限制非常态",
+      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-26T18:32:14.000Z",
+      "summary": "OpenAI 响应政府请求暂停 GPT-5.6 全面推广，强调此类限制不应成为行业惯例，引发对 AI 监管边界的新一轮讨论。"
+    },
+    {
+      "id": 15,
+      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+      "titleCN": "OpenAI 挖角 Uber 印度高管，重兵布局非美最大市场",
+      "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-26T18:19:36.000Z",
+      "summary": "OpenAI 任命 Uber 印度前负责人执掌其海外最大业务，彰显对印度市场的极度重视。此举意在加速本土化落地，应对全球竞争，重塑非美市场格局。"
+    },
+    {
+      "id": 16,
+      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+      "titleCN": "从OpenAI到SpaceX集体自研芯片，Nvidia垄断地位迎最强挑战",
+      "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-26T17:43:22.000Z",
+      "summary": "科技巨头纷纷下场造芯以摆脱硬件依赖，直接冲击Nvidia市场统治力。这一趋势标志着算力供应链正经历深刻重构，英伟达的护城河面临前所未有的挤压。"
+    },
+    {
+      "id": 17,
+      "title": "It’s not about Anthropic vs. OpenAI anymore",
+      "titleCN": "Anthropic vs OpenAI时代终结？TechCrunch：AI格局彻底洗牌",
+      "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-26T16:24:47.000Z",
+      "summary": "TechCrunch指出两大巨头竞争已非焦点，行业进入新阶段。多方势力崛起重塑生态，单一对抗叙事失效，AI产业迎来深度整合与多元化竞争新常态。"
+    },
+    {
+      "id": 18,
+      "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
+      "titleCN": "OpenAI自研Jalapeño芯片，正式向Nvidia宣战，算力格局迎巨变",
+      "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-26T14:00:00.000Z",
+      "summary": "OpenAI推出自研Jalapeño芯片，标志着科技巨头加速摆脱对Nvidia的依赖。此举不仅降低算力成本，更将重塑AI基础设施竞争格局，引发行业震动。"
+    },
+    {
+      "id": 19,
+      "title": "AI audio translator with speech-to-text, LLM translation, and text-to-speech",
+      "titleCN": "开源神器！语音直译全链路打通，LLM加持让跨语言交流零延迟",
+      "url": "https://github.com/team-telnyx/telnyx-code-examples/tree/main/ai-content-translator-python",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-26T21:50:51.000Z",
+      "summary": "集成STT、LLM翻译与TTS技术，实现端到端语音实时互译。开源方案降低开发门槛，为全球化沟通提供高效低成本的技术支撑。"
+    },
+    {
+      "id": 20,
+      "title": "The AI-Run Business Index: measuring execution, not AI adoption",
+      "titleCN": "Karpathy 推出 AI 执行指数，拒绝盲目跟风，重新定义 AI 商业价值",
+      "url": "https://www.leapd.ai/resources/state-of-ai-run-businesses-2026",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-26T21:38:51.000Z",
+      "summary": "前特斯拉 AI 总监 Karpathy 发布新指数，聚焦企业实际落地执行而非单纯 adoption 率，直击当前 AI 泡沫痛点，引发行业对真实价值的深度反思。"
+    }
+  ]
+}
