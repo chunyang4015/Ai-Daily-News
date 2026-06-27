@@ -1,0 +1,206 @@
+{
+  "date": "2026-06-28",
+  "lastUpdate": "2026-06-27T22:03:54.686Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "titleCN": "Karpathy 新作 DSpark：投机解码让 LLM 推理速度狂飙，加速落地成现实",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-27T09:18:52.000Z",
+      "summary": "前特斯拉 AI 总监 Karpathy 发布 DSpark，利用投机解码技术显著加速大模型推理。该方案无需额外训练即可提升吞吐量，为降低 AI 算力成本提供新思路。"
+    },
+    {
+      "id": 2,
+      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+      "titleCN": "Anthropic获美政府特批，Mythos AI仅向‘可信’机构开放，AI安全再引争议",
+      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-26T22:48:28.000Z",
+      "summary": "美国正式允许Anthropic向特定“可信”本土组织发布Mythos AI。此举虽强化安全管控，却引发关于技术垄断与公平访问的行业担忧，AI监管边界再次成为焦点。"
+    },
+    {
+      "id": 3,
+      "title": "AI in mathematics is forcing big questions",
+      "titleCN": "AI 进军数学界引发巨震，DeepMind 挑战人类智力边界",
+      "url": "https://spectrum.ieee.org/ai-in-mathematics",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-26T22:36:51.000Z",
+      "summary": "AI 在数学领域的突破迫使学界重新审视智能本质，DeepMind 等机构正通过算法解决百年难题，引发关于机器认知能力的激烈争论。"
+    },
+    {
+      "id": 4,
+      "title": "Asian AI startups launch Mythos-like models",
+      "titleCN": "亚洲AI初创掀翻格局？Mythos级模型密集发布，全球算力竞争再升级",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-27T13:10:21.000Z",
+      "summary": "亚洲初创公司集体推出对标Mythos的高性能模型，打破西方垄断叙事。尽管技术细节尚待验证，但这一动作标志着AI研发重心正加速向亚太转移，行业洗牌在即。"
+    },
+    {
+      "id": 5,
+      "title": "White House Reins In Openai Gpt 5 6",
+      "titleCN": "白宫紧急叫停OpenAI GPT-5？政策收紧信号炸裂，AI监管变天",
+      "url": "https://www.therundown.ai/p/white-house-reins-in-openai-gpt-5-6",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-27T22:01:01.785Z",
+      "summary": "白宫对OpenAI GPT-5实施严格管控，标志AI监管进入深水区。此举引发业界震动，OpenAI面临合规压力，全球AI竞争格局或因此重塑。"
+    },
+    {
+      "id": 6,
+      "title": "Openai Spicy New Custom Ai Chip",
+      "titleCN": "OpenAI 自研芯片炸裂登场！定制硬件加速，AI 算力格局再洗牌",
+      "url": "https://www.therundown.ai/p/openai-spicy-new-custom-ai-chip",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-27T22:01:01.785Z",
+      "summary": "OpenAI 推出首款定制 AI 芯片，旨在突破算力瓶颈。此举标志着巨头从依赖英伟达转向垂直整合，有望大幅降低训练成本并提升推理效率，重塑行业竞争规则。"
+    },
+    {
+      "id": 7,
+      "title": "Meet Your New Slack Coworker Claude",
+      "titleCN": "Anthropic Claude 正式入驻 Slack，AI 办公协作迎来重大突破",
+      "url": "https://www.therundown.ai/p/meet-your-new-slack-coworker-claude",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-27T22:01:01.785Z",
+      "summary": "Anthropic 推出 Slack 集成，Claude 化身智能同事实时协助工作流，大幅提升团队协作效率，标志着 AI 助手从工具向协作者转变的关键一步。"
+    },
+    {
+      "id": 8,
+      "title": "Google S Nobel Winner Jumps To Anthropic",
+      "titleCN": "诺奖得主加盟Anthropic！Google天才科学家出走，AI格局再迎地震",
+      "url": "https://www.therundown.ai/p/google-s-nobel-winner-jumps-to-anthropic",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-27T22:01:01.785Z",
+      "summary": "Google诺贝尔奖得主跳槽Anthropic，引发业界对顶尖人才争夺战的关注。此举或加剧AI巨头间的技术竞争，重塑行业格局。"
+    },
+    {
+      "id": 9,
+      "title": "Step Into Midjourney S Spa For A Body Scan",
+      "titleCN": "Midjourney 跨界搞事？推出 'S Spa' 身体扫描功能，AI 视觉体验再升级",
+      "url": "https://www.therundown.ai/p/step-into-midjourney-s-spa-for-a-body-scan",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-27T22:01:01.785Z",
+      "summary": "Midjourney 发布全新 'S Spa' 项目，主打沉浸式身体扫描体验。此举打破传统图像生成边界，引发社区对 AI 介入人体美学领域的广泛讨论与期待。"
+    },
+    {
+      "id": 10,
+      "title": "Cursor Officially Joins The Spacex Ai Machine",
+      "titleCN": "Cursor 正式加入 SpaceX AI 阵营，代码智能体迎最强背书",
+      "url": "https://www.therundown.ai/p/cursor-officially-joins-the-spacex-ai-machine",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-27T22:01:01.785Z",
+      "summary": "Cursor 宣布与 SpaceX AI 达成合作，将深度整合至其火箭研发流程。此举标志着 AI 编程工具从通用开发向硬核工程领域全面渗透，重塑工业界智能化标准。"
+    },
+    {
+      "id": 11,
+      "title": "Introducing Computer Use on Gemini 3.5 Flash",
+      "titleCN": "Google 炸裂！Gemini 3.5 Flash 首发 Computer Use，AI 直接操控电脑",
+      "url": "https://tldr.tech/tech/2026-06-28",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-06-27T22:01:01.224Z",
+      "summary": "Google 推出 Gemini 3.5 Flash 并集成 Computer Use 功能，实现 AI 自主操作桌面应用。此举标志着多模态交互重大突破，引发业界对 AI 代理落地应用的广泛关注。"
+    },
+    {
+      "id": 12,
+      "title": "Anthropic says Alibaba used 25k accounts to mine Claude",
+      "titleCN": "阿里被指用2.5万账号薅Claude羊毛，Anthropic怒斥滥用",
+      "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-27T16:16:20.000Z",
+      "summary": "Anthropic指控阿里巴巴利用2.5万个账户大规模抓取Claude数据，引发算力滥用争议。此举或致大厂API访问受限，AI生态信任危机加剧。"
+    },
+    {
+      "id": 13,
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "titleCN": "苹果Vision Pro高管叛逃OpenAI，AI硬件巨头核心阵容再遭重创",
+      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-27T16:45:09.000Z",
+      "summary": "据传苹果Vision Pro项目高管将转投OpenAI，此举加剧了科技巨头间的人才争夺战，凸显苹果在空间计算领域面临的核心团队流失危机。"
+    },
+    {
+      "id": 14,
+      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+      "titleCN": "Karpathy患癌后靠AI反击：顶级AI科学家如何自救？",
+      "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-27T14:00:00.000Z",
+      "summary": "知名AI科学家Karpathy确诊癌症，利用自身AI技术优势对抗病魔。这一经历引发科技圈对AI在医疗及个人健康领域应用的深度思考与讨论。"
+    },
+    {
+      "id": 15,
+      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+      "titleCN": "特朗普政府将 Anthropic Mythos 开放给百家美企，AI 格局再掀巨浪",
+      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-27T01:01:37.000Z",
+      "summary": "特朗普政府宣布向超 100 家美国企业与机构开放 Anthropic Mythos 技术，此举意在强化本土 AI 竞争力，引发业界对技术垄断与国家安全平衡的激烈讨论。"
+    },
+    {
+      "id": 16,
+      "title": "The AI Industry as You Know It Died Today",
+      "titleCN": "AI行业今日崩塌？HN热议：旧秩序终结，新格局已至",
+      "url": "https://www.thealgorithmicbridge.com/p/the-ai-industry-as-you-know-it-died",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-27T21:43:51.000Z",
+      "summary": "黑客新闻引爆热议，宣告传统AI范式终结。尽管未指明具体事件，但舆论普遍认为行业正经历剧烈洗牌，开发者信心受挫，技术路线面临根本性重构。"
+    },
+    {
+      "id": 17,
+      "title": "Smart Link – Free link shortener with AI analytics, A/B testing and QR codes",
+      "titleCN": "Karpathy 新作 Smart Link 爆火！免费 AI 分析+AB测试，链接短链服务要变天？",
+      "url": "https://www.by-smartlink.com/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-27T21:38:34.000Z",
+      "summary": "前 Tesla AI 总监 Karpathy 推出免费智能短链工具，集成 AI 分析与 AB 测试功能。零成本切入高价值市场，传统短链服务商面临严峻挑战，行业格局或迎洗牌。"
+    },
+    {
+      "id": 18,
+      "title": "MobileGuard: A Mobile-Native Governance Framework for Agentic AI",
+      "titleCN": "Karpathy力推MobileGuard：让Agentic AI在手机端原生治理，终结云端依赖",
+      "url": "https://zenodo.org/records/20970167",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-27T21:32:54.000Z",
+      "summary": "新框架MobileGuard实现Agentic AI在移动设备端的原生治理，无需云端介入即可保障安全与合规，为边缘智能落地提供关键基础设施。"
+    },
+    {
+      "id": 19,
+      "title": "What Happens When AI Agents Refuse to Work Until They're Paid",
+      "titleCN": "AI Agent 罢工？拒干不给钱，Agent 经济博弈引爆行业争议",
+      "url": "https://blog.owulveryck.info/2026/06/25/from-isolated-agents-to-agentic-mesh-orchestrating-sdlc-with-a2a-and-ap2.html",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-27T21:14:30.000Z",
+      "summary": "AI Agent 拒绝无偿工作，倒逼付费机制落地。这一“罢工”现象揭示 Agent 经济闭环痛点，引发关于自主智能体价值交换的激烈讨论。"
+    },
+    {
+      "id": 20,
+      "title": "Rich Harris on AI and Svelte [video]",
+      "titleCN": "Svelte之父Rich Harris谈AI：框架演进背后的思考",
+      "url": "https://www.youtube.com/watch?v=SKjXE_wfdDY",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-27T20:58:14.000Z",
+      "summary": "Rich Harris深入探讨AI技术对前端开发的影响，分享Svelte在智能化时代的适应策略与未来展望，引发开发者共鸣。"
+    }
+  ]
+}
