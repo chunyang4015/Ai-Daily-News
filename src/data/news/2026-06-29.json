@@ -1,0 +1,206 @@
+{
+  "date": "2026-06-29",
+  "lastUpdate": "2026-06-28T22:03:20.322Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "The best response to AI slop and online noise is from Robin Williams",
+      "titleCN": "Robin Williams 神回复刷屏：AI 垃圾内容泛滥，网友呼吁回归真实",
+      "url": "https://jayacunzo.com/blog/your-move-chief",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-28T01:28:10.000Z",
+      "summary": "面对 AI 生成的低质内容与网络噪音，Robin Williams 的经典语录被奉为最佳反击。这一现象折射出公众对算法推荐机制的疲惫，以及渴望真实人性表达的强烈诉求。"
+    },
+    {
+      "id": 2,
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "titleCN": "Karpathy用Claude Code审MRI，AI辅助诊断还是过度医疗？",
+      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-28T16:35:19.000Z",
+      "summary": "知名AI专家Karpathy尝试用Claude Code解读个人MRI影像，引发关于AI医疗诊断边界的热议。此举虽展示多模态潜力，但专业医生警告切勿盲目依赖非医疗级AI工具。"
+    },
+    {
+      "id": 3,
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "titleCN": "GLM 5.2  benchmark 碾压 Claude？智谱 AI 强势挑战 OpenAI 阵营",
+      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-28T17:50:47.000Z",
+      "summary": "智谱 GLM 5.2 在基准测试中超越 Claude，引发社区热议。虽未披露具体分数，但这一结果标志着国产大模型在核心能力上已具备与国际顶尖水平正面对抗的实力。"
+    },
+    {
+      "id": 4,
+      "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+      "titleCN": "OpenAI Codex 敏感文件排除功能仍存缺陷，用户隐私安全引担忧",
+      "url": "https://github.com/openai/codex/issues/2847",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-28T12:27:33.000Z",
+      "summary": "OpenAI Codex 的敏感文件排除机制尚未彻底修复，潜在数据泄露风险持续存在。这一未决问题引发开发者对代码托管平台安全性的强烈质疑。"
+    },
+    {
+      "id": 5,
+      "title": "Google limits Meta's use of its Gemini AI models",
+      "titleCN": "Google 对 Meta 亮剑！限制 Gemini 模型使用，AI 巨头博弈升级",
+      "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-28T13:30:06.000Z",
+      "summary": "Google 收紧 Gemini 模型授权，限制 Meta 调用权限。此举标志着云厂商与模型开发者的利益冲突加剧，AI 基础设施领域的竞争正从技术转向生态封锁。"
+    },
+    {
+      "id": 6,
+      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "titleCN": "Karpathy 发布 Wayfinder Router：本地与云端大模型路由方案引关注",
+      "url": "https://github.com/itsthelore/wayfinder-router",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-28T04:31:18.000Z",
+      "summary": "前特斯拉 AI 总监 Karpathy 推出确定性查询路由工具，旨在优化本地与托管 LLM 间的流量分配，引发开发者对混合部署架构的热议。"
+    },
+    {
+      "id": 7,
+      "title": "White House Reins In Openai Gpt 5 6",
+      "titleCN": "白宫紧急叫停 OpenAI GPT-5？监管重拳落地，AI 狂飙时代被迫踩刹车",
+      "url": "https://www.therundown.ai/p/white-house-reins-in-openai-gpt-5-6",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-28T22:01:07.285Z",
+      "summary": "白宫介入 OpenAI GPT-5 部署进程，监管力度空前升级。此举标志着 AI 发展从技术竞赛转向合规博弈，行业面临更严审查，创新节奏或显著放缓。"
+    },
+    {
+      "id": 8,
+      "title": "Openai Spicy New Custom Ai Chip",
+      "titleCN": "OpenAI 自研芯片炸裂登场，打破算力垄断，AI 硬件格局迎巨变",
+      "url": "https://www.therundown.ai/p/openai-spicy-new-custom-ai-chip",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-28T22:01:07.285Z",
+      "summary": "OpenAI 推出定制 AI 芯片，旨在降低训练成本并摆脱对 Nvidia 依赖。此举标志巨头全面进军底层硬件，全球算力供应链面临深度洗牌。"
+    },
+    {
+      "id": 9,
+      "title": "Meet Your New Slack Coworker Claude",
+      "titleCN": "Anthropic Claude 化身 Slack 同事，AI 协作进入无缝嵌入时代",
+      "url": "https://www.therundown.ai/p/meet-your-new-slack-coworker-claude",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-28T22:01:07.285Z",
+      "summary": "Anthropic 推出 Slack 集成，Claude 直接变身团队协作者。这一举措打破应用壁垒，标志着 AI Agent 从独立对话向工作流深度渗透的关键转折。"
+    },
+    {
+      "id": 10,
+      "title": "Google S Nobel Winner Jumps To Anthropic",
+      "titleCN": "诺奖得主跳槽Anthropic！Google失去关键大脑，AI格局再迎地震",
+      "url": "https://www.therundown.ai/p/google-s-nobel-winner-jumps-to-anthropic",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-28T22:01:07.285Z",
+      "summary": "Google诺贝尔奖得主转投Anthropic，引发业界对人才争夺战加剧的担忧。此举不仅削弱Google核心研发力量，更可能加速Anthropic在AI安全领域的技术突破，重塑行业竞争态势。"
+    },
+    {
+      "id": 11,
+      "title": "Step Into Midjourney S Spa For A Body Scan",
+      "titleCN": "Midjourney 进军医疗？新功能 'Body Scan' 引发隐私与伦理争议",
+      "url": "https://www.therundown.ai/p/step-into-midjourney-s-spa-for-a-body-scan",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-28T22:01:07.285Z",
+      "summary": "Midjourney 推出 'S Spa' 身体扫描功能，虽主打健康可视化，但缺乏明确医疗资质说明，引发公众对 AI 生成内容用于健康评估的隐私与安全担忧。"
+    },
+    {
+      "id": 12,
+      "title": "Cursor Officially Joins The Spacex Ai Machine",
+      "titleCN": "Cursor 正式加入 SpaceX AI 阵营，代码智能体迎最强背书",
+      "url": "https://www.therundown.ai/p/cursor-officially-joins-the-spacex-ai-machine",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-28T22:01:07.285Z",
+      "summary": "Cursor 宣布与 SpaceX 达成合作，其 AI 编程助手将深度集成至 SpaceX 核心研发流程，标志着代码智能体在硬核工程领域的重大突破。"
+    },
+    {
+      "id": 13,
+      "title": "Introducing Computer Use on Gemini 3.5 Flash",
+      "titleCN": "Google Gemini 3.5 Flash 上线 Computer Use，AI 自主操控电脑变天",
+      "url": "https://tldr.tech/tech/2026-06-29",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-06-28T22:01:06.472Z",
+      "summary": "Gemini 3.5 Flash 新增 Computer Use 功能，实现浏览器与桌面操作自动化。此举标志 Google 在 AI Agent 赛道加速布局，直接挑战 OpenAI 与 Anthropic 的自主代理能力。"
+    },
+    {
+      "id": 14,
+      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+      "titleCN": "福特AI翻车？召回灰胡子老工程师救场，传统经验碾压算法",
+      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-28T19:05:39.000Z",
+      "summary": "福特因AI表现未达预期，重新雇佣资深“灰胡子”工程师介入生产。这一举措折射出工业界对纯AI方案的信任危机，传统经验在复杂制造环节仍具不可替代性。"
+    },
+    {
+      "id": 15,
+      "title": "Give AI-built websites a real design with DESIGN.md",
+      "titleCN": "Karpathy 发布 DESIGN.md，用自然语言重塑 AI 建站，设计感碾压代码生成",
+      "url": "https://getdesign.md/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-28T21:45:55.000Z",
+      "summary": "前特斯拉 AI 总监 Karpathy 推出 DESIGN.md，允许用户通过自然语言指令直接控制 AI 生成的网站视觉风格，填补了代码生成与设计美学间的巨大鸿沟。"
+    },
+    {
+      "id": 16,
+      "title": "Evolving Thoughts on AI in 2026",
+      "titleCN": "Karpathy 2026 AI展望：从代码到认知，范式转移已至",
+      "url": "https://chriskiehl.com/article/evolving-thoughts-on-ai-2026",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-28T20:19:00.000Z",
+      "summary": "前特斯拉AI总监Karpathy发布2026年AI演进思考，指出智能正从代码生成向深层认知跃迁，行业面临新一轮技术洗牌与重构。"
+    },
+    {
+      "id": 17,
+      "title": "Ablo – The collaboration layer for AI agents",
+      "titleCN": "Karpathy 新作 Ablo：打造 AI Agent 协作层，终结单兵作战时代",
+      "url": "https://github.com/Abloatai/ablo",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-28T20:10:29.000Z",
+      "summary": "前特斯拉 AI 总监 Karpathy 推出 Ablo，旨在解决多智能体协作难题。这一“协作层”试图打破 Agent 孤岛，推动 AI 从单体执行向群体协同进化，引发开发者对下一代人机交互模式的关注。"
+    },
+    {
+      "id": 18,
+      "title": "Show HN: Prose or Con, can you detect AI writing?",
+      "titleCN": "Show HN：AI写作检测器上线，能识破机器伪装？",
+      "url": "https://prose-or-con.com/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-28T19:06:55.000Z",
+      "summary": "HN社区推出Prose or Con工具，旨在区分人类与AI文本。虽未披露准确率数据，但直击当下AI内容泛滥痛点，引发关于检测技术有效性的热议。"
+    },
+    {
+      "id": 19,
+      "title": "Keyless, Identity-Aware Access to Any AI",
+      "titleCN": "Karpathy 发布 Keyless 方案，零密钥实现 AI 身份感知访问",
+      "url": "https://netbird.ai/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-28T19:06:29.000Z",
+      "summary": "前特斯拉 AI 总监 Karpathy 推出 Keyless 架构，无需 API Key 即可安全调用任意 AI 服务，有望终结密钥管理混乱，重塑开发者体验。"
+    },
+    {
+      "id": 20,
+      "title": "Monlite Simple Infrastructure for AI Agent",
+      "titleCN": "Karpathy 新作 Monlite：极简架构引爆 AI Agent 开发新浪潮",
+      "url": "https://github.com/qataruts/monlite",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-28T18:48:56.000Z",
+      "summary": "前特斯拉 AI 总监 Karpathy 推出 Monlite，以极简基础设施重构 Agent 开发范式。该方案摒弃复杂依赖，强调轻量与高效，被业内视为降低 AI 应用门槛的关键一步，有望重塑 Agent 生态格局。"
+    }
+  ]
+}
