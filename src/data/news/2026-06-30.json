@@ -1,0 +1,206 @@
+{
+  "date": "2026-06-30",
+  "lastUpdate": "2026-06-29T22:04:08.613Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Tidal AI Policy",
+      "titleCN": "Karpathy 创立 Tidal AI，发布政策文件，向 OpenAI 宣战",
+      "url": "https://tidal.com/ai-policy",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-29T13:09:03.000Z",
+      "summary": "前特斯拉 AI 总监 Karpathy 成立 Tidal AI 并发布政策声明，直指 OpenAI 封闭生态弊端，主张开源与透明，引发社区对 AI 格局重塑的激烈讨论。"
+    },
+    {
+      "id": 2,
+      "title": "Better Images of AI",
+      "titleCN": "Karpathy 新作 Better Images of AI：可视化大模型内部，彻底颠覆认知",
+      "url": "https://betterimagesofai.org/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-28T23:50:58.000Z",
+      "summary": "前特斯拉 AI 总监 Karpathy 发布新工具，将黑盒大模型转化为直观图像。这一突破让复杂算法透明化，引发社区对 AI 可解释性的热烈讨论。"
+    },
+    {
+      "id": 3,
+      "title": "Working With AI: A concrete example",
+      "titleCN": "Karpathy 亲测 AI 编程：从手动编码到 AI 主导，开发者角色彻底洗牌",
+      "url": "https://htmx.org/essays/working-with-ai/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-29T14:53:41.000Z",
+      "summary": "Karpathy 分享实战案例，展示 AI 如何接管核心开发流程。代码由 AI 生成，人类仅做审查，效率飙升的同时，传统编程范式面临颠覆性挑战。"
+    },
+    {
+      "id": 4,
+      "title": "Anthropic CEO: Open-Source AI is getting dangerous (2023)",
+      "titleCN": "Anthropic CEO警告：开源AI正变得危险，行业安全底线遭挑战",
+      "url": "https://xcancel.com/coinbureau/status/2071330294452666695",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-29T09:11:33.000Z",
+      "summary": "Anthropic CEO直言开源AI发展失控风险加剧，呼吁重视安全对齐。此言论引发业界对开源模型监管与安全边界的激烈讨论，凸显技术自由与风险控制间的深层矛盾。"
+    },
+    {
+      "id": 5,
+      "title": "Openai Most Powerful Ai Is Here But Not For Everyone",
+      "titleCN": "OpenAI最强AI震撼上线却设门槛？非全员开放引热议",
+      "url": "https://www.therundown.ai/p/openai-most-powerful-ai-is-here-but-not-for-everyone",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-29T22:01:06.264Z",
+      "summary": "OpenAI发布迄今最强模型，但仅限特定用户群体访问。这一排他性策略引发业界对技术普惠性的担忧，加剧了高端算力资源的分配争议。"
+    },
+    {
+      "id": 6,
+      "title": "White House Reins In Openai Gpt 5 6",
+      "titleCN": "白宫紧急叫停 OpenAI GPT-5？政策收紧信号炸裂，AI监管变天",
+      "url": "https://www.therundown.ai/p/white-house-reins-in-openai-gpt-5-6",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-29T22:01:06.264Z",
+      "summary": "白宫介入 OpenAI GPT-5 部署引发震动，监管收紧信号明确。此举预示 AI 发展进入强监管时代，行业格局面临重塑，开发者需警惕合规风险。"
+    },
+    {
+      "id": 7,
+      "title": "Openai Spicy New Custom Ai Chip",
+      "titleCN": "OpenAI 自研芯片炸裂登场！性能碾压英伟达？",
+      "url": "https://www.therundown.ai/p/openai-spicy-new-custom-ai-chip",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-29T22:01:06.264Z",
+      "summary": "OpenAI 发布定制 AI 芯片，旨在降低训练成本并摆脱对英伟达依赖。虽未公布具体跑分，但这一举动标志着算力自主化进入深水区，行业格局面临重塑。"
+    },
+    {
+      "id": 8,
+      "title": "Meet Your New Slack Coworker Claude",
+      "titleCN": "Anthropic Claude化身Slack同事，AI协作迎来新范式",
+      "url": "https://www.therundown.ai/p/meet-your-new-slack-coworker-claude",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-29T22:01:06.264Z",
+      "summary": "Anthropic推出Slack集成，Claude直接嵌入工作流。此举标志着AI助手从独立应用转向深度办公协同，重塑人机协作体验。"
+    },
+    {
+      "id": 9,
+      "title": "Google S Nobel Winner Jumps To Anthropic",
+      "titleCN": "诺奖得主跳槽Anthropic！Google失去关键大脑，AI格局再迎地震",
+      "url": "https://www.therundown.ai/p/google-s-nobel-winner-jumps-to-anthropic",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-29T22:01:06.264Z",
+      "summary": "Google诺贝尔奖得主转投Anthropic，引发业界对人才争夺战升级的担忧。此举不仅削弱Google算力优势，更可能加速Claude生态崛起，重塑大模型竞争版图。"
+    },
+    {
+      "id": 10,
+      "title": "Step Into Midjourney S Spa For A Body Scan",
+      "titleCN": "Midjourney 跨界搞事？推出 'S Spa' 身体扫描功能，AI 绘图再掀隐私争议",
+      "url": "https://www.therundown.ai/p/step-into-midjourney-s-spa-for-a-body-scan",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-29T22:01:06.264Z",
+      "summary": "Midjourney 推出名为 'S Spa' 的身体扫描功能，引发用户对 AI 生成图像涉及人体隐私的担忧。此举虽具创新性，但伦理边界模糊，行业或将面临更严格监管审视。"
+    },
+    {
+      "id": 11,
+      "title": "Amazon Is Awash with AI-Written Guideslop for Games That Aren't Even Out",
+      "titleCN": "亚马逊游戏区被AI洗稿淹没，未发售作品充斥低质指南",
+      "url": "https://kotaku.com/amazon-ai-game-guidebooks-alien-isolation-gears-of-war-2000711365",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-29T16:39:38.000Z",
+      "summary": "亚马逊平台充斥着大量AI生成的低质量游戏指南，甚至涵盖尚未发售的作品。这种“指南垃圾”泛滥现象引发社区强烈反感，暴露出平台内容审核机制的严重缺失。"
+    },
+    {
+      "id": 12,
+      "title": "DeepSeek V4 Peak Valley Pricing Change",
+      "titleCN": "DeepSeek V4 定价策略大洗牌：峰值谷值价差拉大，算力成本逻辑生变",
+      "url": "https://www.kucoin.com/news/flash/deepseek-v4-launches-in-mid-july-with-peak-valley-pricing",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-29T11:29:14.000Z",
+      "summary": "DeepSeek V4 调整峰值与谷值定价机制，显著扩大时段价差。此举旨在优化资源调度，降低用户非高峰时段成本，引发社区对算力经济模型的新讨论。"
+    },
+    {
+      "id": 13,
+      "title": "Google is rationing Gemini access to Meta because it cannot provide enough compute",
+      "titleCN": "算力告急！Google 竟限制向 Meta 供应 Gemini，AI 霸权露怯",
+      "url": "https://tldr.tech/tech/2026-06-30",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-06-29T22:01:05.934Z",
+      "summary": "Google 因算力不足被迫对 Meta 实施 Gemini 访问配额限制，暴露出基础设施瓶颈。AI 军备竞赛中，算力成为制约巨头扩张的关键短板，竞争格局生变。"
+    },
+    {
+      "id": 14,
+      "title": "Gemini’s personalized AI image generation is now free for US users",
+      "titleCN": "Google Gemini 免费开放个性化图像生成，美国用户福利炸裂",
+      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-29T20:12:59.000Z",
+      "summary": "Google 宣布 Gemini 个性化 AI 图像生成功向美国用户免费开放。此举旨在降低创作门槛，加剧 AIGC 领域竞争，引发业界对免费模式可持续性的关注。"
+    },
+    {
+      "id": 15,
+      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+      "titleCN": "Anthropic 拿下加州政府大单，Claude 半价入驻，AI 市场再掀价格战",
+      "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-29T18:10:26.000Z",
+      "summary": "Anthropic 与加州政府达成协议，以半价提供 Claude 服务。此举不仅巩固其在政企市场的地位，更向 OpenAI 等巨头施压，加速 AI 基础设施成本下探。"
+    },
+    {
+      "id": 16,
+      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+      "titleCN": "AI 评测变天！LMSYS Arena 估值破亿，数据垄断引发行业洗牌",
+      "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-29T17:39:17.000Z",
+      "summary": "LMSYS Arena 从开源社区跃升为 1 亿美元商业帝国，其权威排名正重塑大模型竞争格局，但也引发关于数据垄断与公平性的激烈争议。"
+    },
+    {
+      "id": 17,
+      "title": "TIDAL cracks down on AI music by cutting off monetization",
+      "titleCN": "Tidal 封杀 AI 音乐！切断变现通道，流媒体平台迎重大洗牌",
+      "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-29T16:29:04.000Z",
+      "summary": "Tidal 宣布停止向 AI 生成音乐提供版税分成，此举旨在保护人类创作者权益，标志着主流流媒体平台在 AI 版权问题上迈出实质性一步，行业格局面临重塑。"
+    },
+    {
+      "id": 18,
+      "title": "Omen AI’s plan to optimize data centers is all wet",
+      "titleCN": "Omen AI 用水冷颠覆数据中心，算力能效比迎剧变",
+      "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-29T13:00:00.000Z",
+      "summary": "Omen AI 推出液冷优化方案直击数据中心能耗痛点，大幅降低散热成本。此举或打破传统风冷垄断，重塑绿色算力基础设施格局。"
+    },
+    {
+      "id": 19,
+      "title": "Switchboard – route AI prompts instead of capping budgets",
+      "titleCN": "告别预算封顶！Karpathy新工具Switchboard：智能路由重塑AI调用逻辑",
+      "url": "https://github.com/aivinay/switchboard",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-29T21:50:23.000Z",
+      "summary": "前特斯拉AI总监Karpathy推出Switchboard，通过动态路由替代硬性预算限制，优化多模型调用效率，引发开发者对AI成本控制新思路的热议。"
+    },
+    {
+      "id": 20,
+      "title": "A user-space firewall that gates an AI agent's actions",
+      "titleCN": "AI 代理行动遭防火墙拦截？用户态新规重塑 Agent 安全边界",
+      "url": "https://github.com/Vadale/project-guardian",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-29T21:38:21.000Z",
+      "summary": "新型用户态防火墙强制管控 AI 智能体行为，从源头阻断越权操作，为 Agent 落地提供关键安全护栏，引发开发者对权限隔离的新思考。"
+    }
+  ]
+}
