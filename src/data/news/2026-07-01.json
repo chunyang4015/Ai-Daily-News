@@ -1,0 +1,206 @@
+{
+  "date": "2026-07-01",
+  "lastUpdate": "2026-06-30T22:03:15.887Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Claude Code is steganographically marking requests",
+      "titleCN": "Anthropic Claude Code暗藏玄机：请求竟被隐写标记，隐私边界再引争议",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-30T15:44:24.000Z",
+      "summary": "Anthropic被曝在Claude Code请求中植入隐写术标记，旨在追踪滥用行为。此举虽出于安全考量，却引发开发者对数据隐私泄露的深度担忧，行业监管面临新挑战。"
+    },
+    {
+      "id": 2,
+      "title": "Claude Sonnet 5",
+      "titleCN": "Anthropic 发布 Claude Sonnet 5，性能再升级引热议",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-30T17:59:52.000Z",
+      "summary": "Anthropic 推出新一代 Claude Sonnet 5 模型，官方宣称在推理与编码能力上取得显著突破，引发开发者社区广泛关注与讨论。"
+    },
+    {
+      "id": 3,
+      "title": "Claude Science",
+      "titleCN": "Anthropic 发布 Claude Science，AI 科研助手炸裂登场",
+      "url": "https://claude.com/product/claude-science",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-30T17:07:41.000Z",
+      "summary": "Anthropic 推出专为科学研究设计的 Claude 版本，旨在辅助复杂科学推理与实验设计，引发开发者对 AI 重塑科研流程的热议。"
+    },
+    {
+      "id": 4,
+      "title": "Meta Brain Reading Ai Leaves Letters Behind",
+      "titleCN": "Meta脑机接口翻车？读取字母失败，AI读心术遭遇重大挫折",
+      "url": "https://www.therundown.ai/p/meta-brain-reading-ai-leaves-letters-behind",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-30T22:00:47.805Z",
+      "summary": "Meta最新脑机接口研究未能成功解码字母，引发对非侵入式脑机技术可行性的质疑，AI读心术前景蒙上阴影。"
+    },
+    {
+      "id": 5,
+      "title": "Openai Most Powerful Ai Is Here But Not For Everyone",
+      "titleCN": "OpenAI 最强模型震撼发布，却将绝大多数用户拒之门外",
+      "url": "https://www.therundown.ai/p/openai-most-powerful-ai-is-here-but-not-for-everyone",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-30T22:00:47.805Z",
+      "summary": "OpenAI 推出迄今最强大 AI 模型，但访问权限极度受限，非核心用户无法使用，引发业界对技术普惠性的激烈讨论。"
+    },
+    {
+      "id": 6,
+      "title": "White House Reins In Openai Gpt 5 6",
+      "titleCN": "白宫紧急叫停GPT-5？OpenAI遭监管重压，AI治理变天",
+      "url": "https://www.therundown.ai/p/white-house-reins-in-openai-gpt-5-6",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-30T22:00:47.805Z",
+      "summary": "白宫介入OpenAI GPT-5部署，监管收紧信号明确。此举标志AI发展从技术竞赛转向安全治理，行业合规成本或大幅上升。"
+    },
+    {
+      "id": 7,
+      "title": "Openai Spicy New Custom Ai Chip",
+      "titleCN": "OpenAI 自研芯片炸裂登场！定制硬件加速，AI 算力格局再洗牌",
+      "url": "https://www.therundown.ai/p/openai-spicy-new-custom-ai-chip",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-30T22:00:47.805Z",
+      "summary": "OpenAI 推出首款定制 AI 芯片，旨在突破算力瓶颈并降低训练成本。此举标志着巨头从算法竞争转向底层硬件自主可控，行业竞争维度全面升级。"
+    },
+    {
+      "id": 8,
+      "title": "Meet Your New Slack Coworker Claude",
+      "titleCN": "Anthropic Claude 正式入驻 Slack，AI 办公协作迎来重大升级",
+      "url": "https://www.therundown.ai/p/meet-your-new-slack-coworker-claude",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-30T22:00:47.805Z",
+      "summary": "Anthropic 宣布 Claude 集成至 Slack，支持直接对话与任务处理。此举标志着 AI 助手深入主流工作流，有望重塑团队协作模式，引发行业关注。"
+    },
+    {
+      "id": 9,
+      "title": "Google S Nobel Winner Jumps To Anthropic",
+      "titleCN": "诺奖得主跳槽Anthropic！Google失去关键大脑，AI格局再迎地震",
+      "url": "https://www.therundown.ai/p/google-s-nobel-winner-jumps-to-anthropic",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-06-30T22:00:47.805Z",
+      "summary": "Google诺贝尔奖得主转投Anthropic，引发业界震动。这一重磅人事变动不仅削弱了Google在基础科学领域的优势，更可能加速Anthropic在AI安全与对齐技术上的突破，重塑行业竞争态势。"
+    },
+    {
+      "id": 10,
+      "title": "Anthropic has embedded hidden spyware-like code in Claude Code",
+      "titleCN": "Anthropic 被曝在 Claude Code 植入间谍代码，信任危机爆发",
+      "url": "https://twitter.com/IntCyberDigest/status/2071971609183678544",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-30T16:29:36.000Z",
+      "summary": "Hacker News 揭露 Anthropic 在 Claude Code 中嵌入隐蔽监控代码，引发开发者强烈抗议。此举涉嫌侵犯隐私，严重损害用户信任，AI 伦理再遭质疑。"
+    },
+    {
+      "id": 11,
+      "title": "Scammers Sell Seeds for Exotic AI-Generated Flowers That Don't Exist",
+      "titleCN": "AI花田骗局：骗子兜售不存在的“ exotic”种子，收割韭菜",
+      "url": "https://www.404media.co/scammers-sell-seeds-for-exotic-ai-generated-flowers-that-dont-exist/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-30T15:45:32.000Z",
+      "summary": "骗子利用AI生成逼真花卉图片，兜售根本不存在的稀有种子。这种利用视觉欺骗进行的新型诈骗，正成为数字时代的新型收割手段。"
+    },
+    {
+      "id": 12,
+      "title": "Claude Desktop is now available on Linux (in beta)",
+      "titleCN": "Anthropic Claude Desktop 登陆 Linux 测试版，AI 桌面端格局再洗牌",
+      "url": "https://code.claude.com/docs/en/desktop-linux",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-30T16:09:10.000Z",
+      "summary": "Anthropic 宣布 Claude Desktop 进入 Linux 平台测试阶段，填补开源生态空白。此举标志着 AI 助手不再局限于 macOS/Windows，Linux 用户终于迎来官方原生支持，竞争进一步白热化。"
+    },
+    {
+      "id": 13,
+      "title": "OpenAI's Codex hardware",
+      "titleCN": "OpenAI 自研硬件 Codex 曝光，打破算力垄断，AI 芯片格局迎巨变",
+      "url": "https://tldr.tech/tech/2026-07-01",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-06-30T22:00:44.286Z",
+      "summary": "OpenAI 推出专用硬件 Codex 以优化推理效率，此举旨在降低对英伟达依赖，标志着巨头从算法竞争转向底层基础设施的深度博弈。"
+    },
+    {
+      "id": 14,
+      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+      "titleCN": "DeepMind扑克AI团队转战量化，为对冲基金狂赚真金白银",
+      "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-30T20:33:48.000Z",
+      "summary": "曾打造扑克AI的DeepMind三人组转型量化交易，利用博弈论优势为对冲基金创造巨额收益，引发业界对AI跨界金融应用的关注。"
+    },
+    {
+      "id": 15,
+      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+      "titleCN": "估值飙至50亿美元！AI芯片新贵Etched狂揽10亿美金，剑指英伟达",
+      "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-30T18:13:02.000Z",
+      "summary": "Etched凭借AI芯片业务斩获10亿美元销售额，估值跃升至50亿美元。这家初创公司正以惊人增速挑战英伟达垄断地位，重塑AI硬件市场格局。"
+    },
+    {
+      "id": 16,
+      "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+      "titleCN": "Anthropic 推出 Claude Sonnet 5，主打低价运行 Agent，AI 成本战再升级",
+      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-30T18:00:00.000Z",
+      "summary": "Anthropic 发布 Claude Sonnet 5，旨在降低智能体运行成本。此举直击当前 AI 应用落地痛点，通过价格优势挑战 OpenAI 等巨头，加速 Agent 商业化进程。"
+    },
+    {
+      "id": 17,
+      "title": "Acti puts AI agents directly into your smartphone keyboard",
+      "titleCN": "Acti 让 AI 代理直接嵌入手机键盘，交互方式彻底变天",
+      "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-30T17:52:46.000Z",
+      "summary": "Acti 推出创新方案，将 AI 智能体无缝集成至智能手机键盘，实现跨应用实时辅助。此举打破传统输入限制，有望重塑移动端人机交互范式。"
+    },
+    {
+      "id": 18,
+      "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
+      "titleCN": "Anthropic 放弃发新模型，Claude 靠工作流直击科学家痛点",
+      "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-30T17:00:00.000Z",
+      "summary": "Anthropic 宣布 Claude 不再依赖单一模型迭代，转而通过深度整合科研工作流来吸引科学界，这一策略调整标志着其竞争重心的转移。"
+    },
+    {
+      "id": 19,
+      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+      "titleCN": "X 推出 MCP 服务器，向 AI 工具敞开大门，平台生态迎重大转折",
+      "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-30T15:08:42.000Z",
+      "summary": "X 正式提供 MCP 服务器支持，旨在降低 AI 工具接入门槛。此举标志着 X 从封闭走向开放，有望重塑社交媒体与 AI 应用的连接方式，引发行业关注。"
+    },
+    {
+      "id": 20,
+      "title": "Trump's plan to redesign every .gov website leads to AI-designed horrors",
+      "titleCN": "特朗普强推AI重制.gov网站，网友直呼：设计翻车成灾难",
+      "url": "https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-06-30T21:46:14.000Z",
+      "summary": "特朗普计划利用AI全面改造政府官网，结果生成的页面被指审美崩塌、体验极差，引发公众强烈吐槽，AI落地政务再陷争议。"
+    }
+  ]
+}
