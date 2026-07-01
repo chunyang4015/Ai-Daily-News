@@ -1,0 +1,206 @@
+{
+  "date": "2026-07-02",
+  "lastUpdate": "2026-07-01T22:03:15.612Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "titleCN": "商务部解除对 Anthropic Claude 5 出口管制，AI 竞争格局生变",
+      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-06-30T23:55:12.000Z",
+      "summary": "美国商务部正式移除对 Anthropic Claude Fable 5 及 Mythos 5 模型的出口限制，标志着顶级 AI 技术封锁松动，全球算力与模型部署迎来新机遇。"
+    },
+    {
+      "id": 2,
+      "title": "Godot will no longer accept AI-authored code contributions",
+      "titleCN": "Godot 拒绝 AI 代码投稿，开源社区迎重大转折",
+      "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-01T07:43:22.000Z",
+      "summary": "Godot 引擎宣布不再接受 AI 生成的代码贡献，引发开源社区对代码质量与版权的激烈讨论，标志着项目治理策略的重大调整。"
+    },
+    {
+      "id": 3,
+      "title": "ZCode: Claude Code from the Makers of GLM",
+      "titleCN": "智谱推出 ZCode 对标 Claude Code，GLM 团队再战 AI 编程",
+      "url": "https://zcode.z.ai/cn",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-01T19:11:38.000Z",
+      "summary": "智谱发布 ZCode 直接挑战 Claude Code，GLM 团队跨界编程助手领域，引发开源社区关注，AI 编程赛道竞争加剧。"
+    },
+    {
+      "id": 4,
+      "title": "Claude Fable 5 Promotional Access",
+      "titleCN": "Anthropic 推出 Claude Fable 5 促销访问，AI 圈再掀价格战",
+      "url": "https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-01T19:31:46.000Z",
+      "summary": "Anthropic 开放 Claude Fable 5 促销权限，旨在通过低价策略抢占市场。此举引发行业对 API 定价内卷的担忧，或加速中小开发者向 Anthropic 迁移。"
+    },
+    {
+      "id": 5,
+      "title": "How employment changes when firms adopt generative AI",
+      "titleCN": "Karpathy 深度解析：生成式 AI 如何重塑企业雇佣逻辑",
+      "url": "https://ramp.com/data/ai-jobs-impact",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-01T04:14:11.000Z",
+      "summary": "前特斯拉 AI 总监 Karpathy 指出，GenAI 正将劳动力从执行层转向决策层，企业招聘标准随之剧变，懂提示工程与架构设计的人才迎来结构性红利。"
+    },
+    {
+      "id": 6,
+      "title": "Meta Brain Reading Ai Leaves Letters Behind",
+      "titleCN": "Meta脑机接口翻车？读取字母失败，AI‘读心’技术遭遇重大挫折",
+      "url": "https://www.therundown.ai/p/meta-brain-reading-ai-leaves-letters-behind",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-01T22:00:48.172Z",
+      "summary": "Meta最新脑机接口研究未能实现精准字母解码，引发外界对技术成熟度的质疑。这一结果暴露了当前非侵入式神经信号处理的瓶颈，AI‘读心’愿景短期内难以落地。"
+    },
+    {
+      "id": 7,
+      "title": "Openai Most Powerful Ai Is Here But Not For Everyone",
+      "titleCN": "OpenAI 最强模型拒供大众？稀缺性引发争议，AI 服务门槛再升级",
+      "url": "https://www.therundown.ai/p/openai-most-powerful-ai-is-here-but-not-for-everyone",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-01T22:00:48.172Z",
+      "summary": "OpenAI 推出目前最强大 AI 模型却限制访问权限，仅向特定用户开放。这种人为制造的稀缺性加剧了开发者焦虑，凸显高端算力资源的极度紧张。"
+    },
+    {
+      "id": 8,
+      "title": "White House Reins In Openai Gpt 5 6",
+      "titleCN": "白宫紧急叫停 OpenAI GPT-5？AI 监管风暴来袭，行业格局或迎剧变",
+      "url": "https://www.therundown.ai/p/white-house-reins-in-openai-gpt-5-6",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-01T22:00:48.172Z",
+      "summary": "白宫介入限制 OpenAI GPT-5 部署，引发全球对 AI 安全与监管的激烈讨论。此举标志着政府力量正式深度干预顶尖模型发展，科技巨头面临更严合规压力。"
+    },
+    {
+      "id": 9,
+      "title": "Openai Spicy New Custom Ai Chip",
+      "titleCN": "OpenAI 自研芯片炸裂登场！Spicy 定制硬件曝光，算力竞争再掀腥风血雨",
+      "url": "https://www.therundown.ai/p/openai-spicy-new-custom-ai-chip",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-01T22:00:48.172Z",
+      "summary": "OpenAI 推出代号 Spicy 的定制 AI 芯片，旨在突破算力瓶颈。此举标志巨头从软件战转向底层硬件深水区，全球 AI 军备竞赛迎来新变量。"
+    },
+    {
+      "id": 10,
+      "title": "Meet Your New Slack Coworker Claude",
+      "titleCN": "Anthropic Claude化身Slack同事，AI协作迎来新范式",
+      "url": "https://www.therundown.ai/p/meet-your-new-slack-coworker-claude",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-01T22:00:48.172Z",
+      "summary": "Anthropic推出Slack集成，Claude直接嵌入工作流。这一举措不仅提升了团队协作效率，也标志着AI助手从独立应用向深度办公场景渗透的关键一步。"
+    },
+    {
+      "id": 11,
+      "title": "Google S Nobel Winner Jumps To Anthropic",
+      "titleCN": "诺奖得主跳槽Anthropic！Google失去关键大脑，AI巨头博弈再掀波澜",
+      "url": "https://www.therundown.ai/p/google-s-nobel-winner-jumps-to-anthropic",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-01T22:00:48.172Z",
+      "summary": "Google诺贝尔奖得主突转投Anthropic，引发业界震动。此举不仅削弱Google核心科研力量，更可能为Anthropic带来突破性进展，重塑大模型竞争格局。"
+    },
+    {
+      "id": 12,
+      "title": "Are readers generating fiction with AI models?",
+      "titleCN": "Hacker News 热议：读者正用 AI 批量生产小说，传统文学面临颠覆？",
+      "url": "https://arxiv.org/abs/2606.22748",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-01T17:21:07.000Z",
+      "summary": "HN 社区聚焦 AI 生成虚构内容的现象，探讨读者利用大模型创作小说的趋势。这一变化不仅挑战了传统出版边界，更引发关于创意归属与内容质量的激烈争论。"
+    },
+    {
+      "id": 13,
+      "title": "Claude Science, an AI Workbench for Scientists",
+      "titleCN": "Anthropic推出Claude Science，打造科学家专属AI工作台",
+      "url": "https://tldr.tech/tech/2026-07-02",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-07-01T22:00:47.409Z",
+      "summary": "Anthropic发布专为科研人员设计的AI工作平台，旨在加速科学发现流程，引发学界对AI辅助科研新范式的关注。"
+    },
+    {
+      "id": 14,
+      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+      "titleCN": "马斯克 SpaceX 曝光 AI 硬件原型，听感酷似手机，跨界变天",
+      "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-01T18:54:18.000Z",
+      "summary": "SpaceX 展示首款 AI 设备原型，音频反馈极具手机质感。此举标志其正式切入消费电子领域，引发外界对马斯克构建软硬一体生态的强烈关注。"
+    },
+    {
+      "id": 15,
+      "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+      "titleCN": "Cloudflare 强制 AI 公司付费，内容版权规则大洗牌",
+      "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-01T17:48:37.000Z",
+      "summary": "Cloudflare 新规要求接入其服务的 AI 企业必须为抓取的内容向出版商付费，此举旨在重塑 AI 训练数据合规标准，引发行业对成本激增的担忧。"
+    },
+    {
+      "id": 16,
+      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+      "titleCN": "隐私AI独角兽Venice AI狂揽6500万美元B轮，数据主权成新风口",
+      "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-01T14:25:23.000Z",
+      "summary": "Venice AI凭隐私优先架构获6500万美元融资，估值破十亿。在数据泄露频发的当下，其“本地运行”模式直击大厂痛点，有望重塑AI安全格局。"
+    },
+    {
+      "id": 17,
+      "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+      "titleCN": "Google 推出 Mac 版 Gemini Spark，AI 助手战场再掀波澜",
+      "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-01T14:20:19.000Z",
+      "summary": "Google 发布 Mac 版 Gemini Spark，主打代理式交互。此举意在抢占桌面端 AI 入口，加剧与 Apple Intelligence 的竞争，但功能深度仍有待市场检验。"
+    },
+    {
+      "id": 18,
+      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+      "titleCN": "Meta效仿SpaceX，将闲置AI算力变现，科技巨头开启算力租赁新赛道",
+      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-01T13:43:07.000Z",
+      "summary": "Meta计划将过剩的AI计算资源转化为现金收入，这一举措标志着大型科技公司正从单纯的基础设施投入转向商业化运营，重塑云计算竞争格局。"
+    },
+    {
+      "id": 19,
+      "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+      "titleCN": "特朗普解除禁令，Anthropic Mythos与Fable模型重获自由",
+      "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-01T02:16:06.000Z",
+      "summary": "特朗普撤销对Anthropic旗下Mythos及Fable模型的出口限制，标志着美国AI政策重大转向，为该公司全球扩张扫清关键障碍。"
+    },
+    {
+      "id": 20,
+      "title": "What has FIRE been doing in the AI space?",
+      "titleCN": "FIRE 在 AI 圈到底干了啥？HN 热议揭开神秘面纱",
+      "url": "https://expression.fire.org/p/what-has-fire-been-doing-in-the-ai",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-01T21:40:49.000Z",
+      "summary": "Hacker News 聚焦 FIRE 在 AI 领域的实际布局与动作，引发社区对这一新兴力量技术路线及市场影响力的深度探讨与争议。"
+    }
+  ]
+}
