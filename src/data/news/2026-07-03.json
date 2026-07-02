@@ -1,0 +1,206 @@
+{
+  "date": "2026-07-03",
+  "lastUpdate": "2026-07-02T22:03:28.870Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "titleCN": "Kimi K2.7 Code 登陆 GitHub Copilot，开源力量强势入侵闭源生态",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-02T04:32:41.000Z",
+      "summary": "Moonshot AI 旗下 Kimi K2.7 Code 正式集成至 GitHub Copilot，标志着国产大模型深度嵌入全球开发者核心工作流，引发对 AI 工具链格局重塑的热议。"
+    },
+    {
+      "id": 2,
+      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
+      "titleCN": "日本最高法院判了：AI不能当专利发明人，AI专利地位再遭重挫",
+      "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-02T13:43:41.000Z",
+      "summary": "日本最高裁判所裁定AI不具备发明人资格，明确法律主体仅限人类。此举终结争议，但也引发学界对AI创新成果归属及保护机制缺失的担忧。"
+    },
+    {
+      "id": 3,
+      "title": "AI fake news complaining about how AI fake news is the death of real news",
+      "titleCN": "AI伪造新闻吐槽AI伪造新闻？Hacker News上演荒诞反转",
+      "url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-02T12:40:36.000Z",
+      "summary": "HN热帖揭露AI生成内容正陷入无限套娃：假新闻抱怨假新闻毁掉真新闻，讽刺拉满，引发对AI内容生态失控的深度担忧。"
+    },
+    {
+      "id": 4,
+      "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
+      "titleCN": "单层Transformer碾压全参数RL训练？Karpathy新发现颠覆大模型架构",
+      "url": "https://arxiv.org/abs/2607.01232",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-02T12:10:24.000Z",
+      "summary": "Karpathy证实单层Transformer经强化学习可匹敌全参数模型，挑战主流架构认知，引发关于模型效率与复杂度的激烈讨论。"
+    },
+    {
+      "id": 5,
+      "title": "OpenAI ‘in early talks to give 5% stake to US government’",
+      "titleCN": "OpenAI 拟向美国政府出让 5% 股权，政企绑定再升级",
+      "url": "https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-02T11:16:31.000Z",
+      "summary": "OpenAI 正与美国政府洽谈出售 5% 股份，此举旨在深化政企合作以获取政策支持，引发关于 AI 巨头政治献金与监管俘获的广泛争议。"
+    },
+    {
+      "id": 6,
+      "title": "No LLM Code in Dependencies",
+      "titleCN": "Karpathy 怒斥依赖含 LLM 代码：AI 供应链安全惊现重大隐患",
+      "url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-02T14:17:23.000Z",
+      "summary": "Andrej Karpathy 警告开发者警惕第三方库植入恶意 LLM 代码，揭示 AI 供应链脆弱性，引发业界对依赖包安全性的深度反思与恐慌。"
+    },
+    {
+      "id": 7,
+      "title": "Anthropic Fable Returns Worldwide",
+      "titleCN": "Anthropic Fable 回归，全球部署重启，AI 应用生态再迎变天",
+      "url": "https://www.therundown.ai/p/anthropic-fable-returns-worldwide",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-02T22:00:46.632Z",
+      "summary": "Anthropic 宣布 Fable 平台重返全球市场，此前因合规限制引发的争议暂告段落。此举标志着其向开发者开放底层能力的战略回归，有望重塑 AI 应用开发格局。"
+    },
+    {
+      "id": 8,
+      "title": "Meta Brain Reading Ai Leaves Letters Behind",
+      "titleCN": "Meta脑机接口重大翻车：读心AI竟漏掉所有字母，技术瓶颈再曝光",
+      "url": "https://www.therundown.ai/p/meta-brain-reading-ai-leaves-letters-behind",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-02T22:00:46.632Z",
+      "summary": "Meta最新脑机接口研究未能实现预期目标，解码结果完全缺失字母信息。这一失败暴露了当前非侵入式神经信号解码的技术短板，引发业界对BCI落地可行性的质疑。"
+    },
+    {
+      "id": 9,
+      "title": "Openai Most Powerful Ai Is Here But Not For Everyone",
+      "titleCN": "OpenAI最强AI降临却拒普通用户，霸权姿态引争议",
+      "url": "https://www.therundown.ai/p/openai-most-powerful-ai-is-here-but-not-for-everyone",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-02T22:00:46.632Z",
+      "summary": "OpenAI推出史上最强模型却限制访问权限，仅对特定群体开放。这种精英主义策略虽巩固技术壁垒，却加剧了开发者焦虑，AI平权进程再遇冷。"
+    },
+    {
+      "id": 10,
+      "title": "White House Reins In Openai Gpt 5 6",
+      "titleCN": "白宫紧急叫停 OpenAI GPT-5？监管重拳落地，AI 狂飙时代被迫踩刹车",
+      "url": "https://www.therundown.ai/p/white-house-reins-in-openai-gpt-5-6",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-02T22:00:46.632Z",
+      "summary": "白宫介入限制 OpenAI GPT-5 部署，标志着 AI 监管从倡导转向实质约束。政策收紧引发行业震动，开发者担忧创新受阻，但安全合规已成不可逆趋势。"
+    },
+    {
+      "id": 11,
+      "title": "Openai Spicy New Custom Ai Chip",
+      "titleCN": "OpenAI 自研芯片炸裂登场！Spicy 定制 AI 芯片曝光，算力版图再洗牌",
+      "url": "https://www.therundown.ai/p/openai-spicy-new-custom-ai-chip",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-02T22:00:46.632Z",
+      "summary": "OpenAI 推出代号 Spicy 的定制 AI 芯片，旨在进一步降低训练成本并提升推理效率。此举标志着巨头从单纯依赖硬件转向垂直整合，加剧了算力军备竞赛。"
+    },
+    {
+      "id": 12,
+      "title": "Meet Your New Slack Coworker Claude",
+      "titleCN": "Anthropic Claude 化身 Slack 同事，AI 协作进入实时交互时代",
+      "url": "https://www.therundown.ai/p/meet-your-new-slack-coworker-claude",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-02T22:00:46.632Z",
+      "summary": "Anthropic 推出 Slack 集成，Claude 直接嵌入工作流。AI 不再只是聊天框，而是成为可协作的“数字员工”，重塑企业沟通效率。"
+    },
+    {
+      "id": 13,
+      "title": "The Winning Essays for the Big Questions About AI",
+      "titleCN": "AI 界年度答卷出炉！这些关于未来的思考，彻底颠覆了行业认知",
+      "url": "https://tldr.tech/tech/2026-07-03",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-07-02T22:00:46.083Z",
+      "summary": "TLDR AI 精选 AI 领域最具洞察力的获奖文章，深度剖析技术伦理与商业落地，为从业者提供不可多得的思维导航。"
+    },
+    {
+      "id": 14,
+      "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+      "titleCN": "Jersey Mike's IPO折射AI泡沫有多荒诞：连三明治店都蹭概念",
+      "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-02T20:11:59.000Z",
+      "summary": "TechCrunch指出，快餐品牌Jersey Mike's上市凸显AI炒作已脱离现实，资本盲目追逐热点，连传统餐饮都难逃被强行赋予AI光环的尴尬局面。"
+    },
+    {
+      "id": 15,
+      "title": "Anthropic is discussing a new custom chip with Samsung",
+      "titleCN": "Anthropic联手三星定制芯片，AI算力版图再洗牌",
+      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-02T18:31:09.000Z",
+      "summary": "Anthropic正与三星洽谈定制芯片合作，旨在摆脱对英伟达的依赖。此举标志着头部大模型厂商加速构建自主算力底座，全球AI硬件供应链格局面临新一轮重构。"
+    },
+    {
+      "id": 16,
+      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+      "titleCN": "OpenAI 豪掷 5% 股权捐给美国主权基金，AI 巨头变天",
+      "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-02T15:20:51.000Z",
+      "summary": "OpenAI 提议将 5% 股权捐赠给美国主权财富基金，此举引发业界对 AI 资本化走向的激烈争论，标志着其商业模式的重大转折。"
+    },
+    {
+      "id": 17,
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "titleCN": "微软豪掷25亿美元成立独立AI部署公司，算力基建迎重大洗牌",
+      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-02T13:53:00.000Z",
+      "summary": "微软宣布投入25亿美元成立专属AI部署公司，旨在加速企业级落地。此举被视为微软在AI基础设施领域的激进扩张，意在通过垂直整合巩固其云与AI生态的护城河。"
+    },
+    {
+      "id": 18,
+      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+      "titleCN": "豪掷3000万美元！印度科技大佬自建AI版Office，硬刚微软",
+      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-02T05:30:00.000Z",
+      "summary": "印度科技巨头自掏腰包3000万美元打造AI办公替代方案，试图打破微软垄断。此举彰显本土创新野心，但能否撼动Office生态仍存巨大挑战。"
+    },
+    {
+      "id": 19,
+      "title": "Show HN: Declaw Arena – a CTF-style challenge to break an AI agent in a microVM",
+      "titleCN": "黑客在微虚拟机“驯服”AI Agent，Declaw Arena 引发红队攻防热议",
+      "url": "https://declaw.ai/arena",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-02T21:50:17.000Z",
+      "summary": "Declaw Arena 推出 CTF 式挑战，测试 AI Agent 在隔离环境中的安全性。该工具通过模拟真实攻击向量，暴露了智能体在受限空间内的潜在脆弱性，引发开发者对 AI 部署安全的深度反思。"
+    },
+    {
+      "id": 20,
+      "title": "Foreign Influence in the Campaign Against American AI",
+      "titleCN": "Karpathy炮轰美国AI遭外国渗透？舆论战背后的认知博弈",
+      "url": "https://www.btcpolicy.org/articles/foreign-influence-campaign-against-american-ai-part-ii-singham-ground-game",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-02T21:47:45.000Z",
+      "summary": "前特斯拉AI总监Karpathy发文警示外国势力干预美国AI发展，引发硅谷激烈辩论。此举折射出中美科技竞争下，技术叙事正成为地缘政治的新战场，行业信任面临重塑。"
+    }
+  ]
+}
