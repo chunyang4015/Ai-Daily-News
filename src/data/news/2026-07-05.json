@@ -1,0 +1,206 @@
+{
+  "date": "2026-07-05",
+  "lastUpdate": "2026-07-04T22:03:27.991Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "AI has torched the market for junior programmers",
+      "titleCN": "AI 彻底烧毁初级程序员市场，Hacker News 热议就业寒冬",
+      "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-04T19:50:08.000Z",
+      "summary": "AI 技术爆发正迅速取代初级编程岗位，引发行业对人才需求断崖式下跌的担忧，开发者社区对此反应激烈。"
+    },
+    {
+      "id": 2,
+      "title": "2026 Unslop AI-Written Fiction Contest Results",
+      "titleCN": "Karpathy 2026 AI 写作大赛落幕：人类作者逆袭夺魁，AI 文风再遭打脸",
+      "url": "https://www.hyperstitionai.com/unslop-results",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-04T05:37:25.000Z",
+      "summary": "Andrej Karpathy 主办的 2026 年“去水”AI 小说大赛结果公布，人类作品击败 AI 胜出。评委指出当前 AI 文本仍充斥陈词滥调，缺乏真实人性洞察，AI 创作面临信任危机。"
+    },
+    {
+      "id": 3,
+      "title": "Altman Invites Washington Inside The Ai Industry",
+      "titleCN": "OpenAI CEO Altman邀华盛顿入局，AI行业监管变天？",
+      "url": "https://www.therundown.ai/p/altman-invites-washington-inside-the-ai-industry",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-04T22:00:47.316Z",
+      "summary": "Altman主动邀请华盛顿深入AI产业内部，暗示行业监管格局或将重塑。此举被视为OpenAI寻求政策背书的关键一步，引发业界对AI治理新阶段的关注。"
+    },
+    {
+      "id": 4,
+      "title": "Anthropic Fable Returns Worldwide",
+      "titleCN": "Anthropic Fable 全球回归，AI 工具链再迎重大更新",
+      "url": "https://www.therundown.ai/p/anthropic-fable-returns-worldwide",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-04T22:00:47.316Z",
+      "summary": "Anthropic 旗下 AI 编程助手 Fable 宣布在全球范围内重新上线。此次回归标志着其在开发者工具领域的战略调整，有望进一步加剧 AI 辅助编码市场的竞争格局。"
+    },
+    {
+      "id": 5,
+      "title": "Meta Brain Reading Ai Leaves Letters Behind",
+      "titleCN": "Meta脑机接口重大翻车：读心AI竟无法识别字母，解码能力遭质疑",
+      "url": "https://www.therundown.ai/p/meta-brain-reading-ai-leaves-letters-behind",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-04T22:00:47.316Z",
+      "summary": "Meta最新脑机接口研究未能实现字母解码，引发外界对其技术实用性的强烈质疑。这一失败暴露了非侵入式脑机技术在复杂语义理解上的巨大瓶颈，短期内难以商用。"
+    },
+    {
+      "id": 6,
+      "title": "Openai Most Powerful Ai Is Here But Not For Everyone",
+      "titleCN": "OpenAI 最强 AI 降临！但仅对少数人开放，格局再洗牌",
+      "url": "https://www.therundown.ai/p/openai-most-powerful-ai-is-here-but-not-for-everyone",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-04T22:00:47.316Z",
+      "summary": "OpenAI 推出迄今最强大模型，却非全员可用。这种精英式发布策略引发热议，凸显高端算力与访问权限的稀缺性，加剧行业分层。"
+    },
+    {
+      "id": 7,
+      "title": "White House Reins In Openai Gpt 5 6",
+      "titleCN": "白宫紧急叫停GPT-5？OpenAI遭监管重拳，AI发展迎重大转折",
+      "url": "https://www.therundown.ai/p/white-house-reins-in-openai-gpt-5-6",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-04T22:00:47.316Z",
+      "summary": "据报白宫介入限制OpenAI GPT-5发布，引发业界对AI监管收紧的担忧。此举或重塑科技巨头与政府博弈格局，OpenAI面临合规压力，AI发展节奏恐生变数。"
+    },
+    {
+      "id": 8,
+      "title": "Openai Spicy New Custom Ai Chip",
+      "titleCN": "OpenAI 自研芯片炸裂登场！Spicy 定制硬件曝光，算力军备竞赛再升级",
+      "url": "https://www.therundown.ai/p/openai-spicy-new-custom-ai-chip",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-04T22:00:47.316Z",
+      "summary": "OpenAI 推出代号 Spicy 的定制 AI 芯片，旨在突破现有算力瓶颈。此举标志着巨头从单纯比拼模型转向底层硬件自主可控，进一步加剧行业竞争烈度。"
+    },
+    {
+      "id": 9,
+      "title": "Career advice in the age of AI",
+      "titleCN": "Karpathy 亲授 AI 时代职场生存指南，这 3 条建议彻底颠覆传统职业规划",
+      "url": "https://tldr.tech/tech/2026-07-05",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-07-04T22:00:46.734Z",
+      "summary": "前特斯拉 AI 总监 Karpathy 分享最新职业建议，强调在 AI 辅助下提升杠杆率比单纯拼技能更重要，引发科技圈对“人机协作”新范式的深度讨论。"
+    },
+    {
+      "id": 10,
+      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "titleCN": "Google 广告脑洞炸裂：AI 代笔《独立宣言》，致敬科技改变历史",
+      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-04T20:55:25.000Z",
+      "summary": "Google 推出商业广告，展示 AI 协助撰写《独立宣言》的虚构场景。此举旨在彰显生成式 AI 在创意写作领域的强大潜力，引发关于技术赋能历史的广泛讨论。"
+    },
+    {
+      "id": 11,
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "titleCN": "Midjourney向好莱坞摊牌：公开AI使用细节，否则面临诉讼",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-04T18:00:05.000Z",
+      "summary": "Midjourney要求好莱坞片厂披露AI训练数据使用情况，否则将采取法律行动。此举旨在确立版权边界，引发行业对AI合规性的激烈讨论。"
+    },
+    {
+      "id": 12,
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "titleCN": "阿里封杀 Claude Code！内部禁令曝光，AI 工具选型再掀波澜",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-04T16:32:08.000Z",
+      "summary": "据 TechCrunch 报道，阿里巴巴禁止员工使用 Anthropic 旗下 Claude Code。此举凸显大厂对代码生成工具安全与合规的严苛管控，引发业界对国产替代加速的关注。"
+    },
+    {
+      "id": 13,
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "titleCN": "OpenAI最强对手Mistral AI：欧洲AI独角兽的崛起与挑战",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-04T15:51:32.000Z",
+      "summary": "作为OpenAI在欧洲的直接竞争对手，Mistral AI凭借开源策略迅速崛起，其模型性能逼近头部大厂，正重塑全球AI竞争格局。"
+    },
+    {
+      "id": 14,
+      "title": "Australian influencer Lily Jay's tangled web of AI manipulation",
+      "titleCN": "澳洲网红Lily Jay深陷AI操纵丑闻，人设崩塌引舆论哗然",
+      "url": "https://www.abc.net.au/news/2026-07-05/lily-jay-foundation-posts-ai-generated-misleading-videos/106866422",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-04T21:50:14.000Z",
+      "summary": "澳洲网红Lily Jay被曝利用AI技术进行复杂的内容操纵，引发公众对数字身份真实性的强烈质疑与伦理反思。"
+    },
+    {
+      "id": 15,
+      "title": "My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+      "titleCN": "Karpathy Rust PHP引擎初显神威：跑通WordPress，测试通过率17%",
+      "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-04T21:35:30.000Z",
+      "summary": "Karpathy自研Rust PHP引擎成功渲染WordPress，虽仅通过17%测试，但验证了LLM辅助编程重构底层语言的可行性，引发社区热议。"
+    },
+    {
+      "id": 16,
+      "title": "How AI Became More Expensive Than the Workers It Replaced [video]",
+      "titleCN": "AI取代人类后反而更贵？视频揭秘：智能体成本碾压人工，效率悖论引热议",
+      "url": "https://www.youtube.com/watch?v=cfaZZPjA3g0",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-04T21:23:44.000Z",
+      "summary": "视频揭示AI代理成本远超被替代员工，引发对自动化经济账本的质疑。当智能体比人力昂贵时，企业是否还在为‘效率’买单？"
+    },
+    {
+      "id": 17,
+      "title": "Exclusive-Meta's Zuckerberg says AI agent tech progressing slower than expected",
+      "titleCN": "Meta AI Agent 进展不及预期，扎克伯格承认技术推进缓慢",
+      "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-zuckerberg-says-ai-agent-201123441.html",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-04T21:16:32.000Z",
+      "summary": "扎克伯格独家透露 Meta AI 智能体技术发展低于预期，引发市场对 Meta 在 AI 竞赛中掉队的担忧，竞争格局或面临重塑。"
+    },
+    {
+      "id": 18,
+      "title": "Show HN: Using Wake-on-LAN for an AI Project",
+      "titleCN": "Karpathy 粉丝脑洞：用 Wake-on-LAN 跑 AI？硬核极客的浪漫操作",
+      "url": "https://guilhermefrj.medium.com/i-built-a-local-chatgpt-killer-on-a-single-rtx-5080-heres-everything-that-went-wrong-and-right-38343c516451",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-04T20:57:20.000Z",
+      "summary": "HN 热帖展示利用网络唤醒技术远程启动本地设备运行 AI 项目，虽非大厂突破，却以极低能耗方案引发极客圈对边缘计算的新思考。"
+    },
+    {
+      "id": 19,
+      "title": "Providence AI",
+      "titleCN": "Providence AI 横空出世，挑战硅谷巨头垄断，AI 创业新势力引爆热议",
+      "url": "https://providenceai.app",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-04T20:38:17.000Z",
+      "summary": "Providence AI 作为新兴力量入局，旨在打破现有市场格局。其成立迅速引发 HN 社区关注，被视为 AI 领域潜在的重大变量，行业期待其带来技术或商业模式的创新。"
+    },
+    {
+      "id": 20,
+      "title": "The fanfiction community is at war with AI — and itself",
+      "titleCN": "AI入侵同人圈引发血战：创作者与算法正面硬刚",
+      "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+      "source": "The Verge",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-04T12:00:00.000Z",
+      "summary": "The Verge报道，AI生成内容泛滥导致同人社区分裂，创作者发起抵制运动，双方围绕版权与伦理爆发激烈冲突，行业洗牌在即。"
+    }
+  ]
+}
