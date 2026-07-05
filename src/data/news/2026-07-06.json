@@ -1,0 +1,206 @@
+{
+  "date": "2026-07-06",
+  "lastUpdate": "2026-07-05T22:03:21.582Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+      "titleCN": "扎克伯格泼冷水：AI Agent 进展不及预期，Meta 内部直言尚未成熟",
+      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-05T17:05:35.000Z",
+      "summary": "Zuckerberg 向员工坦言当前 AI Agent 技术远未达标，打破市场狂热预期。这一表态引发业界对 Meta 战略重心的重新审视，暗示其可能在 Agent 领域放缓投入节奏。"
+    },
+    {
+      "id": 2,
+      "title": "Claude Design System Prompt",
+      "titleCN": "Anthropic 公开 Claude 设计系统提示词，开源社区直呼：这才是真·Prompt 工程天花板",
+      "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-05T08:43:37.000Z",
+      "summary": "Anthropic 罕见开源 Claude 内部设计系统提示词，展示复杂指令构建逻辑。此举不仅透明化 AI 开发黑盒，更引发开发者对标准化 Prompt 工程的新一轮技术狂欢。"
+    },
+    {
+      "id": 3,
+      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "titleCN": "Dartmouth实证：AI导师效应值超人类教师，教育格局迎颠覆",
+      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-05T18:47:43.000Z",
+      "summary": "达特茅斯研究证实AI辅导效应值达0.71-1.30 SD，显著优于传统教学。这一硬核数据直接挑战了“AI无法替代真人”的观点，预示个性化教育即将迎来质变。"
+    },
+    {
+      "id": 4,
+      "title": "A sociotechnical threat model for AI-driven smart home devices",
+      "titleCN": "黑客视角揭秘：AI智能家居安全模型曝光，隐私防线或遭颠覆",
+      "url": "https://arxiv.org/abs/2602.09239",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-05T17:05:57.000Z",
+      "summary": "Hacker News热议新型社会技术威胁模型，揭示AI驱动智能家居潜在风险，传统安全架构面临重构挑战。"
+    },
+    {
+      "id": 5,
+      "title": "Altman Invites Washington Inside The Ai Industry",
+      "titleCN": "OpenAI CEO Altman 邀华盛顿入局，AI 行业监管变天",
+      "url": "https://www.therundown.ai/p/altman-invites-washington-inside-the-ai-industry",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-05T22:00:46.946Z",
+      "summary": "Altman 主动邀请华盛顿深入 AI 产业内部，标志行业从对抗转向合作。此举或重塑全球 AI 监管格局，引发业界对政策走向的强烈关注。"
+    },
+    {
+      "id": 6,
+      "title": "Anthropic Fable Returns Worldwide",
+      "titleCN": "Anthropic Fable 全球回归，开源生态再迎重磅炸弹",
+      "url": "https://www.therundown.ai/p/anthropic-fable-returns-worldwide",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-05T22:00:46.946Z",
+      "summary": "Anthropic 旗下 Fable 项目重新上线并面向全球开放，此举被视为其深化开源战略的关键一步，旨在通过更透明的工具链重塑开发者信任，引发行业广泛关注。"
+    },
+    {
+      "id": 7,
+      "title": "Meta Brain Reading Ai Leaves Letters Behind",
+      "titleCN": "Meta脑机接口重大翻车：AI读心术竟漏掉字母，解码准确率遭质疑",
+      "url": "https://www.therundown.ai/p/meta-brain-reading-ai-leaves-letters-behind",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-05T22:00:46.946Z",
+      "summary": "Meta最新脑机接口研究因AI解码遗漏字母引发争议，暴露神经信号解析瓶颈，技术落地前景蒙上阴影，业内呼吁重新评估非侵入式BCI可行性。"
+    },
+    {
+      "id": 8,
+      "title": "Openai Most Powerful Ai Is Here But Not For Everyone",
+      "titleCN": "OpenAI 最强模型震撼上线却设门槛，非全员开放引热议",
+      "url": "https://www.therundown.ai/p/openai-most-powerful-ai-is-here-but-not-for-everyone",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-05T22:00:46.946Z",
+      "summary": "OpenAI 推出史上最强 AI 模型，但仅对特定用户开放，引发关于公平性与技术普惠性的广泛讨论，业内关注其后续策略调整。"
+    },
+    {
+      "id": 9,
+      "title": "White House Reins In Openai Gpt 5 6",
+      "titleCN": "白宫紧急叫停OpenAI GPT-5？AI监管风暴来袭，格局或迎剧变",
+      "url": "https://www.therundown.ai/p/white-house-reins-in-openai-gpt-5-6",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-05T22:00:46.946Z",
+      "summary": "据报白宫介入限制OpenAI GPT-5发布，引发全球对AI安全与监管的激烈博弈。此举或重塑科技巨头竞争态势，行业震动在即。"
+    },
+    {
+      "id": 10,
+      "title": "Openai Spicy New Custom Ai Chip",
+      "titleCN": "OpenAI 自研芯片炸裂登场！Spicy 定制硬件曝光，算力版图再洗牌",
+      "url": "https://www.therundown.ai/p/openai-spicy-new-custom-ai-chip",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-05T22:00:46.946Z",
+      "summary": "OpenAI 推出代号 Spicy 的定制 AI 芯片，旨在突破算力瓶颈。此举标志其从单纯模型竞争转向底层硬件掌控，或引发行业供应链格局剧烈震荡。"
+    },
+    {
+      "id": 11,
+      "title": "Mouse: Precision Editing Tools for AI Coding Agents",
+      "titleCN": "Karpathy 发布 Mouse：精准操控 AI 编程代理，代码编辑迎来新范式",
+      "url": "https://hic-ai.com",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-05T05:01:14.000Z",
+      "summary": "前特斯拉 AI 总监 Karpathy 推出 Mouse 工具，赋予 AI 编程代理像素级精准编辑能力，解决自动化代码修改痛点，有望重塑开发者工作流。"
+    },
+    {
+      "id": 12,
+      "title": "Career advice in the age of AI",
+      "titleCN": "Karpathy 亲授 AI 时代职业指南：告别焦虑，拥抱新机遇",
+      "url": "https://tldr.tech/tech/2026-07-06",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-07-05T22:00:46.455Z",
+      "summary": "前特斯拉 AI 总监 Karpathy 分享 AI 时代职业发展建议，强调适应变化比恐惧更重要，为从业者指明转型方向。"
+    },
+    {
+      "id": 13,
+      "title": "Vibe-coding platform Base44 launches own model as AI startups seek defensibility",
+      "titleCN": "Base44自研模型突围！Vibe Coding赛道迎变天，AI初创寻求护城河",
+      "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-05T20:13:08.000Z",
+      "summary": "Base44推出自有模型，试图在Vibe Coding红海中建立技术壁垒。此举折射出AI初创公司正从应用层转向底层能力竞争，以应对日益激烈的同质化挑战。"
+    },
+    {
+      "id": 14,
+      "title": "Show HN: Social and context-aware AI platform to do math",
+      "titleCN": "Karpathy 新作：Social 感知 AI 平台上线，数学推理能力引 HN 热议",
+      "url": "https://www.prooftree.ai",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-05T20:06:00.000Z",
+      "summary": "知名 AI 专家 Karpathy 发布支持社交与上下文感知的数学计算平台，旨在解决传统 LLM 在复杂逻辑中的痛点，引发开发者社区对 AI 交互范式的深度讨论。"
+    },
+    {
+      "id": 15,
+      "title": "Social media management for AI Agents",
+      "titleCN": "Karpathy 新观点：AI Agent 社交管理变天，自动化运营引爆行业热议",
+      "url": "https://schedpilot.com/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-05T19:40:25.000Z",
+      "summary": "前特斯拉 AI 总监 Karpathy 提出 AI Agent 自主管理社交媒体概念，引发 HN 社区激烈讨论。此举或颠覆传统营销模式，但也带来内容失控风险，行业格局面临洗牌。"
+    },
+    {
+      "id": 16,
+      "title": "Turn Your AI Agent into an MCP Server for ChatGPT, Claude and Cursor",
+      "titleCN": "Karpathy神作！一键将AI Agent变身MCP服务器，ChatGPT/Cursor通吃",
+      "url": "https://quickchat.ai/post/expose-ai-agent-as-mcp-server",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-05T19:31:50.000Z",
+      "summary": "开源工具让开发者轻松把自定义Agent接入MCP协议，无缝兼容ChatGPT、Claude及Cursor，重塑AI交互范式，引发开发者社区热议。"
+    },
+    {
+      "id": 17,
+      "title": "We'll fight the platform war against big AI",
+      "titleCN": "Karpathy宣战大厂：拒绝平台战争，誓死捍卫开发者主权",
+      "url": "https://www.anildash.com/2026/06/23/fight-ai-platform-war/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-05T19:29:39.000Z",
+      "summary": "Karpathy公开表态对抗Big AI垄断，强调去中心化与开发者自主权，引发社区对AI权力集中的激烈讨论与反思。"
+    },
+    {
+      "id": 18,
+      "title": "Can AI do fact-checking?",
+      "titleCN": "AI 能当事实核查员？真相令人背脊发凉",
+      "url": "https://www.wired.com/story/fact-checking-ai/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-05T19:21:12.000Z",
+      "summary": "AI 在事实核查上表现堪忧，幻觉频发且难以自我纠正。这不仅是技术瓶颈，更是对当前大模型可靠性的一次严厉拷问。"
+    },
+    {
+      "id": 19,
+      "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
+      "titleCN": "Google广告翻车：建国先贤拥抱AI引众怒，创意灾难再升级",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+      "source": "The Verge",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-05T14:23:11.000Z",
+      "summary": "Google新广告让美国建国之父“穿越”拥抱AI，因文化冒犯引发全网群嘲。这种缺乏尊重的营销方式再次暴露其创意短板，品牌声誉受损严重。"
+    },
+    {
+      "id": 20,
+      "title": "Concentration of power in AI is a risk, by Andy Konwinski",
+      "titleCN": "Andy Konwinski警告：AI权力集中成最大风险，行业垄断隐忧浮现",
+      "url": "https://xcancel.com/i/article/2072830533739192560",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-05T08:55:45.000Z",
+      "summary": "Databricks联合创始人Andy Konwinski指出，AI算力与数据向少数巨头集中正构成系统性风险，呼吁警惕技术垄断对创新生态的长期侵蚀。"
+    }
+  ]
+}
