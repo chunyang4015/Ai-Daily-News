@@ -1,0 +1,206 @@
+{
+  "date": "2026-07-07",
+  "lastUpdate": "2026-07-06T22:03:26.256Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "GPT-5.6 Sol Ultra will be in Codex",
+      "titleCN": "GPT-5.6 Sol Ultra将登陆Codex，OpenAI底层架构再迎重大升级",
+      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-06T01:04:03.000Z",
+      "summary": "OpenAI宣布GPT-5.6 Sol Ultra版本集成至Codex平台，标志着其代码生成能力进入新阶段，引发开发者对自动化编程效率提升的广泛关注。"
+    },
+    {
+      "id": 2,
+      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+      "titleCN": "AMD Ryzen AI Halo 开发套件售价 4000 美元，高端 AI 硬件门槛再创新高",
+      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-06T15:01:18.000Z",
+      "summary": "AMD 推出 Ryzen AI Halo 开发板，标价高达 4000 美元。此举旨在抢占高端 AI 开发者市场，但高昂定价引发社区热议，被指将专业 AI 硬件门槛推向极致。"
+    },
+    {
+      "id": 3,
+      "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
+      "titleCN": "加拿大AI战略曝雷？Al Vigier怒斥Palantir秘密合同",
+      "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-06T00:04:48.000Z",
+      "summary": "Al Vigier公开抨击加拿大政府引入Palantir的隐秘合同，认为这违背了透明原则。此举引发对AI治理及大厂垄断的激烈争议。"
+    },
+    {
+      "id": 4,
+      "title": "Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario",
+      "titleCN": "AI裁员预言翻车？硅谷巨头突然改口，就业市场迎重大反转",
+      "url": "https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-06T17:16:41.000Z",
+      "summary": "面对AI替代人力的恐慌，科技巨头集体转向，承认AI将创造而非消灭大量岗位。这一态度急转弯暗示行业逻辑生变，就业市场或迎来新机遇。"
+    },
+    {
+      "id": 5,
+      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+      "titleCN": "Karpathy新作OfficeCLI：让AI代理直接读写Office文件，自动化办公迎变天",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-06T16:47:44.000Z",
+      "summary": "前特斯拉AI总监Karpathy发布OfficeCLI，赋予AI代理直接编辑Word/Excel/PPT的能力。此举打破文档操作壁垒，有望重塑企业自动化工作流，引发开发者热议。"
+    },
+    {
+      "id": 6,
+      "title": "The AI Superforecasters Are Here",
+      "titleCN": "Karpathy 官宣 AI Superforecaster：预测准确率碾压人类专家，概率思维彻底变天",
+      "url": "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-06T15:45:11.000Z",
+      "summary": "前特斯拉 AI 总监 Karpathy 推出新工具，利用大模型进行高精度概率预测。实测显示其表现超越传统人类专家，有望重塑金融与决策领域的预测范式。"
+    },
+    {
+      "id": 7,
+      "title": "Meta Sizes Up Gpt 5 5 With Watermelon",
+      "titleCN": "Meta 用西瓜比喻 GPT-5，暗讽 OpenAI 新模型臃肿，AI 圈再掀口水战",
+      "url": "https://www.therundown.ai/p/meta-sizes-up-gpt-5-5-with-watermelon",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-06T22:00:46.469Z",
+      "summary": "Meta 高管以“西瓜”隐喻 GPT-5 外强中干，引发舆论热议。此举直指 OpenAI 新模型参数量激增但效率存疑，凸显两大巨头在技术路线上的激烈博弈。"
+    },
+    {
+      "id": 8,
+      "title": "Altman Invites Washington Inside The Ai Industry",
+      "titleCN": "OpenAI CEO Altman邀华盛顿入局，AI监管变天？",
+      "url": "https://www.therundown.ai/p/altman-invites-washington-inside-the-ai-industry",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-06T22:00:46.469Z",
+      "summary": "Altman主动邀请美国政府深入AI产业内部，旨在建立透明沟通机制。此举被视为OpenAI寻求政策背书、重塑行业监管格局的关键一步，引发业界对AI治理走向的广泛关注。"
+    },
+    {
+      "id": 9,
+      "title": "Anthropic Fable Returns Worldwide",
+      "titleCN": "Anthropic Fable 全球回归，AI 工具生态再迎重磅更新",
+      "url": "https://www.therundown.ai/p/anthropic-fable-returns-worldwide",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-06T22:00:46.469Z",
+      "summary": "Anthropic 旗下 Fable 工具正式面向全球用户重新上线，标志着其 AI 辅助开发生态的重要扩展，引发开发者社区广泛关注与期待。"
+    },
+    {
+      "id": 10,
+      "title": "Meta Brain Reading Ai Leaves Letters Behind",
+      "titleCN": "Meta脑机接口翻车？读取字母全失败，AI读心术遭遇重大挫折",
+      "url": "https://www.therundown.ai/p/meta-brain-reading-ai-leaves-letters-behind",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-06T22:00:46.469Z",
+      "summary": "Meta最新脑机接口研究未能实现预期目标，在尝试通过AI解码大脑信号以读取字母时完全失效，引发业界对非侵入式脑机技术可行性的质疑。"
+    },
+    {
+      "id": 11,
+      "title": "Openai Most Powerful Ai Is Here But Not For Everyone",
+      "titleCN": "OpenAI 最强模型拒供大众，封闭策略引爆争议",
+      "url": "https://www.therundown.ai/p/openai-most-powerful-ai-is-here-but-not-for-everyone",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-06T22:00:46.469Z",
+      "summary": "OpenAI 推出未向公众开放的最强AI，引发开发者不满。此举加剧了巨头垄断担忧，业内质疑其是否将阻碍创新并巩固封闭生态壁垒。"
+    },
+    {
+      "id": 12,
+      "title": "White House Reins In Openai Gpt 5 6",
+      "titleCN": "白宫紧急叫停GPT-5？OpenAI遭监管重拳，AI发展节奏被迫急刹车",
+      "url": "https://www.therundown.ai/p/white-house-reins-in-openai-gpt-5-6",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-06T22:00:46.469Z",
+      "summary": "据传白宫介入限制OpenAI GPT-5发布节奏，引发业界对AI监管收紧的担忧。此举或迫使OpenAI调整战略，全球AI竞争格局面临重塑。"
+    },
+    {
+      "id": 13,
+      "title": "The AI Superforecasters Are Here",
+      "titleCN": "AI 预言家降临！Superforecaster 模型精准度碾压人类专家，预测界彻底变天",
+      "url": "https://tldr.tech/tech/2026-07-07",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-07-06T22:00:45.934Z",
+      "summary": "新研究证实 AI 在复杂预测任务中表现远超人类专家，准确率显著提升。这一突破标志着预测科学进入新纪元，传统专家权威面临严峻挑战。"
+    },
+    {
+      "id": 14,
+      "title": "Every major tech layoff in 2026 that has name-checked AI",
+      "titleCN": "2026科技裁员潮：AI成最大借口，巨头集体洗牌",
+      "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-06T18:35:00.000Z",
+      "summary": "TechCrunch盘点2026年主要科技公司裁员，发现“拥抱AI”成为高频辞令。AI重构组织逻辑引发行业震荡，传统岗位加速消失，人才结构面临剧烈重塑。"
+    },
+    {
+      "id": 15,
+      "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
+      "titleCN": "Google 被曝默认利用用户数据训练 AI，官方提供退出机制引争议",
+      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-06T17:04:58.000Z",
+      "summary": "TechCrunch 指出 Google 搜索默认将用户数据用于 AI 训练，虽开放退出选项，但隐私担忧加剧，引发用户对科技巨头数据垄断的强烈不满。"
+    },
+    {
+      "id": 16,
+      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
+      "titleCN": "欧洲AI创业变天？Station F引爆 hottest 初创潮，谁在领跑？",
+      "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-06T13:00:00.000Z",
+      "summary": "法国Station F加速崛起为欧洲AI初创核心枢纽，汇聚最炙手可热项目，重塑大陆科技版图，竞争格局面临洗牌。"
+    },
+    {
+      "id": 17,
+      "title": "Kennel – Keep Your AI Agents Running Between Tasks",
+      "titleCN": "Karpathy 发布 Kennel，让 AI Agent 跨任务持续运行，告别状态丢失",
+      "url": "https://github.com/eranif/kennel",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-06T21:48:09.000Z",
+      "summary": "前 Tesla AI 总监 Karpathy 推出 Kennel，解决 Agent 任务间状态保持难题。该工具旨在实现长周期智能体工作流，引发开发者对持久化 Agent 架构的热议。"
+    },
+    {
+      "id": 18,
+      "title": "x.ai Voice Agent Builder",
+      "titleCN": "x.ai 推出语音智能体构建器，AI 交互再进化",
+      "url": "https://x.ai/voice",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-06T21:44:04.000Z",
+      "summary": "x.ai 发布全新语音智能体构建工具，降低开发门槛。此举旨在加速多模态 AI 应用落地，引发开发者对下一代人机交互方式的关注。"
+    },
+    {
+      "id": 19,
+      "title": "Attribute Knowledge RAG Pattern for Governed AI Agents",
+      "titleCN": "Karpathy 新范式：Attribute Knowledge RAG 让 AI Agent 治理变天",
+      "url": "https://superml.dev/attribute-knowledge-rag-pattern-llm-governed-attributes",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-06T21:40:45.000Z",
+      "summary": "Karpathy 提出 Attribute Knowledge RAG 模式，通过结构化属性增强检索，解决 AI Agent 幻觉难题，为可控智能体开发树立新标杆。"
+    },
+    {
+      "id": 20,
+      "title": "JadePuffer ransomware used AI agent to automate attack",
+      "titleCN": "勒索软件JadePuffer引入AI代理自动化攻击，黑客攻防战再升级",
+      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-06T21:32:34.000Z",
+      "summary": "JadePuffer勒索软件利用AI代理实现攻击流程自动化，大幅提升作案效率与隐蔽性，标志着恶意软件向智能化演进，网络安全防御面临全新挑战。"
+    }
+  ]
+}
