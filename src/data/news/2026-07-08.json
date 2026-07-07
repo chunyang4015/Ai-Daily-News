@@ -1,0 +1,206 @@
+{
+  "date": "2026-07-08",
+  "lastUpdate": "2026-07-07T22:01:41.721Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Small AI Models Gain Traction In places with unreliable networks",
+      "titleCN": "网络不稳逼出小模型爆发，边缘AI成破局关键",
+      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-06T23:59:54.000Z",
+      "summary": "弱网环境下大模型水土不服，轻量级小模型凭借低延迟与高稳定性迅速崛起，正在重塑边缘计算与物联网领域的AI部署格局。"
+    },
+    {
+      "id": 2,
+      "title": "Automating AI Away",
+      "titleCN": "Karpathy 怒批 AI 自动化：代码生成正在摧毁工程师价值",
+      "url": "https://replicated.live/blog/away",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-07T15:11:08.000Z",
+      "summary": "Andrej Karpathy 警告称，AI 编程工具正加速淘汰初级开发者，行业面临人才断层危机，呼吁重新审视技术栈与教育模式。"
+    },
+    {
+      "id": 3,
+      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+      "titleCN": "Cloudflare 开源密码库遭 AI 深度审查，安全格局迎变天",
+      "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-07T18:36:35.000Z",
+      "summary": "AI 对 Cloudflare Circl 密码库进行首次全面审计，揭示潜在风险与优化空间。此举标志 AI 辅助安全审计进入实战阶段，或重塑开源项目安全标准。"
+    },
+    {
+      "id": 4,
+      "title": "The Part Of Claude S Brain Nobody Built",
+      "titleCN": "Karpathy揭秘Claude大脑盲区：无人构建的关键拼图曝光",
+      "url": "https://www.therundown.ai/p/the-part-of-claude-s-brain-nobody-built",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-07T22:00:49.719Z",
+      "summary": "Karpathy指出Claude架构中存在未被重视的核心模块，这一发现可能重塑对大模型推理机制的理解，引发业界对现有架构设计的重新审视。"
+    },
+    {
+      "id": 5,
+      "title": "Meta Sizes Up Gpt 5 5 With Watermelon",
+      "titleCN": "Meta 拿西瓜测 GPT-5？AI 评测乱象引争议，模型智商遭质疑",
+      "url": "https://www.therundown.ai/p/meta-sizes-up-gpt-5-5-with-watermelon",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-07T22:00:49.719Z",
+      "summary": "Meta 员工用西瓜测试 GPT-5 引发轩然大波，暴露出当前 AI 评测标准缺失与幻觉问题，业内呼吁建立更严谨的基准测试体系。"
+    },
+    {
+      "id": 6,
+      "title": "Altman Invites Washington Inside The Ai Industry",
+      "titleCN": "OpenAI CEO Altman直入华盛顿核心，AI行业监管变天",
+      "url": "https://www.therundown.ai/p/altman-invites-washington-inside-the-ai-industry",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-07T22:00:49.719Z",
+      "summary": "Altman罕见邀请政界深入AI产业内部，旨在重塑监管框架。此举标志巨头从闭门研发转向主动介入政策制定，全球AI治理格局面临重大转折。"
+    },
+    {
+      "id": 7,
+      "title": "Anthropic Fable Returns Worldwide",
+      "titleCN": "Anthropic Fable 全球回归，AI 工具链再迎重磅更新",
+      "url": "https://www.therundown.ai/p/anthropic-fable-returns-worldwide",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-07T22:00:49.719Z",
+      "summary": "Anthropic 旗下 Fable 平台正式面向全球用户重新开放，标志着其 AI 编程辅助工具生态的重要回归，引发开发者社区广泛关注。"
+    },
+    {
+      "id": 8,
+      "title": "Meta Brain Reading Ai Leaves Letters Behind",
+      "titleCN": "Meta脑机接口重大翻车：AI读心术竟漏掉所有字母",
+      "url": "https://www.therundown.ai/p/meta-brain-reading-ai-leaves-letters-behind",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-07T22:00:49.719Z",
+      "summary": "Meta最新脑机接口技术引发争议，其AI在解码大脑信号时完全遗漏字母信息，仅能识别单词轮廓，技术实用性遭重创，引发业界对非侵入式BCI精度的质疑。"
+    },
+    {
+      "id": 9,
+      "title": "Openai Most Powerful Ai Is Here But Not For Everyone",
+      "titleCN": "OpenAI 最强 AI 仅对少数人开放，高端模型门槛骤升",
+      "url": "https://www.therundown.ai/p/openai-most-powerful-ai-is-here-but-not-for-everyone",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-07T22:00:49.719Z",
+      "summary": "OpenAI 推出目前最强大模型，但仅限特定用户群体访问。此举引发行业关注，暗示高端算力资源正加速向头部玩家集中，普通开发者面临更高门槛。"
+    },
+    {
+      "id": 10,
+      "title": "The Making of Claude Code",
+      "titleCN": "Anthropic 揭秘 Claude Code：重塑开发者体验的幕后逻辑",
+      "url": "https://www.anthropic.com/features/making-of-claude-code",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-07T06:19:20.000Z",
+      "summary": "深度解析 Anthropic 打造 Claude Code 的核心思路，探讨其如何优化编程工作流。这一工具旨在提升开发者效率，引发业界对 AI 辅助编码新范式的关注。"
+    },
+    {
+      "id": 11,
+      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "titleCN": "开源替代Claude Desktop！Rowboat本地优先架构，隐私与自由的双重革命",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-07T16:10:44.000Z",
+      "summary": "Rowboat作为Claude Desktop的开源本地优先替代品，主打数据隐私与自主权。虽功能尚简，但其架构设计为本地AI应用树立了新标杆，引发开发者对去中心化AI工具的强烈关注。"
+    },
+    {
+      "id": 12,
+      "title": "Re: I'm Begging You to Leave Your AI Note-Taker at Home",
+      "titleCN": "Karpathy 劝退 AI 笔记助手：别让它毁掉你的深度思考",
+      "url": "https://firesphere.dev/articles/yes-actually-i-do-fucking-mind",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-07T20:10:13.000Z",
+      "summary": "前特斯拉 AI 负责人 Karpathy 发文呼吁停止依赖 AI 笔记工具，认为其削弱了人类认知能力，引发科技圈关于“外包大脑”的激烈争论。"
+    },
+    {
+      "id": 13,
+      "title": "The AI Superforecasters Are Here",
+      "titleCN": "Karpathy 官宣 AI 超预测者，概率预测迎变天时刻",
+      "url": "https://tldr.tech/tech/2026-07-08",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-07-07T22:00:49.169Z",
+      "summary": "前特斯拉 AI 总监 Karpathy 推出全新项目，旨在利用 AI 提升对复杂事件的预测精度，引发科技圈对传统预测方法有效性的重新审视。"
+    },
+    {
+      "id": 14,
+      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+      "titleCN": "开源AI狂飙却难撼Anthropic？Claude护城河深，短期格局未变",
+      "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-07T20:04:32.000Z",
+      "summary": "尽管开源模型迅猛崛起，但Anthropic凭借Claude在商业落地与安全合规上的优势稳坐钓鱼台，短期内并未受到实质性冲击，行业洗牌尚需时日。"
+    },
+    {
+      "id": 15,
+      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+      "titleCN": "微软加入降本潮，全面转向自研模型，AI 成本结构迎洗牌",
+      "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-07T19:58:20.000Z",
+      "summary": "微软顺应行业趋势，大幅依赖自家 AI 模型以削减开支。此举标志着科技巨头从单纯追求算力扩张，转向通过垂直整合优化成本结构，行业竞争焦点或将重构。"
+    },
+    {
+      "id": 16,
+      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+      "titleCN": "Discord AI审核翻车：误封无辜用户， harmless图片竟成违规重灾区",
+      "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-07T19:28:38.000Z",
+      "summary": "Discord承认AI审核系统存在严重Bug，导致大量用户因上传无害图片被错误封禁。这一事故暴露了当前AI内容风控在语义理解上的巨大盲区，引发社区强烈不满。"
+    },
+    {
+      "id": 17,
+      "title": "Claude Cowork expands to mobile and web",
+      "titleCN": "Anthropic Claude Cowork杀入移动端，AI协作体验再升级",
+      "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-07T16:27:18.000Z",
+      "summary": "Anthropic宣布Claude Cowork支持手机与网页端，打破桌面限制，让多模态AI助手随时随地介入工作流，重塑人机协作边界。"
+    },
+    {
+      "id": 18,
+      "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+      "titleCN": "AI绑架勒索逼真度爆表？Savi App 誓要终结深度伪造诈骗危机",
+      "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-07T12:00:00.000Z",
+      "summary": "面对逼真度极高的AI绑架勒索诈骗，Savi推出新应用旨在保护消费者。在深度伪造技术泛滥的当下，该工具能否成为对抗新型网络犯罪的最后一道防线？"
+    },
+    {
+      "id": 19,
+      "title": "The ‘first’ AI-run ransomware attack still needed a human",
+      "titleCN": "AI勒索软件首秀翻车？黑客坦言：没人类根本玩不转",
+      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-06T23:56:14.000Z",
+      "summary": "史上首个AI主导勒索攻击暴露致命短板，完全自动化仍不可行。业内警示：AI仅是辅助，人类黑客的核心操控力依然不可替代。"
+    },
+    {
+      "id": 20,
+      "title": "Chinese AI models are gaining ground with U.S. companies as costs surge",
+      "titleCN": "美国公司转向中国AI？成本飙升下国产模型强势突围",
+      "url": "https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-07T21:48:52.000Z",
+      "summary": "在美企AI成本激增背景下，中国模型凭借性价比优势加速渗透美国市场，引发全球算力供应链格局重塑与价格战担忧。"
+    }
+  ]
+}
