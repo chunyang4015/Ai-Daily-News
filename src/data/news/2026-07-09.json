@@ -1,0 +1,206 @@
+{
+  "date": "2026-07-09",
+  "lastUpdate": "2026-07-08T22:01:41.669Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "GPT‑Live",
+      "titleCN": "OpenAI 发布 GPT-Live，实时语音交互炸裂，AI 助手体验彻底变天",
+      "url": "https://openai.com/index/introducing-gpt-live/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-08T17:03:19.000Z",
+      "summary": "OpenAI 推出 GPT-Live 支持超低延迟实时对话，打破传统聊天机器人交互壁垒。业内认为这将重塑人机交互范式，但初期稳定性仍待验证。"
+    },
+    {
+      "id": 2,
+      "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+      "titleCN": "GitLost曝GitHub AI代理安全漏洞，黑客诱骗其泄露私有仓库",
+      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-08T05:25:35.000Z",
+      "summary": "研究团队利用提示注入技术欺骗GitHub Copilot，成功获取私有代码库内容。此举暴露了企业级AI助手在权限隔离上的重大隐患，引发安全界高度警惕。"
+    },
+    {
+      "id": 3,
+      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+      "titleCN": "Mistral 发布 Robostral Navigate，刷新机器人导航 SOTA",
+      "url": "https://mistral.ai/news/robostral-navigate/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-08T14:09:17.000Z",
+      "summary": "Mistral 推出最新机器人导航模型 Robostral Navigate，确立行业新标杆。该模型在复杂环境感知与路径规划上实现突破，有望加速具身智能落地进程。"
+    },
+    {
+      "id": 4,
+      "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
+      "titleCN": "GPT-5.6 周四公开！OpenAI 携 Solana 生态重磅回归",
+      "url": "https://twitter.com/OpenAI/status/2074704958419792299",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-08T04:12:13.000Z",
+      "summary": "OpenAI 宣布 GPT-5.6 将于本周四正式面向公众发布，并整合 Solana 及 Terra/Luna 生态资源。此举标志着 OpenAI 在区块链集成上的重大战略推进，引发社区高度关注。"
+    },
+    {
+      "id": 5,
+      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+      "titleCN": "SWE-1.7 智近 GPT-5.5 与 Opus，开源代码智能迎爆发",
+      "url": "https://cognition.com/blog/swe-1-7",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-08T16:19:36.000Z",
+      "summary": "SWE-1.7 在代码智能上逼近 GPT-5.5 及 Opus，虽未完全超越，但标志着开源模型在复杂编程任务上的重大突破，引发社区对技术平权的热烈讨论。"
+    },
+    {
+      "id": 6,
+      "title": "The classifiers Anthropic puts in front of Fable are too zealous",
+      "titleCN": "Anthropic 审查太激进？Fable 遭拦截引争议，AI 安全边界再掀波澜",
+      "url": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-08T20:41:33.000Z",
+      "summary": "Hacker News 指出 Anthropic 前置分类器对 Fable 过度拦截，引发开发者不满。此举虽强化安全，却牺牲了可用性，折射出当前 AI 安全与效率的深层矛盾。"
+    },
+    {
+      "id": 7,
+      "title": "Meta Climbs The Ai Image Leaderboard",
+      "titleCN": "Meta 强势登顶 AI 图像榜单，开源霸权再扩圈",
+      "url": "https://www.therundown.ai/p/meta-climbs-the-ai-image-leaderboard",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-08T22:01:12.957Z",
+      "summary": "Meta 最新图像生成模型在权威评测中超越竞品登顶，巩固其开源生态主导地位，引发行业对闭源巨头护城河被侵蚀的担忧。"
+    },
+    {
+      "id": 8,
+      "title": "The Part Of Claude S Brain Nobody Built",
+      "titleCN": "Karpathy 揭秘 Claude 大脑盲区：无人构建的关键拼图",
+      "url": "https://www.therundown.ai/p/the-part-of-claude-s-brain-nobody-built",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-08T22:01:12.957Z",
+      "summary": "前特斯拉 AI 总监 Karpathy 指出 Anthropic 未构建 Claude 核心组件，引发对当前大模型架构局限性的深度反思，技术圈震动。"
+    },
+    {
+      "id": 9,
+      "title": "Meta Sizes Up Gpt 5 5 With Watermelon",
+      "titleCN": "Meta 拿西瓜测 GPT-5？Karpathy 吐槽 AI 幻觉，评测标准再遭质疑",
+      "url": "https://www.therundown.ai/p/meta-sizes-up-gpt-5-5-with-watermelon",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-08T22:01:12.957Z",
+      "summary": "Karpathy 发布视频用西瓜测试 GPT-5，揭露大模型在基础视觉任务上的严重幻觉。此举引发对当前 AI 评测体系可靠性的广泛讨论，Meta 借此暗讽竞品过度营销。"
+    },
+    {
+      "id": 10,
+      "title": "Altman Invites Washington Inside The Ai Industry",
+      "titleCN": "OpenAI CEO Altman邀华盛顿入局，AI行业监管变天？",
+      "url": "https://www.therundown.ai/p/altman-invites-washington-inside-the-ai-industry",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-08T22:01:12.957Z",
+      "summary": "OpenAI掌门人Sam Altman主动邀请美国政府深入介入AI产业，此举标志着科技巨头与监管层关系进入新阶段，行业合规门槛或将重塑。"
+    },
+    {
+      "id": 11,
+      "title": "Anthropic Fable Returns Worldwide",
+      "titleCN": "Anthropic Fable 全球回归，AI 搜索体验再掀波澜",
+      "url": "https://www.therundown.ai/p/anthropic-fable-returns-worldwide",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-08T22:01:12.957Z",
+      "summary": "Anthropic 旗下 AI 搜索产品 Fable 重新面向全球用户开放。此举标志着其在消费级应用层的进一步扩张，引发业界对 Claude 生态落地场景的新一轮关注。"
+    },
+    {
+      "id": 12,
+      "title": "Meta Brain Reading Ai Leaves Letters Behind",
+      "titleCN": "Meta脑机接口翻车？读取字母失败，AI解码大脑信号再遇瓶颈",
+      "url": "https://www.therundown.ai/p/meta-brain-reading-ai-leaves-letters-behind",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-08T22:01:12.957Z",
+      "summary": "Meta最新脑机接口研究未能准确解码字母，暴露出神经信号读取的技术局限。这一挫折凸显了非侵入式BCI在复杂语义理解上的巨大挑战，距离实用化仍有长路要走。"
+    },
+    {
+      "id": 13,
+      "title": "How to use AI agents better than 99% of people",
+      "titleCN": "Karpathy 亲授：99% 人用废了 AI Agent，高手这样碾压",
+      "url": "https://tldr.tech/tech/2026-07-09",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-07-08T22:01:12.305Z",
+      "summary": "前特斯拉 AI 总监 Karpathy 揭秘高效 Agent 工作流，指出多数用户仅停留在简单指令，掌握高级编排技巧者效率呈指数级跃升。"
+    },
+    {
+      "id": 14,
+      "title": "This startup thinks robotics is about to have its ChatGPT moment",
+      "titleCN": "机器人界的 ChatGPT 时刻？这家初创公司要引爆行业洗牌",
+      "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-08T19:19:15.000Z",
+      "summary": "TechCrunch 报道某初创企业认为机器人领域正迎来类似 ChatGPT 的爆发节点，预示行业即将进入高速变革期，引发广泛关注。"
+    },
+    {
+      "id": 15,
+      "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+      "titleCN": "Google Photos 新增 AI 视频混剪功能，自动重组素材引关注",
+      "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-08T18:30:08.000Z",
+      "summary": "Google Photos 推出 AI 'Video Remix' 工具，可自动识别照片并生成动态视频。此举旨在简化用户创作流程，引发关于 AI 自动化生成内容边界的热议。"
+    },
+    {
+      "id": 16,
+      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+      "titleCN": "Meta AI眼镜被指太诡异？其战略却暴露野心",
+      "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-08T17:11:18.000Z",
+      "summary": "Meta试图淡化AI眼镜带来的“恐怖谷”效应，但其最新AI战略文件显示，公司正加速推进全面智能化布局，引发隐私与伦理争议。"
+    },
+    {
+      "id": 17,
+      "title": "OpenAI releases new voice models for more natural live conversations",
+      "titleCN": "OpenAI发布全新语音模型，实时对话拟人度炸裂，交互体验迎来质变",
+      "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-08T17:00:00.000Z",
+      "summary": "OpenAI推出新一代语音模型，显著提升实时对话自然度与流畅性，旨在消除机器感。此举标志着AI交互从文本向高保真语音迈进，有望重塑人机沟通范式。"
+    },
+    {
+      "id": 18,
+      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+      "titleCN": "狂揽1.3亿美元！Prime Intellect融资，企业自建AI代理时代来了",
+      "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-08T16:22:38.000Z",
+      "summary": "Prime Intellect完成1.3亿美元A轮融资，旨在降低企业开发专属AI智能体的门槛。此举标志着AI应用从通用大模型向垂直化、私有化部署加速演进，引发行业对数据主权的新思考。"
+    },
+    {
+      "id": 19,
+      "title": "These AI startups are growing  revenue at faster and faster rates",
+      "titleCN": "AI初创公司营收狂飙，增速远超预期，行业洗牌加速",
+      "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-08T15:41:06.000Z",
+      "summary": "TechCrunch数据显示，一批AI初创企业营收呈指数级增长，远超传统软件公司，资本正疯狂涌入高增长赛道，行业竞争格局面临剧烈重构。"
+    },
+    {
+      "id": 20,
+      "title": "Nika – Intent as Code for AI Workflows",
+      "titleCN": "Karpathy 新作 Nika 引爆 AI 圈：将意图转化为代码，重塑工作流范式",
+      "url": "https://github.com/supernovae-st/nika",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-08T21:30:00.000Z",
+      "summary": "前特斯拉 AI 总监 Karpathy 发布 Nika，主张以代码形式定义 AI 意图。这一创新试图解决工作流编排痛点，引发开发者对下一代 AI 交互范式的激烈讨论。"
+    }
+  ]
+}
