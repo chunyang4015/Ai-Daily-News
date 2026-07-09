@@ -1,0 +1,206 @@
+{
+  "date": "2026-07-10",
+  "lastUpdate": "2026-07-09T22:03:12.266Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "GPT-5.6",
+      "titleCN": "GPT-5.6 惊现？Hacker News 热议未发布版本，AI 圈疑云重重",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-09T17:04:14.000Z",
+      "summary": "Hacker News 突发讨论 GPT-5.6，虽无官方证实，但引发社区对 OpenAI 迭代节奏的疯狂猜测，疑似内部泄露或误传，局势扑朔迷离。"
+    },
+    {
+      "id": 2,
+      "title": "I think I have LLM burnout",
+      "titleCN": "Karpathy 坦言 LLM 倦怠，AI 狂热退潮？",
+      "url": "https://www.alecscollon.com/blog/llm-burnout/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-09T01:56:28.000Z",
+      "summary": "知名 AI 专家 Karpathy 公开表达大模型疲劳感，折射行业从盲目追逐参数转向理性审视应用价值，技术泡沫或正面临重新洗牌。"
+    },
+    {
+      "id": 3,
+      "title": "ChatGPT Work",
+      "titleCN": "OpenAI 推出 ChatGPT Work，企业级 AI 助手正式落地",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-09T17:03:53.000Z",
+      "summary": "OpenAI 发布 ChatGPT Work，面向企业提供专属 AI 助手，支持私有数据集成与安全协作，标志着 AI 从消费级向企业级应用的关键一步。"
+    },
+    {
+      "id": 4,
+      "title": "AI content is everywhere on social media, especially LinkedIn",
+      "titleCN": "LinkedIn被AI内容淹没，社交网络彻底变天？",
+      "url": "https://www.pangram.com/blog/ai-in-your-feed",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-09T15:50:09.000Z",
+      "summary": "AI生成内容在社交媒体尤其是LinkedIn泛滥成灾，引发用户对平台真实性与内容质量的强烈担忧，社交生态面临重塑。"
+    },
+    {
+      "id": 5,
+      "title": "AI changes the economics of software rewrites",
+      "titleCN": "Karpathy 预言软件重写经济学巨变，AI 重构开发范式",
+      "url": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-09T05:46:50.000Z",
+      "summary": "前特斯拉 AI 总监 Karpathy 指出 AI 正重塑软件重写的经济逻辑，大幅降低重构成本，引发开发者对代码维护模式的深度反思。"
+    },
+    {
+      "id": 6,
+      "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
+      "titleCN": "Karpathy新作FableCut：零依赖浏览器视频编辑器，AI Agent可直接操控",
+      "url": "https://github.com/ronak-create/FableCut",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-09T13:23:10.000Z",
+      "summary": "前特斯拉AI总监Karpathy发布FableCut，主打零依赖架构，允许AI智能体直接在浏览器中驱动视频编辑，为自动化内容创作开辟新路径。"
+    },
+    {
+      "id": 7,
+      "title": "Meta Climbs The Ai Image Leaderboard",
+      "titleCN": "Meta 登顶 AI 图像榜单，开源霸权再扩张",
+      "url": "https://www.therundown.ai/p/meta-climbs-the-ai-image-leaderboard",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-09T22:00:38.539Z",
+      "summary": "Meta 凭借开源模型强势攀升 AI 图像生成排行榜，进一步巩固其在开源领域的统治地位，对闭源巨头构成直接挑战。"
+    },
+    {
+      "id": 8,
+      "title": "The Part Of Claude S Brain Nobody Built",
+      "titleCN": "Karpathy揭秘Claude大脑盲区：无人构建的关键拼图",
+      "url": "https://www.therundown.ai/p/the-part-of-claude-s-brain-nobody-built",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-09T22:00:38.539Z",
+      "summary": "前特斯拉AI总监Karpathy深入剖析Claude架构缺陷，指出其核心模块缺失导致推理瓶颈，引发业界对Anthropic技术路线的重新审视。"
+    },
+    {
+      "id": 9,
+      "title": "Meta Sizes Up Gpt 5 5 With Watermelon",
+      "titleCN": "Meta 用西瓜比喻 GPT-5，暗讽 OpenAI 新模型？AI 圈再掀口水战",
+      "url": "https://www.therundown.ai/p/meta-sizes-up-gpt-5-5-with-watermelon",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-09T22:00:38.539Z",
+      "summary": "Meta 高管以“西瓜”隐喻 GPT-5，暗示其外强中干。这一争议性言论引发 OpenAI 粉丝不满，凸显两大巨头在下一代模型竞争中的激烈博弈与舆论对抗。"
+    },
+    {
+      "id": 10,
+      "title": "Altman Invites Washington Inside The Ai Industry",
+      "titleCN": "OpenAI CEO Altman邀华盛顿入局AI，行业监管变天？",
+      "url": "https://www.therundown.ai/p/altman-invites-washington-inside-the-ai-industry",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-09T22:00:38.539Z",
+      "summary": "Altman主动邀请美国政府深入参与AI产业，标志行业从封闭走向公开。此举或加速监管落地，重塑AI与政策博弈格局。"
+    },
+    {
+      "id": 11,
+      "title": "Anthropic Fable Returns Worldwide",
+      "titleCN": "Anthropic Fable 全球回归，AI 搜索赛道再掀波澜",
+      "url": "https://www.therundown.ai/p/anthropic-fable-returns-worldwide",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-09T22:00:38.539Z",
+      "summary": "Anthropic 旗下 AI 搜索引擎 Fable 重新面向全球用户开放。此举标志着其在探索大模型应用边界上迈出关键一步，旨在通过自然语言交互重塑信息获取方式，引发业界对 AI 原生搜索潜力的关注。"
+    },
+    {
+      "id": 12,
+      "title": "Meta Brain Reading Ai Leaves Letters Behind",
+      "titleCN": "Meta脑机接口再翻车？读心AI竟漏掉字母，解码精度遭质疑",
+      "url": "https://www.therundown.ai/p/meta-brain-reading-ai-leaves-letters-behind",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-09T22:00:38.539Z",
+      "summary": "Meta最新脑机接口技术试图直接读取思维，却意外遗漏字母信息。这一缺陷暴露了神经解码在复杂语义理解上的瓶颈，引发业界对BCI实用性的重新审视。"
+    },
+    {
+      "id": 13,
+      "title": "You're not ambitious enough with Claude",
+      "titleCN": "Karpathy怒批Claude：你野心不够！AI格局再掀波澜",
+      "url": "https://tldr.tech/tech/2026-07-10",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-07-09T22:00:37.968Z",
+      "summary": "前特斯拉AI总监Karpathy公开批评Anthropic的Claude缺乏宏大愿景，直言其目标设定过于保守，引发社区对AI发展方向的激烈争论。"
+    },
+    {
+      "id": 14,
+      "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+      "titleCN": "马斯克力挺 Anthropic 旗下 Mythos，承诺绝不切断合作",
+      "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-09T21:57:42.000Z",
+      "summary": "Elon Musk 公开称赞 Anthropic 的 Mythos/Fable 项目，并明确承诺不会终止与该公司的合作关系，为双方未来协作定调。"
+    },
+    {
+      "id": 15,
+      "title": "Can AI answer the $3 trillion question?",
+      "titleCN": "AI 能否破解 3 万亿美元难题？TechCrunch 深度追问",
+      "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-09T21:47:50.000Z",
+      "summary": "TechCrunch 探讨 AI 在宏观经济预测中的潜力，直面 3 万亿美元规模的挑战，审视技术边界与现实落地的差距。"
+    },
+    {
+      "id": 16,
+      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+      "titleCN": "Meta 入局 AI 编程红海，Muse Spark 1.1 发布，代码助手赛道再掀波澜",
+      "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-09T19:40:45.000Z",
+      "summary": "Meta 推出 Muse Spark 1.1 加入拥挤的 AI 编码竞争，旨在通过优化开发者体验争夺市场份额，标志着大厂在编程辅助领域的新一轮内卷正式开启。"
+    },
+    {
+      "id": 17,
+      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+      "titleCN": "OpenAI 被曝在版权案中隐瞒证据，纽约时报揭露 ChatGPT 诉讼黑幕",
+      "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-09T19:05:58.000Z",
+      "summary": "《纽约时报》指控 OpenAI 在 ChatGPT 版权诉讼中刻意隐瞒关键证据，引发公众对科技巨头法律合规性的强烈质疑，案件走向再迎变数。"
+    },
+    {
+      "id": 18,
+      "title": "Google will now disclose which ads are made with AI",
+      "titleCN": "Google 强制 AI 广告标签化，透明度监管再升级",
+      "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-09T18:40:51.000Z",
+      "summary": "Google 宣布将披露由 AI 生成的广告内容，此举旨在提升平台透明度并回应监管压力，标志着 AI 内容标识进入强制合规阶段。"
+    },
+    {
+      "id": 19,
+      "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+      "titleCN": "Nvidia 豪掷 1 亿美元押注 Gradium，AI 语音赛道迎变天",
+      "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-09T18:34:35.000Z",
+      "summary": "法国初创公司 Gradium 获 Nvidia 领投 1 亿美元种子轮，彰显巨头对 AI 语音技术的极度看好，行业竞争格局或因此重塑。"
+    },
+    {
+      "id": 20,
+      "title": "In AI, the United States and China Are Racing in the Dark",
+      "titleCN": "中美AI竞速迷雾重重：暗战升级，谁在裸泳？",
+      "url": "https://acf.sais.jhu.edu/in-ai-the-united-states-and-china-are-racing-in-the-dark/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-09T21:07:22.000Z",
+      "summary": "报告揭示中美AI竞赛缺乏透明度，双方数据存疑。这种“盲盒式”竞争加剧地缘风险，全球监管面临巨大挑战，行业亟需建立可信基准。"
+    }
+  ]
+}
