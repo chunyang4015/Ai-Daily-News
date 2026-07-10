@@ -1,0 +1,206 @@
+{
+  "date": "2026-07-11",
+  "lastUpdate": "2026-07-10T22:02:51.645Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "AI-generated videos to maximally drive a target brain region",
+      "titleCN": "Karpathy 新作：AI 视频精准操控大脑神经元，神经调控迎来颠覆性突破",
+      "url": "https://nevo-project.epfl.ch/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-10T07:39:11.000Z",
+      "summary": "Andrej Karpathy 团队利用 AI 生成视频刺激特定脑区，实现高精度神经调控。这一技术有望彻底改变脑机接口与精神疾病治疗范式，引发学界震动。"
+    },
+    {
+      "id": 2,
+      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "titleCN": "GPT-5.6 Sol Ultra 炸裂证明循环双重覆盖猜想，AI 数学能力再掀波澜",
+      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-10T18:29:19.000Z",
+      "summary": "GPT-5.6 Sol Ultra 发布 PDF 证明循环双重覆盖猜想，虽未获学界即时验证，但展示惊人推理力，引发对 AI 数学突破潜力的热议。"
+    },
+    {
+      "id": 3,
+      "title": "How the terrorist group Boko Haram uses frontier AI",
+      "titleCN": "博科圣地滥用前沿AI，黑客论坛曝光恐怖组织技术黑幕",
+      "url": "https://casp.ac/reports/ai-enabled-terrorism",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-10T18:49:26.000Z",
+      "summary": "Hacker News 披露 Boko Haram 利用前沿 AI 技术优化行动，引发全球对恐怖主义技术化趋势的警惕，安全专家呼吁加强监管。"
+    },
+    {
+      "id": 4,
+      "title": "Ben Bernanke Joins Anthropic Oversight Trust",
+      "titleCN": "前美联储主席Bernanke加盟Anthropic监管信托，AI治理迎重磅背书",
+      "url": "https://www.anthropic.com/news/ben-bernanke",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-10T02:39:07.000Z",
+      "summary": "Bernanke加入Anthropic Oversight Trust，强化模型安全与透明度。此举为AI监管树立标杆，但也引发外界对巨头垄断治理话语权的担忧。"
+    },
+    {
+      "id": 5,
+      "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+      "titleCN": "GPT-5.6、Claude等四大模型同建4款App，AI同质化严重引热议",
+      "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-10T20:52:28.000Z",
+      "summary": "GPT-5.6、Grok 4.5、Claude及Muse Spark构建相同应用，凸显当前大模型在代码生成与逻辑推理上的高度趋同，引发关于AI创新瓶颈的讨论。"
+    },
+    {
+      "id": 6,
+      "title": "Don't discontinue Gemini 2.5 Flash",
+      "titleCN": "Hacker News 怒斥：别砍 Gemini 2.5 Flash，性价比碾压竞品",
+      "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-10T20:00:28.000Z",
+      "summary": "社区强烈反对停用 Gemini 2.5 Flash，认为其速度成本比极具竞争力。开发者警告此举将破坏生态，迫使企业转向其他廉价替代方案。"
+    },
+    {
+      "id": 7,
+      "title": "Openai Sends Gpt 5 6 To Work",
+      "titleCN": "OpenAI 罕见官宣 GPT-5/6 上线，打破沉默加速迭代引发热议",
+      "url": "https://www.therundown.ai/p/openai-sends-gpt-5-6-to-work",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-10T22:00:20.631Z",
+      "summary": "OpenAI 罕见公开部署 GPT-5 及 GPT-6 版本，终结此前保密策略。此举标志其加速产品迭代节奏，外界猜测或为应对竞争压力，AI 圈关注后续实际表现。"
+    },
+    {
+      "id": 8,
+      "title": "Meta Climbs The Ai Image Leaderboard",
+      "titleCN": "Meta 登顶 AI 图像榜单，开源霸权再立威",
+      "url": "https://www.therundown.ai/p/meta-climbs-the-ai-image-leaderboard",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-10T22:00:20.631Z",
+      "summary": "Meta 凭借开源模型强势登顶 AI 图像生成权威榜单，再次印证其技术统治力，引发行业对闭源巨头垄断地位的新一轮审视。"
+    },
+    {
+      "id": 9,
+      "title": "The Part Of Claude S Brain Nobody Built",
+      "titleCN": "Karpathy揭秘Claude大脑盲区：无人构建的关键拼图曝光",
+      "url": "https://www.therundown.ai/p/the-part-of-claude-s-brain-nobody-built",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-10T22:00:20.631Z",
+      "summary": "前特斯拉AI总监Karpathy指出Claude架构中被忽视的核心模块，引发业界对Anthropic设计哲学的深度反思，或成下一代模型突破关键。"
+    },
+    {
+      "id": 10,
+      "title": "Meta Sizes Up Gpt 5 5 With Watermelon",
+      "titleCN": "Meta 拿西瓜比肩 GPT-5？Karpathy 新论引爆 AI 圈，模型迭代逻辑彻底变天",
+      "url": "https://www.therundown.ai/p/meta-sizes-up-gpt-5-5-with-watermelon",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-10T22:00:20.631Z",
+      "summary": "Karpathy 以西瓜类比 GPT-5，暗示 Meta 在基础模型架构上实现关键突破。此举不仅挑战 OpenAI 霸权，更引发业界对下一代 AI 技术路线的激烈争论与重新评估。"
+    },
+    {
+      "id": 11,
+      "title": "Altman Invites Washington Inside The Ai Industry",
+      "titleCN": "OpenAI CEO Altman邀华盛顿入局，AI行业监管变天",
+      "url": "https://www.therundown.ai/p/altman-invites-washington-inside-the-ai-industry",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-10T22:00:20.631Z",
+      "summary": "Altman主动邀请政府深入AI核心，标志行业从封闭走向透明。此举或重塑监管格局，引发对AI治理权归属的激烈博弈与关注。"
+    },
+    {
+      "id": 12,
+      "title": "Anthropic Fable Returns Worldwide",
+      "titleCN": "Anthropic Fable 全球回归，AI 搜索体验重磅升级",
+      "url": "https://www.therundown.ai/p/anthropic-fable-returns-worldwide",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-10T22:00:20.631Z",
+      "summary": "Anthropic 旗下 AI 搜索引擎 Fable 重新面向全球用户开放，旨在提供更精准、实时的信息检索服务，引发业界对垂直领域 AI 应用前景的关注。"
+    },
+    {
+      "id": 13,
+      "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
+      "titleCN": "常春藤教授疑AI作弊强考现场，学生分数暴跌50%，学术诚信迎大考",
+      "url": "https://tldr.tech/tech/2026-07-11",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-07-10T22:00:20.062Z",
+      "summary": "常春藤盟校教授因怀疑AI代写取消线上考试改为现场笔试，结果学生平均分腰斩。这一极端举措引发热议，凸显高校在AI时代对学术诚信评估的困境与焦虑。"
+    },
+    {
+      "id": 14,
+      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+      "titleCN": "Hugging Face CEO直言：开源AI比以往更重要，闭源巨头垄断隐忧加剧",
+      "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-10T19:00:00.000Z",
+      "summary": "Clem Delangue强调开源是打破大厂壁垒的关键，呼吁开发者重视社区协作，认为缺乏开源将导致AI创新停滞与技术黑箱化风险激增。"
+    },
+    {
+      "id": 15,
+      "title": "Hugging Face’s CEO on why companies are done renting their AI",
+      "titleCN": "Hugging Face CEO断言：企业不再租赁AI，自建才是终局",
+      "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-10T14:00:00.000Z",
+      "summary": "HF CEO直言企业已厌倦租用AI服务，转向自建基础设施以掌控核心资产。这一观点折射出AI行业从SaaS向私有化部署的深刻转变，巨头博弈进入深水区。"
+    },
+    {
+      "id": 16,
+      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+      "titleCN": "微软Copilot换芯？OpenAI官宣GPT-5.6成首选，拆分传闻加剧",
+      "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-10T00:16:54.000Z",
+      "summary": "OpenAI确认GPT-5.6为微软Copilot 365首选模型，此举引发双方合作是否走向解体的猜测，AI巨头绑定关系面临重大转折。"
+    },
+    {
+      "id": 17,
+      "title": "Fidji Simo steps down from OpenAI’s No. 2 role",
+      "titleCN": "OpenAI二号人物Fidji Simo离职，高层动荡加剧？",
+      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-09T23:38:00.000Z",
+      "summary": "OpenAI首席运营官Fidji Simo卸任二号职位，引发外界对这家AI巨头内部战略调整及高层稳定性的广泛猜测。"
+    },
+    {
+      "id": 18,
+      "title": "OpenAI launches its new family of models with GPT-5.6",
+      "titleCN": "OpenAI 发布 GPT-5.6 系列，新一轮 AI 军备竞赛正式打响",
+      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-09T22:24:24.000Z",
+      "summary": "OpenAI 推出 GPT-5.6 新模型家族，旨在巩固其市场领先地位。此举标志着大厂在高端模型领域的竞争进一步白热化，行业格局面临重塑。"
+    },
+    {
+      "id": 19,
+      "title": "An AI agent startup just let its agent run its $100M fundraise",
+      "titleCN": "AI Agent 接管融资！初创公司让 AI 跑完 1 亿美元募资，行业炸裂",
+      "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-09T22:08:58.000Z",
+      "summary": "某 AI Agent 初创公司罕见让 AI 自主完成 1 亿美元融资流程，此举引发行业震动，标志着 AI 在商业核心决策中的角色从辅助转向主导，重塑创投生态。"
+    },
+    {
+      "id": 20,
+      "title": "Show HN: An MCP server that lets AI agents request disability insurance quotes",
+      "titleCN": "AI Agent 竟能自动买保险？MCP 服务器让残疾险报价自动化",
+      "url": "https://github.com/seaworthy-io/seaworthy-mcp",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-10T21:56:00.000Z",
+      "summary": "Show HN 项目展示 MCP 服务器使 AI 代理可直接请求残疾保险报价，实现保险流程自动化，引发对 AI 自主交易能力的关注。"
+    }
+  ]
+}
