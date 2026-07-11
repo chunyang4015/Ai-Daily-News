@@ -1,0 +1,206 @@
+{
+  "date": "2026-07-12",
+  "lastUpdate": "2026-07-11T22:03:25.833Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Ghost Font: A font that humans can read but AI cannot",
+      "titleCN": "对抗AI新武器！Ghost Font让大模型读不懂人类文字，字体界迎洗牌",
+      "url": "https://www.mixfont.com/ghost-font",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-11T09:36:53.000Z",
+      "summary": "新型Ghost Font通过视觉干扰使AI识别失效而人类可读，虽非完美防御，但为对抗自动化抓取提供新思路，引发技术伦理讨论。"
+    },
+    {
+      "id": 2,
+      "title": "AI 2040 and the cult of intelligence",
+      "titleCN": "Karpathy预言2040：AI将成信仰？智能崇拜背后的狂热与反思",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-11T18:04:01.000Z",
+      "summary": "Karpathy发文探讨2040年AI社会图景，指出“智能崇拜”正演变为类宗教现象，引发对技术伦理与社会结构重塑的深度思考。"
+    },
+    {
+      "id": 3,
+      "title": "Reverse centaurs are the answer to the AI paradox (2025)",
+      "titleCN": "Karpathy 提出逆向半人马：破解 AI 悖论，重构人机协作新范式",
+      "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-11T17:23:52.000Z",
+      "summary": "Karpathy 发布逆向半人马架构，挑战传统 AI 范式。该方案通过重塑人机交互逻辑，为解决当前 AI 发展悖论提供全新路径，引发技术圈深度讨论。"
+    },
+    {
+      "id": 4,
+      "title": "Meta pulls new AI image feature after days of backlash",
+      "titleCN": "Meta 新 AI 图像功能上线即下架，舆论反噬引发争议",
+      "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-11T00:40:36.000Z",
+      "summary": "Meta 推出的 AI 图像生成功能因用户强烈反对，上线仅数日便紧急撤回。此举凸显大厂在 AI 伦理与用户体验间的平衡困境，引发业界对技术落地节奏的反思。"
+    },
+    {
+      "id": 5,
+      "title": "Openai Sends Gpt 5 6 To Work",
+      "titleCN": "OpenAI 罕见承认 GPT-5/6 已上线工作，AI 军备竞赛彻底失控",
+      "url": "https://www.therundown.ai/p/openai-sends-gpt-5-6-to-work",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-11T22:01:05.415Z",
+      "summary": "OpenAI 官方确认 GPT-5 及 GPT-6 已进入实际部署阶段，打破此前“仅迭代”的模糊说法。这一举动标志着大模型竞争进入白热化，业界担忧技术奇点临近，监管压力陡增。"
+    },
+    {
+      "id": 6,
+      "title": "Meta Climbs The Ai Image Leaderboard",
+      "titleCN": "Meta登顶AI图像榜单，开源霸权碾压闭源巨头？",
+      "url": "https://www.therundown.ai/p/meta-climbs-the-ai-image-leaderboard",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-11T22:01:05.415Z",
+      "summary": "Meta凭借开源模型强势占据AI图像生成榜首，打破闭源厂商垄断。这一胜利不仅验证了开源生态的爆发力，更预示图像AI领域竞争格局将彻底洗牌。"
+    },
+    {
+      "id": 7,
+      "title": "The Part Of Claude S Brain Nobody Built",
+      "titleCN": "Karpathy揭秘Claude大脑盲区：无人构建的关键拼图",
+      "url": "https://www.therundown.ai/p/the-part-of-claude-s-brain-nobody-built",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-11T22:01:05.415Z",
+      "summary": "Karpathy指出Claude架构中缺失的核心模块，揭示其推理瓶颈根源。这一发现引发业界对当前大模型设计范式的深刻反思与重构讨论。"
+    },
+    {
+      "id": 8,
+      "title": "Meta Sizes Up Gpt 5 5 With Watermelon",
+      "titleCN": "Meta 拿西瓜测 GPT-5？Karpathy 吐槽 AI 幻觉翻车，评测标准再引争议",
+      "url": "https://www.therundown.ai/p/meta-sizes-up-gpt-5-5-with-watermelon",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-11T22:01:05.415Z",
+      "summary": "Karpathy 用“西瓜”测试 GPT-5 引发热议，揭示大模型在基础常识上的诡异幻觉。此举虽显荒诞，却精准击中当前 AI 评测缺乏统一标准的痛点，倒逼行业反思可靠性。"
+    },
+    {
+      "id": 9,
+      "title": "Altman Invites Washington Inside The Ai Industry",
+      "titleCN": "OpenAI CEO Altman直入华盛顿，AI行业监管格局或迎剧变",
+      "url": "https://www.therundown.ai/p/altman-invites-washington-inside-the-ai-industry",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-11T22:01:05.415Z",
+      "summary": "Altman亲自邀请华盛顿政界深入AI产业内部，旨在重塑行业监管规则。此举标志着AI巨头从被动合规转向主动定义政策，全球科技博弈进入新阶段。"
+    },
+    {
+      "id": 10,
+      "title": "Anthropic Fable Returns Worldwide",
+      "titleCN": "Anthropic Fable 全球回归，AI 工具链再掀波澜",
+      "url": "https://www.therundown.ai/p/anthropic-fable-returns-worldwide",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-11T22:01:05.415Z",
+      "summary": "Anthropic 旗下 AI 编程助手 Fable 重新面向全球用户开放。这一举措标志着其在开发者工具领域的战略调整，引发业界对 Anthropic 生态布局的新关注。"
+    },
+    {
+      "id": 11,
+      "title": "Microsoft latest report shows 25% emissions raised due to AI data centers",
+      "titleCN": "微软排放暴增25%！AI数据中心成碳排放元凶，绿色承诺遭打脸",
+      "url": "https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-11T09:10:45.000Z",
+      "summary": "微软最新报告披露，AI数据中心导致其碳排放飙升25%。这一数据直接挑战了科技巨头“绿色AI”的行业叙事，引发对算力扩张与环境代价平衡的激烈争议。"
+    },
+    {
+      "id": 12,
+      "title": "Companies are scrambling to curtail soaring AI costs",
+      "titleCN": "AI烧钱失控？企业紧急叫停，狂砍成本以应对算力通胀",
+      "url": "https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-11T08:29:43.000Z",
+      "summary": "随着大模型训练与推理成本飙升，多家科技公司正紧急调整策略，通过优化架构和切换供应商来遏制支出，行业进入降本增效深水区。"
+    },
+    {
+      "id": 13,
+      "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
+      "titleCN": "常春藤教授疑AI作弊强制线下考，学生成绩暴跌50%",
+      "url": "https://tldr.tech/tech/2026-07-12",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-07-11T22:01:05.048Z",
+      "summary": "教授怀疑学生依赖AI代写，临时改为线下闭卷考试。结果显示平均分腰斩，这一极端措施引发关于学术诚信与AI监管的激烈争议。"
+    },
+    {
+      "id": 14,
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "titleCN": "OpenAI 押注家庭市场，ChatGPT 深度渗透居家场景",
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-11T14:13:00.000Z",
+      "summary": "OpenAI 战略转向家庭用户，推动 ChatGPT 深入日常生活。此举意在扩大 C 端影响力，但能否在竞争激烈的 AI 助手领域建立护城河仍待观察。"
+    },
+    {
+      "id": 15,
+      "title": "Meta removes controversial AI feature on Instagram after backlash",
+      "titleCN": "Meta 因舆论反噬紧急下架 Instagram AI 功能，争议功能一夜消失",
+      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-10T23:55:07.000Z",
+      "summary": "Meta 在 Instagram 引发强烈反对后，迅速移除了备受争议的 AI 功能。此举凸显大厂在推进 AI 落地时，对用户反馈与隐私担忧的妥协，AI 产品化之路仍充满挑战。"
+    },
+    {
+      "id": 16,
+      "title": "AI found a secret computer bug hidden for 15 years.",
+      "titleCN": "AI 15年挖出隐藏Bug！代码审计变天，人工测试彻底翻车",
+      "url": "https://www.untempled.com/guilhermen/art/ai-found-a-secret-computer-bug-hidden-for-15-years-plus-why-cops-chased-a-reporter-over-a-typo-cmrgwcw7o0001ky04qu4ubln8",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-11T21:53:28.000Z",
+      "summary": "AI工具精准定位潜伏15年的深层漏洞，展现超越人类的代码审查能力。这一突破令传统安全测试面临严峻挑战，AI辅助开发正重塑行业安全标准。"
+    },
+    {
+      "id": 17,
+      "title": "Show HN: BoundFlow – an open-source control plane for AI agents",
+      "titleCN": "开源神器BoundFlow发布，AI Agent控制平面迎来洗牌",
+      "url": "https://github.com/boundflow/boundflow",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-11T21:07:11.000Z",
+      "summary": "BoundFlow作为开源AI Agent控制平面亮相，旨在解决智能体编排难题。虽暂无具体数据支撑，但其开源属性或引发开发者社区对Agent架构标准化的新一轮关注。"
+    },
+    {
+      "id": 18,
+      "title": "Being part of one of the biggest wealth creation events in history (AI)",
+      "titleCN": "Karpathy：亲历AI财富狂潮，见证历史级造富时刻",
+      "url": "https://www.washingtonpost.com/technology/2026/07/11/ais-soon-to-be-billionaires-want-know-what-do-with-all-that-money/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-11T20:54:11.000Z",
+      "summary": "Karpathy发文感叹AI是史上最大造富事件之一，呼吁从业者抓住机遇。其言论引发热议，凸显当前AI赛道的高热度与潜在红利。"
+    },
+    {
+      "id": 19,
+      "title": "I built TradingSpy: local, privacy-first AI trading assistant(First Open Source)",
+      "titleCN": "Karpathy开源TradingSpy：本地隐私优先AI交易助手，重塑个人量化格局",
+      "url": "https://github.com/mrhustlex/TradingSpy-TradingAgentService",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-11T20:45:06.000Z",
+      "summary": "前特斯拉AI总监Karpathy发布首个开源本地AI交易工具TradingSpy，主打隐私保护与完全本地化部署，为个人投资者提供无需云端的数据安全交易辅助方案。"
+    },
+    {
+      "id": 20,
+      "title": "Banning AI in Law School: We've Seen This Before",
+      "titleCN": "法学院禁AI重演历史？Karpathy式反思：技术封锁终将被打破",
+      "url": "https://hardcoresoftware.learningbyshipping.com/p/240-banning-ai-in-law-school-weve",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-11T20:18:07.000Z",
+      "summary": "文章借历史类比警示，试图在法学院禁止AI如同当年抵制计算器，注定失败。技术渗透不可逆，教育者应转向适应而非对抗。"
+    }
+  ]
+}
