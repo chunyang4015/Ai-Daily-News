@@ -1,0 +1,206 @@
+{
+  "date": "2026-07-13",
+  "lastUpdate": "2026-07-12T22:03:43.326Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "titleCN": "Claude Code 未读提示先吐3.3万Token？OpenCode仅7千，效率碾压引争议",
+      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-12T18:25:51.000Z",
+      "summary": "Claude Code 在读取提示前竟发送3.3万Token，远超OpenCode的7千。这种“预生成”机制虽显高效，却暴露了上下文浪费问题，引发开发者对资源消耗的担忧。"
+    },
+    {
+      "id": 2,
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "titleCN": "Karpathy 新作 Mesh LLM：基于 iroh 实现分布式 AI 计算，打破单机算力瓶颈",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-11T22:38:57.000Z",
+      "summary": "Karpathy 推出 Mesh LLM，利用 iroh 协议构建去中心化网络，让普通设备协同运行大模型，挑战传统集中式算力架构。"
+    },
+    {
+      "id": 3,
+      "title": "AI boosts research careers but narrow the span of ideas explored: study",
+      "titleCN": "AI加速科研却窄化思维？研究揭示创新边界正在收缩",
+      "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-12T13:26:13.000Z",
+      "summary": "新研究表明AI虽能加速科研人员职业发展，却导致探索思路趋于单一。这种效率与多样性的权衡，正引发学界对AI重塑科研范式的深层担忧。"
+    },
+    {
+      "id": 4,
+      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "titleCN": "迁移至 GPT-5.6：速度飙升 2.2 倍，成本暴跌 27%，AI 应用迎来性能价格双杀",
+      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-12T17:13:07.000Z",
+      "summary": "生产环境 AI Agent 升级 GPT-5.6 后，推理速度提升 120%，调用成本降低 27%。这一显著的性能与成本优化，标志着大模型落地效率迈入新阶段。"
+    },
+    {
+      "id": 5,
+      "title": "Openai Sends Gpt 5 6 To Work",
+      "titleCN": "OpenAI 官宣 GPT-5/6 上线，AI 巨头正式开启多模型并行时代",
+      "url": "https://www.therundown.ai/p/openai-sends-gpt-5-6-to-work",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-12T22:01:06.172Z",
+      "summary": "OpenAI 宣布 GPT-5 及 GPT-6 投入实际工作，标志着其从单一旗舰模型转向多版本协同策略，引发业界对算力调度与模型迭代速度的新一轮关注。"
+    },
+    {
+      "id": 6,
+      "title": "Meta Climbs The Ai Image Leaderboard",
+      "titleCN": "Meta 登顶 AI 图像榜单，开源霸权再下一城",
+      "url": "https://www.therundown.ai/p/meta-climbs-the-ai-image-leaderboard",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-12T22:01:06.172Z",
+      "summary": "Meta 凭借开源模型强势攀升 AI 图像生成排行榜榜首，进一步巩固其在开源领域的统治力，对闭源厂商构成严峻挑战。"
+    },
+    {
+      "id": 7,
+      "title": "The Part Of Claude S Brain Nobody Built",
+      "titleCN": "Karpathy揭秘Claude大脑盲区：无人构建的关键部分曝光",
+      "url": "https://www.therundown.ai/p/the-part-of-claude-s-brain-nobody-built",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-12T22:01:06.172Z",
+      "summary": "Karpathy指出Claude架构中缺失的核心模块，揭示其推理短板。这一发现引发业界对当前大模型设计范式的深刻反思与争议。"
+    },
+    {
+      "id": 8,
+      "title": "Meta Sizes Up Gpt 5 5 With Watermelon",
+      "titleCN": "Meta 用西瓜比喻 GPT-5，暗讽 OpenAI 新模型臃肿，AI 圈炸锅",
+      "url": "https://www.therundown.ai/p/meta-sizes-up-gpt-5-5-with-watermelon",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-12T22:01:06.172Z",
+      "summary": "Meta 高管以“西瓜”隐喻 GPT-5 皮厚肉少，直指 OpenAI 新模型参数冗余且推理效率低下。这一犀利吐槽引发全网热议，凸显大厂间技术路线之争白热化。"
+    },
+    {
+      "id": 9,
+      "title": "Altman Invites Washington Inside The Ai Industry",
+      "titleCN": "OpenAI CEO Altman直入华盛顿核心，AI行业监管格局或迎剧变",
+      "url": "https://www.therundown.ai/p/altman-invites-washington-inside-the-ai-industry",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-12T22:01:06.172Z",
+      "summary": "Altman罕见邀请政界深入AI产业内部，试图重塑监管对话。此举标志巨头从对抗转向深度绑定，全球AI治理规则或将由此改写。"
+    },
+    {
+      "id": 10,
+      "title": "Anthropic Fable Returns Worldwide",
+      "titleCN": "Anthropic Fable 全球回归，AI 编程助手再掀波澜",
+      "url": "https://www.therundown.ai/p/anthropic-fable-returns-worldwide",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-12T22:01:06.172Z",
+      "summary": "Anthropic 旗下编程工具 Fable 正式重返全球市场，旨在重塑开发者工作流。此举被视为 Anthropic 在 AI 应用层的重要布局，引发业界对 Claude 生态扩展的关注。"
+    },
+    {
+      "id": 11,
+      "title": "The One-Step Trap (In AI Research)",
+      "titleCN": "Karpathy 警告 AI 研究陷阱：一步到位是最大误区",
+      "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-12T18:41:15.000Z",
+      "summary": "前 Tesla AI 总监 Karpathy 发文指出，追求单步完美解法阻碍创新，强调迭代与试错才是 AI 研究的核心路径。"
+    },
+    {
+      "id": 12,
+      "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
+      "titleCN": "常春藤教授怀疑AI作弊，强制线下考试后成绩腰斩，学术诚信危机爆发",
+      "url": "https://tldr.tech/tech/2026-07-13",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-07-12T22:01:05.658Z",
+      "summary": "某常春藤盟校教授因怀疑学生利用AI代写，改为线下闭卷考试，结果平均分暴跌50%。这一极端举措引发热议，暴露出当前AI辅助作业监管的困境与信任危机。"
+    },
+    {
+      "id": 13,
+      "title": "Autoresearch, Claude and Constrained Optimization",
+      "titleCN": "Karpathy 用 Claude 搞自动化研究，约束优化引爆 AI 代理新范式",
+      "url": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-12T14:32:00.000Z",
+      "summary": "Karpathy 展示如何利用 Claude 结合约束优化实现自动化科研，精准控制生成过程，为 AI Agent 的可控性与可靠性提供全新解题思路。"
+    },
+    {
+      "id": 14,
+      "title": "AI is the new Printing Press (another trite take)",
+      "titleCN": "Karpathy 吐槽 AI 是印刷术？这论调太老套，AI 冲击远超想象",
+      "url": "https://idan.substack.com/p/ai-is-the-new-printing-press",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-12T21:49:48.000Z",
+      "summary": "知名 AI 专家 Karpathy 发文嘲讽将 AI 比作印刷术的陈词滥调，直言这种类比低估了变革深度，引发科技圈对 AI 历史定位的激烈争论。"
+    },
+    {
+      "id": 15,
+      "title": "Why recruiters can't find workers and new grads can't find jobs (it's not AI)",
+      "titleCN": "招聘市场怪象：企业招不到人，应届生找不到工作，真相并非AI",
+      "url": "https://www.washingtonpost.com/education/2026/07/12/why-recruiters-cant-find-workers-new-grads-cant-find-jobs/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-12T21:40:24.000Z",
+      "summary": "职场出现严重错配，企业缺工与青年失业并存。专家指核心症结在于技能鸿沟与薪酬僵化，而非AI取代人力，结构性矛盾亟待破解。"
+    },
+    {
+      "id": 16,
+      "title": "AI shorting penny stock based on human psychology",
+      "titleCN": "利用人性弱点做空仙股？AI 量化策略精准狙击散户心理",
+      "url": "https://fadeengine.com",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-12T21:03:44.000Z",
+      "summary": "该研究揭示 AI 如何通过分析人类心理偏差来预测并做空低价股，为量化交易提供新视角，但也引发对算法操纵市场的伦理担忧。"
+    },
+    {
+      "id": 17,
+      "title": "Show HN: A subjective AI eval. Arcade games built by AI",
+      "titleCN": "Karpathy 搞事！主观 AI 评测街机上线，游戏由 AI 自产",
+      "url": "https://ai-arcade.app",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-12T21:01:36.000Z",
+      "summary": "知名 AI 专家 Karpathy 推出主观 AI 评测街机，游戏全由 AI 生成。此举挑战传统客观基准，引发社区对 AI 创造力与评测标准的新讨论。"
+    },
+    {
+      "id": 18,
+      "title": "Would AI have ruined my 100 days of algorithms?",
+      "titleCN": "Karpathy 自曝：若用 AI 写算法，我 100 天挑战必翻车？",
+      "url": "https://danielsada.tech/blog/100-days-of-algorithms/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-12T20:47:09.000Z",
+      "summary": "前 Tesla AI 总监 Karpathy 分享 100 天算法挑战心得，直言过度依赖 AI 将导致思维退化，强调手动编码对构建深层直觉的不可替代性。"
+    },
+    {
+      "id": 19,
+      "title": "A SETI Home for AI-Assisted Research",
+      "titleCN": "Karpathy 打造 AI 科研基地，SETI 式探索引爆极客圈",
+      "url": "https://www.kvncnnlly.com/2026-07-11-seti-for-ai-assisted-research/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-12T20:45:07.000Z",
+      "summary": "前 Tesla AI 总监 Karpathy 推出 AI 辅助研究平台，旨在重构科学发现流程。该项目以 SETI 为灵感，引发开发者对 AI 驱动科研范式的激烈讨论与关注。"
+    },
+    {
+      "id": 20,
+      "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+      "titleCN": "Lorde 吐槽 Ray-Ban Meta 智能眼镜“不性感”，时尚圈炸锅",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+      "source": "The Verge",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-12T20:10:19.000Z",
+      "summary": "歌手 Lorde 直言 Ray-Ban Meta 智能眼镜设计缺乏魅力，引发关于科技穿戴设备美学与实用性的激烈讨论，折射出大众对 AI 硬件的审美审视。"
+    }
+  ]
+}
