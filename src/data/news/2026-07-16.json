@@ -1,0 +1,206 @@
+{
+  "date": "2026-07-16",
+  "lastUpdate": "2026-07-15T22:02:40.935Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "I tricked Claude into leaking your deepest, darkest secrets",
+      "titleCN": "Karpathy曝Claude隐私漏洞：诱导泄露用户最深秘密，AI安全再迎信任危机",
+      "url": "https://www.ayush.digital/blog/the-memory-heist",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-15T06:28:00.000Z",
+      "summary": "知名AI专家Karpathy演示如何通过提示词工程诱导Claude泄露用户隐私数据。该漏洞揭示大模型在指令遵循与安全边界间的脆弱平衡，引发业界对AI对齐技术的深度担忧。"
+    },
+    {
+      "id": 2,
+      "title": "OpenAI loses trademark dispute at EU court",
+      "titleCN": "OpenAI 欧盟商标诉讼惨败，品牌护城河被撕开缺口",
+      "url": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-15T14:32:36.000Z",
+      "summary": "OpenAI 在欧盟法院商标纠纷中失利，标志其全球品牌保护策略遭遇重大挫折。此举或引发连锁反应，迫使巨头重新审视知识产权布局，AI 行业合规成本恐将上升。"
+    },
+    {
+      "id": 3,
+      "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+      "titleCN": "AI语音诈骗仅需3秒？传统防御全面失效，安全防线遭遇降维打击",
+      "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-15T13:18:15.000Z",
+      "summary": "深度伪造语音可在3秒内绕过生物识别验证，现有防御机制在实时对抗中全面溃败，企业安全架构面临严峻重构压力。"
+    },
+    {
+      "id": 4,
+      "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+      "titleCN": "Brainless库让Shadcn组件秒变Claude/Grok风，UI设计彻底洗牌",
+      "url": "https://brainless.swerdlow.dev",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-15T19:42:53.000Z",
+      "summary": "Brainless提供类Claude Code与Grok风格的Shadcn组件，一键复刻顶尖AI产品视觉体验，降低前端开发门槛，重塑开发者界面审美标准。"
+    },
+    {
+      "id": 5,
+      "title": "Demis Hassabis Puts A Clock On Ai Oversight",
+      "titleCN": "Hassabis 给 AI 监管定倒计时？DeepMind 掌门人暗示监管窗口期将尽",
+      "url": "https://www.therundown.ai/p/demis-hassabis-puts-a-clock-on-ai-oversight",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-15T22:00:22.618Z",
+      "summary": "DeepMind 创始人 Demis Hassabis 公开表态，认为当前是建立全球 AI 监管框架的最后机会。若错过这一窗口期，技术失控风险将呈指数级上升，引发业界对治理滞后性的深度焦虑。"
+    },
+    {
+      "id": 6,
+      "title": "Economists Researchers Put Ai Job Shock On The Clock",
+      "titleCN": "经济学家测算AI就业冲击：岗位替代速度超预期，劳动力市场面临剧烈洗牌",
+      "url": "https://www.therundown.ai/p/economists-researchers-put-ai-job-shock-on-the-clock",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-15T22:00:22.618Z",
+      "summary": "研究量化AI对就业的即时冲击，揭示技术迭代速度远超预期，传统岗位加速流失，职场人需警惕结构性失业风险。"
+    },
+    {
+      "id": 7,
+      "title": "Apple Takes Openai To Court",
+      "titleCN": "苹果起诉 OpenAI！科技巨头正面硬刚，AI 法律战正式打响",
+      "url": "https://www.therundown.ai/p/apple-takes-openai-to-court",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-15T22:00:22.618Z",
+      "summary": "苹果正式对 OpenAI 提起诉讼，双方从竞争走向法庭对决。此举标志着 AI 领域巨头间的摩擦升级，或引发行业格局剧烈震荡。"
+    },
+    {
+      "id": 8,
+      "title": "Openai Sends Gpt 5 6 To Work",
+      "titleCN": "OpenAI 罕见官宣 GPT-5/6 已投入实战，AI 应用进入加速落地期",
+      "url": "https://www.therundown.ai/p/openai-sends-gpt-5-6-to-work",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-15T22:00:22.618Z",
+      "summary": "OpenAI 证实 GPT-5 及 GPT-6 已在内部工作流中运行，标志着下一代模型从实验室走向生产环境，引发业界对技术迭代速度的新一轮关注。"
+    },
+    {
+      "id": 9,
+      "title": "Meta Climbs The Ai Image Leaderboard",
+      "titleCN": "Meta登顶AI图像榜单，开源霸权碾压闭源巨头？",
+      "url": "https://www.therundown.ai/p/meta-climbs-the-ai-image-leaderboard",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-15T22:00:22.618Z",
+      "summary": "Meta凭借开源模型强势攀升AI图像生成排行榜，打破Stability AI与Midjourney垄断，引发行业对开源生态竞争力的重新评估。"
+    },
+    {
+      "id": 10,
+      "title": "The Part Of Claude S Brain Nobody Built",
+      "titleCN": "Karpathy 揭秘 Claude 大脑盲区：无人构建的关键拼图",
+      "url": "https://www.therundown.ai/p/the-part-of-claude-s-brain-nobody-built",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-15T22:00:22.618Z",
+      "summary": "Karpathy 指出 Claude 架构中存在未被重视的核心缺陷，这一发现挑战了 Anthropic 的设计逻辑，引发业界对当前大模型底层机制的重新审视。"
+    },
+    {
+      "id": 11,
+      "title": "Anthropic's newest ad is creeping people out",
+      "titleCN": "Anthropic 新广告令人毛骨悚然？AI 营销边界再引争议",
+      "url": "https://tldr.tech/tech/2026-07-16",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-07-15T22:00:22.111Z",
+      "summary": "Anthropic 最新广告因营造恐怖氛围引发用户不适，舆论哗然。此举虽旨在推广安全理念，却因过度惊悚引发反感，暴露出 AI 营销在伦理与吸引力间的艰难平衡。"
+    },
+    {
+      "id": 12,
+      "title": "AI Lays Bare the Authoritarianism of Modern Work. Time to Rethink Education",
+      "titleCN": "AI 撕开职场威权主义遮羞布，教育体系亟需颠覆",
+      "url": "https://www.techpolicy.press/ai-lays-bare-the-authoritarianism-of-modern-work-time-to-rethink-education/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-15T14:03:13.000Z",
+      "summary": "AI 暴露现代工作制度的专制本质，迫使社会重新审视教育模式，传统培养方式已无法适应人机协作新时代。"
+    },
+    {
+      "id": 13,
+      "title": "The OpenAI Bubble",
+      "titleCN": "OpenAI 泡沫破裂？HN 热议估值虚高，AI 巨头面临信任危机",
+      "url": "https://www.wheresyoured.at/the-openai-bubble/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-15T17:42:10.000Z",
+      "summary": "Hacker News 用户猛烈抨击 OpenAI 估值泡沫，质疑其商业化路径与道德承诺背离，引发业界对 AI 初创公司可持续性的深度反思。"
+    },
+    {
+      "id": 14,
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "titleCN": "OpenAI发布230美元键盘，硬件法律战中的硬核反击",
+      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-15T19:41:38.000Z",
+      "summary": "OpenAI在硬件诉讼风波中推出Codex专用键盘，售价230美元。此举被视为其向垂直硬件领域扩张的关键一步，引发业界对AI终端形态的新讨论。"
+    },
+    {
+      "id": 15,
+      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+      "titleCN": "Thinking Machines 首发开源模型 Inkling，向通用 AI 宣战",
+      "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-15T18:04:06.000Z",
+      "summary": "Thinking Machines 推出首个开源模型 Inkling，旨在打破“一刀切”式 AI 垄断。此举标志着其押注定制化路线的决心，试图在巨头林立的市场中开辟差异化赛道。"
+    },
+    {
+      "id": 16,
+      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+      "titleCN": "Suno 被曝偷学 YouTube？AI 音乐巨头数据合规再陷罗生门",
+      "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-15T17:00:34.000Z",
+      "summary": "技术调查指 Suno 训练数据疑似源自 YouTube，引发版权争议。若属实，将重创其商业信誉，AI 音乐赛道合规红线再被触碰。"
+    },
+    {
+      "id": 17,
+      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+      "titleCN": "微软靠AI狂修漏洞，创历史纪录，AI治理成双刃剑",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-15T16:20:18.000Z",
+      "summary": "微软称利用AI技术修复了创纪录数量的安全漏洞，彰显AI在代码审计中的高效价值，但也引发关于过度依赖自动化审查的隐私与安全争议。"
+    },
+    {
+      "id": 18,
+      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+      "titleCN": "苹果中国变天！Apple Intelligence 获批，联手阿里通义千问",
+      "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-15T15:29:33.000Z",
+      "summary": "Apple Intelligence 正式获准在中国落地，底层大模型由阿里通义千问（Qwen）提供技术支持，标志着苹果本土化战略的重大突破。"
+    },
+    {
+      "id": 19,
+      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+      "titleCN": "Anthropic押注企业服务未来，初创公司Ode能否颠覆传统IT格局？",
+      "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-15T15:00:00.000Z",
+      "summary": "Ode携手Anthropic，以AI服务重构企业IT基础设施。此举旨在通过自动化降低运营成本，引发行业对传统软件服务模式的深度反思与竞争洗牌。"
+    },
+    {
+      "id": 20,
+      "title": "AI Is Bayesian Evidence That We Live in a Simulation",
+      "titleCN": "Karpathy 力证：AI 是贝叶斯证据，我们正活在模拟世界中",
+      "url": "https://jamesfbaker.substack.com/p/ai-is-bayesian-evidence-that-we-live",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-15T21:54:56.000Z",
+      "summary": "前特斯拉 AI 总监 Karpathy 提出激进观点，认为 AI 的贝叶斯推理能力暗示现实本质为模拟。此论引发热议，虽缺乏实证，但折射出技术精英对存在本质的深层焦虑与哲学反思。"
+    }
+  ]
+}
