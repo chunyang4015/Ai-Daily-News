@@ -1,0 +1,206 @@
+{
+  "date": "2026-07-17",
+  "lastUpdate": "2026-07-16T22:03:44.463Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "At least 105 past YC founders have worked at OpenAI and Anthropic",
+      "titleCN": "YC 前创始人扎堆跳槽 OpenAI 和 Anthropic，超百人涌入巨头",
+      "url": "https://joinedanthropic.com",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-16T08:03:35.000Z",
+      "summary": "至少 105 位 Y Combinator 往届创始人现身 OpenAI 与 Anthropic，创业圈人才加速向头部大厂集中，独立创业浪潮面临严峻挑战。"
+    },
+    {
+      "id": 2,
+      "title": "NotebookLM is now Gemini Notebook",
+      "titleCN": "Google 更名 Gemini Notebook，AI 助手战略全面整合",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-16T16:08:13.000Z",
+      "summary": "Google 将 NotebookLM 正式更名为 Gemini Notebook，标志着其 AI 研究工具向核心模型深度整合，旨在强化 Gemini 生态的用户粘性与工作流渗透力。"
+    },
+    {
+      "id": 3,
+      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+      "titleCN": "Karpathy力挺LLM：批评者虽对，但我仍坚持使用",
+      "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-16T11:59:01.000Z",
+      "summary": "知名AI专家Karpathy承认大模型存在缺陷，批评者观点正确，但他基于实用主义仍坚持日常使用，引发关于技术接纳度的热议。"
+    },
+    {
+      "id": 4,
+      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+      "titleCN": "经典机器学习碾压LLM？新研究揭示检测AI生成文本的惊人真相",
+      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-16T16:41:37.000Z",
+      "summary": "研究证实传统ML在检测LLM生成文本上表现优异，甚至优于部分专用模型，挑战了当前依赖复杂深度学习检测的主流观点，引发技术路线反思。"
+    },
+    {
+      "id": 5,
+      "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
+      "titleCN": "德国联盟开源Soofi S，30B参数碾压基准测试，AI格局再洗牌",
+      "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-16T17:44:46.000Z",
+      "summary": "德国AI联盟发布Soofi S，这款30B参数开源模型在多项基准测试中登顶。其高性能表现引发关注，或成打破巨头垄断的新变量。"
+    },
+    {
+      "id": 6,
+      "title": "LLM Networking with MikroTik",
+      "titleCN": "Karpathy 新宠？MikroTik 竟成 LLM 网络调度神器，硬核玩家炸锅",
+      "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-15T22:23:27.000Z",
+      "summary": "开发者发现利用 MikroTik 路由器优化 LLM 流量分发，实现低延迟高可用。这一“野路子”方案引发社区热议，挑战传统云架构，展现边缘计算新可能。"
+    },
+    {
+      "id": 7,
+      "title": "Openai New 230 Ai Agent Control Pad",
+      "titleCN": "OpenAI 发布 AI Agent 控制板，230项功能重塑智能体交互范式",
+      "url": "https://www.therundown.ai/p/openai-new-230-ai-agent-control-pad",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-16T22:01:03.984Z",
+      "summary": "OpenAI推出全新Agent Control Pad，集成230个控制维度，大幅提升智能体操作精度与灵活性，标志着AI从对话向自主执行的关键跨越。"
+    },
+    {
+      "id": 8,
+      "title": "Demis Hassabis Puts A Clock On Ai Oversight",
+      "titleCN": "Hassabis 给 AI 监管定下死线？DeepMind 掌门人暗示监管窗口即将关闭",
+      "url": "https://www.therundown.ai/p/demis-hassabis-puts-a-clock-on-ai-oversight",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-16T22:01:03.984Z",
+      "summary": "DeepMind 创始人 Demis Hassabis 公开表态，认为全球 AI 监管框架若不能在近期确立，将面临巨大风险。这一言论引发业界对政策落地速度的紧迫讨论，暗示监管博弈进入倒计时。"
+    },
+    {
+      "id": 9,
+      "title": "Economists Researchers Put Ai Job Shock On The Clock",
+      "titleCN": "经济学家测算AI就业冲击：岗位替代速度远超预期，职场洗牌加速",
+      "url": "https://www.therundown.ai/p/economists-researchers-put-ai-job-shock-on-the-clock",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-16T22:01:03.984Z",
+      "summary": "研究量化AI对劳动力市场的冲击节奏，揭示自动化替代速度超出传统认知，预示行业结构性变革正以前所未有的速度重塑就业版图。"
+    },
+    {
+      "id": 10,
+      "title": "Apple Takes Openai To Court",
+      "titleCN": "苹果起诉 OpenAI！科技巨头正面硬刚，AI 行业格局或迎剧变",
+      "url": "https://www.therundown.ai/p/apple-takes-openai-to-court",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-16T22:01:03.984Z",
+      "summary": "苹果正式对 OpenAI 提起诉讼，标志两大巨头在 AI 领域的竞争从产品层面升级至法律战场，引发业界对隐私与知识产权边界的激烈讨论。"
+    },
+    {
+      "id": 11,
+      "title": "Openai Sends Gpt 5 6 To Work",
+      "titleCN": "OpenAI 官宣 GPT-5/6 上岗，AI 应用落地进入加速期",
+      "url": "https://www.therundown.ai/p/openai-sends-gpt-5-6-to-work",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-16T22:01:03.984Z",
+      "summary": "OpenAI 宣布 GPT-5 及 GPT-6 正式投入生产环境，标志着其最新模型从实验室走向大规模商业化应用，引发业界对下一代 AI 能力边界的重新评估。"
+    },
+    {
+      "id": 12,
+      "title": "Meta Climbs The Ai Image Leaderboard",
+      "titleCN": "Meta登顶AI图像榜单，Llama 3碾压竞品，开源格局再洗牌",
+      "url": "https://www.therundown.ai/p/meta-climbs-the-ai-image-leaderboard",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-16T22:01:03.984Z",
+      "summary": "Meta凭借Llama 3系列在最新AI图像生成评测中超越多家巨头，刷新开源模型性能天花板，引发业界对闭源垄断地位的重新审视。"
+    },
+    {
+      "id": 13,
+      "title": "How OpenAI's Sol Finally Learned Design Taste",
+      "titleCN": "OpenAI Sol 终于学会审美？设计品味大升级，AI 绘图迎来质变",
+      "url": "https://tldr.tech/tech/2026-07-17",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-07-16T22:01:03.059Z",
+      "summary": "OpenAI 最新 Sol 模型在视觉设计领域展现惊人进步，彻底摆脱早期‘土味’，其生成的图像构图与色彩搭配获业内高度认可，标志着 AI 创意工具迈入成熟阶段。"
+    },
+    {
+      "id": 14,
+      "title": "Google Vids now lets you star in your own AI videos",
+      "titleCN": "Google Vids大升级：AI视频让你亲自出演，内容创作彻底变天",
+      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-16T18:32:54.000Z",
+      "summary": "Google推出Vids新功能，支持用户以自身形象生成AI视频。这一突破打破传统制作门槛，引发对深度伪造技术滥用的担忧，行业监管面临新挑战。"
+    },
+    {
+      "id": 15,
+      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
+      "titleCN": "Roblox 移动端上线 AI 游戏创作，UGC 生态再迎颠覆性变革",
+      "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-16T18:22:06.000Z",
+      "summary": "Roblox 正式在移动端推出 AI 辅助游戏开发功能，大幅降低创作门槛。此举旨在加速 UGC 内容爆发，强化平台在元宇宙领域的竞争壁垒，引发行业对开发者生态重构的关注。"
+    },
+    {
+      "id": 16,
+      "title": "Google’s AI Mode now lets you link and interact with select apps",
+      "titleCN": "Google AI Mode集成应用交互，搜索体验迎重大升级",
+      "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-16T16:00:00.000Z",
+      "summary": "Google推出AI Mode新功能，支持用户链接并直接与选定应用程序互动，标志着搜索向应用生态整合迈出关键一步，有望重塑人机交互范式。"
+    },
+    {
+      "id": 17,
+      "title": "Why is OpenAI selling a ChatGPT basketball?",
+      "titleCN": "OpenAI 跨界卖篮球？ChatGPT 周边炸裂出圈，AI 巨头不再低调",
+      "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-16T15:31:09.000Z",
+      "summary": "OpenAI 推出印有 ChatGPT Logo 的篮球，引发全网热议。此举打破科技圈刻板印象，展现品牌营销新玩法，AI 巨头正以更具象方式渗透大众生活。"
+    },
+    {
+      "id": 18,
+      "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
+      "titleCN": "AMI Labs创始人拒称AGI：Alexandre LeBrun为何对‘超级智能’标签保持克制",
+      "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-16T14:40:00.000Z",
+      "summary": "面对行业狂热，AMI Labs创始人Alexandre LeBrun明确拒绝将自家AI冠以AGI或超级智能之名，强调技术边界与务实发展，引发关于AI定位的深度思考。"
+    },
+    {
+      "id": 19,
+      "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
+      "titleCN": "Kimi 3 剑指 Anthropic Opus 4.8，月之暗面能否终结巨头垄断？",
+      "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-16T14:26:29.000Z",
+      "summary": "Moonshot 即将发布 Kimi 3，旨在缩小与 Anthropic Opus 4.8 的性能差距。若成功，将打破头部模型壁垒，重塑国内 AI 竞争格局。"
+    },
+    {
+      "id": 20,
+      "title": "Show HN: Vektorgeist- A platform for AI operators and their agent's",
+      "titleCN": "Karpathy 新作 Vektorgeist 引爆 HN，AI Agent 运营平台来了",
+      "url": "https://vektorgeist.com/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-16T21:52:17.000Z",
+      "summary": "前 Tesla AI 总监 Karpathy 发布 Vektorgeist，专为 AI Operator 及其 Agent 设计的协作平台。旨在解决多智能体协同痛点，引发开发者对下一代人机协作范式的热烈讨论。"
+    }
+  ]
+}
