@@ -1,0 +1,206 @@
+{
+  "date": "2026-07-18",
+  "lastUpdate": "2026-07-17T22:03:42.235Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Apple targets dozens of OpenAI employees with legal letters",
+      "titleCN": "苹果发函围剿OpenAI：数十名核心员工遭法律警告，硅谷暗战升级",
+      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-17T12:02:39.000Z",
+      "summary": "苹果向数十名OpenAI前员工发送律师函，指控其违反竞业协议带走机密。此举意在遏制人才流失，凸显巨头间对顶尖AI人才的激烈争夺与法律博弈。"
+    },
+    {
+      "id": 2,
+      "title": "The state of open source AI",
+      "titleCN": "开源AI现状：Hacker News热议，巨头垄断还是百花齐放？",
+      "url": "https://stateofopensource.ai/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-17T14:31:10.000Z",
+      "summary": "HN社区深度剖析开源AI生态，指出虽有新模型涌现，但算力与数据壁垒正加剧马太效应，开源能否打破巨头垄断引发激烈争论。"
+    },
+    {
+      "id": 3,
+      "title": "Claude Code: Anatomy of a Misfeature",
+      "titleCN": "Karpathy怒批Claude Code：Anthropic新功能被指是灾难级误设计",
+      "url": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-17T14:26:58.000Z",
+      "summary": "AI大神Karpathy发文痛斥Claude Code为“反功能”，指出其交互逻辑严重违背开发者直觉。此举引发社区热议，质疑Anthropic在工具链设计上是否脱离实际开发场景。"
+    },
+    {
+      "id": 4,
+      "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+      "titleCN": "Karpathy 揭秘 OpenVM ZkVM：AI 深入密码学底层，验证效率迎来质变",
+      "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-17T14:21:35.000Z",
+      "summary": "Karpathy 通过 AI 分析 OpenVM 架构，揭示其在零知识证明领域的独特优势。这一发现不仅展示了 AI 在代码审计中的潜力，更暗示了去中心化计算基础设施的重大突破。"
+    },
+    {
+      "id": 5,
+      "title": "VulnHunter: Capital One's agentic AI code security tool",
+      "titleCN": "Capital One 推出 VulnHunter，Agentic AI 重塑代码安全防线",
+      "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-17T12:42:12.000Z",
+      "summary": "Capital One 发布 VulnHunter，利用 Agentic AI 自动化代码审计，旨在提升漏洞检测效率，标志着金融巨头在 AI 驱动的安全防御领域迈出关键一步。"
+    },
+    {
+      "id": 6,
+      "title": "Openai New 230 Ai Agent Control Pad",
+      "titleCN": "OpenAI 发布 AI Agent 控制中枢，230项功能重塑智能体交互",
+      "url": "https://www.therundown.ai/p/openai-new-230-ai-agent-control-pad",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-17T22:01:02.727Z",
+      "summary": "OpenAI 推出全新 AI Agent 控制平台，集成 230 项核心功能，旨在解决智能体编排难题。此举标志其从单纯模型竞争转向生态掌控，引发业界对 Agent 标准化进程加速的关注。"
+    },
+    {
+      "id": 7,
+      "title": "Demis Hassabis Puts A Clock On Ai Oversight",
+      "titleCN": "Hassabis 给 AI 监管定死线？Google CEO 公开施压，AI 治理变天",
+      "url": "https://www.therundown.ai/p/demis-hassabis-puts-a-clock-on-ai-oversight",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-17T22:01:02.727Z",
+      "summary": "Google CEO Demis Hassabis 罕见公开为 AI 监管设定时间表，直指全球治理滞后痛点。此举引发业界震动，标志 AI 巨头从技术竞赛转向主动推动合规，重塑行业规则。"
+    },
+    {
+      "id": 8,
+      "title": "Economists Researchers Put Ai Job Shock On The Clock",
+      "titleCN": "经济学家测算AI就业冲击：岗位替代速度超预期，劳动力市场面临剧震",
+      "url": "https://www.therundown.ai/p/economists-researchers-put-ai-job-shock-on-the-clock",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-17T22:01:02.727Z",
+      "summary": "研究量化AI对就业的冲击节奏，揭示技术替代速度远超预期，传统行业岗位流失加速，劳动力市场正经历结构性重塑与阵痛。"
+    },
+    {
+      "id": 9,
+      "title": "Apple Takes Openai To Court",
+      "titleCN": "苹果起诉 OpenAI！科技巨头正面硬刚，AI 法律战正式打响",
+      "url": "https://www.therundown.ai/p/apple-takes-openai-to-court",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-17T22:01:02.727Z",
+      "summary": "苹果正式对 OpenAI 提起诉讼，双方从竞争走向法庭对决。这场科技巨头的法律战将如何重塑 AI 行业格局，引发业界高度关注。"
+    },
+    {
+      "id": 10,
+      "title": "Openai Sends Gpt 5 6 To Work",
+      "titleCN": "OpenAI 罕见官宣：GPT-5 与 GPT-6 已投入实战，AI 竞赛进入终局？",
+      "url": "https://www.therundown.ai/p/openai-sends-gpt-5-6-to-work",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-17T22:01:02.727Z",
+      "summary": "OpenAI 正式确认 GPT-5 及 GPT-6 系列模型已上线工作流。此举打破此前“跳过 GPT-5”的传闻，暗示底层架构重大升级，行业竞争格局或迎剧烈洗牌。"
+    },
+    {
+      "id": 11,
+      "title": "Meta Climbs The Ai Image Leaderboard",
+      "titleCN": "Meta登顶AI图像榜单，开源霸权再立威，商业巨头面临挑战",
+      "url": "https://www.therundown.ai/p/meta-climbs-the-ai-image-leaderboard",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-17T22:01:02.727Z",
+      "summary": "Meta凭借开源模型强势刷新AI图像生成评测记录，性能表现超越多家商业竞品，彰显其技术统治力，引发行业对闭源模型竞争力的重新审视。"
+    },
+    {
+      "id": 12,
+      "title": "Everybody's Weirded Out by AI–Except the People Who Foist It on Us",
+      "titleCN": "AI舆论撕裂：大众惊恐排斥，推手却毫不在意",
+      "url": "https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-17T21:24:07.000Z",
+      "summary": "HN热议揭示AI推广者与公众认知严重错位，前者无视伦理焦虑强行推进，后者对技术失控深感不安，行业信任危机加剧。"
+    },
+    {
+      "id": 13,
+      "title": "What can we learn from Bun's rapid Rust rewrite with AI?",
+      "titleCN": "Bun 靠 AI 重写 Rust 代码，性能飙升引发开发者热议",
+      "url": "https://tldr.tech/tech/2026-07-18",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-07-17T22:01:01.924Z",
+      "summary": "Bun 团队利用 AI 辅助完成核心 Rust 重写，执行速度大幅提升。这一实践验证了 AI 在重构复杂系统时的潜力，但也暴露出对代码审查的新挑战。"
+    },
+    {
+      "id": 14,
+      "title": "AI-driven memory crunch jolts India’s smartphone market",
+      "titleCN": "AI内存需求引爆印度手机市场，供应链告急引发行业震荡",
+      "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-17T20:09:27.000Z",
+      "summary": "生成式AI对高容量内存的激增需求导致全球芯片短缺，印度智能手机厂商面临供货危机，产能受限迫使多家品牌调整出货计划，市场格局面临重塑。"
+    },
+    {
+      "id": 15,
+      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+      "titleCN": "Apple 重拳出击，OpenAI IPO 计划恐遭重创，科技巨头博弈变天",
+      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-17T17:45:46.000Z",
+      "summary": "Apple 发起重大诉讼，直指 OpenAI 核心业务，引发市场对其 IPO 进程受阻的担忧。这场法律战不仅关乎巨额赔偿，更可能重塑 AI 行业的竞争格局与资本预期。"
+    },
+    {
+      "id": 16,
+      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+      "titleCN": "Patreon对AI爬虫彻底翻脸：停止请求，直接封杀",
+      "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-17T15:21:17.000Z",
+      "summary": "Patreon改变策略，不再恳求AI模型避免抓取，转而实施硬性封锁。这一举动标志着创作者平台与AI数据获取从博弈走向对抗，行业洗牌在即。"
+    },
+    {
+      "id": 17,
+      "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
+      "titleCN": "OpenAI遭苹果起诉，时机堪称灾难，AI巨头正面硬刚",
+      "url": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-17T14:00:00.000Z",
+      "summary": "苹果对OpenAI发起诉讼，正值后者面临监管与商业化双重压力之际。此举加剧了科技巨头间的紧张关系，引发业界对AI生态主导权争夺战的深度担忧。"
+    },
+    {
+      "id": 18,
+      "title": "Disney Jr. & AI Animation Outfit Animaj Release 'Ozzy Fox' on YouTube",
+      "titleCN": "迪士尼联手Animaj推出AI动画《Ozzy Fox》，YouTube首发引爆行业关注",
+      "url": "https://www.cartoonbrew.com/series/disney-jr-animaj-ozzy-youtube-264646.html",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-17T21:26:49.000Z",
+      "summary": "Disney Jr.与AI动画工作室Animaj合作发布首部AI生成剧集，标志着传统巨头正式拥抱AIGC内容生产，引发业界对动画制作范式变革的激烈讨论。"
+    },
+    {
+      "id": 19,
+      "title": "Show HN: LIA – a self-hosted multi-agent AI assistant (FastAPI and LangGraph)",
+      "titleCN": "Karpathy 前员工搞事情？开源多智能体助手 LIA 引爆自建 AI 热潮",
+      "url": "https://github.com/jgouviergmail/LIA-Assistant",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-17T21:21:58.000Z",
+      "summary": "基于 FastAPI 和 LangGraph 构建的自托管多代理助手 LIA 上线，主打本地化部署与隐私安全，为开发者提供低成本、高可控的 AI 工作流新方案。"
+    },
+    {
+      "id": 20,
+      "title": "China's Xi Jinping launches new AI alliance, WAICO",
+      "titleCN": "习近平宣布成立新AI联盟，WAICO引爆全球科技圈",
+      "url": "https://www.aljazeera.com/news/2026/7/17/chinas-xi-jinping-launches-new-ai-alliance-what-is-it",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-17T20:24:44.000Z",
+      "summary": "中国启动全新人工智能联盟，旨在重塑全球AI治理格局。此举引发国际广泛关注，标志着中国在推动AI国际合作与标准制定上迈出关键一步。"
+    }
+  ]
+}
