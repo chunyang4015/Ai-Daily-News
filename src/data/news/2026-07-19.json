@@ -1,0 +1,206 @@
+{
+  "date": "2026-07-19",
+  "lastUpdate": "2026-07-18T22:02:53.750Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+      "titleCN": "AI监控反噬护理？Kaiser护士痛陈：技术加剧工作负担，患者护理质量下滑",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-17T22:26:30.000Z",
+      "summary": "Kaiser Permanente护士集体发声，指AI监控与追踪系统非但未提效，反而增加行政负担，导致医患互动减少。技术异化引发一线医疗人员强烈不满，质疑管理层的数字化决策。"
+    },
+    {
+      "id": 2,
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "titleCN": "GPT-5.6 炸裂！一键填补凸优化 30 年空白，AI 算力变天",
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-18T13:00:52.000Z",
+      "summary": "GPT-5.6 利用提示词解决凸优化领域长达 30 年的难题，展现惊人推理能力。此举不仅刷新 AI 极限，更预示算法领域将迎来颠覆性变革。"
+    },
+    {
+      "id": 3,
+      "title": "Why do AI company logos look like buttholes? (2025)",
+      "titleCN": "AI Logo 为何像屁股？Karpathy 吐槽引爆争议，大厂设计审美遭群嘲",
+      "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-18T11:06:50.000Z",
+      "summary": "Andrej Karpathy 发文质疑 AI 公司 Logo 酷似肛门，引发 Hacker News 激烈讨论。网友吐槽大厂盲目跟风，设计缺乏辨识度，审美陷入同质化泥潭。"
+    },
+    {
+      "id": 4,
+      "title": "What AI did to stackoverflow in a graph",
+      "titleCN": "Karpathy 揭秘 AI 如何重塑 Stack Overflow：代码问答彻底变天",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-18T11:12:46.000Z",
+      "summary": "Andrej Karpathy 深入剖析 AI 对 Stack Overflow 的冲击，指出传统问答模式正被生成式技术颠覆，开发者获取答案的方式迎来根本性变革。"
+    },
+    {
+      "id": 5,
+      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+      "titleCN": "GPT-5.6 Sol碾压Fable 5？/goal指令能否破解NP难題引热议",
+      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-18T11:00:29.000Z",
+      "summary": "Hacker News热议GPT-5.6 Sol与Fable 5在NP难问题上的对决，测试表明/gool指令显著提升推理表现，AI解题能力再迎突破。"
+    },
+    {
+      "id": 6,
+      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+      "titleCN": "Karpathy Claude Code 爆火，黑客揭秘：用闲置 Mac 远程操控 AI",
+      "url": "https://ykdojo.github.io/claude-controls-mac/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-18T16:12:08.000Z",
+      "summary": "Karpathy 力推 Claude Code 引发热潮，社区分享利用闲置 Mac 搭建远程控制环境的实操指南，降低本地算力门槛，加速 AI 编程落地。"
+    },
+    {
+      "id": 7,
+      "title": "Openai New 230 Ai Agent Control Pad",
+      "titleCN": "OpenAI 发布新控制板，230个AI Agent集中管理，自动化体验大升级",
+      "url": "https://www.therundown.ai/p/openai-new-230-ai-agent-control-pad",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-18T22:00:29.603Z",
+      "summary": "OpenAI推出全新AI Agent Control Pad，支持230个智能体集中管控，大幅提升多Agent协作效率，引发开发者对自动化工作流的重构热潮。"
+    },
+    {
+      "id": 8,
+      "title": "Demis Hassabis Puts A Clock On Ai Oversight",
+      "titleCN": "Hassabis 定调 AI 监管：谷歌 CEO 给出最后期限，行业洗牌在即",
+      "url": "https://www.therundown.ai/p/demis-hassabis-puts-a-clock-on-ai-oversight",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-18T22:00:29.603Z",
+      "summary": "Demis Hassabis 明确 AI 监管时间表，强调安全合规紧迫性。此举或加速全球 AI 治理标准化，重塑巨头竞争格局，引发业界对技术落地节奏的深度反思。"
+    },
+    {
+      "id": 9,
+      "title": "Economists Researchers Put Ai Job Shock On The Clock",
+      "titleCN": "经济学家实锤：AI 正在加速吞噬岗位，就业冲击倒计时开始",
+      "url": "https://www.therundown.ai/p/economists-researchers-put-ai-job-shock-on-the-clock",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-18T22:00:29.603Z",
+      "summary": "研究团队量化 AI 对劳动力的替代效应，揭示岗位流失速度远超预期，引发学界对技术失业潮的紧迫担忧。"
+    },
+    {
+      "id": 10,
+      "title": "Apple Takes Openai To Court",
+      "titleCN": "苹果起诉 OpenAI！科技巨头正面硬刚，AI 圈彻底变天",
+      "url": "https://www.therundown.ai/p/apple-takes-openai-to-court",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-18T22:00:29.603Z",
+      "summary": "苹果正式对 OpenAI 发起诉讼，双方从合作走向决裂。这场法律大战不仅关乎知识产权，更预示两大 AI 巨头在生态主导权上的激烈博弈，行业格局面临重塑。"
+    },
+    {
+      "id": 11,
+      "title": "Openai Sends Gpt 5 6 To Work",
+      "titleCN": "OpenAI 罕见承认 GPT-5/6已上线，AI 圈炸锅：这是测试还是正式商用？",
+      "url": "https://www.therundown.ai/p/openai-sends-gpt-5-6-to-work",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-18T22:00:29.603Z",
+      "summary": "OpenAI 官方确认 GPT-5 及 GPT-6 已在内部工作，打破此前“仅迭代”的说法。此举引发业界对模型真实进度与商业化节奏的激烈猜测，暗示底层架构或已发生巨变。"
+    },
+    {
+      "id": 12,
+      "title": "Meta Climbs The Ai Image Leaderboard",
+      "titleCN": "Meta 登顶 AI 图像榜单，开源霸权再进击",
+      "url": "https://www.therundown.ai/p/meta-climbs-the-ai-image-leaderboard",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-18T22:00:29.603Z",
+      "summary": "Meta 凭借开源模型强势攀升 AI 图像生成排行榜，进一步巩固其在开源社区的统治地位，对闭源巨头构成直接挑战。"
+    },
+    {
+      "id": 13,
+      "title": "How Anthropic runs large-scale code migrations with Claude Code",
+      "titleCN": "Anthropic 亲授：如何用 Claude Code 搞定大规模代码迁移",
+      "url": "https://tldr.tech/tech/2026-07-19",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-07-18T22:00:28.854Z",
+      "summary": "揭秘 Anthropic 内部实战经验，展示如何利用 Claude Code 自动化重构遗留代码库，大幅提升开发效率并降低人工维护成本，为工程团队提供可复用的迁移范式。"
+    },
+    {
+      "id": 14,
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "titleCN": "AI泡沫破裂？Neil Rimer断言资金正加速撤离，行业迎至暗时刻",
+      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-18T04:47:25.000Z",
+      "summary": "TechCrunch报道，知名投资人Neil Rimer警告称，此前涌入AI领域的巨额资本正在迅速回流，暗示市场可能面临估值回调与资金抽离的双重压力。"
+    },
+    {
+      "id": 15,
+      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+      "titleCN": "高管自掏6880美元买AI Agent？Vertu实测性能曝光，这钱花得值吗",
+      "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-17T22:55:09.000Z",
+      "summary": "Vertu要求高管支付6880美元试用其AI代理，实测发现性能平庸且溢价严重，高昂定价引发内部质疑，性价比极低。"
+    },
+    {
+      "id": 16,
+      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "titleCN": "估值狂飙至1880亿美元！Databricks坐稳AI第二春头把交椅",
+      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-17T22:12:56.000Z",
+      "summary": "Databricks估值突破1880亿美元，稳居AI领域“第二春”首选标的。其强劲增长印证了数据智能在AI浪潮中的核心地位，行业格局加速洗牌。"
+    },
+    {
+      "id": 17,
+      "title": "AI for Bug Bounty with VulneraMCP",
+      "titleCN": "VulneraMCP 引爆安全圈：AI 接管漏洞赏金，自动化挖洞变天",
+      "url": "https://www.zaproxy.org/blog/2025-11-28-enhancing-zap-with-ai-for-bug-bounty-hunting/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-18T21:20:59.000Z",
+      "summary": "VulneraMCP 利用 MCP 协议实现 AI 自动化漏洞挖掘，大幅降低赏金猎人门槛。这一工具引发行业震动，传统人工审计模式面临颠覆性挑战。"
+    },
+    {
+      "id": 18,
+      "title": "$20/Month: The Price Ceiling Every AI Company Copied",
+      "titleCN": "20美元月费成AI价格天花板？大厂集体跟风，行业洗牌在即",
+      "url": "https://qainsights.com/20-month-the-price-ceiling-every-ai-company-copied/",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-18T21:19:30.000Z",
+      "summary": "20美元/月成为AI服务定价基准，各大厂商纷纷跟进。这一策略虽降低门槛，但也压缩利润空间，预示行业进入激烈价格战阶段。"
+    },
+    {
+      "id": 19,
+      "title": "I asked a psychiatrist I know about the effects of AI",
+      "titleCN": "向精神科医生请教AI影响，结果令人深思",
+      "url": "https://teadrivendevelopment.substack.com/p/i-asked-a-psychiatrist-i-know-about",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-18T21:12:06.000Z",
+      "summary": "作者咨询专业精神科医生，探讨AI对心理健康的潜在冲击。对话揭示了技术狂飙下被忽视的心理代价，引发对人机关系深层反思。"
+    },
+    {
+      "id": 20,
+      "title": "Show HN: Graph Context Engine for Reliable AI",
+      "titleCN": "Karpathy 新作引爆 HN：Graph Context Engine 让 AI 告别幻觉",
+      "url": "https://kritama.com",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-18T21:10:20.000Z",
+      "summary": "前特斯拉 AI 总监 Karpathy 发布 Graph Context Engine，通过结构化知识图谱增强 LLM 上下文，旨在解决大模型可靠性难题，引发开发者热烈讨论。"
+    }
+  ]
+}
