@@ -1,0 +1,206 @@
+{
+  "date": "2026-07-20",
+  "lastUpdate": "2026-07-19T22:03:05.656Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
+      "titleCN": "纽约拟强制房东披露AI房源，算法中介面临透明化监管",
+      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-18T22:13:39.000Z",
+      "summary": "纽约市拟立法要求房东及中介在房源中明示是否使用AI生成描述，旨在遏制算法偏见与信息误导，引发行业对合规成本的担忧。"
+    },
+    {
+      "id": 2,
+      "title": "AI Mania Is Eviscerating Global Decision-Making",
+      "titleCN": "AI狂热正在肢解全球决策：从理性到疯狂的警示",
+      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-19T01:29:19.000Z",
+      "summary": "文章指出AI热潮正导致全球决策机制失效，过度依赖算法引发系统性风险，呼吁回归人类理性判断以遏制技术失控。"
+    },
+    {
+      "id": 3,
+      "title": "Claude Code uses Bun written in Rust now",
+      "titleCN": "Anthropic 彻底换血！Claude Code 底层改用 Rust 编写 Bun，性能炸裂",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-19T10:03:23.000Z",
+      "summary": "Anthropic 宣布 Claude Code 核心引擎迁移至 Rust 实现的 Bun 运行时，旨在解决原有瓶颈。此举标志着其开发工具链的重大技术重构，有望显著提升代码生成与执行效率，引发开发者对底层架构优化的关注。"
+    },
+    {
+      "id": 4,
+      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+      "titleCN": "OpenAI 砍掉 10 万 Token！Codex 上下文腰斩，开发者直呼变天",
+      "url": "https://github.com/openai/codex/pull/33972/files",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-19T07:54:39.000Z",
+      "summary": "OpenAI 将 Codex 模型上下文窗口从 372k 骤降至 272k，虽未明言原因，但此举直接削弱长文档处理能力，引发开发者对 API 稳定性及成本策略的强烈质疑。"
+    },
+    {
+      "id": 5,
+      "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+      "titleCN": "Kimi K3需求爆炸，Moonshot AI紧急停更订阅，算力瓶颈现形",
+      "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-19T16:02:25.000Z",
+      "summary": "因Kimi K3模型引发用户抢购潮，Moonshot AI被迫暂停新用户订阅。这一突发状况折射出国产大模型在推理能力突破后，面临的巨大算力压力与市场狂热。"
+    },
+    {
+      "id": 6,
+      "title": "Openai New 230 Ai Agent Control Pad",
+      "titleCN": "OpenAI 发布 AI Agent 控制中枢，230项新功能引爆开发者生态",
+      "url": "https://www.therundown.ai/p/openai-new-230-ai-agent-control-pad",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-19T22:00:41.407Z",
+      "summary": "OpenAI 推出全新 Agent 控制面板，集成230项核心功能，大幅降低智能体开发门槛。此举旨在重塑人机交互范式，引发业界对自动化工作流变革的激烈讨论。"
+    },
+    {
+      "id": 7,
+      "title": "Demis Hassabis Puts A Clock On Ai Oversight",
+      "titleCN": "Hassabis 定调 AI 监管：谷歌 CEO 给出最后期限，行业洗牌在即",
+      "url": "https://www.therundown.ai/p/demis-hassabis-puts-a-clock-on-ai-oversight",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-19T22:00:41.407Z",
+      "summary": "Demis Hassabis 明确表态 AI 监管时间表，引发全球对安全与伦理边界的激烈讨论。这一强硬立场或加速行业合规进程，重塑巨头博弈格局。"
+    },
+    {
+      "id": 8,
+      "title": "Economists Researchers Put Ai Job Shock On The Clock",
+      "titleCN": "经济学家算账：AI 就业冲击倒计时，岗位替代速度远超预期",
+      "url": "https://www.therundown.ai/p/economists-researchers-put-ai-job-shock-on-the-clock",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-19T22:00:41.407Z",
+      "summary": "研究团队量化 AI 对劳动力市场的侵蚀速度，数据显示自动化替代效应正在加速，传统职业面临前所未有的结构性失业风险，行业洗牌在即。"
+    },
+    {
+      "id": 9,
+      "title": "Apple Takes Openai To Court",
+      "titleCN": "苹果起诉 OpenAI！AI 巨头正面硬刚，科技圈格局生变",
+      "url": "https://www.therundown.ai/p/apple-takes-openai-to-court",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-19T22:00:41.407Z",
+      "summary": "苹果正式对 OpenAI 提起诉讼，双方从竞争走向法律对抗。这场世纪诉讼将重塑 AI 行业权力版图，引发业界高度关注。"
+    },
+    {
+      "id": 10,
+      "title": "Openai Sends Gpt 5 6 To Work",
+      "titleCN": "OpenAI 官宣 GPT-5/6 上岗，AI 应用落地进入加速期",
+      "url": "https://www.therundown.ai/p/openai-sends-gpt-5-6-to-work",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-19T22:00:41.407Z",
+      "summary": "OpenAI 正式宣布 GPT-5 及 GPT-6 模型投入实际工作流，标志着下一代 AI 能力从实验室走向大规模商业化部署，引发行业对智能体应用的新一轮关注。"
+    },
+    {
+      "id": 11,
+      "title": "Meta Climbs The Ai Image Leaderboard",
+      "titleCN": "Meta 登顶 AI 图像榜单，开源霸权再立威",
+      "url": "https://www.therundown.ai/p/meta-climbs-the-ai-image-leaderboard",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-19T22:00:41.407Z",
+      "summary": "Meta 凭借开源模型强势攀升 AI 图像生成排行榜首位，进一步巩固其在开源领域的统治地位，对闭源厂商构成直接挑战。"
+    },
+    {
+      "id": 12,
+      "title": "LLM-Integrated Multivariable Calculus Course",
+      "titleCN": "Karpathy 前同事推出 LLM 微积分课，AI 重构教育引发热议",
+      "url": "https://calculus.academa.ai/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-19T02:55:43.000Z",
+      "summary": "Hacker News 热帖曝光将大模型融入多变量微积分课程，探索 AI 辅助教学新范式，引发开发者对传统教育模式被颠覆的深度讨论。"
+    },
+    {
+      "id": 13,
+      "title": "How Anthropic runs large-scale code migrations with Claude Code",
+      "titleCN": "Anthropic 亲授：用 Claude Code 搞定大规模代码迁移，效率碾压传统方式",
+      "url": "https://tldr.tech/tech/2026-07-20",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-07-19T22:00:40.398Z",
+      "summary": "Anthropic 分享利用 Claude Code 自动化重构遗留代码库实战，大幅降低人工干预成本，为开发者提供高效迁移范式，重塑工程工作流。"
+    },
+    {
+      "id": 14,
+      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "titleCN": "Apple起诉OpenAI，硬件计划恐遭重创？",
+      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-19T19:24:45.000Z",
+      "summary": "Apple对OpenAI发起诉讼，引发外界对OpenAI硬件战略能否顺利推进的担忧，这一法律纠纷可能成为其发展道路上的重大阻碍。"
+    },
+    {
+      "id": 15,
+      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+      "titleCN": "诺兰怒批AI是特洛伊木马，直言其本质危险",
+      "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-19T14:52:08.000Z",
+      "summary": "《奥德赛》导演克里斯托弗·诺兰公开抨击AI，称其为明显的“特洛伊木马”，警示技术背后隐藏的巨大风险，引发业界对AI伦理的深层反思。"
+    },
+    {
+      "id": 16,
+      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "titleCN": "Karpathy 创办 Nonprofit Current 欲建免费 AI 版万维网，挑战巨头垄断",
+      "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-19T14:00:00.000Z",
+      "summary": "前特斯拉 AI 总监 Karpathy 创立非营利组织 Current，旨在构建开放、免费的 AI 基础设施网络，试图打破商业巨头对核心算力的封锁，重塑行业格局。"
+    },
+    {
+      "id": 17,
+      "title": "Is AI Progress Real? Four Independent Metrics Show It",
+      "titleCN": "AI进步是真是假？四大独立指标揭示真相，打破停滞迷思",
+      "url": "https://skepticcto.substack.com/p/is-ai-progress-real-a-skepticcto",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-19T21:39:09.000Z",
+      "summary": "四项独立基准测试一致显示AI能力持续跃升，有力回击“进步停滞论”。数据证明当前发展并非幻觉，而是真实的技术迭代。"
+    },
+    {
+      "id": 18,
+      "title": "Forbes Thinks AI Created a New Profession. History Has Seen It Before",
+      "titleCN": "AI 催生新职业？历史早有先例，别被 Forbes 忽悠了",
+      "url": "https://futurehangover.substack.com/p/forbes-thinks-ai-created-a-new-profession",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-19T21:02:54.000Z",
+      "summary": "Forbes 宣称 AI 创造了全新职业，但历史证明技术变革往往重塑而非凭空创造岗位。警惕叙事泡沫，理性看待 AI 对就业市场的真实冲击与演变。"
+    },
+    {
+      "id": 19,
+      "title": "I built an AI operating system after getting tired of repetitive work",
+      "titleCN": "Karpathy式极客重构工作流：自建AI操作系统终结重复劳动",
+      "url": "https://lynx.apex7ai.com",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-19T20:40:54.000Z",
+      "summary": "开发者厌倦低效重复劳动，仿照AI OS理念自研系统自动化处理日常任务，虽非大厂产品，但展现了个人开发者对AI Agent落地的极致探索与效率革命。"
+    },
+    {
+      "id": 20,
+      "title": "Welcome to the wild world of AI Argentina",
+      "titleCN": "阿根廷AI狂飙：从边缘到C位，全球算力争夺战迎来新变量",
+      "url": "https://www.thenerve.news/p/uki-goni-argentina-javier-milei-peter-thiel-ai-non-human-corporations",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-19T19:37:05.000Z",
+      "summary": "阿根廷凭借低廉电力与人才红利，正成AI基础设施新热点。低成本优势吸引巨头布局，全球算力版图或因此生变，竞争格局加速洗牌。"
+    }
+  ]
+}
