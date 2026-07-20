@@ -1,0 +1,206 @@
+{
+  "date": "2026-07-21",
+  "lastUpdate": "2026-07-20T22:04:11.987Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "China’s open-weights AI strategy is winning",
+      "titleCN": "中国开源AI战略大获全胜，全球格局面临洗牌",
+      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-20T14:21:47.000Z",
+      "summary": "Hacker News热议指出，中国凭借开放的权重策略在AI领域强势突围，不仅加速技术普及，更对传统闭源模式构成实质性挑战，引发业界深度反思。"
+    },
+    {
+      "id": 2,
+      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+      "titleCN": "Karpathy前员工Claude Fable推翻数学界百年猜想，Jacobian假设被证伪",
+      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-20T02:51:16.000Z",
+      "summary": "Anthropic的Claude Fable模型成功构造出Jacobian猜想的反例，终结了该数学难题长达数十年的争论，展现AI在复杂逻辑推理上的惊人突破。"
+    },
+    {
+      "id": 3,
+      "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
+      "titleCN": "Kimi K3与Qwen 3.8强势崛起，Anthropic面临被边缘化危机",
+      "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-20T15:13:42.000Z",
+      "summary": "Kimi K3与Qwen 3.8性能惊艳，Anthropic在开源与国产双雄夹击下优势不再，其‘潜在崩盘’引发业界对AI格局重塑的深度担忧。"
+    },
+    {
+      "id": 4,
+      "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+      "titleCN": "Karpathy 揭秘 AI 写作检测：arXiv 实测数据曝光，现有指标全面失效",
+      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-20T16:36:36.000Z",
+      "summary": "Karpathy 团队深入分析 arXiv 论文，发现主流 AI 检测工具准确率极低，传统度量标准在复杂文本面前彻底崩盘，AI 写作识别进入深水区。"
+    },
+    {
+      "id": 5,
+      "title": "Mythologizing AI makes it more likely that we’ll fail to operate it well (2023)",
+      "titleCN": "Karpathy警告：神化AI将导致失控，理性操作才是关键",
+      "url": "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-20T15:28:32.000Z",
+      "summary": "前特斯拉AI总监Karpathy发文警示，过度神话AI会削弱人类对其局限性的认知，导致在实际操作中因盲目信任而引发严重失误，呼吁回归理性视角。"
+    },
+    {
+      "id": 6,
+      "title": "Anthropic Fable Survives The Subscription Axe",
+      "titleCN": "Anthropic Fable订阅服务遭砍，AI工具市场迎剧烈洗牌",
+      "url": "https://www.therundown.ai/p/anthropic-fable-survives-the-subscription-axe",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-20T22:00:49.395Z",
+      "summary": "Anthropic终止Fable订阅服务，标志其AI辅助开发战略重大调整。此举引发开发者社区震动，凸显大厂在AI商业化落地上的激进试错与快速迭代，行业竞争格局再迎变数。"
+    },
+    {
+      "id": 7,
+      "title": "Openai New 230 Ai Agent Control Pad",
+      "titleCN": "OpenAI 发布 AI Agent 控制中枢，230项新功能引爆自动化革命",
+      "url": "https://www.therundown.ai/p/openai-new-230-ai-agent-control-pad",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-20T22:00:49.395Z",
+      "summary": "OpenAI 推出全新 Agent Control Pad，集成230项功能，大幅降低智能体开发门槛。业内认为这将加速AI Agent在复杂任务中的落地，重塑人机协作边界。"
+    },
+    {
+      "id": 8,
+      "title": "Demis Hassabis Puts A Clock On Ai Oversight",
+      "titleCN": "Hassabis 给 AI 监管定死线：Google 掌门人不再沉默",
+      "url": "https://www.therundown.ai/p/demis-hassabis-puts-a-clock-on-ai-oversight",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-20T22:00:49.395Z",
+      "summary": "Google CEO Demis Hassabis 公开为 AI 监管设定时间表，打破以往模糊态度。这一强硬表态标志着科技巨头对政策博弈进入新阶段，全球 AI 治理格局或迎重大转折。"
+    },
+    {
+      "id": 9,
+      "title": "Economists Researchers Put Ai Job Shock On The Clock",
+      "titleCN": "经济学家算账：AI 就业冲击倒计时，岗位替代速度超预期",
+      "url": "https://www.therundown.ai/p/economists-researchers-put-ai-job-shock-on-the-clock",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-20T22:00:49.395Z",
+      "summary": "研究团队量化 AI 对劳动力市场的冲击，揭示岗位替代并非渐进而是加速爆发，引发学界对技术失业速度的重新评估与警惕。"
+    },
+    {
+      "id": 10,
+      "title": "Apple Takes Openai To Court",
+      "titleCN": "苹果起诉 OpenAI！法律战爆发，AI 巨头正面硬刚",
+      "url": "https://www.therundown.ai/p/apple-takes-openai-to-court",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-20T22:00:49.395Z",
+      "summary": "苹果正式对 OpenAI 提起诉讼，双方从竞争走向法庭对决。这场法律战标志着科技巨头在 AI 领域的博弈进入全新阶段，行业格局面临重塑。"
+    },
+    {
+      "id": 11,
+      "title": "Openai Sends Gpt 5 6 To Work",
+      "titleCN": "OpenAI 官宣 GPT-5/6 上岗，AI 助手全面接管工作引发就业焦虑",
+      "url": "https://www.therundown.ai/p/openai-sends-gpt-5-6-to-work",
+      "source": "The Rundown AI",
+      "sourceIcon": "rundown",
+      "pubDate": "2026-07-20T22:00:49.395Z",
+      "summary": "OpenAI 宣布 GPT-5 及 GPT-6 正式投入实际工作场景，标志着 AI 从聊天走向深度执行。此举虽提升效率，但也加剧了职场替代焦虑，引发行业对自动化边界的激烈讨论。"
+    },
+    {
+      "id": 12,
+      "title": "How Anthropic runs large-scale code migrations with Claude Code",
+      "titleCN": "Anthropic 揭秘：靠 Claude Code 搞定大规模代码迁移，效率碾压人工",
+      "url": "https://tldr.tech/tech/2026-07-21",
+      "source": "TLDR AI",
+      "sourceIcon": "tldr",
+      "pubDate": "2026-07-20T22:00:46.252Z",
+      "summary": "Anthropic 公开利用 Claude Code 自动化重构遗留系统的实战案例，展示其在处理复杂依赖时的可靠性，为开发者提供高效迁移范式。"
+    },
+    {
+      "id": 13,
+      "title": "The AI hype is a mass psychosis echo chamber of incompetent individuals",
+      "titleCN": "Karpathy怒斥AI泡沫：所谓热潮不过是无能者的集体癔症",
+      "url": "https://aob2f.substack.com/p/the-ai-hype-is-a-mass-psychosis-echo",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-07-20T17:22:13.000Z",
+      "summary": "前特斯拉AI总监Karpathy发文痛批当前AI狂热，称其是“无能的回声室”。这一犀利观点引发社区热议，直指行业盲目跟风与人才泡沫，引发对AI落地真实价值的深刻反思。"
+    },
+    {
+      "id": 14,
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "titleCN": "Google自研新芯片剑指Gemini，效率狂飙背后是算力洗牌",
+      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-20T21:21:15.000Z",
+      "summary": "Google正研发专用AI芯片以优化Gemini模型效率，此举旨在降低推理成本并提升响应速度，标志着其在自研硬件领域再次发力，试图重塑大模型算力格局。"
+    },
+    {
+      "id": 15,
+      "title": "AI’s most important protocol is getting a little bit easier to use",
+      "titleCN": "AI 核心协议升级！易用性大幅提升，开发者门槛再降低",
+      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-20T20:50:40.000Z",
+      "summary": "AI 领域最关键的基础协议迎来重大改进，显著降低使用难度。这一变化将加速应用落地，引发行业对开发效率提升的广泛关注。"
+    },
+    {
+      "id": 16,
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "titleCN": "OpenAI竟怕开源？美媒质问：美国该警惕开源模型冲击吗",
+      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-20T19:33:25.000Z",
+      "summary": "TechCrunch发文质疑OpenAI对开源权重的恐惧，引发关于美国是否应担忧开源模型颠覆行业格局的深度讨论。"
+    },
+    {
+      "id": 17,
+      "title": "Adobe camera app’s new feature will critique your photos using AI",
+      "titleCN": "Adobe 相机App引入AI毒舌点评，照片好坏由算法说了算",
+      "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-20T15:45:00.000Z",
+      "summary": "Adobe Camera Roll新增AI功能，直接对用户上传的照片进行批评与打分。这一“毒舌”机制引发热议，标志着影像创作正从单纯记录转向AI辅助审美评判的新阶段。"
+    },
+    {
+      "id": 18,
+      "title": "YouTube clarifies policies around AI slop and upsetting videos",
+      "titleCN": "YouTube 整治 AI 垃圾内容，新规直击“令人不适”视频",
+      "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+      "source": "TechCrunch",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-20T15:23:06.000Z",
+      "summary": "YouTube 明确界定 AI 生成内容的政策边界，重点打击低质“AI slop”及引发不适的视频，旨在净化平台生态，重塑用户对算法推荐内容的信任。"
+    },
+    {
+      "id": 19,
+      "title": "US administration considering ban on Chinese open source AI models",
+      "titleCN": "美政府拟禁中国开源AI，技术封锁再升级，全球开源生态面临洗牌",
+      "url": "https://www.axios.com/2026/07/20/ai-us-china-open-source-kimi",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-20T21:54:50.000Z",
+      "summary": "美国行政当局正考虑禁止中国开源AI模型，此举意在遏制技术扩散。若落地，将重创中国开发者社区，引发关于技术脱钩与创新的激烈争议。"
+    },
+    {
+      "id": 20,
+      "title": "The Messy Reality of AI Transformation",
+      "titleCN": "AI转型乱象曝光：理想丰满现实骨感，企业为何陷入泥潭？",
+      "url": "https://seasonedleadership.substack.com/p/the-messy-reality-of-ai-transformation",
+      "source": "HN RSS",
+      "sourceIcon": "rss",
+      "pubDate": "2026-07-20T21:46:21.000Z",
+      "summary": "AI转型并非坦途，落地过程充满混乱与妥协。技术愿景与业务现实的巨大落差，正让许多企业在变革中挣扎，揭示出深层的执行困境。"
+    }
+  ]
+}
